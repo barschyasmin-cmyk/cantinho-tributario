@@ -1,7 +1,7 @@
 {
   "kind": "official-publication-feed",
-  "checkedAt": "2026-11-04T19:53:02+00:00",
-  "lastSuccessfulRun": "2026-11-04T19:53:02+00:00",
+  "checkedAt": "2026-11-04T19:59:23+00:00",
+  "lastSuccessfulRun": "2026-11-04T19:59:23+00:00",
   "sources": [
     {
       "org": "Receita Federal",
@@ -97,6 +97,50 @@
       "watch": "Conferir íntegra, vigência e próximos eventos.",
       "sections": {
         "aconteceu": "STJ publicou: STJ fixa critérios para honorários por habilitação e impugnação de crédito em recuperação ou falência. STJ fixa critérios para honorários por habilitação e impugnação de crédito em recuperação ou falência",
+        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
+        "discussao": "A controvérsia precisa de conferência na fonte integral.",
+        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
+        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
+        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
+        "aberto": "Confirmar regulamentações, recursos e pendências.",
+        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
+      },
+      "timeline": [
+        [
+          "2026-11-04",
+          "Publicação detectada",
+          "Efeitos jurídicos a conferir"
+        ]
+      ]
+    },
+    {
+      "id": "auto-99349942ca73d256",
+      "automated": true,
+      "title": "Confúcio defende integração das forças de segurança",
+      "date": "2026-11-04",
+      "published": "2026-11-04",
+      "checked": "2026-11-04",
+      "addedAt": "2026-11-04T19:52:55+00:00",
+      "org": "Agência Senado",
+      "trib": "A identificar",
+      "category": "Atualização tributária",
+      "kind": "Notícia oficial (coleta automática)",
+      "impact": "A avaliar",
+      "status": "Efeitos jurídicos a verificar",
+      "stage": "Publicação identificada",
+      "summary": "Após a aprovação da PEC da Segurança Pública na terça-feira (3), o senador Confúcio Moura (MDB-RO) defendeu nesta quarta-feira (4) a integração entre as forças de segurança do país — com uma atuação coordenada entre União, estados e municípios — para o combate ao crime organizado. Ele acrescentou que o compartilhamento de estruturas pode contribuir para a elucidação de crimes e a localização de foragidos. — Se o Estado também não se organizar, vamos sair perdendo e estaremos sempre correndo atrás do prejuízo — disse o senador durante pronunciamento em Plenário. Confúcio Moura afirmou que os municípios, por exemplo, podem aumentar sua participação na segurança pública com guardas municipais estruturadas e servidores treinados. E citou o caso da cidade de Ariquemes, em Rondônia, estado que o senador representa. Segundo ele, esse município s",
+      "source": "https://www12.senado.leg.br/noticias/materias/2026/11/04/confucio-defende-integracao-das-forcas-de-seguranca",
+      "sourceName": "Agência Senado · publicação oficial",
+      "topics": [
+        "Agência Senado"
+      ],
+      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
+      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
+      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
+      "now": "Publicação oficial identificada em 2026-11-04.",
+      "watch": "Conferir íntegra, vigência e próximos eventos.",
+      "sections": {
+        "aconteceu": "Agência Senado publicou: Confúcio defende integração das forças de segurança. Após a aprovação da PEC da Segurança Pública na terça-feira (3), o senador Confúcio Moura (MDB-RO) defendeu nesta quarta-feira (4) a integração entre as forças de segurança do país — com uma atuação coordenada entre União, estados e municípios — para o combate ao crime organizado. Ele acrescentou que o compartilhamento de estruturas pode contribuir para a elucidação de crimes e a localização de foragidos. — Se o Estado também não se organizar, vamos sair perdendo e estaremos sempre correndo atrás do prejuízo — disse o senador durante pronunciamento em Plenário. Confúcio Moura afirmou que os municípios, por exemplo, podem aumentar sua participação na segurança pública com guardas municipais estruturadas e servidores treinados. E citou o caso da cidade de Ariquemes, em Rondônia, estado que o senador representa. Segundo ele, esse município s",
         "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
         "discussao": "A controvérsia precisa de conferência na fonte integral.",
         "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
