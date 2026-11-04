@@ -1,63 +1,40 @@
-name: Publicar Cantinho Tributário e atualizar radar
+name: Atualizar radar tributário diariamente
+
 on:
-  push:
-    branches: [main]
   schedule:
     - cron: '27 11 * * *'
   workflow_dispatch:
+
 permissions:
-  contents: read
-  pages: write
-  id-token: write
+  contents: write
+
 concurrency:
-  group: cantinho-pages
+  group: cantinho-radar
   cancel-in-progress: false
+
 jobs:
-  publicar:
+  atualizar:
     runs-on: ubuntu-latest
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - name: Buscar projeto
         uses: actions/checkout@v4
+        with:
+          persist-credentials: true
       - name: Preparar Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.12'
-      - name: Atualizar radar com fontes oficiais
+      - name: Consultar fontes oficiais
         run: python scripts/update_feed.py
-      - name: Verificar se o GitHub Pages está habilitado
-        id: pages_check
-        env:
-          GH_TOKEN: ${{ github.token }}
+      - name: Salvar novidades para o site
         run: |
-          HTTP_CODE=$(curl -sS -o /tmp/pages-status.json -w "%{http_code}" \
-            -H "Authorization: Bearer $GH_TOKEN" \
-            -H "Accept: application/vnd.github+json" \
-            "https://api.github.com/repos/$GITHUB_REPOSITORY/pages")
-          if [ "$HTTP_CODE" = "200" ]; then
-            BUILD_TYPE=$(python -c 'import json; print(json.load(open("/tmp/pages-status.json")).get("build_type",""))')
-            if [ "$BUILD_TYPE" = "workflow" ]; then
-              echo "enabled=true" >> "$GITHUB_OUTPUT"
-              echo "Pages habilitado com GitHub Actions."
-            else
-              echo "enabled=false" >> "$GITHUB_OUTPUT"
-              echo "::warning title=Fonte de publicação::Em Settings > Pages, escolha Source = GitHub Actions."
-            fi
-          else
-            echo "enabled=false" >> "$GITHUB_OUTPUT"
-            echo "::warning title=GitHub Pages ainda não está ativo::Abra Settings > Pages > Build and deployment > Source e selecione GitHub Actions. A atualização do radar já foi salva."
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add site/news/updates.json
+          if git diff --cached --quiet; then
+            echo "Nenhuma mudança para registrar."
+            exit 0
           fi
-      - name: Configurar Pages
-        if: steps.pages_check.outputs.enabled == 'true'
-        uses: actions/configure-pages@v5
-      - name: Preparar arquivos do site
-        if: steps.pages_check.outputs.enabled == 'true'
-        uses: actions/upload-pages-artifact@v4
-        with:
-          path: site
-      - name: Publicar site
-        if: steps.pages_check.outputs.enabled == 'true'
-        id: deployment
-        uses: actions/deploy-pages@v4
+          git commit -m "Atualiza radar tributário [skip ci]"
+          git pull --rebase origin main
+          git push origin HEAD:main
