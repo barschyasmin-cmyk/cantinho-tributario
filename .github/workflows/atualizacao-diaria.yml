@@ -36,12 +36,37 @@ jobs:
             git commit -m "Atualiza radar tributário"
             git push
           fi
+      - name: Verificar se o GitHub Pages está habilitado
+        id: pages_check
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          HTTP_CODE=$(curl -sS -o /tmp/pages-status.json -w "%{http_code}" \
+            -H "Authorization: Bearer $GH_TOKEN" \
+            -H "Accept: application/vnd.github+json" \
+            "https://api.github.com/repos/$GITHUB_REPOSITORY/pages")
+          if [ "$HTTP_CODE" = "200" ]; then
+            BUILD_TYPE=$(python -c 'import json; print(json.load(open("/tmp/pages-status.json")).get("build_type",""))')
+            if [ "$BUILD_TYPE" = "workflow" ]; then
+              echo "enabled=true" >> "$GITHUB_OUTPUT"
+              echo "Pages habilitado com GitHub Actions."
+            else
+              echo "enabled=false" >> "$GITHUB_OUTPUT"
+              echo "::warning title=Fonte de publicação::Em Settings > Pages, escolha Source = GitHub Actions."
+            fi
+          else
+            echo "enabled=false" >> "$GITHUB_OUTPUT"
+            echo "::warning title=GitHub Pages ainda não está ativo::Abra Settings > Pages > Build and deployment > Source e selecione GitHub Actions. A atualização do radar já foi salva."
+          fi
       - name: Configurar Pages
+        if: steps.pages_check.outputs.enabled == 'true'
         uses: actions/configure-pages@v5
       - name: Preparar arquivos do site
+        if: steps.pages_check.outputs.enabled == 'true'
         uses: actions/upload-pages-artifact@v4
         with:
           path: site
       - name: Publicar site
+        if: steps.pages_check.outputs.enabled == 'true'
         id: deployment
         uses: actions/deploy-pages@v4
