@@ -6,7 +6,7 @@ on:
     - cron: '27 11 * * *'
   workflow_dispatch:
 permissions:
-  contents: write
+  contents: read
   pages: write
   id-token: write
 concurrency:
@@ -27,15 +27,6 @@ jobs:
           python-version: '3.12'
       - name: Atualizar radar com fontes oficiais
         run: python scripts/update_feed.py
-      - name: Preservar histórico coletado
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add site/news/updates.json
-          if ! git diff --cached --quiet; then
-            git commit -m "Atualiza radar tributário"
-            git push
-          fi
       - name: Verificar se o GitHub Pages está habilitado
         id: pages_check
         env:
