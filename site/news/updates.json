@@ -1,8 +1,910 @@
 {
   "kind": "official-publication-feed",
-  "checkedAt": null,
-  "lastSuccessfulRun": null,
-  "sources": [],
-  "entries": [],
-  "notice": "A primeira coleta acontecerá quando a rotina automática executar com sucesso."
+  "checkedAt": "2026-11-04T19:53:02+00:00",
+  "lastSuccessfulRun": "2026-11-04T19:53:02+00:00",
+  "sources": [
+    {
+      "org": "Receita Federal",
+      "ok": true,
+      "items": 0
+    },
+    {
+      "org": "STJ",
+      "ok": true,
+      "items": 7
+    },
+    {
+      "org": "STJ · Informativo",
+      "ok": true,
+      "items": 0
+    },
+    {
+      "org": "Agência Senado",
+      "ok": true,
+      "items": 13
+    }
+  ],
+  "entries": [
+    {
+      "id": "auto-c384992395ccbcca",
+      "automated": true,
+      "title": "Ministro Og Fernandes lança livro sobre a história do STF em 10 de novembro",
+      "date": "2026-11-04",
+      "published": "2026-11-04",
+      "checked": "2026-11-04",
+      "addedAt": "2026-11-04T13:26:00+00:00",
+      "org": "STJ",
+      "trib": "A identificar",
+      "category": "Jurisprudência",
+      "kind": "Notícia oficial (coleta automática)",
+      "impact": "A avaliar",
+      "status": "Efeitos jurídicos a verificar",
+      "stage": "Publicação identificada",
+      "summary": "Ministro Og Fernandes lança livro sobre a história do STF em 10 de novembro",
+      "source": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/04112026-Ministro-Og-Fernandes-lanca-livro-sobre-a-historia-do-STF-em-10-de-novembro.aspx",
+      "sourceName": "STJ · publicação oficial",
+      "topics": [
+        "STJ"
+      ],
+      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
+      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
+      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
+      "now": "Publicação oficial identificada em 2026-11-04.",
+      "watch": "Conferir íntegra, vigência e próximos eventos.",
+      "sections": {
+        "aconteceu": "STJ publicou: Ministro Og Fernandes lança livro sobre a história do STF em 10 de novembro. Ministro Og Fernandes lança livro sobre a história do STF em 10 de novembro",
+        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
+        "discussao": "A controvérsia precisa de conferência na fonte integral.",
+        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
+        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
+        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
+        "aberto": "Confirmar regulamentações, recursos e pendências.",
+        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
+      },
+      "timeline": [
+        [
+          "2026-11-04",
+          "Publicação detectada",
+          "Efeitos jurídicos a conferir"
+        ]
+      ]
+    },
+    {
+      "id": "auto-b6d75522f40afa59",
+      "automated": true,
+      "title": "STJ fixa critérios para honorários por habilitação e impugnação de crédito em recuperação ou falência",
+      "date": "2026-11-04",
+      "published": "2026-11-04",
+      "checked": "2026-11-04",
+      "addedAt": "2026-11-04T07:10:00+00:00",
+      "org": "STJ",
+      "trib": "A identificar",
+      "category": "Jurisprudência",
+      "kind": "Notícia oficial (coleta automática)",
+      "impact": "A avaliar",
+      "status": "Efeitos jurídicos a verificar",
+      "stage": "Publicação identificada",
+      "summary": "STJ fixa critérios para honorários por habilitação e impugnação de crédito em recuperação ou falência",
+      "source": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/04112026-STJ-fixa-criterios-para-honorarios-por-habilitacao-e-impugnacao-de-credito-em-recuperacao-ou-falencia.aspx",
+      "sourceName": "STJ · publicação oficial",
+      "topics": [
+        "STJ"
+      ],
+      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
+      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
+      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
+      "now": "Publicação oficial identificada em 2026-11-04.",
+      "watch": "Conferir íntegra, vigência e próximos eventos.",
+      "sections": {
+        "aconteceu": "STJ publicou: STJ fixa critérios para honorários por habilitação e impugnação de crédito em recuperação ou falência. STJ fixa critérios para honorários por habilitação e impugnação de crédito em recuperação ou falência",
+        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
+        "discussao": "A controvérsia precisa de conferência na fonte integral.",
+        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
+        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
+        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
+        "aberto": "Confirmar regulamentações, recursos e pendências.",
+        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
+      },
+      "timeline": [
+        [
+          "2026-11-04",
+          "Publicação detectada",
+          "Efeitos jurídicos a conferir"
+        ]
+      ]
+    },
+    {
+      "id": "auto-917ee0ac259a1187",
+      "automated": true,
+      "title": "Paim defende tarifa zero no transporte público aos fins de semana",
+      "date": "2026-11-04",
+      "published": "2026-11-04",
+      "checked": "2026-11-04",
+      "addedAt": "2026-11-04T19:28:25+00:00",
+      "org": "Agência Senado",
+      "trib": "A identificar",
+      "category": "Atualização tributária",
+      "kind": "Notícia oficial (coleta automática)",
+      "impact": "A avaliar",
+      "status": "Efeitos jurídicos a verificar",
+      "stage": "Publicação identificada",
+      "summary": "Ao discursar em Plenário nesta quarta-feira (4), o senador Paulo Paim (PT-RS) defendeu a aprovação da PEC 18/2026 — proposta de emenda à Constituição que trata do financiamento da \"tarifa zero\" no transporte público coletivo urbano (para os sábados, domingos e feriados, em todo o território nacional). Paim lembrou que a proposta prevê o uso de emendas parlamentares para custear essa gratuidade. Também disse que, considerando os valores previstos para o Orçamento de 2027, poderão ser destinados cerca de R$ 12 bilhões à iniciativa. Apresentada pelo governo no mês passado, a PEC 18/2026 ainda está em tramitação na Câmara dos Deputados. Segundo ele, a gratuidade pode ampliar o acesso ao trabalho, aos serviços públicos, à cultura e ao lazer. Além disso, argumentou o senador, a redução dos gastos com passagens pode beneficiar o orçamento das fa",
+      "source": "https://www12.senado.leg.br/noticias/materias/2026/11/04/paim-defende-tarifa-zero-no-transporte-publico-aos-fins-de-semana",
+      "sourceName": "Agência Senado · publicação oficial",
+      "topics": [
+        "Agência Senado"
+      ],
+      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
+      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
+      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
+      "now": "Publicação oficial identificada em 2026-11-04.",
+      "watch": "Conferir íntegra, vigência e próximos eventos.",
+      "sections": {
+        "aconteceu": "Agência Senado publicou: Paim defende tarifa zero no transporte público aos fins de semana. Ao discursar em Plenário nesta quarta-feira (4), o senador Paulo Paim (PT-RS) defendeu a aprovação da PEC 18/2026 — proposta de emenda à Constituição que trata do financiamento da \"tarifa zero\" no transporte público coletivo urbano (para os sábados, domingos e feriados, em todo o território nacional). Paim lembrou que a proposta prevê o uso de emendas parlamentares para custear essa gratuidade. Também disse que, considerando os valores previstos para o Orçamento de 2027, poderão ser destinados cerca de R$ 12 bilhões à iniciativa. Apresentada pelo governo no mês passado, a PEC 18/2026 ainda está em tramitação na Câmara dos Deputados. Segundo ele, a gratuidade pode ampliar o acesso ao trabalho, aos serviços públicos, à cultura e ao lazer. Além disso, argumentou o senador, a redução dos gastos com passagens pode beneficiar o orçamento das fa",
+        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
+        "discussao": "A controvérsia precisa de conferência na fonte integral.",
+        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
+        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
+        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
+        "aberto": "Confirmar regulamentações, recursos e pendências.",
+        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
+      },
+      "timeline": [
+        [
+          "2026-11-04",
+          "Publicação detectada",
+          "Efeitos jurídicos a conferir"
+        ]
+      ]
+    },
+    {
+      "id": "auto-24abb031786d74ba",
+      "automated": true,
+      "title": "Áudio: CAE: governadores poderão renegociar dívidas no fim do mandato",
+      "date": "2026-11-04",
+      "published": "2026-11-04",
+      "checked": "2026-11-04",
+      "addedAt": "2026-11-04T19:13:36+00:00",
+      "org": "Agência Senado",
+      "trib": "A identificar",
+      "category": "Atualização tributária",
+      "kind": "Notícia oficial (coleta automática)",
+      "impact": "A avaliar",
+      "status": "Efeitos jurídicos a verificar",
+      "stage": "Publicação identificada",
+      "summary": "A Comissão de Assuntos Econômicos (CAE) aprovou nesta quarta-feira (4) o Projeto de Resolução (PRS) 50/2026, que permite a estados e municípios reestruturar dívidas nos últimos 120 dias de mandato do governante. A proposta do senador Renan Filho (MDB-AL) foi relatada pelo senador Eduardo Braga (MDB-AM), que ressaltou que o projeto permitirá juros menores, novos prazos para pagamento e novas datas de carência mas não aumento da dívida. O projeto segue para votação do Plenário do Senado.",
+      "source": "https://www12.senado.leg.br/noticias/audios/2026/11/cae-governadores-poderao-renegociar-dividas-no-fim-do-mandato",
+      "sourceName": "Agência Senado · publicação oficial",
+      "topics": [
+        "Agência Senado"
+      ],
+      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
+      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
+      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
+      "now": "Publicação oficial identificada em 2026-11-04.",
+      "watch": "Conferir íntegra, vigência e próximos eventos.",
+      "sections": {
+        "aconteceu": "Agência Senado publicou: Áudio: CAE: governadores poderão renegociar dívidas no fim do mandato. A Comissão de Assuntos Econômicos (CAE) aprovou nesta quarta-feira (4) o Projeto de Resolução (PRS) 50/2026, que permite a estados e municípios reestruturar dívidas nos últimos 120 dias de mandato do governante. A proposta do senador Renan Filho (MDB-AL) foi relatada pelo senador Eduardo Braga (MDB-AM), que ressaltou que o projeto permitirá juros menores, novos prazos para pagamento e novas datas de carência mas não aumento da dívida. O projeto segue para votação do Plenário do Senado.",
+        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
+        "discussao": "A controvérsia precisa de conferência na fonte integral.",
+        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
+        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
+        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
+        "aberto": "Confirmar regulamentações, recursos e pendências.",
+        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
+      },
+      "timeline": [
+        [
+          "2026-11-04",
+          "Publicação detectada",
+          "Efeitos jurídicos a conferir"
+        ]
+      ]
+    },
+    {
+      "id": "auto-85d8ac1a1d0466fd",
+      "automated": true,
+      "title": "Vídeo: Políticas para saúde mental de idosos e defesa da mulher avançam na CDH",
+      "date": "2026-11-04",
+      "published": "2026-11-04",
+      "checked": "2026-11-04",
+      "addedAt": "2026-11-04T18:17:39+00:00",
+      "org": "Agência Senado",
+      "trib": "A identificar",
+      "category": "Atualização tributária",
+      "kind": "Notícia oficial (coleta automática)",
+      "impact": "A avaliar",
+      "status": "Efeitos jurídicos a verificar",
+      "stage": "Publicação identificada",
+      "summary": "A Comissão de Direitos Humanos e Legislação Participativa (CDH) aprovou o PL 1.025/2026, do senador Paulo Paim (PT-RS), que institui a Política Nacional de Enfrentamento à Violência contra a Mulher. O texto prevê a integração de serviços especializados e equipes móveis e segue para a Comissão de Segurança Pública (CSP). A CDH também aprovou o PL 127/2024, que cria um programa de saúde mental para pessoas idosas no SUS. A proposta será analisada pela Comissão de Assuntos Sociais (CAS).",
+      "source": "https://www12.senado.leg.br/noticias/videos/2026/11/politicas-para-saude-mental-de-idosos-e-defesa-da-mulher-avancam-na-cdh",
+      "sourceName": "Agência Senado · publicação oficial",
+      "topics": [
+        "Agência Senado"
+      ],
+      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
+      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
+      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
+      "now": "Publicação oficial identificada em 2026-11-04.",
+      "watch": "Conferir íntegra, vigência e próximos eventos.",
+      "sections": {
+        "aconteceu": "Agência Senado publicou: Vídeo: Políticas para saúde mental de idosos e defesa da mulher avançam na CDH. A Comissão de Direitos Humanos e Legislação Participativa (CDH) aprovou o PL 1.025/2026, do senador Paulo Paim (PT-RS), que institui a Política Nacional de Enfrentamento à Violência contra a Mulher. O texto prevê a integração de serviços especializados e equipes móveis e segue para a Comissão de Segurança Pública (CSP). A CDH também aprovou o PL 127/2024, que cria um programa de saúde mental para pessoas idosas no SUS. A proposta será analisada pela Comissão de Assuntos Sociais (CAS).",
+        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
+        "discussao": "A controvérsia precisa de conferência na fonte integral.",
+        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
+        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
+        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
+        "aberto": "Confirmar regulamentações, recursos e pendências.",
+        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
+      },
+      "timeline": [
+        [
+          "2026-11-04",
+          "Publicação detectada",
+          "Efeitos jurídicos a conferir"
+        ]
+      ]
+    },
+    {
+      "id": "auto-8e800e474d2132ab",
+      "automated": true,
+      "title": "CCT aprova 41 concessões e renovações para emissoras de rádio",
+      "date": "2026-11-04",
+      "published": "2026-11-04",
+      "checked": "2026-11-04",
+      "addedAt": "2026-11-04T17:23:53+00:00",
+      "org": "Agência Senado",
+      "trib": "A identificar",
+      "category": "Atualização tributária",
+      "kind": "Notícia oficial (coleta automática)",
+      "impact": "A avaliar",
+      "status": "Efeitos jurídicos a verificar",
+      "stage": "Publicação identificada",
+      "summary": "A Comissão de Ciência, Tecnologia, Inovação e Informática (CCT) aprovou 41 projetos de decreto legislativo (PDLs) relativos à concessão e à renovação de outorgas para emissoras de rádio em 14 estados. As matérias aprovadas nesta quarta-feira (4) seguem para promulgação pela Presidência do Senado. A maioria dos pedidos aprovados é de rádios comunitárias — emissoras sem fins lucrativos, de alcance restrito a determinada comunidade e destinadas a proporcionar informação, cultura e integração social. Nesses casos, a outorga é feita na modalidade de permissão, que exige licitação e tem prazo determinado. Já os projetos que tratam de outorga ou renovação de serviços de radiodifusão sonora em frequência modulada (FM) ocorrem na modalidade de permissão, que exige licitação e pode ser revogada a qualquer tempo, sem direito a indenização. Outros pr",
+      "source": "https://www12.senado.leg.br/noticias/materias/2026/11/04/cct-aprova-41-concessoes-e-renovacoes-para-emissoras-de-radio",
+      "sourceName": "Agência Senado · publicação oficial",
+      "topics": [
+        "Agência Senado"
+      ],
+      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
+      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
+      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
+      "now": "Publicação oficial identificada em 2026-11-04.",
+      "watch": "Conferir íntegra, vigência e próximos eventos.",
+      "sections": {
+        "aconteceu": "Agência Senado publicou: CCT aprova 41 concessões e renovações para emissoras de rádio. A Comissão de Ciência, Tecnologia, Inovação e Informática (CCT) aprovou 41 projetos de decreto legislativo (PDLs) relativos à concessão e à renovação de outorgas para emissoras de rádio em 14 estados. As matérias aprovadas nesta quarta-feira (4) seguem para promulgação pela Presidência do Senado. A maioria dos pedidos aprovados é de rádios comunitárias — emissoras sem fins lucrativos, de alcance restrito a determinada comunidade e destinadas a proporcionar informação, cultura e integração social. Nesses casos, a outorga é feita na modalidade de permissão, que exige licitação e tem prazo determinado. Já os projetos que tratam de outorga ou renovação de serviços de radiodifusão sonora em frequência modulada (FM) ocorrem na modalidade de permissão, que exige licitação e pode ser revogada a qualquer tempo, sem direito a indenização. Outros pr",
+        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
+        "discussao": "A controvérsia precisa de conferência na fonte integral.",
+        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
+        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
+        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
+        "aberto": "Confirmar regulamentações, recursos e pendências.",
+        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
+      },
+      "timeline": [
+        [
+          "2026-11-04",
+          "Publicação detectada",
+          "Efeitos jurídicos a conferir"
+        ]
+      ]
+    },
+    {
+      "id": "auto-9fd1a72c67e61182",
+      "automated": true,
+      "title": "Áudio: Projeto de incentivo à inovação e à pesquisa em saúde vai à CAS",
+      "date": "2026-11-04",
+      "published": "2026-11-04",
+      "checked": "2026-11-04",
+      "addedAt": "2026-11-04T17:23:44+00:00",
+      "org": "Agência Senado",
+      "trib": "A identificar",
+      "category": "Atualização tributária",
+      "kind": "Notícia oficial (coleta automática)",
+      "impact": "A avaliar",
+      "status": "Efeitos jurídicos a verificar",
+      "stage": "Publicação identificada",
+      "summary": "O PL 4.465/2021, projeto de lei que cria incentivos para a inovação e a pesquisa científica na saúde, com foco no combate a epidemias, recebeu nesta quarta (4) parecer favorável da Comissão de Ciência e Tecnologia do Senado (CCT). Agora o projeto segue para análise em outro colegiado do Senado: a Comissão de Assuntos Sociais (CAS).",
+      "source": "https://www12.senado.leg.br/noticias/audios/2026/11/projeto-de-incentivo-a-inovacao-e-a-pesquisa-em-saude-vai-a-cas",
+      "sourceName": "Agência Senado · publicação oficial",
+      "topics": [
+        "Agência Senado"
+      ],
+      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
+      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
+      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
+      "now": "Publicação oficial identificada em 2026-11-04.",
+      "watch": "Conferir íntegra, vigência e próximos eventos.",
+      "sections": {
+        "aconteceu": "Agência Senado publicou: Áudio: Projeto de incentivo à inovação e à pesquisa em saúde vai à CAS. O PL 4.465/2021, projeto de lei que cria incentivos para a inovação e a pesquisa científica na saúde, com foco no combate a epidemias, recebeu nesta quarta (4) parecer favorável da Comissão de Ciência e Tecnologia do Senado (CCT). Agora o projeto segue para análise em outro colegiado do Senado: a Comissão de Assuntos Sociais (CAS).",
+        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
+        "discussao": "A controvérsia precisa de conferência na fonte integral.",
+        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
+        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
+        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
+        "aberto": "Confirmar regulamentações, recursos e pendências.",
+        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
+      },
+      "timeline": [
+        [
+          "2026-11-04",
+          "Publicação detectada",
+          "Efeitos jurídicos a conferir"
+        ]
+      ]
+    },
+    {
+      "id": "auto-2772d8eadeb9428d",
+      "automated": true,
+      "title": "Áudio: CE aprova criação de prêmio para educação básica; projeto vai à Câmara",
+      "date": "2026-11-04",
+      "published": "2026-11-04",
+      "checked": "2026-11-04",
+      "addedAt": "2026-11-04T17:08:13+00:00",
+      "org": "Agência Senado",
+      "trib": "A identificar",
+      "category": "Atualização tributária",
+      "kind": "Notícia oficial (coleta automática)",
+      "impact": "A avaliar",
+      "status": "Efeitos jurídicos a verificar",
+      "stage": "Publicação identificada",
+      "summary": "O projeto de lei que cria o Prêmio Nacional da Educação Brasileira (PL 3.768/2026) foi aprovado nesta terça (3) pela Comissão de Educação e Cultura do Senado (CE). O objetivo é reconhecer estratégias e iniciativas para a melhoria da qualidade da aprendizagem na educação básica. Agora a matéria vai à Câmara dos Deputados. Ouça o áudio.",
+      "source": "https://www12.senado.leg.br/noticias/audios/2026/11/ce-aprova-criacao-de-premio-para-educacao-basica-projeto-vai-a-camara",
+      "sourceName": "Agência Senado · publicação oficial",
+      "topics": [
+        "Agência Senado"
+      ],
+      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
+      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
+      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
+      "now": "Publicação oficial identificada em 2026-11-04.",
+      "watch": "Conferir íntegra, vigência e próximos eventos.",
+      "sections": {
+        "aconteceu": "Agência Senado publicou: Áudio: CE aprova criação de prêmio para educação básica; projeto vai à Câmara. O projeto de lei que cria o Prêmio Nacional da Educação Brasileira (PL 3.768/2026) foi aprovado nesta terça (3) pela Comissão de Educação e Cultura do Senado (CE). O objetivo é reconhecer estratégias e iniciativas para a melhoria da qualidade da aprendizagem na educação básica. Agora a matéria vai à Câmara dos Deputados. Ouça o áudio.",
+        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
+        "discussao": "A controvérsia precisa de conferência na fonte integral.",
+        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
+        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
+        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
+        "aberto": "Confirmar regulamentações, recursos e pendências.",
+        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
+      },
+      "timeline": [
+        [
+          "2026-11-04",
+          "Publicação detectada",
+          "Efeitos jurídicos a conferir"
+        ]
+      ]
+    },
+    {
+      "id": "auto-f213e3c444cc04f5",
+      "automated": true,
+      "title": "CCT aprova incentivos para investimentos em pesquisa na saúde",
+      "date": "2026-11-04",
+      "published": "2026-11-04",
+      "checked": "2026-11-04",
+      "addedAt": "2026-11-04T16:48:15+00:00",
+      "org": "Agência Senado",
+      "trib": "A identificar",
+      "category": "Atualização tributária",
+      "kind": "Notícia oficial (coleta automática)",
+      "impact": "A avaliar",
+      "status": "Efeitos jurídicos a verificar",
+      "stage": "Publicação identificada",
+      "summary": "A Comissão de Ciência e Tecnologia (CCT) aprovou nesta quarta-feira (4) a criação de incentivos para a inovação e a pesquisa científica no setor de saúde, com foco no combate a epidemias. O PL 4.465/2021 altera a legislação para direcionar recursos públicos à pesquisa científica e estimular investimentos privados na área de saúde. Apresentado pelo senador Alessandro Vieira (MDB-SE), o projeto recebeu voto favorável do relator, o senador Izalci Lucas (PSDB-DF), e agora segue para análise da Comissão de Assuntos Sociais (CAS), onde terá votação terminativa — seguindo então para análise da Câmara caso aprovado. Para Alessandro Vieira, a pandemia de covid-19 mostrou a necessidade de fortalecer o SUS. “Diante do que presenciamos durante a pandemia, pode-se concluir que apenas o investimento direcionado à ciência, tecnologia e inovação em saúde",
+      "source": "https://www12.senado.leg.br/noticias/materias/2026/11/04/cct-aprova-incentivos-para-investimentos-em-pesquisa-na-saude",
+      "sourceName": "Agência Senado · publicação oficial",
+      "topics": [
+        "Agência Senado"
+      ],
+      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
+      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
+      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
+      "now": "Publicação oficial identificada em 2026-11-04.",
+      "watch": "Conferir íntegra, vigência e próximos eventos.",
+      "sections": {
+        "aconteceu": "Agência Senado publicou: CCT aprova incentivos para investimentos em pesquisa na saúde. A Comissão de Ciência e Tecnologia (CCT) aprovou nesta quarta-feira (4) a criação de incentivos para a inovação e a pesquisa científica no setor de saúde, com foco no combate a epidemias. O PL 4.465/2021 altera a legislação para direcionar recursos públicos à pesquisa científica e estimular investimentos privados na área de saúde. Apresentado pelo senador Alessandro Vieira (MDB-SE), o projeto recebeu voto favorável do relator, o senador Izalci Lucas (PSDB-DF), e agora segue para análise da Comissão de Assuntos Sociais (CAS), onde terá votação terminativa — seguindo então para análise da Câmara caso aprovado. Para Alessandro Vieira, a pandemia de covid-19 mostrou a necessidade de fortalecer o SUS. “Diante do que presenciamos durante a pandemia, pode-se concluir que apenas o investimento direcionado à ciência, tecnologia e inovação em saúde",
+        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
+        "discussao": "A controvérsia precisa de conferência na fonte integral.",
+        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
+        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
+        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
+        "aberto": "Confirmar regulamentações, recursos e pendências.",
+        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
+      },
+      "timeline": [
+        [
+          "2026-11-04",
+          "Publicação detectada",
+          "Efeitos jurídicos a conferir"
+        ]
+      ]
+    },
+    {
+      "id": "auto-04e577f933aed85e",
+      "automated": true,
+      "title": "CDH aprova regras para internação de adolescentes com dependência química",
+      "date": "2026-11-04",
+      "published": "2026-11-04",
+      "checked": "2026-11-04",
+      "addedAt": "2026-11-04T16:47:25+00:00",
+      "org": "Agência Senado",
+      "trib": "A identificar",
+      "category": "Atualização tributária",
+      "kind": "Notícia oficial (coleta automática)",
+      "impact": "A avaliar",
+      "status": "Efeitos jurídicos a verificar",
+      "stage": "Publicação identificada",
+      "summary": "A Comissão de Direitos Humanos (CDH) aprovou nesta quarta-feira (4) projeto que estabelece regras específicas para a internação de adolescentes usuários ou dependentes de drogas em situação de risco. A proposta também permite o acolhimento voluntário de crianças e adolescentes em tratamento por dependência química junto com os pais ou responsáveis em comunidades terapêuticas. O texto segue para análise da Comissão de Assuntos Sociais (CAS). O PL 1.822/2024, do deputado Pastor Sargento Isidório (Avante-BA), recebeu parecer favorável da senadora Damares Alves (Republicanos-DF), presidente da CDH. A relatora afirmou que o projeto preenche uma lacuna na legislação ao estabelecer regras específicas para a internação de adolescentes e prever salvaguardas para proteger seus direitos. Damares explicou que decidiu não realizar a audiência pública ",
+      "source": "https://www12.senado.leg.br/noticias/materias/2026/11/04/cdh-aprova-regras-para-internacao-de-adolescentes-com-dependencia-quimica",
+      "sourceName": "Agência Senado · publicação oficial",
+      "topics": [
+        "Agência Senado"
+      ],
+      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
+      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
+      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
+      "now": "Publicação oficial identificada em 2026-11-04.",
+      "watch": "Conferir íntegra, vigência e próximos eventos.",
+      "sections": {
+        "aconteceu": "Agência Senado publicou: CDH aprova regras para internação de adolescentes com dependência química. A Comissão de Direitos Humanos (CDH) aprovou nesta quarta-feira (4) projeto que estabelece regras específicas para a internação de adolescentes usuários ou dependentes de drogas em situação de risco. A proposta também permite o acolhimento voluntário de crianças e adolescentes em tratamento por dependência química junto com os pais ou responsáveis em comunidades terapêuticas. O texto segue para análise da Comissão de Assuntos Sociais (CAS). O PL 1.822/2024, do deputado Pastor Sargento Isidório (Avante-BA), recebeu parecer favorável da senadora Damares Alves (Republicanos-DF), presidente da CDH. A relatora afirmou que o projeto preenche uma lacuna na legislação ao estabelecer regras específicas para a internação de adolescentes e prever salvaguardas para proteger seus direitos. Damares explicou que decidiu não realizar a audiência pública ",
+        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
+        "discussao": "A controvérsia precisa de conferência na fonte integral.",
+        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
+        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
+        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
+        "aberto": "Confirmar regulamentações, recursos e pendências.",
+        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
+      },
+      "timeline": [
+        [
+          "2026-11-04",
+          "Publicação detectada",
+          "Efeitos jurídicos a conferir"
+        ]
+      ]
+    },
+    {
+      "id": "auto-51d82ca1985be788",
+      "automated": true,
+      "title": "Maior controle judicial sobre instituições de acolhimento de crianças vai à CCJ",
+      "date": "2026-11-04",
+      "published": "2026-11-04",
+      "checked": "2026-11-04",
+      "addedAt": "2026-11-04T16:44:43+00:00",
+      "org": "Agência Senado",
+      "trib": "A identificar",
+      "category": "Atualização tributária",
+      "kind": "Notícia oficial (coleta automática)",
+      "impact": "A avaliar",
+      "status": "Efeitos jurídicos a verificar",
+      "stage": "Publicação identificada",
+      "summary": "A Comissão de Direitos Humanos (CDH) aprovou nesta quarta-feira (4) projeto que estabelece novas regras para o acolhimento emergencial de crianças e adolescentes em instituições. O PL 1.341/2026 tem objetivo de aumentar o controle judicial dessas medidas, evitar afastamentos desnecessários do convívio familiar e garantir a participação das famílias nas decisões. A proposta segue para a Comissão de Constituição e Justiça (CCJ), onde será analisada em decisão terminativa. Do senador Alessandro Vieira (MDB-SE), o projeto altera o Estatuto da Criança e do Adolescente (ECA). Pelo texto, ao receber a comunicação do acolhimento, o juiz deverá ouvir o Ministério Público e determinar a reintegração familiar imediata quando não houver motivos legais que justifiquem a permanência da criança ou do adolescente na instituição. Participação das famílias",
+      "source": "https://www12.senado.leg.br/noticias/materias/2026/11/04/maior-controle-judicial-sobre-instituicoes-de-acolhimento-de-criancas-vai-a-ccj",
+      "sourceName": "Agência Senado · publicação oficial",
+      "topics": [
+        "Agência Senado"
+      ],
+      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
+      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
+      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
+      "now": "Publicação oficial identificada em 2026-11-04.",
+      "watch": "Conferir íntegra, vigência e próximos eventos.",
+      "sections": {
+        "aconteceu": "Agência Senado publicou: Maior controle judicial sobre instituições de acolhimento de crianças vai à CCJ. A Comissão de Direitos Humanos (CDH) aprovou nesta quarta-feira (4) projeto que estabelece novas regras para o acolhimento emergencial de crianças e adolescentes em instituições. O PL 1.341/2026 tem objetivo de aumentar o controle judicial dessas medidas, evitar afastamentos desnecessários do convívio familiar e garantir a participação das famílias nas decisões. A proposta segue para a Comissão de Constituição e Justiça (CCJ), onde será analisada em decisão terminativa. Do senador Alessandro Vieira (MDB-SE), o projeto altera o Estatuto da Criança e do Adolescente (ECA). Pelo texto, ao receber a comunicação do acolhimento, o juiz deverá ouvir o Ministério Público e determinar a reintegração familiar imediata quando não houver motivos legais que justifiquem a permanência da criança ou do adolescente na instituição. Participação das famílias",
+        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
+        "discussao": "A controvérsia precisa de conferência na fonte integral.",
+        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
+        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
+        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
+        "aberto": "Confirmar regulamentações, recursos e pendências.",
+        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
+      },
+      "timeline": [
+        [
+          "2026-11-04",
+          "Publicação detectada",
+          "Efeitos jurídicos a conferir"
+        ]
+      ]
+    },
+    {
+      "id": "auto-f023c8c97dec6417",
+      "automated": true,
+      "title": "CDH rejeita mudanças da Câmara e texto sobre síndrome de Tourette vai à sanção",
+      "date": "2026-11-04",
+      "published": "2026-11-04",
+      "checked": "2026-11-04",
+      "addedAt": "2026-11-04T16:38:00+00:00",
+      "org": "Agência Senado",
+      "trib": "A identificar",
+      "category": "Atualização tributária",
+      "kind": "Notícia oficial (coleta automática)",
+      "impact": "A avaliar",
+      "status": "Efeitos jurídicos a verificar",
+      "stage": "Publicação identificada",
+      "summary": "Pessoas com síndrome de Tourette poderão ser consideradas pessoas com deficiência (PCD) para todos os efeitos legais enquanto não forem regulamentados os instrumentos de avaliação da deficiência. A Comissão de Direitos Humanos (CDH) aprovou nesta quarta-feira (4) relatório da senadora Damares Alves (Republicanos-DF) que rejeita as mudanças feitas pela Câmara dos Deputados ao projeto de lei PL 4.767/2020 e mantém o texto aprovado pelo Senado. A proposta segue agora para sanção presidencial. Do senador Nelsinho Trad (PSD-MS), o projeto altera a Lei Brasileira de Inclusão da Pessoa com Deficiência (LBI) e garante às pessoas com a síndrome acesso a direitos como reserva de vagas em concursos públicos e benefícios assistenciais previstos em lei. A síndrome de Tourette é um transtorno neurológico caracterizado por movimentos e sons involuntário",
+      "source": "https://www12.senado.leg.br/noticias/materias/2026/11/04/cdh-rejeita-mudancas-da-camara-e-texto-sobre-sindrome-de-tourette-vai-a-sancao",
+      "sourceName": "Agência Senado · publicação oficial",
+      "topics": [
+        "Agência Senado"
+      ],
+      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
+      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
+      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
+      "now": "Publicação oficial identificada em 2026-11-04.",
+      "watch": "Conferir íntegra, vigência e próximos eventos.",
+      "sections": {
+        "aconteceu": "Agência Senado publicou: CDH rejeita mudanças da Câmara e texto sobre síndrome de Tourette vai à sanção. Pessoas com síndrome de Tourette poderão ser consideradas pessoas com deficiência (PCD) para todos os efeitos legais enquanto não forem regulamentados os instrumentos de avaliação da deficiência. A Comissão de Direitos Humanos (CDH) aprovou nesta quarta-feira (4) relatório da senadora Damares Alves (Republicanos-DF) que rejeita as mudanças feitas pela Câmara dos Deputados ao projeto de lei PL 4.767/2020 e mantém o texto aprovado pelo Senado. A proposta segue agora para sanção presidencial. Do senador Nelsinho Trad (PSD-MS), o projeto altera a Lei Brasileira de Inclusão da Pessoa com Deficiência (LBI) e garante às pessoas com a síndrome acesso a direitos como reserva de vagas em concursos públicos e benefícios assistenciais previstos em lei. A síndrome de Tourette é um transtorno neurológico caracterizado por movimentos e sons involuntário",
+        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
+        "discussao": "A controvérsia precisa de conferência na fonte integral.",
+        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
+        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
+        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
+        "aberto": "Confirmar regulamentações, recursos e pendências.",
+        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
+      },
+      "timeline": [
+        [
+          "2026-11-04",
+          "Publicação detectada",
+          "Efeitos jurídicos a conferir"
+        ]
+      ]
+    },
+    {
+      "id": "auto-91b5acbf26e62ed2",
+      "automated": true,
+      "title": "Avança regulamentação da profissão de cuidador com jornada de 40 horas",
+      "date": "2026-11-04",
+      "published": "2026-11-04",
+      "checked": "2026-11-04",
+      "addedAt": "2026-11-04T16:12:26+00:00",
+      "org": "Agência Senado",
+      "trib": "A identificar",
+      "category": "Atualização tributária",
+      "kind": "Notícia oficial (coleta automática)",
+      "impact": "A avaliar",
+      "status": "Efeitos jurídicos a verificar",
+      "stage": "Publicação identificada",
+      "summary": "A Comissão de Direitos Humanos (CDH) aprovou nesta quarta-feira (4) projeto que regulamenta a profissão de cuidador de pessoas de qualquer idade. O texto estabelece requisitos de formação, define as atribuições desses profissionais e fixa jornada máxima de 40 horas semanais. A proposta segue para votação final da Comissão de Assuntos Sociais (CAS). De autoria do senador Sérgio Petecão (PSD-AC), o PL 6.073/2025 tratava inicialmente apenas dos cuidadores de pessoas idosas. O relator, senador Flávio Arns (PSB-PR), apresentou um substitutivo que amplia o alcance da regulamentação para profissionais que prestam cuidados em qualquer etapa da vida, incluindo crianças, pessoas com deficiência e pessoas que necessitam de acompanhamento temporário ou permanente. — A necessidade de cuidado não é atributo exclusivo da idade avançada — argumentou Arns",
+      "source": "https://www12.senado.leg.br/noticias/materias/2026/11/04/avanca-regulamentacao-da-profissao-de-cuidador-com-jornada-de-40-horas",
+      "sourceName": "Agência Senado · publicação oficial",
+      "topics": [
+        "Agência Senado"
+      ],
+      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
+      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
+      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
+      "now": "Publicação oficial identificada em 2026-11-04.",
+      "watch": "Conferir íntegra, vigência e próximos eventos.",
+      "sections": {
+        "aconteceu": "Agência Senado publicou: Avança regulamentação da profissão de cuidador com jornada de 40 horas. A Comissão de Direitos Humanos (CDH) aprovou nesta quarta-feira (4) projeto que regulamenta a profissão de cuidador de pessoas de qualquer idade. O texto estabelece requisitos de formação, define as atribuições desses profissionais e fixa jornada máxima de 40 horas semanais. A proposta segue para votação final da Comissão de Assuntos Sociais (CAS). De autoria do senador Sérgio Petecão (PSD-AC), o PL 6.073/2025 tratava inicialmente apenas dos cuidadores de pessoas idosas. O relator, senador Flávio Arns (PSB-PR), apresentou um substitutivo que amplia o alcance da regulamentação para profissionais que prestam cuidados em qualquer etapa da vida, incluindo crianças, pessoas com deficiência e pessoas que necessitam de acompanhamento temporário ou permanente. — A necessidade de cuidado não é atributo exclusivo da idade avançada — argumentou Arns",
+        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
+        "discussao": "A controvérsia precisa de conferência na fonte integral.",
+        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
+        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
+        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
+        "aberto": "Confirmar regulamentações, recursos e pendências.",
+        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
+      },
+      "timeline": [
+        [
+          "2026-11-04",
+          "Publicação detectada",
+          "Efeitos jurídicos a conferir"
+        ]
+      ]
+    },
+    {
+      "id": "auto-ac938e1ee45f0786",
+      "automated": true,
+      "title": "CDH aprova projeto que muda avaliação de serviços de atendimento a crianças",
+      "date": "2026-11-04",
+      "published": "2026-11-04",
+      "checked": "2026-11-04",
+      "addedAt": "2026-11-04T16:05:21+00:00",
+      "org": "Agência Senado",
+      "trib": "A identificar",
+      "category": "Atualização tributária",
+      "kind": "Notícia oficial (coleta automática)",
+      "impact": "A avaliar",
+      "status": "Efeitos jurídicos a verificar",
+      "stage": "Publicação identificada",
+      "summary": "A Comissão de Direitos Humanos (CDH) aprovou nesta quarta-feira (4) projeto que retira da Justiça da Infância e da Juventude a atribuição de atestar a qualidade e a eficiência do trabalho realizado por entidades que atendem crianças e adolescentes. A avaliação continuará a cargo do Conselho Tutelar e do Ministério Público e será exigida para a inscrição dos programas de atendimento. O Judiciário, porém, manterá a competência para fiscalizar as entidades. A proposta segue para análise da Comissão de Constituição e Justiça (CCJ). De autoria da deputada Laura Carneiro (PSD-RJ), o PL 4.150/2025 altera o Estatuto da Criança e do Adolescente (ECA). Atualmente, o estatuto exige que a qualidade e a eficiência do trabalho desenvolvido pelas entidades sejam atestadas pelo Conselho Tutelar, pelo Ministério Público e pela Justiça da Infância e da Juv",
+      "source": "https://www12.senado.leg.br/noticias/materias/2026/11/04/avanca-projeto-que-muda-avaliacao-de-servicos-de-atendimento-a-criancas",
+      "sourceName": "Agência Senado · publicação oficial",
+      "topics": [
+        "Agência Senado"
+      ],
+      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
+      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
+      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
+      "now": "Publicação oficial identificada em 2026-11-04.",
+      "watch": "Conferir íntegra, vigência e próximos eventos.",
+      "sections": {
+        "aconteceu": "Agência Senado publicou: CDH aprova projeto que muda avaliação de serviços de atendimento a crianças. A Comissão de Direitos Humanos (CDH) aprovou nesta quarta-feira (4) projeto que retira da Justiça da Infância e da Juventude a atribuição de atestar a qualidade e a eficiência do trabalho realizado por entidades que atendem crianças e adolescentes. A avaliação continuará a cargo do Conselho Tutelar e do Ministério Público e será exigida para a inscrição dos programas de atendimento. O Judiciário, porém, manterá a competência para fiscalizar as entidades. A proposta segue para análise da Comissão de Constituição e Justiça (CCJ). De autoria da deputada Laura Carneiro (PSD-RJ), o PL 4.150/2025 altera o Estatuto da Criança e do Adolescente (ECA). Atualmente, o estatuto exige que a qualidade e a eficiência do trabalho desenvolvido pelas entidades sejam atestadas pelo Conselho Tutelar, pelo Ministério Público e pela Justiça da Infância e da Juv",
+        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
+        "discussao": "A controvérsia precisa de conferência na fonte integral.",
+        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
+        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
+        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
+        "aberto": "Confirmar regulamentações, recursos e pendências.",
+        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
+      },
+      "timeline": [
+        [
+          "2026-11-04",
+          "Publicação detectada",
+          "Efeitos jurídicos a conferir"
+        ]
+      ]
+    },
+    {
+      "id": "auto-17610b228c640a9d",
+      "automated": true,
+      "title": "Nova regra para reestruturação de dívidas de estados e municípios vai a Plenário",
+      "date": "2026-11-04",
+      "published": "2026-11-04",
+      "checked": "2026-11-04",
+      "addedAt": "2026-11-04T15:53:26+00:00",
+      "org": "Agência Senado",
+      "trib": "A identificar",
+      "category": "Atualização tributária",
+      "kind": "Notícia oficial (coleta automática)",
+      "impact": "A avaliar",
+      "status": "Efeitos jurídicos a verificar",
+      "stage": "Publicação identificada",
+      "summary": "A Comissão de Assuntos Econômicos (CAE) aprovou nesta quarta-feira (4), em reunião que deu continuidade ao debate iniciado na terça-feira (3), projeto de resolução que permite a estados, Distrito Federal e municípios contratar operações de crédito nos últimos 120 dias do mandato de governadores e prefeitos para substituir dívidas existentes por outras com condições mais favoráveis. O texto seguirá para o Plenário com urgência. O PRS 50/2026, de autoria do senador Renan Filho (MDB-AL), altera a Resolução do Senado 43, de 2001, que proíbe a contratação de operações de crédito nesse período, com algumas exceções. O projeto acrescenta a possibilidade de realizar operações destinadas exclusivamente à reestruturação e à recomposição do principal de dívidas, sem obtenção de novos recursos livres. Na terça-feira, o senador Esperidião Amin (PP-SC)",
+      "source": "https://www12.senado.leg.br/noticias/materias/2026/11/04/nova-regra-para-reestruturacao-de-dividas-de-estados-e-municipios-vai-a-plenario",
+      "sourceName": "Agência Senado · publicação oficial",
+      "topics": [
+        "Agência Senado"
+      ],
+      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
+      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
+      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
+      "now": "Publicação oficial identificada em 2026-11-04.",
+      "watch": "Conferir íntegra, vigência e próximos eventos.",
+      "sections": {
+        "aconteceu": "Agência Senado publicou: Nova regra para reestruturação de dívidas de estados e municípios vai a Plenário. A Comissão de Assuntos Econômicos (CAE) aprovou nesta quarta-feira (4), em reunião que deu continuidade ao debate iniciado na terça-feira (3), projeto de resolução que permite a estados, Distrito Federal e municípios contratar operações de crédito nos últimos 120 dias do mandato de governadores e prefeitos para substituir dívidas existentes por outras com condições mais favoráveis. O texto seguirá para o Plenário com urgência. O PRS 50/2026, de autoria do senador Renan Filho (MDB-AL), altera a Resolução do Senado 43, de 2001, que proíbe a contratação de operações de crédito nesse período, com algumas exceções. O projeto acrescenta a possibilidade de realizar operações destinadas exclusivamente à reestruturação e à recomposição do principal de dívidas, sem obtenção de novos recursos livres. Na terça-feira, o senador Esperidião Amin (PP-SC)",
+        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
+        "discussao": "A controvérsia precisa de conferência na fonte integral.",
+        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
+        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
+        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
+        "aberto": "Confirmar regulamentações, recursos e pendências.",
+        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
+      },
+      "timeline": [
+        [
+          "2026-11-04",
+          "Publicação detectada",
+          "Efeitos jurídicos a conferir"
+        ]
+      ]
+    },
+    {
+      "id": "auto-86a7dab5ee2c7993",
+      "automated": true,
+      "title": "STJ Notícias aborda decisão sobre alteração de paternidade em registro civil",
+      "date": "2026-11-03",
+      "published": "2026-11-03",
+      "checked": "2026-11-04",
+      "addedAt": "2026-11-03T14:48:00+00:00",
+      "org": "STJ",
+      "trib": "A identificar",
+      "category": "Jurisprudência",
+      "kind": "Notícia oficial (coleta automática)",
+      "impact": "A avaliar",
+      "status": "Efeitos jurídicos a verificar",
+      "stage": "Publicação identificada",
+      "summary": "STJ Notícias aborda decisão sobre alteração de paternidade em registro civil",
+      "source": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/03112026-STJ-Noticias-aborda-decisao-sobre-alteracao-de-paternidade-em-registro-civil-.aspx",
+      "sourceName": "STJ · publicação oficial",
+      "topics": [
+        "STJ"
+      ],
+      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
+      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
+      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
+      "now": "Publicação oficial identificada em 2026-11-03.",
+      "watch": "Conferir íntegra, vigência e próximos eventos.",
+      "sections": {
+        "aconteceu": "STJ publicou: STJ Notícias aborda decisão sobre alteração de paternidade em registro civil. STJ Notícias aborda decisão sobre alteração de paternidade em registro civil",
+        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
+        "discussao": "A controvérsia precisa de conferência na fonte integral.",
+        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
+        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
+        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
+        "aberto": "Confirmar regulamentações, recursos e pendências.",
+        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
+      },
+      "timeline": [
+        [
+          "2026-11-03",
+          "Publicação detectada",
+          "Efeitos jurídicos a conferir"
+        ]
+      ]
+    },
+    {
+      "id": "auto-37d188c49c6362bc",
+      "automated": true,
+      "title": "Projeto do STJ e do PNUD para diversidade e fortalecimento da Justiça lança informativo mensal",
+      "date": "2026-11-03",
+      "published": "2026-11-03",
+      "checked": "2026-11-04",
+      "addedAt": "2026-11-03T11:55:00+00:00",
+      "org": "STJ",
+      "trib": "A identificar",
+      "category": "Jurisprudência",
+      "kind": "Notícia oficial (coleta automática)",
+      "impact": "A avaliar",
+      "status": "Efeitos jurídicos a verificar",
+      "stage": "Publicação identificada",
+      "summary": "Projeto do STJ e do PNUD para diversidade e fortalecimento da Justiça lança informativo mensal",
+      "source": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/03112026-Projeto-do-STJ-e-do-PNUD-para-diversidade-e-fortalecimento-da-Justica-lanca-informativo-mensal.aspx",
+      "sourceName": "STJ · publicação oficial",
+      "topics": [
+        "STJ"
+      ],
+      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
+      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
+      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
+      "now": "Publicação oficial identificada em 2026-11-03.",
+      "watch": "Conferir íntegra, vigência e próximos eventos.",
+      "sections": {
+        "aconteceu": "STJ publicou: Projeto do STJ e do PNUD para diversidade e fortalecimento da Justiça lança informativo mensal. Projeto do STJ e do PNUD para diversidade e fortalecimento da Justiça lança informativo mensal",
+        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
+        "discussao": "A controvérsia precisa de conferência na fonte integral.",
+        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
+        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
+        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
+        "aberto": "Confirmar regulamentações, recursos e pendências.",
+        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
+      },
+      "timeline": [
+        [
+          "2026-11-03",
+          "Publicação detectada",
+          "Efeitos jurídicos a conferir"
+        ]
+      ]
+    },
+    {
+      "id": "auto-dd7bfd54682d0902",
+      "automated": true,
+      "title": "STJ lança nova página de consulta processual com foco em acessibilidade e eficiência",
+      "date": "2026-11-03",
+      "published": "2026-11-03",
+      "checked": "2026-11-04",
+      "addedAt": "2026-11-03T08:00:00+00:00",
+      "org": "STJ",
+      "trib": "A identificar",
+      "category": "Jurisprudência",
+      "kind": "Notícia oficial (coleta automática)",
+      "impact": "A avaliar",
+      "status": "Efeitos jurídicos a verificar",
+      "stage": "Publicação identificada",
+      "summary": "STJ lança nova página de consulta processual com foco em acessibilidade e eficiência",
+      "source": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/03112026-STJ-lanca-nova-pagina-de-consulta-processual-com-foco-em-acessibilidade-e-eficiencia.aspx",
+      "sourceName": "STJ · publicação oficial",
+      "topics": [
+        "STJ"
+      ],
+      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
+      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
+      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
+      "now": "Publicação oficial identificada em 2026-11-03.",
+      "watch": "Conferir íntegra, vigência e próximos eventos.",
+      "sections": {
+        "aconteceu": "STJ publicou: STJ lança nova página de consulta processual com foco em acessibilidade e eficiência. STJ lança nova página de consulta processual com foco em acessibilidade e eficiência",
+        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
+        "discussao": "A controvérsia precisa de conferência na fonte integral.",
+        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
+        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
+        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
+        "aberto": "Confirmar regulamentações, recursos e pendências.",
+        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
+      },
+      "timeline": [
+        [
+          "2026-11-03",
+          "Publicação detectada",
+          "Efeitos jurídicos a conferir"
+        ]
+      ]
+    },
+    {
+      "id": "auto-636c7b7bd4787bb0",
+      "automated": true,
+      "title": "Consulta à página de jurisprudência do STJ ajuda a evitar citações falsas geradas por IA",
+      "date": "2026-11-03",
+      "published": "2026-11-03",
+      "checked": "2026-11-04",
+      "addedAt": "2026-11-03T07:05:00+00:00",
+      "org": "STJ",
+      "trib": "A identificar",
+      "category": "Jurisprudência",
+      "kind": "Notícia oficial (coleta automática)",
+      "impact": "A avaliar",
+      "status": "Efeitos jurídicos a verificar",
+      "stage": "Publicação identificada",
+      "summary": "Consulta à página de jurisprudência do STJ ajuda a evitar citações falsas geradas por IA",
+      "source": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/03112026-Consulta-a-pagina-de-jurisprudencia-do-STJ-ajuda-a-evitar-citacoes-falsas-geradas-por-IA.aspx",
+      "sourceName": "STJ · publicação oficial",
+      "topics": [
+        "STJ"
+      ],
+      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
+      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
+      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
+      "now": "Publicação oficial identificada em 2026-11-03.",
+      "watch": "Conferir íntegra, vigência e próximos eventos.",
+      "sections": {
+        "aconteceu": "STJ publicou: Consulta à página de jurisprudência do STJ ajuda a evitar citações falsas geradas por IA. Consulta à página de jurisprudência do STJ ajuda a evitar citações falsas geradas por IA",
+        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
+        "discussao": "A controvérsia precisa de conferência na fonte integral.",
+        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
+        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
+        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
+        "aberto": "Confirmar regulamentações, recursos e pendências.",
+        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
+      },
+      "timeline": [
+        [
+          "2026-11-03",
+          "Publicação detectada",
+          "Efeitos jurídicos a conferir"
+        ]
+      ]
+    },
+    {
+      "id": "auto-87b14d5a8c563228",
+      "automated": true,
+      "title": "Terceira Seção define cinco teses repetitivas sobre a natureza e a quantidade de drogas no cálculo da pena por tráfico",
+      "date": "2026-11-03",
+      "published": "2026-11-03",
+      "checked": "2026-11-04",
+      "addedAt": "2026-11-03T06:50:00+00:00",
+      "org": "STJ",
+      "trib": "A identificar",
+      "category": "Jurisprudência",
+      "kind": "Notícia oficial (coleta automática)",
+      "impact": "A avaliar",
+      "status": "Efeitos jurídicos a verificar",
+      "stage": "Publicação identificada",
+      "summary": "Entre as teses fixadas, colegiado admitiu o uso da natureza e da quantidade de entorpecentes tanto para aumentar a pena-base quanto para afastar o tráfico privilegiado.",
+      "source": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/03112026-Terceira-Secao-define-cinco-teses-repetitivas-sobre-a-natureza-e-a-quantidade-de-drogas-no-calculo-da-pena-por.aspx",
+      "sourceName": "STJ · publicação oficial",
+      "topics": [
+        "STJ"
+      ],
+      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
+      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
+      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
+      "now": "Publicação oficial identificada em 2026-11-03.",
+      "watch": "Conferir íntegra, vigência e próximos eventos.",
+      "sections": {
+        "aconteceu": "STJ publicou: Terceira Seção define cinco teses repetitivas sobre a natureza e a quantidade de drogas no cálculo da pena por tráfico. Entre as teses fixadas, colegiado admitiu o uso da natureza e da quantidade de entorpecentes tanto para aumentar a pena-base quanto para afastar o tráfico privilegiado.",
+        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
+        "discussao": "A controvérsia precisa de conferência na fonte integral.",
+        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
+        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
+        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
+        "aberto": "Confirmar regulamentações, recursos e pendências.",
+        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
+      },
+      "timeline": [
+        [
+          "2026-11-03",
+          "Publicação detectada",
+          "Efeitos jurídicos a conferir"
+        ]
+      ]
+    }
+  ],
+  "notice": "Publicações importadas automaticamente; os efeitos jurídicos ainda exigem conferência."
 }
