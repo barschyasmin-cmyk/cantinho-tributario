@@ -4,13 +4,14 @@ Portal estático de atualização tributária, com dossiês jurídicos iniciais,
 
 ## Como publicar no GitHub Pages
 
-1. Crie um **repositório público** chamado, por exemplo, `cantinho-tributario` no GitHub. Evite incluir documentos de clientes ou outros dados confidenciais: o repositório e o site serão públicos.
-2. Envie **todo o conteúdo desta pasta** para a raiz do repositório, inclusive a pasta oculta `.github` e as pastas `site`, `scripts`. Defina a branch principal como `main`.
-3. No repositório, abra **Settings → Pages → Build and deployment → Source → GitHub Actions**.
-4. Em **Actions**, execute manualmente o workflow **“Publicar Cantinho Tributário e atualizar radar”** por meio de **Run workflow** para fazer a primeira coleta e publicação.
-5. Após a execução com sucesso, a URL estará em **Settings → Pages** e terá o formato `https://SEU-USUARIO.github.io/cantinho-tributario/` (esse é somente um exemplo de formato, não um endereço já ativado).
+1. O repositório público já está criado em [barschyasmin-cmyk/cantinho-tributario](https://github.com/barschyasmin-cmyk/cantinho-tributario). Evite incluir documentos de clientes ou outros dados confidenciais.
+2. **Ação indispensável na primeira publicação:** abra [Settings → Pages](https://github.com/barschyasmin-cmyk/cantinho-tributario/settings/pages), encontre **Build and deployment** e selecione **GitHub Actions** em **Source**.
+3. Em [Actions](https://github.com/barschyasmin-cmyk/cantinho-tributario/actions), execute o workflow **“Publicar Cantinho Tributário e atualizar radar”** pelo botão **Run workflow**, ou faça um novo commit para iniciar a publicação.
+4. Verifique a execução. Quando as etapas **Preparar arquivos do site** e **Publicar site** estiverem concluídas, abra [o Cantinho Tributário](https://barschyasmin-cmyk.github.io/cantinho-tributario/).
 
-A rotina em `.github/workflows/atualizacao-diaria.yml` consulta as fontes diariamente às **08h27 (horário de Brasília / UTC-3)** e republica a página após gerar `site/news/updates.json`. O GitHub Actions pode atrasar ou pular execuções, especialmente em períodos de alta demanda. Fluxos agendados de repositórios públicos podem ser desativados por inatividade de 60 dias; acompanhe a aba Actions.
+**Importante:** o workflow verifica se o GitHub Pages está habilitado. Se estiver desabilitado, a coleta de notícias pode ocorrer normalmente, e o log mostrará uma orientação para ativá-lo. A configuração inicial do Pages requer ação da proprietária da conta.
+
+A rotina em `.github/workflows/atualizacao-diaria.yml` consulta as fontes diariamente às **08h27 (horário de Brasília / UTC-3)** e republica a página após gerar `site/news/updates.json` como parte do artefato publicado. O arquivo gerado durante a execução é publicado no site; não são criados commits diários. O GitHub Actions pode atrasar ou pular execuções, especialmente em períodos de alta demanda. Fluxos agendados de repositórios públicos podem ser desativados por inatividade de 60 dias; acompanhe a aba Actions.
 
 ## O que é atualizado automaticamente
 
