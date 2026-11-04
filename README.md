@@ -1,40 +1,30 @@
-# Cantinho Tributário — edição com radar diário
+# Cantinho Tributário — instalação privada
 
-Portal estático de atualização tributária, com dossiês jurídicos iniciais, biblioteca local de estudos e um **radar diário de publicações oficiais**.
+Este repositório contém o portal jurídico e um radar de notícias fiscais alimentado por fontes oficiais. O objetivo é manter **o repositório privado** e publicar **um site com autenticação** para acesso somente às contas autorizadas.
 
-## Como publicar no GitHub Pages
+## Passos necessários
 
-1. O repositório público já está criado em [barschyasmin-cmyk/cantinho-tributario](https://github.com/barschyasmin-cmyk/cantinho-tributario). Evite incluir documentos de clientes ou outros dados confidenciais.
-2. **Ação indispensável na primeira publicação:** abra [Settings → Pages](https://github.com/barschyasmin-cmyk/cantinho-tributario/settings/pages), encontre **Build and deployment** e selecione **GitHub Actions** em **Source**.
-3. Em [Actions](https://github.com/barschyasmin-cmyk/cantinho-tributario/actions), execute o workflow **“Publicar Cantinho Tributário e atualizar radar”** pelo botão **Run workflow**, ou faça um novo commit para iniciar a publicação.
-4. Verifique a execução. Quando as etapas **Preparar arquivos do site** e **Publicar site** estiverem concluídas, abra [o Cantinho Tributário](https://barschyasmin-cmyk.github.io/cantinho-tributario/).
+1. No GitHub, abra **Settings → General → Danger Zone → Change repository visibility → Make private**. Confirme a alteração no próprio GitHub. Este passo exige permissão administrativa na conta.
+2. Conecte a Vercel à conta GitHub e importe o repositório `barschyasmin-cmyk/cantinho-tributario`.
+3. Na importação da Vercel, defina **Root Directory = `site`**; escolha **Other** como framework se for necessário. O arquivo `site/index.html` será a entrada.
+4. Em **Security → Deployment Protection → Vercel Authentication**, escolha **All Deployments**. Essa opção impede visitantes sem autorização de acessar tanto a produção quanto as prévias. Confirme a proteção em uma aba anônima.
+5. Verifique em **Deployments** que o site foi publicado e que você consegue acessá-lo após fazer login na Vercel.
 
-**Importante:** o workflow verifica se o GitHub Pages está habilitado. Se estiver desabilitado, a coleta de notícias pode ocorrer normalmente, e o log mostrará uma orientação para ativá-lo. A configuração inicial do Pages requer ação da proprietária da conta.
+**Não habilite GitHub Pages**: ele pode deixar o site publicamente acessível mesmo quando o repositório é privado.
 
-A rotina em `.github/workflows/atualizacao-diaria.yml` consulta as fontes diariamente às **08h27 (horário de Brasília / UTC-3)** e republica a página após gerar `site/news/updates.json` como parte do artefato publicado. O arquivo gerado durante a execução é publicado no site; não são criados commits diários. O GitHub Actions pode atrasar ou pular execuções, especialmente em períodos de alta demanda. Fluxos agendados de repositórios públicos podem ser desativados por inatividade de 60 dias; acompanhe a aba Actions.
+## Atualizações automáticas
 
-## O que é atualizado automaticamente
+O workflow `.github/workflows/atualizacao-diaria.yml` consulta diariamente feeds da Receita Federal, STJ e Senado, às **8h27 de Brasília (11h27 UTC)**. O script `scripts/update_feed.py` atualiza `site/news/updates.json` e salva as mudanças no repositório privado.
 
-- Notícias publicadas nos feeds da **Receita Federal**, **STJ** e **Agência Senado**.
-- Título, data de publicação, resumo, órgão e URL de origem; selecionados por palavras-chave tributárias.
-- O painel permite distinguir **notícia oficial coletada** de **dossiê jurídico elaborado e conferido**.
-- O botão **Conferir novidades** recarrega o arquivo publicado mais recentemente, que é produzido pela rotina diária.
+A integração Git da Vercel deverá republicar a versão atualizada a partir desses commits. Após conectar a Vercel, confira se o deploy é acionado pelos commits feitos pelo GitHub Actions; caso contrário, será necessário configurar um deploy hook. GitHub Actions pode atrasar ou deixar de executar tarefas agendadas e consome minutos da cota no repositório privado.
 
-**Limitações:** RSS tem conteúdo, frequência e disponibilidade variáveis. O filtro por palavras-chave pode incluir notícias pouco relevantes ou deixar notícias de fora. A coleta automática não lê necessariamente íntegra dos atos, não confirma teses, não interpreta efeitos jurídicos e não substitui a conferência técnica. Os dossiês jurídicos iniciais usam data de referência **04/11/2026** e exigem revisão editorial posterior para continuar atualizados. Esta implantação não inclui alertas push nem e-mails.
+As notícias coletadas automaticamente são marcadas como publicações oficiais; análises jurídicas, impactos e teses exigem confirmação adicional em atos e decisões.
 
-## Testes locais
+## Arquivos principais
 
-```bash
-python3 -m http.server 8080 --directory site
-```
+- `site/index.html`: interface do Cantinho Tributário.
+- `site/news/updates.json`: notícias coletadas.
+- `scripts/update_feed.py`: coletor dos feeds oficiais.
+- `.github/workflows/atualizacao-diaria.yml`: rotina diária.
 
-Abra `http://localhost:8080`. O site funciona inicialmente com dossiês incorporados e tenta consultar `site/news/updates.json`. Para testar a rotina de atualização, use `python3 scripts/update_feed.py` numa máquina com internet (nesta entrega, a coleta de fontes ao vivo não pôde ser executada no ambiente de criação).
-
-## Estrutura
-
-- `site/index.html`: portal responsivo, com favoritos, estudos e radar.
-- `site/news/updates.json`: publicações obtidas e metadados da coleta.
-- `scripts/update_feed.py`: consulta e filtragem de feeds oficiais (biblioteca padrão de Python).
-- `.github/workflows/atualizacao-diaria.yml`: execução programada e publicação do GitHub Pages.
-
-**Privacidade:** favoritos, notas e histórico ficam no armazenamento local do navegador usado e não são sincronizados entre dispositivos. Não insira conteúdos sigilosos no repositório público.
+**Privacidade:** favoritos e anotações ficam no armazenamento local do navegador, sem sincronização entre dispositivos. Não inclua documentos de clientes nem segredos nas fontes de notícias ou nos arquivos do projeto.
