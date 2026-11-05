@@ -1,7 +1,7 @@
 {
   "kind": "official-publication-feed",
-  "checkedAt": "2026-11-04T19:59:23+00:00",
-  "lastSuccessfulRun": "2026-11-04T19:59:23+00:00",
+  "checkedAt": "2026-11-05T12:18:36+00:00",
+  "lastSuccessfulRun": "2026-11-05T12:18:36+00:00",
   "sources": [
     {
       "org": "Receita Federal",
@@ -11,7 +11,7 @@
     {
       "org": "STJ",
       "ok": true,
-      "items": 7
+      "items": 11
     },
     {
       "org": "STJ · Informativo",
@@ -26,12 +26,232 @@
   ],
   "entries": [
     {
+      "id": "auto-cc584e88da4d9959",
+      "automated": true,
+      "title": "Rádio Decidendi aborda relação entre os repetitivos e o novo modelo da relevância",
+      "date": "2026-11-05",
+      "published": "2026-11-05",
+      "checked": "2026-11-05",
+      "addedAt": "2026-11-05T07:50:00+00:00",
+      "org": "STJ",
+      "trib": "A identificar",
+      "category": "Jurisprudência",
+      "kind": "Notícia oficial (coleta automática)",
+      "impact": "A avaliar",
+      "status": "Efeitos jurídicos a verificar",
+      "stage": "Publicação identificada",
+      "summary": "Rádio Decidendi aborda relação entre os repetitivos e o novo modelo da relevância",
+      "source": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/05112026-Radio-Decidendi-aborda-relacao-entre-os-repetitivos-e-o-novo-modelo-da-relevancia.aspx",
+      "sourceName": "STJ · publicação oficial",
+      "topics": [
+        "STJ"
+      ],
+      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
+      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
+      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
+      "now": "Publicação oficial identificada em 2026-11-05.",
+      "watch": "Conferir íntegra, vigência e próximos eventos.",
+      "sections": {
+        "aconteceu": "STJ publicou: Rádio Decidendi aborda relação entre os repetitivos e o novo modelo da relevância. Rádio Decidendi aborda relação entre os repetitivos e o novo modelo da relevância",
+        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
+        "discussao": "A controvérsia precisa de conferência na fonte integral.",
+        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
+        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
+        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
+        "aberto": "Confirmar regulamentações, recursos e pendências.",
+        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
+      },
+      "timeline": [
+        [
+          "2026-11-05",
+          "Publicação detectada",
+          "Efeitos jurídicos a conferir"
+        ]
+      ]
+    },
+    {
+      "id": "auto-0c07c2a59516ee02",
+      "automated": true,
+      "title": "STJ lança tutorial sobre nova página do calendário de sessões de julgamento",
+      "date": "2026-11-05",
+      "published": "2026-11-05",
+      "checked": "2026-11-05",
+      "addedAt": "2026-11-05T07:10:00+00:00",
+      "org": "STJ",
+      "trib": "A identificar",
+      "category": "Jurisprudência",
+      "kind": "Notícia oficial (coleta automática)",
+      "impact": "A avaliar",
+      "status": "Efeitos jurídicos a verificar",
+      "stage": "Publicação identificada",
+      "summary": "STJ lança tutorial sobre nova página do calendário de sessões de julgamento",
+      "source": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/05112026-STJ-lanca-tutorial-sobre-nova-pagina-do-calendario-de-sessoes-de-julgamento.aspx",
+      "sourceName": "STJ · publicação oficial",
+      "topics": [
+        "STJ"
+      ],
+      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
+      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
+      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
+      "now": "Publicação oficial identificada em 2026-11-05.",
+      "watch": "Conferir íntegra, vigência e próximos eventos.",
+      "sections": {
+        "aconteceu": "STJ publicou: STJ lança tutorial sobre nova página do calendário de sessões de julgamento. STJ lança tutorial sobre nova página do calendário de sessões de julgamento",
+        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
+        "discussao": "A controvérsia precisa de conferência na fonte integral.",
+        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
+        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
+        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
+        "aberto": "Confirmar regulamentações, recursos e pendências.",
+        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
+      },
+      "timeline": [
+        [
+          "2026-11-05",
+          "Publicação detectada",
+          "Efeitos jurídicos a conferir"
+        ]
+      ]
+    },
+    {
+      "id": "auto-c626a692c7b2cd01",
+      "automated": true,
+      "title": "STJ realiza Encontro Nacional sobre a Relevância da Questão de Direito Federal, com transmissão ao vivo",
+      "date": "2026-11-05",
+      "published": "2026-11-05",
+      "checked": "2026-11-05",
+      "addedAt": "2026-11-05T06:00:00+00:00",
+      "org": "STJ",
+      "trib": "A identificar",
+      "category": "Jurisprudência",
+      "kind": "Notícia oficial (coleta automática)",
+      "impact": "A avaliar",
+      "status": "Efeitos jurídicos a verificar",
+      "stage": "Publicação identificada",
+      "summary": "STJ realiza Encontro Nacional sobre a Relevância da Questão de Direito Federal, com transmissão ao vivo",
+      "source": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/04112026-STJ-realiza-Encontro-Nacional-sobre-a-Relevancia-da-Questao-de-Direito-Federal--com-transmissao-ao-vivo.aspx",
+      "sourceName": "STJ · publicação oficial",
+      "topics": [
+        "STJ"
+      ],
+      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
+      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
+      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
+      "now": "Publicação oficial identificada em 2026-11-05.",
+      "watch": "Conferir íntegra, vigência e próximos eventos.",
+      "sections": {
+        "aconteceu": "STJ publicou: STJ realiza Encontro Nacional sobre a Relevância da Questão de Direito Federal, com transmissão ao vivo. STJ realiza Encontro Nacional sobre a Relevância da Questão de Direito Federal, com transmissão ao vivo",
+        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
+        "discussao": "A controvérsia precisa de conferência na fonte integral.",
+        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
+        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
+        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
+        "aberto": "Confirmar regulamentações, recursos e pendências.",
+        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
+      },
+      "timeline": [
+        [
+          "2026-11-05",
+          "Publicação detectada",
+          "Efeitos jurídicos a conferir"
+        ]
+      ]
+    },
+    {
+      "id": "auto-ac56c76a8326a6a5",
+      "automated": true,
+      "title": "Áudio: Debate aponta precarização do emprego em contratos na saúde entre governo e organizações sociais",
+      "date": "2026-11-05",
+      "published": "2026-11-05",
+      "checked": "2026-11-05",
+      "addedAt": "2026-11-05T00:06:37+00:00",
+      "org": "Agência Senado",
+      "trib": "A identificar",
+      "category": "Atualização tributária",
+      "kind": "Notícia oficial (coleta automática)",
+      "impact": "A avaliar",
+      "status": "Efeitos jurídicos a verificar",
+      "stage": "Publicação identificada",
+      "summary": "A Comissão de Fiscalização e Controle do Senado (CTFC) promoveu nesta quarta-feira (4) uma audiência pública para discutir as denúncias de irregularidades em contratos administrativos celebrados na área da saúde entre o poder público e organizações sociais. Um dos problemas apontados pelos participantes é a \"precarização\" dos vínculos de emprego dos respectivos trabalhadores. Ouça o áudio.",
+      "source": "https://www12.senado.leg.br/noticias/audios/2026/11/debate-aponta-precarizacao-do-emprego-em-contratos-na-saude-entre-governo-e-organizacoes-sociais",
+      "sourceName": "Agência Senado · publicação oficial",
+      "topics": [
+        "Agência Senado"
+      ],
+      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
+      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
+      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
+      "now": "Publicação oficial identificada em 2026-11-05.",
+      "watch": "Conferir íntegra, vigência e próximos eventos.",
+      "sections": {
+        "aconteceu": "Agência Senado publicou: Áudio: Debate aponta precarização do emprego em contratos na saúde entre governo e organizações sociais. A Comissão de Fiscalização e Controle do Senado (CTFC) promoveu nesta quarta-feira (4) uma audiência pública para discutir as denúncias de irregularidades em contratos administrativos celebrados na área da saúde entre o poder público e organizações sociais. Um dos problemas apontados pelos participantes é a \"precarização\" dos vínculos de emprego dos respectivos trabalhadores. Ouça o áudio.",
+        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
+        "discussao": "A controvérsia precisa de conferência na fonte integral.",
+        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
+        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
+        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
+        "aberto": "Confirmar regulamentações, recursos e pendências.",
+        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
+      },
+      "timeline": [
+        [
+          "2026-11-05",
+          "Publicação detectada",
+          "Efeitos jurídicos a conferir"
+        ]
+      ]
+    },
+    {
+      "id": "auto-dc03ed702dcc9eb0",
+      "automated": true,
+      "title": "Operação Faroeste: STJ condena mais uma desembargadora do TJBA e cassa aposentadoria",
+      "date": "2026-11-04",
+      "published": "2026-11-04",
+      "checked": "2026-11-05",
+      "addedAt": "2026-11-04T17:11:00+00:00",
+      "org": "STJ",
+      "trib": "A identificar",
+      "category": "Jurisprudência",
+      "kind": "Notícia oficial (coleta automática)",
+      "impact": "A avaliar",
+      "status": "Efeitos jurídicos a verificar",
+      "stage": "Publicação identificada",
+      "summary": "Desembargadora aposentada Sandra Inês Azevedo foi condenada pela Corte Especial à pena de 14 anos e 20 dias de prisão. Ela é a segunda integrante do TJBA a receber condenação pelo colegiado.",
+      "source": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/04112026-Operacao-Faroeste-STJ-condena-mais-uma-desembargadora-do-TJBA-e-cassa-aposentadoria.aspx",
+      "sourceName": "STJ · publicação oficial",
+      "topics": [
+        "STJ"
+      ],
+      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
+      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
+      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
+      "now": "Publicação oficial identificada em 2026-11-04.",
+      "watch": "Conferir íntegra, vigência e próximos eventos.",
+      "sections": {
+        "aconteceu": "STJ publicou: Operação Faroeste: STJ condena mais uma desembargadora do TJBA e cassa aposentadoria. Desembargadora aposentada Sandra Inês Azevedo foi condenada pela Corte Especial à pena de 14 anos e 20 dias de prisão. Ela é a segunda integrante do TJBA a receber condenação pelo colegiado.",
+        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
+        "discussao": "A controvérsia precisa de conferência na fonte integral.",
+        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
+        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
+        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
+        "aberto": "Confirmar regulamentações, recursos e pendências.",
+        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
+      },
+      "timeline": [
+        [
+          "2026-11-04",
+          "Publicação detectada",
+          "Efeitos jurídicos a conferir"
+        ]
+      ]
+    },
+    {
       "id": "auto-c384992395ccbcca",
       "automated": true,
       "title": "Ministro Og Fernandes lança livro sobre a história do STF em 10 de novembro",
       "date": "2026-11-04",
       "published": "2026-11-04",
-      "checked": "2026-11-04",
+      "checked": "2026-11-05",
       "addedAt": "2026-11-04T13:26:00+00:00",
       "org": "STJ",
       "trib": "A identificar",
@@ -75,7 +295,7 @@
       "title": "STJ fixa critérios para honorários por habilitação e impugnação de crédito em recuperação ou falência",
       "date": "2026-11-04",
       "published": "2026-11-04",
-      "checked": "2026-11-04",
+      "checked": "2026-11-05",
       "addedAt": "2026-11-04T07:10:00+00:00",
       "org": "STJ",
       "trib": "A identificar",
@@ -97,6 +317,534 @@
       "watch": "Conferir íntegra, vigência e próximos eventos.",
       "sections": {
         "aconteceu": "STJ publicou: STJ fixa critérios para honorários por habilitação e impugnação de crédito em recuperação ou falência. STJ fixa critérios para honorários por habilitação e impugnação de crédito em recuperação ou falência",
+        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
+        "discussao": "A controvérsia precisa de conferência na fonte integral.",
+        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
+        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
+        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
+        "aberto": "Confirmar regulamentações, recursos e pendências.",
+        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
+      },
+      "timeline": [
+        [
+          "2026-11-04",
+          "Publicação detectada",
+          "Efeitos jurídicos a conferir"
+        ]
+      ]
+    },
+    {
+      "id": "auto-e37ad21815020edb",
+      "automated": true,
+      "title": "Áudio: Projeto que proíbe obsolescência programada de produtos vai à Câmara",
+      "date": "2026-11-04",
+      "published": "2026-11-04",
+      "checked": "2026-11-05",
+      "addedAt": "2026-11-04T23:55:50+00:00",
+      "org": "Agência Senado",
+      "trib": "A identificar",
+      "category": "Atualização tributária",
+      "kind": "Notícia oficial (coleta automática)",
+      "impact": "A avaliar",
+      "status": "Efeitos jurídicos a verificar",
+      "stage": "Publicação identificada",
+      "summary": "O projeto de lei que proíbe a chamada “obsolescência programada” — a redução proposital da vida útil dos produtos — e regulamenta o direito do consumidor ao reparo foi aprovado nesta quarta-feira (4) pela Comissão de Fiscalização e Controle do Senado. O projeto (PL 805/2024) agora segue para análise na Câmara dos Deputados. Ouça o áudio.",
+      "source": "https://www12.senado.leg.br/noticias/audios/2026/11/projeto-que-proibe-obsolescencia-programada-de-produtos-vai-a-camara",
+      "sourceName": "Agência Senado · publicação oficial",
+      "topics": [
+        "Agência Senado"
+      ],
+      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
+      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
+      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
+      "now": "Publicação oficial identificada em 2026-11-04.",
+      "watch": "Conferir íntegra, vigência e próximos eventos.",
+      "sections": {
+        "aconteceu": "Agência Senado publicou: Áudio: Projeto que proíbe obsolescência programada de produtos vai à Câmara. O projeto de lei que proíbe a chamada “obsolescência programada” — a redução proposital da vida útil dos produtos — e regulamenta o direito do consumidor ao reparo foi aprovado nesta quarta-feira (4) pela Comissão de Fiscalização e Controle do Senado. O projeto (PL 805/2024) agora segue para análise na Câmara dos Deputados. Ouça o áudio.",
+        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
+        "discussao": "A controvérsia precisa de conferência na fonte integral.",
+        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
+        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
+        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
+        "aberto": "Confirmar regulamentações, recursos e pendências.",
+        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
+      },
+      "timeline": [
+        [
+          "2026-11-04",
+          "Publicação detectada",
+          "Efeitos jurídicos a conferir"
+        ]
+      ]
+    },
+    {
+      "id": "auto-4904fd78cca8cb85",
+      "automated": true,
+      "title": "Áudio: Política de enfrentamento à violência contra a mulher avança no Senado",
+      "date": "2026-11-04",
+      "published": "2026-11-04",
+      "checked": "2026-11-05",
+      "addedAt": "2026-11-04T23:47:09+00:00",
+      "org": "Agência Senado",
+      "trib": "A identificar",
+      "category": "Atualização tributária",
+      "kind": "Notícia oficial (coleta automática)",
+      "impact": "A avaliar",
+      "status": "Efeitos jurídicos a verificar",
+      "stage": "Publicação identificada",
+      "summary": "O projeto de lei que institui a Política Nacional de Enfrentamento à Violência contra a Mulher (PL 1.025/2026) avançou em sua tramitação no Senado: o texto recebeu nesta quarta-feira (4) parecer favorável na Comissão de Direitos Humanos. Agora, a proposta segue para análise em outro colegiado da Casa: a Comissão de Segurança Pública. Ouça o áudio.",
+      "source": "https://www12.senado.leg.br/noticias/audios/2026/11/politica-de-enfrentamento-a-violencia-contra-a-mulher-avanca-no-senado",
+      "sourceName": "Agência Senado · publicação oficial",
+      "topics": [
+        "Agência Senado"
+      ],
+      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
+      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
+      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
+      "now": "Publicação oficial identificada em 2026-11-04.",
+      "watch": "Conferir íntegra, vigência e próximos eventos.",
+      "sections": {
+        "aconteceu": "Agência Senado publicou: Áudio: Política de enfrentamento à violência contra a mulher avança no Senado. O projeto de lei que institui a Política Nacional de Enfrentamento à Violência contra a Mulher (PL 1.025/2026) avançou em sua tramitação no Senado: o texto recebeu nesta quarta-feira (4) parecer favorável na Comissão de Direitos Humanos. Agora, a proposta segue para análise em outro colegiado da Casa: a Comissão de Segurança Pública. Ouça o áudio.",
+        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
+        "discussao": "A controvérsia precisa de conferência na fonte integral.",
+        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
+        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
+        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
+        "aberto": "Confirmar regulamentações, recursos e pendências.",
+        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
+      },
+      "timeline": [
+        [
+          "2026-11-04",
+          "Publicação detectada",
+          "Efeitos jurídicos a conferir"
+        ]
+      ]
+    },
+    {
+      "id": "auto-9407fd9e8bcabc73",
+      "automated": true,
+      "title": "Áudio: Projeto de lei prevê semana anual de conscientização sobre diabetes",
+      "date": "2026-11-04",
+      "published": "2026-11-04",
+      "checked": "2026-11-05",
+      "addedAt": "2026-11-04T23:35:11+00:00",
+      "org": "Agência Senado",
+      "trib": "A identificar",
+      "category": "Atualização tributária",
+      "kind": "Notícia oficial (coleta automática)",
+      "impact": "A avaliar",
+      "status": "Efeitos jurídicos a verificar",
+      "stage": "Publicação identificada",
+      "summary": "Está pronto para ir a votação na Comissão de Assuntos Sociais do Senado (CAS) um projeto que institui em lei federal a Semana de Prevenção ao Diabetes (PL 4.196/2021). Ouça o áudio.",
+      "source": "https://www12.senado.leg.br/noticias/audios/2026/11/projeto-de-lei-preve-semana-anual-de-conscientizacao-sobre-diabetes",
+      "sourceName": "Agência Senado · publicação oficial",
+      "topics": [
+        "Agência Senado"
+      ],
+      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
+      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
+      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
+      "now": "Publicação oficial identificada em 2026-11-04.",
+      "watch": "Conferir íntegra, vigência e próximos eventos.",
+      "sections": {
+        "aconteceu": "Agência Senado publicou: Áudio: Projeto de lei prevê semana anual de conscientização sobre diabetes. Está pronto para ir a votação na Comissão de Assuntos Sociais do Senado (CAS) um projeto que institui em lei federal a Semana de Prevenção ao Diabetes (PL 4.196/2021). Ouça o áudio.",
+        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
+        "discussao": "A controvérsia precisa de conferência na fonte integral.",
+        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
+        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
+        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
+        "aberto": "Confirmar regulamentações, recursos e pendências.",
+        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
+      },
+      "timeline": [
+        [
+          "2026-11-04",
+          "Publicação detectada",
+          "Efeitos jurídicos a conferir"
+        ]
+      ]
+    },
+    {
+      "id": "auto-318062a3a9d16777",
+      "automated": true,
+      "title": "Uso de organizações sociais em contratos na saúde é questionado em audiência no Senado",
+      "date": "2026-11-04",
+      "published": "2026-11-04",
+      "checked": "2026-11-05",
+      "addedAt": "2026-11-04T22:57:29+00:00",
+      "org": "Agência Senado",
+      "trib": "A identificar",
+      "category": "Atualização tributária",
+      "kind": "Notícia oficial (coleta automática)",
+      "impact": "A avaliar",
+      "status": "Efeitos jurídicos a verificar",
+      "stage": "Publicação identificada",
+      "summary": "A falta de transparência, as falhas na fiscalização e o uso de organizações sociais como intermediárias para contratações irregulares estão entre os principais problemas identificados em contratos de gestão de serviços públicos de saúde. O diagnóstico foi apresentado nesta quarta-feira (4) durante audiência pública da Comissão de Fiscalização e Controle do Senado (CTFC). O debate, solicitado pelo presidente da comissão, senador Dr. Hiran (PP-RR) e pela senadora Damares Alves (Republicanos-DF), também tratou da precarização das relações de trabalho dos profissionais de saúde e o chamado desvirtuamento do modelo cooperativista. O coordenador-geral de Auditoria da Área de Saúde da Controladoria-Geral da União (CGU), Daniel Gontijo Motta, afirmou que as irregularidades não decorrem apenas da atuação de agentes mal-intencionados, mas também de",
+      "source": "https://www12.senado.leg.br/noticias/materias/2026/11/04/uso-de-organizacoes-sociais-em-contratos-na-saude-e-questionado-em-audiencia-no-senado",
+      "sourceName": "Agência Senado · publicação oficial",
+      "topics": [
+        "Agência Senado"
+      ],
+      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
+      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
+      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
+      "now": "Publicação oficial identificada em 2026-11-04.",
+      "watch": "Conferir íntegra, vigência e próximos eventos.",
+      "sections": {
+        "aconteceu": "Agência Senado publicou: Uso de organizações sociais em contratos na saúde é questionado em audiência no Senado. A falta de transparência, as falhas na fiscalização e o uso de organizações sociais como intermediárias para contratações irregulares estão entre os principais problemas identificados em contratos de gestão de serviços públicos de saúde. O diagnóstico foi apresentado nesta quarta-feira (4) durante audiência pública da Comissão de Fiscalização e Controle do Senado (CTFC). O debate, solicitado pelo presidente da comissão, senador Dr. Hiran (PP-RR) e pela senadora Damares Alves (Republicanos-DF), também tratou da precarização das relações de trabalho dos profissionais de saúde e o chamado desvirtuamento do modelo cooperativista. O coordenador-geral de Auditoria da Área de Saúde da Controladoria-Geral da União (CGU), Daniel Gontijo Motta, afirmou que as irregularidades não decorrem apenas da atuação de agentes mal-intencionados, mas também de",
+        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
+        "discussao": "A controvérsia precisa de conferência na fonte integral.",
+        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
+        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
+        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
+        "aberto": "Confirmar regulamentações, recursos e pendências.",
+        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
+      },
+      "timeline": [
+        [
+          "2026-11-04",
+          "Publicação detectada",
+          "Efeitos jurídicos a conferir"
+        ]
+      ]
+    },
+    {
+      "id": "auto-778c2b532e19fc56",
+      "automated": true,
+      "title": "Áudio: Eduardo Braga propõe cronograma para votar Orçamento até 17 de dezembro",
+      "date": "2026-11-04",
+      "published": "2026-11-04",
+      "checked": "2026-11-05",
+      "addedAt": "2026-11-04T22:46:55+00:00",
+      "org": "Agência Senado",
+      "trib": "A identificar",
+      "category": "Atualização tributária",
+      "kind": "Notícia oficial (coleta automática)",
+      "impact": "A avaliar",
+      "status": "Efeitos jurídicos a verificar",
+      "stage": "Publicação identificada",
+      "summary": "O relator do Orçamento de 2027, senador Eduardo Braga (MDB-AM), anunciou um calendário para votar a proposta (PLN 24/2026) no Congresso até 17 de dezembro. O cronograma prevê a apresentação de emendas entre 6 e 20 de novembro e etapas de análise dos relatórios entre 30 de novembro e 2 de dezembro. Antes da votação em Plenário, o texto precisa passar pela Comissão Mista de Orçamento (CMO).",
+      "source": "https://www12.senado.leg.br/noticias/audios/2026/11/eduardo-braga-propoe-cronograma-para-votar-orcamento-ate-17-de-dezembro",
+      "sourceName": "Agência Senado · publicação oficial",
+      "topics": [
+        "Agência Senado"
+      ],
+      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
+      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
+      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
+      "now": "Publicação oficial identificada em 2026-11-04.",
+      "watch": "Conferir íntegra, vigência e próximos eventos.",
+      "sections": {
+        "aconteceu": "Agência Senado publicou: Áudio: Eduardo Braga propõe cronograma para votar Orçamento até 17 de dezembro. O relator do Orçamento de 2027, senador Eduardo Braga (MDB-AM), anunciou um calendário para votar a proposta (PLN 24/2026) no Congresso até 17 de dezembro. O cronograma prevê a apresentação de emendas entre 6 e 20 de novembro e etapas de análise dos relatórios entre 30 de novembro e 2 de dezembro. Antes da votação em Plenário, o texto precisa passar pela Comissão Mista de Orçamento (CMO).",
+        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
+        "discussao": "A controvérsia precisa de conferência na fonte integral.",
+        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
+        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
+        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
+        "aberto": "Confirmar regulamentações, recursos e pendências.",
+        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
+      },
+      "timeline": [
+        [
+          "2026-11-04",
+          "Publicação detectada",
+          "Efeitos jurídicos a conferir"
+        ]
+      ]
+    },
+    {
+      "id": "auto-ce65fbb71515666f",
+      "automated": true,
+      "title": "Davi vai analisar questões de Randolfe sobre situação de Flávio Bolsonaro",
+      "date": "2026-11-04",
+      "published": "2026-11-04",
+      "checked": "2026-11-05",
+      "addedAt": "2026-11-04T22:46:06+00:00",
+      "org": "Agência Senado",
+      "trib": "A identificar",
+      "category": "Atualização tributária",
+      "kind": "Notícia oficial (coleta automática)",
+      "impact": "A avaliar",
+      "status": "Efeitos jurídicos a verificar",
+      "stage": "Publicação identificada",
+      "summary": "O presidente do Senado, Davi Alcolumbre, afirmou nesta quarta-feira (4) que vai analisar duas questões de ordem levantadas pelo senador Randolfe Rodrigues (PT-AP) sobre a situação do senador Flávio Bolsonaro (PL-RJ), que está nos EUA desde 28 de outubro e votou remotamente na sessão de terça-feira (3). Durante a sessão no Plenário, Randolfe pediu que a Presidência esclareça se Flávio comunicou oficialmente sua viagem ao exterior, conforme prevê o Regimento Interno do Senado. O senador também solicitou a anulação do voto registrado pelo parlamentar na sessão de aprovação da PEC da Segurança Pública, sob o argumento de que ele participou da deliberação sem ter comunicado seu afastamento do território nacional. — Eu não quero censurar nem vetar o voto de ninguém, mas veja que caso curioso: ele pede exílio alegando viver em uma ditadura, mas ",
+      "source": "https://www12.senado.leg.br/noticias/materias/2026/11/04/davi-vai-analisar-questoes-de-randolfe-sobre-situacao-de-flavio-bolsonaro",
+      "sourceName": "Agência Senado · publicação oficial",
+      "topics": [
+        "Agência Senado"
+      ],
+      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
+      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
+      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
+      "now": "Publicação oficial identificada em 2026-11-04.",
+      "watch": "Conferir íntegra, vigência e próximos eventos.",
+      "sections": {
+        "aconteceu": "Agência Senado publicou: Davi vai analisar questões de Randolfe sobre situação de Flávio Bolsonaro. O presidente do Senado, Davi Alcolumbre, afirmou nesta quarta-feira (4) que vai analisar duas questões de ordem levantadas pelo senador Randolfe Rodrigues (PT-AP) sobre a situação do senador Flávio Bolsonaro (PL-RJ), que está nos EUA desde 28 de outubro e votou remotamente na sessão de terça-feira (3). Durante a sessão no Plenário, Randolfe pediu que a Presidência esclareça se Flávio comunicou oficialmente sua viagem ao exterior, conforme prevê o Regimento Interno do Senado. O senador também solicitou a anulação do voto registrado pelo parlamentar na sessão de aprovação da PEC da Segurança Pública, sob o argumento de que ele participou da deliberação sem ter comunicado seu afastamento do território nacional. — Eu não quero censurar nem vetar o voto de ninguém, mas veja que caso curioso: ele pede exílio alegando viver em uma ditadura, mas ",
+        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
+        "discussao": "A controvérsia precisa de conferência na fonte integral.",
+        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
+        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
+        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
+        "aberto": "Confirmar regulamentações, recursos e pendências.",
+        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
+      },
+      "timeline": [
+        [
+          "2026-11-04",
+          "Publicação detectada",
+          "Efeitos jurídicos a conferir"
+        ]
+      ]
+    },
+    {
+      "id": "auto-8f60621ab92955d2",
+      "automated": true,
+      "title": "Senado permite que estados e municípios renegociem dívidas durante final de mandato",
+      "date": "2026-11-04",
+      "published": "2026-11-04",
+      "checked": "2026-11-05",
+      "addedAt": "2026-11-04T22:34:16+00:00",
+      "org": "Agência Senado",
+      "trib": "A identificar",
+      "category": "Atualização tributária",
+      "kind": "Notícia oficial (coleta automática)",
+      "impact": "A avaliar",
+      "status": "Efeitos jurídicos a verificar",
+      "stage": "Publicação identificada",
+      "summary": "O Senado aprovou nesta quarta-feira (4) o projeto de resolução que permite a estados, Distrito Federal e municípios contratarem operações de crédito nos últimos 120 dias do mandato de governadores e prefeitos para substituir dívidas existentes por outras com condições mais favoráveis. O projeto (PRS 50/2026) segue para promulgação. A proposta foi apresentada pelo senador Renan Filho (MDB-AL) para alterar a Resolução do Senado 43, de 2001, que proíbe a contratação de operações de crédito nesse período, com poucas exceções. O texto aprovado nesta quarta-feira acrescenta a possibilidade de se realizar operações destinadas exclusivamente à reestruturação e à recomposição do principal de dívidas, sem obtenção de novos recursos livres. O projeto prevê a exigência de que, antes da contratação, os governos divulguem em seus sites oficiais a metod",
+      "source": "https://www12.senado.leg.br/noticias/materias/2026/11/04/senado-permite-que-estados-e-municipios-renegociem-dividas-durante-final-de-mandato",
+      "sourceName": "Agência Senado · publicação oficial",
+      "topics": [
+        "Agência Senado"
+      ],
+      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
+      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
+      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
+      "now": "Publicação oficial identificada em 2026-11-04.",
+      "watch": "Conferir íntegra, vigência e próximos eventos.",
+      "sections": {
+        "aconteceu": "Agência Senado publicou: Senado permite que estados e municípios renegociem dívidas durante final de mandato. O Senado aprovou nesta quarta-feira (4) o projeto de resolução que permite a estados, Distrito Federal e municípios contratarem operações de crédito nos últimos 120 dias do mandato de governadores e prefeitos para substituir dívidas existentes por outras com condições mais favoráveis. O projeto (PRS 50/2026) segue para promulgação. A proposta foi apresentada pelo senador Renan Filho (MDB-AL) para alterar a Resolução do Senado 43, de 2001, que proíbe a contratação de operações de crédito nesse período, com poucas exceções. O texto aprovado nesta quarta-feira acrescenta a possibilidade de se realizar operações destinadas exclusivamente à reestruturação e à recomposição do principal de dívidas, sem obtenção de novos recursos livres. O projeto prevê a exigência de que, antes da contratação, os governos divulguem em seus sites oficiais a metod",
+        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
+        "discussao": "A controvérsia precisa de conferência na fonte integral.",
+        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
+        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
+        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
+        "aberto": "Confirmar regulamentações, recursos e pendências.",
+        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
+      },
+      "timeline": [
+        [
+          "2026-11-04",
+          "Publicação detectada",
+          "Efeitos jurídicos a conferir"
+        ]
+      ]
+    },
+    {
+      "id": "auto-47057749bb24b0bd",
+      "automated": true,
+      "title": "CTFC aprova proibição da redução artificial da vida útil de produtos",
+      "date": "2026-11-04",
+      "published": "2026-11-04",
+      "checked": "2026-11-05",
+      "addedAt": "2026-11-04T22:25:35+00:00",
+      "org": "Agência Senado",
+      "trib": "A identificar",
+      "category": "Atualização tributária",
+      "kind": "Notícia oficial (coleta automática)",
+      "impact": "A avaliar",
+      "status": "Efeitos jurídicos a verificar",
+      "stage": "Publicação identificada",
+      "summary": "A Comissão de Fiscalização e Controle (CTFC) aprovou nesta quarta-feira (4), em decisão terminativa, projeto que proíbe a chamada “obsolescência programada” — a redução proposital da vida útil dos produtos — e regulamenta o direito do consumidor ao reparo. O PL 805/2024 recebeu parecer favorável do senador Dr. Hiran (PP-RR) e seguirá para a Câmara dos Deputados, caso não haja recurso para votação em Plenário. O projeto, do senador Ciro Nogueira (PP-PI), altera o Código de Defesa do Consumidor para incluir entre os direitos básicos a proteção contra a obsolescência programada. Há exceção para os casos em que isso decorra de exigência estabelecida em lei ou regulamento do poder público por razões técnicas ou de segurança. A proposta proíbe a redução artificial da durabilidade dos produtos e a restrição ao acesso a ferramentas, peças, inform",
+      "source": "https://www12.senado.leg.br/noticias/materias/2026/11/04/ctfc-aprova-proibicao-da-reducao-artificial-da-vida-util-de-produtos",
+      "sourceName": "Agência Senado · publicação oficial",
+      "topics": [
+        "Agência Senado"
+      ],
+      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
+      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
+      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
+      "now": "Publicação oficial identificada em 2026-11-04.",
+      "watch": "Conferir íntegra, vigência e próximos eventos.",
+      "sections": {
+        "aconteceu": "Agência Senado publicou: CTFC aprova proibição da redução artificial da vida útil de produtos. A Comissão de Fiscalização e Controle (CTFC) aprovou nesta quarta-feira (4), em decisão terminativa, projeto que proíbe a chamada “obsolescência programada” — a redução proposital da vida útil dos produtos — e regulamenta o direito do consumidor ao reparo. O PL 805/2024 recebeu parecer favorável do senador Dr. Hiran (PP-RR) e seguirá para a Câmara dos Deputados, caso não haja recurso para votação em Plenário. O projeto, do senador Ciro Nogueira (PP-PI), altera o Código de Defesa do Consumidor para incluir entre os direitos básicos a proteção contra a obsolescência programada. Há exceção para os casos em que isso decorra de exigência estabelecida em lei ou regulamento do poder público por razões técnicas ou de segurança. A proposta proíbe a redução artificial da durabilidade dos produtos e a restrição ao acesso a ferramentas, peças, inform",
+        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
+        "discussao": "A controvérsia precisa de conferência na fonte integral.",
+        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
+        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
+        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
+        "aberto": "Confirmar regulamentações, recursos e pendências.",
+        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
+      },
+      "timeline": [
+        [
+          "2026-11-04",
+          "Publicação detectada",
+          "Efeitos jurídicos a conferir"
+        ]
+      ]
+    },
+    {
+      "id": "auto-dfa21d15369663d7",
+      "automated": true,
+      "title": "Áudio: Projeto que regulamenta profissão de cuidador avança no Senado",
+      "date": "2026-11-04",
+      "published": "2026-11-04",
+      "checked": "2026-11-05",
+      "addedAt": "2026-11-04T22:23:49+00:00",
+      "org": "Agência Senado",
+      "trib": "A identificar",
+      "category": "Atualização tributária",
+      "kind": "Notícia oficial (coleta automática)",
+      "impact": "A avaliar",
+      "status": "Efeitos jurídicos a verificar",
+      "stage": "Publicação identificada",
+      "summary": "O projeto de lei que regulamenta a profissão de cuidador de pessoas de qualquer idade (PL 6.073/2025) avançou em sua tramitação no Senado: o texto recebeu nesta quarta (4) parecer favorável na Comissão de Direitos Humanos. Agora a proposta será analisada em outro colegiado da Casa: a Comissão de Assuntos Sociais. Ouça o áudio.",
+      "source": "https://www12.senado.leg.br/noticias/audios/2026/11/projeto-que-regulamenta-profissao-de-cuidador-avanca-no-senado",
+      "sourceName": "Agência Senado · publicação oficial",
+      "topics": [
+        "Agência Senado"
+      ],
+      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
+      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
+      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
+      "now": "Publicação oficial identificada em 2026-11-04.",
+      "watch": "Conferir íntegra, vigência e próximos eventos.",
+      "sections": {
+        "aconteceu": "Agência Senado publicou: Áudio: Projeto que regulamenta profissão de cuidador avança no Senado. O projeto de lei que regulamenta a profissão de cuidador de pessoas de qualquer idade (PL 6.073/2025) avançou em sua tramitação no Senado: o texto recebeu nesta quarta (4) parecer favorável na Comissão de Direitos Humanos. Agora a proposta será analisada em outro colegiado da Casa: a Comissão de Assuntos Sociais. Ouça o áudio.",
+        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
+        "discussao": "A controvérsia precisa de conferência na fonte integral.",
+        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
+        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
+        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
+        "aberto": "Confirmar regulamentações, recursos e pendências.",
+        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
+      },
+      "timeline": [
+        [
+          "2026-11-04",
+          "Publicação detectada",
+          "Efeitos jurídicos a conferir"
+        ]
+      ]
+    },
+    {
+      "id": "auto-bb468bcca2353a51",
+      "automated": true,
+      "title": "Davi Alcolumbre lamenta radicalismo e pede foco no país",
+      "date": "2026-11-04",
+      "published": "2026-11-04",
+      "checked": "2026-11-05",
+      "addedAt": "2026-11-04T22:07:59+00:00",
+      "org": "Agência Senado",
+      "trib": "A identificar",
+      "category": "Atualização tributária",
+      "kind": "Notícia oficial (coleta automática)",
+      "impact": "A avaliar",
+      "status": "Efeitos jurídicos a verificar",
+      "stage": "Publicação identificada",
+      "summary": "Após uma discussão em Plenário sobre a redução da maioridade penal, o presidente do Senado e do Congresso, Davi Alcolumbre, fez críticas ao que chamou de \"radicalismo\" — que, segundo ele, se tornou um traço comum na política do país. Ele também pediu que os políticos tenham foco nos temas que são mais importantes para o país. — Às vezes alguns colegas passam do debate a agressões em relação a esta Presidência, seja na tribuna ou em vídeos nas redes sociais, para conquistar apoiamento a esse radicalismo horrível que estamos vivendo no Brasil — protestou ele nesta quarta-feira (4). Para Davi, é “um drama” presidir o Congresso Nacional no momento em que o país está \"absolutamente dividido\". O presidente da Casa criticou também pessoas que fizeram campanha eleitoral em frente ao Congresso proferindo ofensas contra ele. E citou uma liderança p",
+      "source": "https://www12.senado.leg.br/noticias/materias/2026/11/04/davi-alcolumbre-lamenta-radicalismo-e-pede-foco-no-pais",
+      "sourceName": "Agência Senado · publicação oficial",
+      "topics": [
+        "Agência Senado"
+      ],
+      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
+      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
+      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
+      "now": "Publicação oficial identificada em 2026-11-04.",
+      "watch": "Conferir íntegra, vigência e próximos eventos.",
+      "sections": {
+        "aconteceu": "Agência Senado publicou: Davi Alcolumbre lamenta radicalismo e pede foco no país. Após uma discussão em Plenário sobre a redução da maioridade penal, o presidente do Senado e do Congresso, Davi Alcolumbre, fez críticas ao que chamou de \"radicalismo\" — que, segundo ele, se tornou um traço comum na política do país. Ele também pediu que os políticos tenham foco nos temas que são mais importantes para o país. — Às vezes alguns colegas passam do debate a agressões em relação a esta Presidência, seja na tribuna ou em vídeos nas redes sociais, para conquistar apoiamento a esse radicalismo horrível que estamos vivendo no Brasil — protestou ele nesta quarta-feira (4). Para Davi, é “um drama” presidir o Congresso Nacional no momento em que o país está \"absolutamente dividido\". O presidente da Casa criticou também pessoas que fizeram campanha eleitoral em frente ao Congresso proferindo ofensas contra ele. E citou uma liderança p",
+        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
+        "discussao": "A controvérsia precisa de conferência na fonte integral.",
+        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
+        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
+        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
+        "aberto": "Confirmar regulamentações, recursos e pendências.",
+        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
+      },
+      "timeline": [
+        [
+          "2026-11-04",
+          "Publicação detectada",
+          "Efeitos jurídicos a conferir"
+        ]
+      ]
+    },
+    {
+      "id": "auto-a1fab46a7c516c99",
+      "automated": true,
+      "title": "Redução da maioridade penal: Senado aguardará votação de PEC da Câmara",
+      "date": "2026-11-04",
+      "published": "2026-11-04",
+      "checked": "2026-11-05",
+      "addedAt": "2026-11-04T22:03:20+00:00",
+      "org": "Agência Senado",
+      "trib": "A identificar",
+      "category": "Atualização tributária",
+      "kind": "Notícia oficial (coleta automática)",
+      "impact": "A avaliar",
+      "status": "Efeitos jurídicos a verificar",
+      "stage": "Publicação identificada",
+      "summary": "A redução da maioridade penal será discutida no Parlamento por meio da PEC 32/2015, atualmente em análise em comissão especial na Câmara dos Deputados. A comunicação foi feita aos senadores pelo presidente do Senado, Davi Alcolumbre, na sessão desta quarta-feira (4). O anúncio de Davi veio após o desmembramento de duas emendas sobre o tema à PEC 18/2025 — a PEC da Segurança Pública, aprovada na terça-feira (3). As emendas, dos senadores Rogerio Marinho (PL-RN) e Camilo Santana (PT-CE), foram transformadas em duas propostas autônomas. Parte dos senadores esperava a aprovação de um calendário especial para a análise das propostas, com dispensa de prazos e votação direta no Plenário. Segundo Davi, porém, o presidente da Câmara, Hugo Motta, ponderou que o tema já está em discussão pelos deputados em comissão especial desde agosto. — Na condiç",
+      "source": "https://www12.senado.leg.br/noticias/materias/2026/11/04/reducao-da-maioridade-penal-senado-aguardara-votacao-de-pec-da-camara",
+      "sourceName": "Agência Senado · publicação oficial",
+      "topics": [
+        "Agência Senado"
+      ],
+      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
+      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
+      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
+      "now": "Publicação oficial identificada em 2026-11-04.",
+      "watch": "Conferir íntegra, vigência e próximos eventos.",
+      "sections": {
+        "aconteceu": "Agência Senado publicou: Redução da maioridade penal: Senado aguardará votação de PEC da Câmara. A redução da maioridade penal será discutida no Parlamento por meio da PEC 32/2015, atualmente em análise em comissão especial na Câmara dos Deputados. A comunicação foi feita aos senadores pelo presidente do Senado, Davi Alcolumbre, na sessão desta quarta-feira (4). O anúncio de Davi veio após o desmembramento de duas emendas sobre o tema à PEC 18/2025 — a PEC da Segurança Pública, aprovada na terça-feira (3). As emendas, dos senadores Rogerio Marinho (PL-RN) e Camilo Santana (PT-CE), foram transformadas em duas propostas autônomas. Parte dos senadores esperava a aprovação de um calendário especial para a análise das propostas, com dispensa de prazos e votação direta no Plenário. Segundo Davi, porém, o presidente da Câmara, Hugo Motta, ponderou que o tema já está em discussão pelos deputados em comissão especial desde agosto. — Na condiç",
+        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
+        "discussao": "A controvérsia precisa de conferência na fonte integral.",
+        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
+        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
+        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
+        "aberto": "Confirmar regulamentações, recursos e pendências.",
+        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
+      },
+      "timeline": [
+        [
+          "2026-11-04",
+          "Publicação detectada",
+          "Efeitos jurídicos a conferir"
+        ]
+      ]
+    },
+    {
+      "id": "auto-158442b5485b5099",
+      "automated": true,
+      "title": "Aprovação de protocolo pelo Senado permitirá ao Brasil sediar 'Expos' mundiais",
+      "date": "2026-11-04",
+      "published": "2026-11-04",
+      "checked": "2026-11-05",
+      "addedAt": "2026-11-04T21:39:57+00:00",
+      "org": "Agência Senado",
+      "trib": "A identificar",
+      "category": "Atualização tributária",
+      "kind": "Notícia oficial (coleta automática)",
+      "impact": "A avaliar",
+      "status": "Efeitos jurídicos a verificar",
+      "stage": "Publicação identificada",
+      "summary": "O Plenário do Senado aprovou nesta quarta-feira (4) o texto de um protocolo que permitirá a cidades brasileiras voltarem a se candidatar a sediar exposições mundiais, as chamadas “Expos”. O PDL 359/2024, que vai à promulgação, trata de um acordo sobre direitos e deveres dos países organizadores e participantes de exposições internacionais e mundiais. Com a aprovação, o Brasil poderá cumprir suas obrigações financeiras com o Bureau Internacional de Exposições, organismo responsável por esse tipo de evento, e recuperar o direito de voto, suspenso desde 2015 devido ao acúmulo de contribuições em atraso. O Brasil é membro fundador da entidade. Para a relatora, senadora Dra. Eudócia (PSDB-AL), a abertura da possibilidade de organizar grandes eventos do gênero “é, a vários títulos, benfazeja tanto para a imagem do país no exterior quanto para a",
+      "source": "https://www12.senado.leg.br/noticias/materias/2026/11/04/aprovacao-de-protocolo-pelo-senado-permitira-ao-brasil-sediar-expos-mundiais",
+      "sourceName": "Agência Senado · publicação oficial",
+      "topics": [
+        "Agência Senado"
+      ],
+      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
+      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
+      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
+      "now": "Publicação oficial identificada em 2026-11-04.",
+      "watch": "Conferir íntegra, vigência e próximos eventos.",
+      "sections": {
+        "aconteceu": "Agência Senado publicou: Aprovação de protocolo pelo Senado permitirá ao Brasil sediar 'Expos' mundiais. O Plenário do Senado aprovou nesta quarta-feira (4) o texto de um protocolo que permitirá a cidades brasileiras voltarem a se candidatar a sediar exposições mundiais, as chamadas “Expos”. O PDL 359/2024, que vai à promulgação, trata de um acordo sobre direitos e deveres dos países organizadores e participantes de exposições internacionais e mundiais. Com a aprovação, o Brasil poderá cumprir suas obrigações financeiras com o Bureau Internacional de Exposições, organismo responsável por esse tipo de evento, e recuperar o direito de voto, suspenso desde 2015 devido ao acúmulo de contribuições em atraso. O Brasil é membro fundador da entidade. Para a relatora, senadora Dra. Eudócia (PSDB-AL), a abertura da possibilidade de organizar grandes eventos do gênero “é, a vários títulos, benfazeja tanto para a imagem do país no exterior quanto para a",
         "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
         "discussao": "A controvérsia precisa de conferência na fonte integral.",
         "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
@@ -735,7 +1483,7 @@
       "title": "STJ Notícias aborda decisão sobre alteração de paternidade em registro civil",
       "date": "2026-11-03",
       "published": "2026-11-03",
-      "checked": "2026-11-04",
+      "checked": "2026-11-05",
       "addedAt": "2026-11-03T14:48:00+00:00",
       "org": "STJ",
       "trib": "A identificar",
@@ -779,7 +1527,7 @@
       "title": "Projeto do STJ e do PNUD para diversidade e fortalecimento da Justiça lança informativo mensal",
       "date": "2026-11-03",
       "published": "2026-11-03",
-      "checked": "2026-11-04",
+      "checked": "2026-11-05",
       "addedAt": "2026-11-03T11:55:00+00:00",
       "org": "STJ",
       "trib": "A identificar",
@@ -823,7 +1571,7 @@
       "title": "STJ lança nova página de consulta processual com foco em acessibilidade e eficiência",
       "date": "2026-11-03",
       "published": "2026-11-03",
-      "checked": "2026-11-04",
+      "checked": "2026-11-05",
       "addedAt": "2026-11-03T08:00:00+00:00",
       "org": "STJ",
       "trib": "A identificar",
@@ -867,7 +1615,7 @@
       "title": "Consulta à página de jurisprudência do STJ ajuda a evitar citações falsas geradas por IA",
       "date": "2026-11-03",
       "published": "2026-11-03",
-      "checked": "2026-11-04",
+      "checked": "2026-11-05",
       "addedAt": "2026-11-03T07:05:00+00:00",
       "org": "STJ",
       "trib": "A identificar",
@@ -911,7 +1659,7 @@
       "title": "Terceira Seção define cinco teses repetitivas sobre a natureza e a quantidade de drogas no cálculo da pena por tráfico",
       "date": "2026-11-03",
       "published": "2026-11-03",
-      "checked": "2026-11-04",
+      "checked": "2026-11-05",
       "addedAt": "2026-11-03T06:50:00+00:00",
       "org": "STJ",
       "trib": "A identificar",
