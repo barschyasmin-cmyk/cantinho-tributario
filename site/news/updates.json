@@ -1,7 +1,7 @@
 {
   "kind": "official-publication-feed",
-  "checkedAt": "2026-11-05T12:18:36+00:00",
-  "lastSuccessfulRun": "2026-11-05T12:18:36+00:00",
+  "checkedAt": "2026-11-06T12:14:20+00:00",
+  "lastSuccessfulRun": "2026-11-06T12:14:20+00:00",
   "sources": [
     {
       "org": "Receita Federal",
@@ -11,7 +11,7 @@
     {
       "org": "STJ",
       "ok": true,
-      "items": 11
+      "items": 15
     },
     {
       "org": "STJ · Informativo",
@@ -21,17 +21,281 @@
     {
       "org": "Agência Senado",
       "ok": true,
-      "items": 13
+      "items": 10
     }
   ],
   "entries": [
+    {
+      "id": "auto-64116831b92f238f",
+      "automated": true,
+      "title": "Vídeo: Avança MP do Plano Brasil Soberano, contra tarifaço",
+      "date": "2026-11-06",
+      "published": "2026-11-06",
+      "checked": "2026-11-06",
+      "addedAt": "2026-11-06T11:50:09+00:00",
+      "org": "Agência Senado",
+      "trib": "A identificar",
+      "category": "Atualização tributária",
+      "kind": "Notícia oficial (coleta automática)",
+      "impact": "A avaliar",
+      "status": "Efeitos jurídicos a verificar",
+      "stage": "Publicação identificada",
+      "summary": "A medida provisória que liberou financiamento para produtores afetados por tarifas estrangeiras foi discutida e aprovada em comissão especial nesta quinta-feira (5). Agora, o texto segue para análise nos Plenários da Câmara e do Senado. A proposta foi batizada como Plano Brasil Soberano 3.",
+      "source": "https://www12.senado.leg.br/noticias/videos/2026/11/avanca-mp-do-plano-brasil-soberano-contra-tarifaco",
+      "sourceName": "Agência Senado · publicação oficial",
+      "topics": [
+        "Agência Senado"
+      ],
+      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
+      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
+      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
+      "now": "Publicação oficial identificada em 2026-11-06.",
+      "watch": "Conferir íntegra, vigência e próximos eventos.",
+      "sections": {
+        "aconteceu": "Agência Senado publicou: Vídeo: Avança MP do Plano Brasil Soberano, contra tarifaço. A medida provisória que liberou financiamento para produtores afetados por tarifas estrangeiras foi discutida e aprovada em comissão especial nesta quinta-feira (5). Agora, o texto segue para análise nos Plenários da Câmara e do Senado. A proposta foi batizada como Plano Brasil Soberano 3.",
+        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
+        "discussao": "A controvérsia precisa de conferência na fonte integral.",
+        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
+        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
+        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
+        "aberto": "Confirmar regulamentações, recursos e pendências.",
+        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
+      },
+      "timeline": [
+        [
+          "2026-11-06",
+          "Publicação detectada",
+          "Efeitos jurídicos a conferir"
+        ]
+      ]
+    },
+    {
+      "id": "auto-79a068e29fb765e5",
+      "automated": true,
+      "title": "Áudio: CCJ analisa projeto sobre gestão de risco de desastres",
+      "date": "2026-11-06",
+      "published": "2026-11-06",
+      "checked": "2026-11-06",
+      "addedAt": "2026-11-06T10:21:02+00:00",
+      "org": "Agência Senado",
+      "trib": "A identificar",
+      "category": "Atualização tributária",
+      "kind": "Notícia oficial (coleta automática)",
+      "impact": "A avaliar",
+      "status": "Efeitos jurídicos a verificar",
+      "stage": "Publicação identificada",
+      "summary": "A Comissão de Constituição e Justiça (CCJ) analisa projeto de lei que institui a Política Nacional de Gestão Integral de Risco de Desastres. A proposta ganhou relevância na quarta-feira (4), após o senador Esperidião Amin (PP-SC) relatar danos sofridos pela população catarinense em razão de fortes chuvas em várias cidades de Santa Catarina, com tornados confirmados em Chapecó e Xanxerê.",
+      "source": "https://www12.senado.leg.br/noticias/audios/2026/11/ccj-analisa-projeto-sobre-gestao-de-risco-de-desastres",
+      "sourceName": "Agência Senado · publicação oficial",
+      "topics": [
+        "Agência Senado"
+      ],
+      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
+      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
+      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
+      "now": "Publicação oficial identificada em 2026-11-06.",
+      "watch": "Conferir íntegra, vigência e próximos eventos.",
+      "sections": {
+        "aconteceu": "Agência Senado publicou: Áudio: CCJ analisa projeto sobre gestão de risco de desastres. A Comissão de Constituição e Justiça (CCJ) analisa projeto de lei que institui a Política Nacional de Gestão Integral de Risco de Desastres. A proposta ganhou relevância na quarta-feira (4), após o senador Esperidião Amin (PP-SC) relatar danos sofridos pela população catarinense em razão de fortes chuvas em várias cidades de Santa Catarina, com tornados confirmados em Chapecó e Xanxerê.",
+        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
+        "discussao": "A controvérsia precisa de conferência na fonte integral.",
+        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
+        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
+        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
+        "aberto": "Confirmar regulamentações, recursos e pendências.",
+        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
+      },
+      "timeline": [
+        [
+          "2026-11-06",
+          "Publicação detectada",
+          "Efeitos jurídicos a conferir"
+        ]
+      ]
+    },
+    {
+      "id": "auto-8dab362e72ac8ca8",
+      "automated": true,
+      "title": "Tribunais debatem desafios e expectativas sobre o novo regime de relevância do STJ",
+      "date": "2026-11-05",
+      "published": "2026-11-05",
+      "checked": "2026-11-06",
+      "addedAt": "2026-11-05T20:54:00+00:00",
+      "org": "STJ",
+      "trib": "A identificar",
+      "category": "Jurisprudência",
+      "kind": "Notícia oficial (coleta automática)",
+      "impact": "A avaliar",
+      "status": "Efeitos jurídicos a verificar",
+      "stage": "Publicação identificada",
+      "summary": "Tribunais debatem desafios e expectativas sobre o novo regime de relevância do STJ",
+      "source": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/05112026-Tribunais-debatem-desafios-e-expectativas-sobre-o-novo-regime-de-relevancia-do-STJ.aspx",
+      "sourceName": "STJ · publicação oficial",
+      "topics": [
+        "STJ"
+      ],
+      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
+      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
+      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
+      "now": "Publicação oficial identificada em 2026-11-05.",
+      "watch": "Conferir íntegra, vigência e próximos eventos.",
+      "sections": {
+        "aconteceu": "STJ publicou: Tribunais debatem desafios e expectativas sobre o novo regime de relevância do STJ. Tribunais debatem desafios e expectativas sobre o novo regime de relevância do STJ",
+        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
+        "discussao": "A controvérsia precisa de conferência na fonte integral.",
+        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
+        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
+        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
+        "aberto": "Confirmar regulamentações, recursos e pendências.",
+        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
+      },
+      "timeline": [
+        [
+          "2026-11-05",
+          "Publicação detectada",
+          "Efeitos jurídicos a conferir"
+        ]
+      ]
+    },
+    {
+      "id": "auto-2ae655d2dc7bb6a3",
+      "automated": true,
+      "title": "STJ e CNJ assinam acordo de cooperação para compartilhamento de dados",
+      "date": "2026-11-05",
+      "published": "2026-11-05",
+      "checked": "2026-11-06",
+      "addedAt": "2026-11-05T12:49:00+00:00",
+      "org": "STJ",
+      "trib": "A identificar",
+      "category": "Jurisprudência",
+      "kind": "Notícia oficial (coleta automática)",
+      "impact": "A avaliar",
+      "status": "Efeitos jurídicos a verificar",
+      "stage": "Publicação identificada",
+      "summary": "STJ e CNJ assinam acordo de cooperação para compartilhamento de dados",
+      "source": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/05112026-STJ-e-CNJ-assinam-acordo-de-cooperacao-para-compartilhamento-de-dados-.aspx",
+      "sourceName": "STJ · publicação oficial",
+      "topics": [
+        "STJ"
+      ],
+      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
+      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
+      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
+      "now": "Publicação oficial identificada em 2026-11-05.",
+      "watch": "Conferir íntegra, vigência e próximos eventos.",
+      "sections": {
+        "aconteceu": "STJ publicou: STJ e CNJ assinam acordo de cooperação para compartilhamento de dados. STJ e CNJ assinam acordo de cooperação para compartilhamento de dados",
+        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
+        "discussao": "A controvérsia precisa de conferência na fonte integral.",
+        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
+        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
+        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
+        "aberto": "Confirmar regulamentações, recursos e pendências.",
+        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
+      },
+      "timeline": [
+        [
+          "2026-11-05",
+          "Publicação detectada",
+          "Efeitos jurídicos a conferir"
+        ]
+      ]
+    },
+    {
+      "id": "auto-7d8e31ff725220ef",
+      "automated": true,
+      "title": "STJ reúne tribunais para debater aplicação da relevância nos recursos especiais",
+      "date": "2026-11-05",
+      "published": "2026-11-05",
+      "checked": "2026-11-06",
+      "addedAt": "2026-11-05T12:24:00+00:00",
+      "org": "STJ",
+      "trib": "A identificar",
+      "category": "Jurisprudência",
+      "kind": "Notícia oficial (coleta automática)",
+      "impact": "A avaliar",
+      "status": "Efeitos jurídicos a verificar",
+      "stage": "Publicação identificada",
+      "summary": "STJ reúne tribunais para debater aplicação da relevância nos recursos especiais",
+      "source": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/05112026-STJ-reune-tribunais-para-debater-aplicacao-da-relevancia-nos-recursos-especiais.aspx",
+      "sourceName": "STJ · publicação oficial",
+      "topics": [
+        "STJ"
+      ],
+      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
+      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
+      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
+      "now": "Publicação oficial identificada em 2026-11-05.",
+      "watch": "Conferir íntegra, vigência e próximos eventos.",
+      "sections": {
+        "aconteceu": "STJ publicou: STJ reúne tribunais para debater aplicação da relevância nos recursos especiais. STJ reúne tribunais para debater aplicação da relevância nos recursos especiais",
+        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
+        "discussao": "A controvérsia precisa de conferência na fonte integral.",
+        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
+        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
+        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
+        "aberto": "Confirmar regulamentações, recursos e pendências.",
+        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
+      },
+      "timeline": [
+        [
+          "2026-11-05",
+          "Publicação detectada",
+          "Efeitos jurídicos a conferir"
+        ]
+      ]
+    },
+    {
+      "id": "auto-bc36a41383d78902",
+      "automated": true,
+      "title": "STJ apresenta novas ferramentas e programas para fortalecer atuação como corte de precedentes",
+      "date": "2026-11-05",
+      "published": "2026-11-05",
+      "checked": "2026-11-06",
+      "addedAt": "2026-11-05T12:06:00+00:00",
+      "org": "STJ",
+      "trib": "A identificar",
+      "category": "Jurisprudência",
+      "kind": "Notícia oficial (coleta automática)",
+      "impact": "A avaliar",
+      "status": "Efeitos jurídicos a verificar",
+      "stage": "Publicação identificada",
+      "summary": "STJ apresenta novas ferramentas e programas para fortalecer atuação como corte de precedentes",
+      "source": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/05112026-STJ-apresenta-novas-ferramentas-e-programas-para-fortalecer-atuacao-como-corte-de-precedentes.aspx",
+      "sourceName": "STJ · publicação oficial",
+      "topics": [
+        "STJ"
+      ],
+      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
+      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
+      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
+      "now": "Publicação oficial identificada em 2026-11-05.",
+      "watch": "Conferir íntegra, vigência e próximos eventos.",
+      "sections": {
+        "aconteceu": "STJ publicou: STJ apresenta novas ferramentas e programas para fortalecer atuação como corte de precedentes. STJ apresenta novas ferramentas e programas para fortalecer atuação como corte de precedentes",
+        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
+        "discussao": "A controvérsia precisa de conferência na fonte integral.",
+        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
+        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
+        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
+        "aberto": "Confirmar regulamentações, recursos e pendências.",
+        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
+      },
+      "timeline": [
+        [
+          "2026-11-05",
+          "Publicação detectada",
+          "Efeitos jurídicos a conferir"
+        ]
+      ]
+    },
     {
       "id": "auto-cc584e88da4d9959",
       "automated": true,
       "title": "Rádio Decidendi aborda relação entre os repetitivos e o novo modelo da relevância",
       "date": "2026-11-05",
       "published": "2026-11-05",
-      "checked": "2026-11-05",
+      "checked": "2026-11-06",
       "addedAt": "2026-11-05T07:50:00+00:00",
       "org": "STJ",
       "trib": "A identificar",
@@ -75,7 +339,7 @@
       "title": "STJ lança tutorial sobre nova página do calendário de sessões de julgamento",
       "date": "2026-11-05",
       "published": "2026-11-05",
-      "checked": "2026-11-05",
+      "checked": "2026-11-06",
       "addedAt": "2026-11-05T07:10:00+00:00",
       "org": "STJ",
       "trib": "A identificar",
@@ -119,7 +383,7 @@
       "title": "STJ realiza Encontro Nacional sobre a Relevância da Questão de Direito Federal, com transmissão ao vivo",
       "date": "2026-11-05",
       "published": "2026-11-05",
-      "checked": "2026-11-05",
+      "checked": "2026-11-06",
       "addedAt": "2026-11-05T06:00:00+00:00",
       "org": "STJ",
       "trib": "A identificar",
@@ -141,6 +405,358 @@
       "watch": "Conferir íntegra, vigência e próximos eventos.",
       "sections": {
         "aconteceu": "STJ publicou: STJ realiza Encontro Nacional sobre a Relevância da Questão de Direito Federal, com transmissão ao vivo. STJ realiza Encontro Nacional sobre a Relevância da Questão de Direito Federal, com transmissão ao vivo",
+        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
+        "discussao": "A controvérsia precisa de conferência na fonte integral.",
+        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
+        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
+        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
+        "aberto": "Confirmar regulamentações, recursos e pendências.",
+        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
+      },
+      "timeline": [
+        [
+          "2026-11-05",
+          "Publicação detectada",
+          "Efeitos jurídicos a conferir"
+        ]
+      ]
+    },
+    {
+      "id": "auto-fae27e3a789f1396",
+      "automated": true,
+      "title": "Em sessão em Plenário, Paim relaciona paz à vitória democrata nos EUA",
+      "date": "2026-11-05",
+      "published": "2026-11-05",
+      "checked": "2026-11-06",
+      "addedAt": "2026-11-05T21:36:43+00:00",
+      "org": "Agência Senado",
+      "trib": "A identificar",
+      "category": "Atualização tributária",
+      "kind": "Notícia oficial (coleta automática)",
+      "impact": "A avaliar",
+      "status": "Efeitos jurídicos a verificar",
+      "stage": "Publicação identificada",
+      "summary": "A paz mundial ganhou um novo fôlego com a vitória do Partido Democrata nas eleições dos EUA de meio de mandato, que ocorreram nesta semana. Foi o que afirmou o senador Paulo Paim (PT-RS) durante o lançamento da Frente Parlamentar pela Paz Mundial, nesta quinta-feira (5). Ele declarou que a conquista, por esse partido, da maioria das vagas no Senado e na Câmara daquele país, além da eleição de um grande número de governadores, representa um sinal de esperança para aqueles que acreditam na democracia, no diálogo e no respeito à vida. O objetivo da nova frente parlamentar é fortalecer a atuação do Senado brasileiro em defesa da paz, bem como estimular o engajamento em ações e políticas que favoreçam a justiça social. O grupo é presidido pelo senador gaúcho e tem como vice-presidente o senador Flávio Arns (PSB-PR). Na abertura do evento, Paim",
+      "source": "https://www12.senado.leg.br/noticias/materias/2026/11/05/em-sessao-em-plenario-paim-relaciona-paz-a-vitoria-democrata-nos-eua",
+      "sourceName": "Agência Senado · publicação oficial",
+      "topics": [
+        "Agência Senado"
+      ],
+      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
+      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
+      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
+      "now": "Publicação oficial identificada em 2026-11-05.",
+      "watch": "Conferir íntegra, vigência e próximos eventos.",
+      "sections": {
+        "aconteceu": "Agência Senado publicou: Em sessão em Plenário, Paim relaciona paz à vitória democrata nos EUA. A paz mundial ganhou um novo fôlego com a vitória do Partido Democrata nas eleições dos EUA de meio de mandato, que ocorreram nesta semana. Foi o que afirmou o senador Paulo Paim (PT-RS) durante o lançamento da Frente Parlamentar pela Paz Mundial, nesta quinta-feira (5). Ele declarou que a conquista, por esse partido, da maioria das vagas no Senado e na Câmara daquele país, além da eleição de um grande número de governadores, representa um sinal de esperança para aqueles que acreditam na democracia, no diálogo e no respeito à vida. O objetivo da nova frente parlamentar é fortalecer a atuação do Senado brasileiro em defesa da paz, bem como estimular o engajamento em ações e políticas que favoreçam a justiça social. O grupo é presidido pelo senador gaúcho e tem como vice-presidente o senador Flávio Arns (PSB-PR). Na abertura do evento, Paim",
+        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
+        "discussao": "A controvérsia precisa de conferência na fonte integral.",
+        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
+        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
+        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
+        "aberto": "Confirmar regulamentações, recursos e pendências.",
+        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
+      },
+      "timeline": [
+        [
+          "2026-11-05",
+          "Publicação detectada",
+          "Efeitos jurídicos a conferir"
+        ]
+      ]
+    },
+    {
+      "id": "auto-7ccfd1a74d57ebfc",
+      "automated": true,
+      "title": "Áudio: Aprovado em comissão mista relatório de MP que amplia crédito à exportação",
+      "date": "2026-11-05",
+      "published": "2026-11-05",
+      "checked": "2026-11-06",
+      "addedAt": "2026-11-05T20:34:08+00:00",
+      "org": "Agência Senado",
+      "trib": "A identificar",
+      "category": "Atualização tributária",
+      "kind": "Notícia oficial (coleta automática)",
+      "impact": "A avaliar",
+      "status": "Efeitos jurídicos a verificar",
+      "stage": "Publicação identificada",
+      "summary": "A comissão mista da medida provisória do Plano Brasil Soberano 3 (MPV 1.379/2026), que abre crédito de até R$ 18,5 bilhões para empresas exportadoras prejudicadas pelo “tarifaço” dos EUA e pelos conflitos no Oriente Médio, aprovou o relatório da senadora Leany Lemos (PSB-DF), favorável ao texto do governo. A medida precisa ser votada pela Câmara e pelo Senado até o dia 18 de novembro, para não perder a validade.",
+      "source": "https://www12.senado.leg.br/noticias/audios/2026/11/aprovado-em-comissao-mista-relatorio-de-mp-que-amplia-credito-a-exportacao",
+      "sourceName": "Agência Senado · publicação oficial",
+      "topics": [
+        "Agência Senado"
+      ],
+      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
+      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
+      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
+      "now": "Publicação oficial identificada em 2026-11-05.",
+      "watch": "Conferir íntegra, vigência e próximos eventos.",
+      "sections": {
+        "aconteceu": "Agência Senado publicou: Áudio: Aprovado em comissão mista relatório de MP que amplia crédito à exportação. A comissão mista da medida provisória do Plano Brasil Soberano 3 (MPV 1.379/2026), que abre crédito de até R$ 18,5 bilhões para empresas exportadoras prejudicadas pelo “tarifaço” dos EUA e pelos conflitos no Oriente Médio, aprovou o relatório da senadora Leany Lemos (PSB-DF), favorável ao texto do governo. A medida precisa ser votada pela Câmara e pelo Senado até o dia 18 de novembro, para não perder a validade.",
+        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
+        "discussao": "A controvérsia precisa de conferência na fonte integral.",
+        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
+        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
+        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
+        "aberto": "Confirmar regulamentações, recursos e pendências.",
+        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
+      },
+      "timeline": [
+        [
+          "2026-11-05",
+          "Publicação detectada",
+          "Efeitos jurídicos a conferir"
+        ]
+      ]
+    },
+    {
+      "id": "auto-6588d7755529796c",
+      "automated": true,
+      "title": "Áudio: Avança projeto que pune quem registra intimidade sexual de outra pessoa",
+      "date": "2026-11-05",
+      "published": "2026-11-05",
+      "checked": "2026-11-06",
+      "addedAt": "2026-11-05T20:33:53+00:00",
+      "org": "Agência Senado",
+      "trib": "A identificar",
+      "category": "Atualização tributária",
+      "kind": "Notícia oficial (coleta automática)",
+      "impact": "A avaliar",
+      "status": "Efeitos jurídicos a verificar",
+      "stage": "Publicação identificada",
+      "summary": "O projeto de lei que estabelece punições para quem registra sem autorização, com câmeras ou outros dispositivos eletrônicos, a intimidade sexual de outra pessoa avançou em sua tramitação no Senado: o projeto (PL 4.924/2023) recebeu parecer favorável da Comissão de Ciência e Tecnologia na quarta-feira (4) e agora segue para análise na Comissão de Constituição e Justiça e Cidadania. Ouça o áudio.",
+      "source": "https://www12.senado.leg.br/noticias/audios/2026/11/avanca-projeto-que-pune-quem-registra-intimidade-sexual-de-outra-pessoa",
+      "sourceName": "Agência Senado · publicação oficial",
+      "topics": [
+        "Agência Senado"
+      ],
+      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
+      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
+      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
+      "now": "Publicação oficial identificada em 2026-11-05.",
+      "watch": "Conferir íntegra, vigência e próximos eventos.",
+      "sections": {
+        "aconteceu": "Agência Senado publicou: Áudio: Avança projeto que pune quem registra intimidade sexual de outra pessoa. O projeto de lei que estabelece punições para quem registra sem autorização, com câmeras ou outros dispositivos eletrônicos, a intimidade sexual de outra pessoa avançou em sua tramitação no Senado: o projeto (PL 4.924/2023) recebeu parecer favorável da Comissão de Ciência e Tecnologia na quarta-feira (4) e agora segue para análise na Comissão de Constituição e Justiça e Cidadania. Ouça o áudio.",
+        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
+        "discussao": "A controvérsia precisa de conferência na fonte integral.",
+        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
+        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
+        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
+        "aberto": "Confirmar regulamentações, recursos e pendências.",
+        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
+      },
+      "timeline": [
+        [
+          "2026-11-05",
+          "Publicação detectada",
+          "Efeitos jurídicos a conferir"
+        ]
+      ]
+    },
+    {
+      "id": "auto-0e69ba801a68f53d",
+      "automated": true,
+      "title": "Áudio: Projeto traz novas regras para o acolhimento emergencial de crianças e adolescentes",
+      "date": "2026-11-05",
+      "published": "2026-11-05",
+      "checked": "2026-11-06",
+      "addedAt": "2026-11-05T20:04:04+00:00",
+      "org": "Agência Senado",
+      "trib": "A identificar",
+      "category": "Atualização tributária",
+      "kind": "Notícia oficial (coleta automática)",
+      "impact": "A avaliar",
+      "status": "Efeitos jurídicos a verificar",
+      "stage": "Publicação identificada",
+      "summary": "O projeto de lei que estabelece novas regras para o acolhimento emergencial de crianças e adolescentes (PL 1.341/2026) avançou em sua tramitação no Senado: o texto recebeu parecer favorável na Comissão de Direitos Humanos na quarta-feira (4) e segue para análise na Comissão de Constituição e Justiça. Ouça o áudio.",
+      "source": "https://www12.senado.leg.br/noticias/audios/2026/11/projeto-traz-novas-regras-para-o-acolhimento-emergencial-de-criancas-e-adolescentes",
+      "sourceName": "Agência Senado · publicação oficial",
+      "topics": [
+        "Agência Senado"
+      ],
+      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
+      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
+      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
+      "now": "Publicação oficial identificada em 2026-11-05.",
+      "watch": "Conferir íntegra, vigência e próximos eventos.",
+      "sections": {
+        "aconteceu": "Agência Senado publicou: Áudio: Projeto traz novas regras para o acolhimento emergencial de crianças e adolescentes. O projeto de lei que estabelece novas regras para o acolhimento emergencial de crianças e adolescentes (PL 1.341/2026) avançou em sua tramitação no Senado: o texto recebeu parecer favorável na Comissão de Direitos Humanos na quarta-feira (4) e segue para análise na Comissão de Constituição e Justiça. Ouça o áudio.",
+        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
+        "discussao": "A controvérsia precisa de conferência na fonte integral.",
+        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
+        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
+        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
+        "aberto": "Confirmar regulamentações, recursos e pendências.",
+        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
+      },
+      "timeline": [
+        [
+          "2026-11-05",
+          "Publicação detectada",
+          "Efeitos jurídicos a conferir"
+        ]
+      ]
+    },
+    {
+      "id": "auto-c6497101cab0f5e4",
+      "automated": true,
+      "title": "Comissão aprova ampliação de R$ 13,5 bilhões no crédito a exportadores",
+      "date": "2026-11-05",
+      "published": "2026-11-05",
+      "checked": "2026-11-06",
+      "addedAt": "2026-11-05T20:01:32+00:00",
+      "org": "Agência Senado",
+      "trib": "A identificar",
+      "category": "Atualização tributária",
+      "kind": "Notícia oficial (coleta automática)",
+      "impact": "A avaliar",
+      "status": "Efeitos jurídicos a verificar",
+      "stage": "Publicação identificada",
+      "summary": "A Comissão Mista da Medida Provisória (MP) 1.379/2026 aprovou nesta quinta-feira (5) a ampliação em até R$ 13,5 bilhões dos recursos do Plano Brasil Soberano destinados a empresas exportadoras e seus fornecedores. A proposta recebeu parecer favorável da senadora Leany Lemos (PSB-DF), com uma emenda, e segue para análise dos Plenários da Câmara dos Deputados e do Senado. A medida altera a Lei 15.473, de 2026, que criou linhas de financiamento para empresas afetadas por tarifas comerciais e instabilidades internacionais. Atualmente, o programa prevê até R$ 15 bilhões em recursos da União. Com a ampliação, o limite poderá chegar a R$ 28,5 bilhões. A tramitação do texto foi acelerada, explicou o senador Randolfe Rodrigues (PT-AP), vice-presidente da comissão, devido ao prazo exíguo até a perda de eficácia da MP: o próximo dia 18. Segundo Rand",
+      "source": "https://www12.senado.leg.br/noticias/materias/2026/11/05/comissao-aprova-ampliacao-de-r-13-5-bilhoes-no-credito-a-exportadores",
+      "sourceName": "Agência Senado · publicação oficial",
+      "topics": [
+        "Agência Senado"
+      ],
+      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
+      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
+      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
+      "now": "Publicação oficial identificada em 2026-11-05.",
+      "watch": "Conferir íntegra, vigência e próximos eventos.",
+      "sections": {
+        "aconteceu": "Agência Senado publicou: Comissão aprova ampliação de R$ 13,5 bilhões no crédito a exportadores. A Comissão Mista da Medida Provisória (MP) 1.379/2026 aprovou nesta quinta-feira (5) a ampliação em até R$ 13,5 bilhões dos recursos do Plano Brasil Soberano destinados a empresas exportadoras e seus fornecedores. A proposta recebeu parecer favorável da senadora Leany Lemos (PSB-DF), com uma emenda, e segue para análise dos Plenários da Câmara dos Deputados e do Senado. A medida altera a Lei 15.473, de 2026, que criou linhas de financiamento para empresas afetadas por tarifas comerciais e instabilidades internacionais. Atualmente, o programa prevê até R$ 15 bilhões em recursos da União. Com a ampliação, o limite poderá chegar a R$ 28,5 bilhões. A tramitação do texto foi acelerada, explicou o senador Randolfe Rodrigues (PT-AP), vice-presidente da comissão, devido ao prazo exíguo até a perda de eficácia da MP: o próximo dia 18. Segundo Rand",
+        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
+        "discussao": "A controvérsia precisa de conferência na fonte integral.",
+        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
+        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
+        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
+        "aberto": "Confirmar regulamentações, recursos e pendências.",
+        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
+      },
+      "timeline": [
+        [
+          "2026-11-05",
+          "Publicação detectada",
+          "Efeitos jurídicos a conferir"
+        ]
+      ]
+    },
+    {
+      "id": "auto-d3131eb508e3c74d",
+      "automated": true,
+      "title": "Áudio: Estatuto do Ribeirinho deve ter debate na Comissão de Meio Ambiente",
+      "date": "2026-11-05",
+      "published": "2026-11-05",
+      "checked": "2026-11-06",
+      "addedAt": "2026-11-05T20:00:52+00:00",
+      "org": "Agência Senado",
+      "trib": "A identificar",
+      "category": "Atualização tributária",
+      "kind": "Notícia oficial (coleta automática)",
+      "impact": "A avaliar",
+      "status": "Efeitos jurídicos a verificar",
+      "stage": "Publicação identificada",
+      "summary": "A Comissão de Meio Ambiente (CMA) poderá fazer um debate antes de votar o projeto do senador Jader Barbalho (MDB-PA) que cria o Estatuto do Ribeirinho, com diretrizes para a proteção dos direitos dessas comunidades (PL 2.916/2021). O senador Jaime Bagattoli (PL-RO) é um dos que defende a realização do debate, que ainda precisa ser aprovado pelo colegiado (REQ 13/2026 - CMA). Segundo ele, é preciso definir quem são os ribeirinhos, preservando também os direitos de pessoas que já tenham documentação nas áreas que serão consideradas. O relator da proposta na CMA é o senador Beto Faro (PT-PA).",
+      "source": "https://www12.senado.leg.br/noticias/audios/2026/11/estatuto-do-ribeirinho-deve-ter-debate-na-comissao-de-meio-ambiente",
+      "sourceName": "Agência Senado · publicação oficial",
+      "topics": [
+        "Agência Senado"
+      ],
+      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
+      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
+      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
+      "now": "Publicação oficial identificada em 2026-11-05.",
+      "watch": "Conferir íntegra, vigência e próximos eventos.",
+      "sections": {
+        "aconteceu": "Agência Senado publicou: Áudio: Estatuto do Ribeirinho deve ter debate na Comissão de Meio Ambiente. A Comissão de Meio Ambiente (CMA) poderá fazer um debate antes de votar o projeto do senador Jader Barbalho (MDB-PA) que cria o Estatuto do Ribeirinho, com diretrizes para a proteção dos direitos dessas comunidades (PL 2.916/2021). O senador Jaime Bagattoli (PL-RO) é um dos que defende a realização do debate, que ainda precisa ser aprovado pelo colegiado (REQ 13/2026 - CMA). Segundo ele, é preciso definir quem são os ribeirinhos, preservando também os direitos de pessoas que já tenham documentação nas áreas que serão consideradas. O relator da proposta na CMA é o senador Beto Faro (PT-PA).",
+        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
+        "discussao": "A controvérsia precisa de conferência na fonte integral.",
+        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
+        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
+        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
+        "aberto": "Confirmar regulamentações, recursos e pendências.",
+        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
+      },
+      "timeline": [
+        [
+          "2026-11-05",
+          "Publicação detectada",
+          "Efeitos jurídicos a conferir"
+        ]
+      ]
+    },
+    {
+      "id": "auto-6dbe5e34e9a733e2",
+      "automated": true,
+      "title": "Áudio: CSP analisa confisco de bens usados em crimes sexuais e tráfico de crianças",
+      "date": "2026-11-05",
+      "published": "2026-11-05",
+      "checked": "2026-11-06",
+      "addedAt": "2026-11-05T18:57:51+00:00",
+      "org": "Agência Senado",
+      "trib": "A identificar",
+      "category": "Atualização tributária",
+      "kind": "Notícia oficial (coleta automática)",
+      "impact": "A avaliar",
+      "status": "Efeitos jurídicos a verificar",
+      "stage": "Publicação identificada",
+      "summary": "A Comissão de Segurança Pública (CSP) pode votar o projeto de lei que autoriza o confisco e a destinação de bens móveis e imóveis utilizados na prática de crimes de tráfico e contra a dignidade sexual de crianças e adolescentes. O PL 1.668/2023, de autoria do senador Magno Malta (PL-ES) também pune expressamente quem cede imóveis ou apoia esses abusos. O relator da proposta na CSP é o senador Jorge Seif (PL-SC).",
+      "source": "https://www12.senado.leg.br/noticias/audios/2026/11/csp-analisa-confisco-de-bens-usados-em-crimes-sexuais-e-trafico-de-criancas",
+      "sourceName": "Agência Senado · publicação oficial",
+      "topics": [
+        "Agência Senado"
+      ],
+      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
+      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
+      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
+      "now": "Publicação oficial identificada em 2026-11-05.",
+      "watch": "Conferir íntegra, vigência e próximos eventos.",
+      "sections": {
+        "aconteceu": "Agência Senado publicou: Áudio: CSP analisa confisco de bens usados em crimes sexuais e tráfico de crianças. A Comissão de Segurança Pública (CSP) pode votar o projeto de lei que autoriza o confisco e a destinação de bens móveis e imóveis utilizados na prática de crimes de tráfico e contra a dignidade sexual de crianças e adolescentes. O PL 1.668/2023, de autoria do senador Magno Malta (PL-ES) também pune expressamente quem cede imóveis ou apoia esses abusos. O relator da proposta na CSP é o senador Jorge Seif (PL-SC).",
+        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
+        "discussao": "A controvérsia precisa de conferência na fonte integral.",
+        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
+        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
+        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
+        "aberto": "Confirmar regulamentações, recursos e pendências.",
+        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
+      },
+      "timeline": [
+        [
+          "2026-11-05",
+          "Publicação detectada",
+          "Efeitos jurídicos a conferir"
+        ]
+      ]
+    },
+    {
+      "id": "auto-ed61b7ccf7a5f505",
+      "automated": true,
+      "title": "Comissão de Relações Exteriores segue 'com atenção' crise no Paraguai",
+      "date": "2026-11-05",
+      "published": "2026-11-05",
+      "checked": "2026-11-06",
+      "addedAt": "2026-11-05T18:17:46+00:00",
+      "org": "Agência Senado",
+      "trib": "A identificar",
+      "category": "Atualização tributária",
+      "kind": "Notícia oficial (coleta automática)",
+      "impact": "A avaliar",
+      "status": "Efeitos jurídicos a verificar",
+      "stage": "Publicação identificada",
+      "summary": "O presidente da Comissão de Relações Exteriores (CRE), senador Nelsinho Trad (PSD-MS), informou por meio de nota que está acompanhando com atenção a crise que envolve o Paraguai. Na manhã desta quinta-feira (5), o presidente do Paraguai, Santiago Peña, anunciou sua renúncia. A decisão ocorreu logo após a oposição abrir um processo de impeachment contra ele pelo colapso do Ueno Bank, um banco digital do país, que deixou milhões de correntistas sem acesso a suas economias. Nelsinho também informa na nota que vai buscar informações junto ao Itamaraty e à Embaixada do Paraguai no Brasil sobre a situação dos brasileiros que vivem naquele país e os possíveis impactos econômicos na região de fronteira. O senador ainda diz esperar que o Paraguai supere o momento de crise, “preservando a confiança, a segurança jurídica e a parceria histórica que c",
+      "source": "https://www12.senado.leg.br/noticias/materias/2026/11/05/comissao-de-relacoes-exteriores-segue-com-atencao-crise-no-paraguai",
+      "sourceName": "Agência Senado · publicação oficial",
+      "topics": [
+        "Agência Senado"
+      ],
+      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
+      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
+      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
+      "now": "Publicação oficial identificada em 2026-11-05.",
+      "watch": "Conferir íntegra, vigência e próximos eventos.",
+      "sections": {
+        "aconteceu": "Agência Senado publicou: Comissão de Relações Exteriores segue 'com atenção' crise no Paraguai. O presidente da Comissão de Relações Exteriores (CRE), senador Nelsinho Trad (PSD-MS), informou por meio de nota que está acompanhando com atenção a crise que envolve o Paraguai. Na manhã desta quinta-feira (5), o presidente do Paraguai, Santiago Peña, anunciou sua renúncia. A decisão ocorreu logo após a oposição abrir um processo de impeachment contra ele pelo colapso do Ueno Bank, um banco digital do país, que deixou milhões de correntistas sem acesso a suas economias. Nelsinho também informa na nota que vai buscar informações junto ao Itamaraty e à Embaixada do Paraguai no Brasil sobre a situação dos brasileiros que vivem naquele país e os possíveis impactos econômicos na região de fronteira. O senador ainda diz esperar que o Paraguai supere o momento de crise, “preservando a confiança, a segurança jurídica e a parceria histórica que c",
         "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
         "discussao": "A controvérsia precisa de conferência na fonte integral.",
         "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
@@ -207,7 +823,7 @@
       "title": "Operação Faroeste: STJ condena mais uma desembargadora do TJBA e cassa aposentadoria",
       "date": "2026-11-04",
       "published": "2026-11-04",
-      "checked": "2026-11-05",
+      "checked": "2026-11-06",
       "addedAt": "2026-11-04T17:11:00+00:00",
       "org": "STJ",
       "trib": "A identificar",
@@ -251,7 +867,7 @@
       "title": "Ministro Og Fernandes lança livro sobre a história do STF em 10 de novembro",
       "date": "2026-11-04",
       "published": "2026-11-04",
-      "checked": "2026-11-05",
+      "checked": "2026-11-06",
       "addedAt": "2026-11-04T13:26:00+00:00",
       "org": "STJ",
       "trib": "A identificar",
@@ -295,7 +911,7 @@
       "title": "STJ fixa critérios para honorários por habilitação e impugnação de crédito em recuperação ou falência",
       "date": "2026-11-04",
       "published": "2026-11-04",
-      "checked": "2026-11-05",
+      "checked": "2026-11-06",
       "addedAt": "2026-11-04T07:10:00+00:00",
       "org": "STJ",
       "trib": "A identificar",
@@ -1483,7 +2099,7 @@
       "title": "STJ Notícias aborda decisão sobre alteração de paternidade em registro civil",
       "date": "2026-11-03",
       "published": "2026-11-03",
-      "checked": "2026-11-05",
+      "checked": "2026-11-06",
       "addedAt": "2026-11-03T14:48:00+00:00",
       "org": "STJ",
       "trib": "A identificar",
@@ -1527,7 +2143,7 @@
       "title": "Projeto do STJ e do PNUD para diversidade e fortalecimento da Justiça lança informativo mensal",
       "date": "2026-11-03",
       "published": "2026-11-03",
-      "checked": "2026-11-05",
+      "checked": "2026-11-06",
       "addedAt": "2026-11-03T11:55:00+00:00",
       "org": "STJ",
       "trib": "A identificar",
@@ -1571,7 +2187,7 @@
       "title": "STJ lança nova página de consulta processual com foco em acessibilidade e eficiência",
       "date": "2026-11-03",
       "published": "2026-11-03",
-      "checked": "2026-11-05",
+      "checked": "2026-11-06",
       "addedAt": "2026-11-03T08:00:00+00:00",
       "org": "STJ",
       "trib": "A identificar",
@@ -1615,7 +2231,7 @@
       "title": "Consulta à página de jurisprudência do STJ ajuda a evitar citações falsas geradas por IA",
       "date": "2026-11-03",
       "published": "2026-11-03",
-      "checked": "2026-11-05",
+      "checked": "2026-11-06",
       "addedAt": "2026-11-03T07:05:00+00:00",
       "org": "STJ",
       "trib": "A identificar",
@@ -1659,7 +2275,7 @@
       "title": "Terceira Seção define cinco teses repetitivas sobre a natureza e a quantidade de drogas no cálculo da pena por tráfico",
       "date": "2026-11-03",
       "published": "2026-11-03",
-      "checked": "2026-11-05",
+      "checked": "2026-11-06",
       "addedAt": "2026-11-03T06:50:00+00:00",
       "org": "STJ",
       "trib": "A identificar",
