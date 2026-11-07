@@ -1,7 +1,7 @@
 {
   "kind": "official-publication-feed",
-  "checkedAt": "2026-11-06T12:14:20+00:00",
-  "lastSuccessfulRun": "2026-11-06T12:14:20+00:00",
+  "checkedAt": "2026-11-07T12:02:31+00:00",
+  "lastSuccessfulRun": "2026-11-07T12:02:31+00:00",
   "sources": [
     {
       "org": "Receita Federal",
@@ -11,7 +11,7 @@
     {
       "org": "STJ",
       "ok": true,
-      "items": 15
+      "items": 0
     },
     {
       "org": "STJ · Informativo",
@@ -25,6 +25,446 @@
     }
   ],
   "entries": [
+    {
+      "id": "auto-acedec389c18c7e7",
+      "automated": true,
+      "title": "Áudio: Vai à CAE a isenção de tarifa de energia para usinas de biomassa de casca de arroz",
+      "date": "2026-11-06",
+      "published": "2026-11-06",
+      "checked": "2026-11-07",
+      "addedAt": "2026-11-06T21:38:42+00:00",
+      "org": "Agência Senado",
+      "trib": "A identificar",
+      "category": "Atualização tributária",
+      "kind": "Notícia oficial (coleta automática)",
+      "impact": "A avaliar",
+      "status": "Efeitos jurídicos a verificar",
+      "stage": "Publicação identificada",
+      "summary": "A Comissão de Agricultura e Reforma Agrária (CRA) aprovou o Projeto de Lei (PL) 5.861/2025, que prevê desconto integral na tarifa de energia elétrica para usinas que utilizam biomassa de casca de arroz na geração de eletricidade. O benefício contempla empresas em funcionamento e a energia destinada à comercialização e à autoprodução. A proposta busca incentivar o uso de fontes renováveis e reduzir impactos ambientais. O texto segue para análise da Comissão de Assuntos Econômicos (CAE).",
+      "source": "https://www12.senado.leg.br/noticias/audios/2026/11/cra-aprova-isencao-de-tarifa-de-energia-para-usinas-de-biomassa-de-casca-de-arroz",
+      "sourceName": "Agência Senado · publicação oficial",
+      "topics": [
+        "Agência Senado"
+      ],
+      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
+      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
+      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
+      "now": "Publicação oficial identificada em 2026-11-06.",
+      "watch": "Conferir íntegra, vigência e próximos eventos.",
+      "sections": {
+        "aconteceu": "Agência Senado publicou: Áudio: Vai à CAE a isenção de tarifa de energia para usinas de biomassa de casca de arroz. A Comissão de Agricultura e Reforma Agrária (CRA) aprovou o Projeto de Lei (PL) 5.861/2025, que prevê desconto integral na tarifa de energia elétrica para usinas que utilizam biomassa de casca de arroz na geração de eletricidade. O benefício contempla empresas em funcionamento e a energia destinada à comercialização e à autoprodução. A proposta busca incentivar o uso de fontes renováveis e reduzir impactos ambientais. O texto segue para análise da Comissão de Assuntos Econômicos (CAE).",
+        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
+        "discussao": "A controvérsia precisa de conferência na fonte integral.",
+        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
+        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
+        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
+        "aberto": "Confirmar regulamentações, recursos e pendências.",
+        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
+      },
+      "timeline": [
+        [
+          "2026-11-06",
+          "Publicação detectada",
+          "Efeitos jurídicos a conferir"
+        ]
+      ]
+    },
+    {
+      "id": "auto-20ee742a7029922c",
+      "automated": true,
+      "title": "Senado participa da 72ª edição da Feira do Livro de Porto Alegre",
+      "date": "2026-11-06",
+      "published": "2026-11-06",
+      "checked": "2026-11-07",
+      "addedAt": "2026-11-06T21:31:36+00:00",
+      "org": "Agência Senado",
+      "trib": "A identificar",
+      "category": "Atualização tributária",
+      "kind": "Notícia oficial (coleta automática)",
+      "impact": "A avaliar",
+      "status": "Efeitos jurídicos a verificar",
+      "stage": "Publicação identificada",
+      "summary": "O Senado participa da 72ª edição da Feira do Livro de Porto Alegre, que vai até o dia 15 de novembro, na Praça da Alfândega, no Centro Histórico da capital gaúcha. Com mais de 20 anos de participação, esta edição conta com o espaço O Senado na Praça, que apresenta ao público cerca de 230 títulos sobre legislação, história e literatura, além de promover lançamentos de livros e oficinas do programa e-Cidadania. O estande reúne mais de 11 mil exemplares, vendidos a preço de custo. A programação inclui atividades da Livraria do Senado e do Conselho Editorial, responsável pela publicação de obras clássicas e históricas. Na quinta-feira (5), foi realizada uma roda de conversa sobre o livro A Era Cientificista, com o autor, Luis Rosenfield, e o consultor do Senado Rafael Silveira e Silva, doutor em Ciência Política. A obra analisa a influência d",
+      "source": "https://www12.senado.leg.br/noticias/materias/2026/11/06/senado-participa-da-72a-edicao-da-feira-do-livro-de-porto-alegre",
+      "sourceName": "Agência Senado · publicação oficial",
+      "topics": [
+        "Agência Senado"
+      ],
+      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
+      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
+      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
+      "now": "Publicação oficial identificada em 2026-11-06.",
+      "watch": "Conferir íntegra, vigência e próximos eventos.",
+      "sections": {
+        "aconteceu": "Agência Senado publicou: Senado participa da 72ª edição da Feira do Livro de Porto Alegre. O Senado participa da 72ª edição da Feira do Livro de Porto Alegre, que vai até o dia 15 de novembro, na Praça da Alfândega, no Centro Histórico da capital gaúcha. Com mais de 20 anos de participação, esta edição conta com o espaço O Senado na Praça, que apresenta ao público cerca de 230 títulos sobre legislação, história e literatura, além de promover lançamentos de livros e oficinas do programa e-Cidadania. O estande reúne mais de 11 mil exemplares, vendidos a preço de custo. A programação inclui atividades da Livraria do Senado e do Conselho Editorial, responsável pela publicação de obras clássicas e históricas. Na quinta-feira (5), foi realizada uma roda de conversa sobre o livro A Era Cientificista, com o autor, Luis Rosenfield, e o consultor do Senado Rafael Silveira e Silva, doutor em Ciência Política. A obra analisa a influência d",
+        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
+        "discussao": "A controvérsia precisa de conferência na fonte integral.",
+        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
+        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
+        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
+        "aberto": "Confirmar regulamentações, recursos e pendências.",
+        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
+      },
+      "timeline": [
+        [
+          "2026-11-06",
+          "Publicação detectada",
+          "Efeitos jurídicos a conferir"
+        ]
+      ]
+    },
+    {
+      "id": "auto-ea0434f46e70d116",
+      "automated": true,
+      "title": "Plenário celebra 80 anos da Secretaria-Geral da Mesa na próxima terça",
+      "date": "2026-11-06",
+      "published": "2026-11-06",
+      "checked": "2026-11-07",
+      "addedAt": "2026-11-06T21:20:40+00:00",
+      "org": "Agência Senado",
+      "trib": "A identificar",
+      "category": "Atualização tributária",
+      "kind": "Notícia oficial (coleta automática)",
+      "impact": "A avaliar",
+      "status": "Efeitos jurídicos a verificar",
+      "stage": "Publicação identificada",
+      "summary": "Sessão especial nesta terça-feira (10) no Plenário celebrará os 80 anos da Secretaria-Geral da Mesa (SGM). A homenagem, marcada para as 10h, atende a um requerimento do presidente do Senado, Davi Alcolumbre. Criada em 1946, com a volta da democracia após o fim do Estado Novo, a Secretaria-Geral da Mesa é o órgão responsável por apoiar diretamente a Presidência e os parlamentares na condução do processo legislativo. A SGM dá suporte técnico às sessões no Plenário, às reuniões das comissões e aos encontros das lideranças partidárias no Senado e no Congresso Nacional. Ao longo de oito décadas, a SGM acompanhou a modernização do Parlamento: acompanhou a transição dos papéis e registros feitos à mão para o uso de sistemas eletrônicos e digitais de votação e acompanhamento de projetos. Exposição A programação do dia começa às 9h, no Salão Azul,",
+      "source": "https://www12.senado.leg.br/noticias/materias/2026/11/06/plenario-celebra-80-anos-da-secretaria-geral-da-mesa-na-proxima-terca",
+      "sourceName": "Agência Senado · publicação oficial",
+      "topics": [
+        "Agência Senado"
+      ],
+      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
+      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
+      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
+      "now": "Publicação oficial identificada em 2026-11-06.",
+      "watch": "Conferir íntegra, vigência e próximos eventos.",
+      "sections": {
+        "aconteceu": "Agência Senado publicou: Plenário celebra 80 anos da Secretaria-Geral da Mesa na próxima terça. Sessão especial nesta terça-feira (10) no Plenário celebrará os 80 anos da Secretaria-Geral da Mesa (SGM). A homenagem, marcada para as 10h, atende a um requerimento do presidente do Senado, Davi Alcolumbre. Criada em 1946, com a volta da democracia após o fim do Estado Novo, a Secretaria-Geral da Mesa é o órgão responsável por apoiar diretamente a Presidência e os parlamentares na condução do processo legislativo. A SGM dá suporte técnico às sessões no Plenário, às reuniões das comissões e aos encontros das lideranças partidárias no Senado e no Congresso Nacional. Ao longo de oito décadas, a SGM acompanhou a modernização do Parlamento: acompanhou a transição dos papéis e registros feitos à mão para o uso de sistemas eletrônicos e digitais de votação e acompanhamento de projetos. Exposição A programação do dia começa às 9h, no Salão Azul,",
+        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
+        "discussao": "A controvérsia precisa de conferência na fonte integral.",
+        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
+        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
+        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
+        "aberto": "Confirmar regulamentações, recursos e pendências.",
+        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
+      },
+      "timeline": [
+        [
+          "2026-11-06",
+          "Publicação detectada",
+          "Efeitos jurídicos a conferir"
+        ]
+      ]
+    },
+    {
+      "id": "auto-c7dd12e6251fd924",
+      "automated": true,
+      "title": "Áudio: Aprovado acordo na área de educação entre Brasil e Croácia",
+      "date": "2026-11-06",
+      "published": "2026-11-06",
+      "checked": "2026-11-07",
+      "addedAt": "2026-11-06T20:05:43+00:00",
+      "org": "Agência Senado",
+      "trib": "A identificar",
+      "category": "Atualização tributária",
+      "kind": "Notícia oficial (coleta automática)",
+      "impact": "A avaliar",
+      "status": "Efeitos jurídicos a verificar",
+      "stage": "Publicação identificada",
+      "summary": "O Senado ratificou acordo sobre cooperação em educação assinado por Brasil e Croácia em 2023 (PDL 344/2024). O documento prevê intercâmbio de estudantes, professores, pesquisadores, técnicos e especialistas; missões de educação e pesquisa; capacitação de docentes e pesquisadores; e cooperação entre equipes de pesquisa dos dois países. O texto vai à promulgação.",
+      "source": "https://www12.senado.leg.br/noticias/audios/2026/11/aprovado-acordo-na-area-de-educacao-entre-brasil-e-croacia",
+      "sourceName": "Agência Senado · publicação oficial",
+      "topics": [
+        "Agência Senado"
+      ],
+      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
+      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
+      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
+      "now": "Publicação oficial identificada em 2026-11-06.",
+      "watch": "Conferir íntegra, vigência e próximos eventos.",
+      "sections": {
+        "aconteceu": "Agência Senado publicou: Áudio: Aprovado acordo na área de educação entre Brasil e Croácia. O Senado ratificou acordo sobre cooperação em educação assinado por Brasil e Croácia em 2023 (PDL 344/2024). O documento prevê intercâmbio de estudantes, professores, pesquisadores, técnicos e especialistas; missões de educação e pesquisa; capacitação de docentes e pesquisadores; e cooperação entre equipes de pesquisa dos dois países. O texto vai à promulgação.",
+        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
+        "discussao": "A controvérsia precisa de conferência na fonte integral.",
+        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
+        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
+        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
+        "aberto": "Confirmar regulamentações, recursos e pendências.",
+        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
+      },
+      "timeline": [
+        [
+          "2026-11-06",
+          "Publicação detectada",
+          "Efeitos jurídicos a conferir"
+        ]
+      ]
+    },
+    {
+      "id": "auto-390b6bb999f9fba3",
+      "automated": true,
+      "title": "Áudio: Projeto amplia passe livre a pessoa com deficiência no transporte interestadual",
+      "date": "2026-11-06",
+      "published": "2026-11-06",
+      "checked": "2026-11-07",
+      "addedAt": "2026-11-06T19:36:13+00:00",
+      "org": "Agência Senado",
+      "trib": "A identificar",
+      "category": "Atualização tributária",
+      "kind": "Notícia oficial (coleta automática)",
+      "impact": "A avaliar",
+      "status": "Efeitos jurídicos a verificar",
+      "stage": "Publicação identificada",
+      "summary": "Um projeto de lei apresentado no Senado amplia o passe livre para pessoas com deficiência de baixa renda no transporte interestadual, A proposta (PL 5.512/2026) impede que a gratuidade seja limitada pela categoria ou pelo nível de conforto do transporte. Pelo texto, o benefício vale para ônibus, trens e embarcações regulares, sejam eles convencionais, executivos ou de outra categoria. O texto, de autoria do senador Wellington Fagundes (PL-MT), segue para análise das comissões do Senado.",
+      "source": "https://www12.senado.leg.br/noticias/audios/2026/11/projeto-amplia-passe-livre-a-pessoa-com-deficiencia-no-transporte-interestadual",
+      "sourceName": "Agência Senado · publicação oficial",
+      "topics": [
+        "Agência Senado"
+      ],
+      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
+      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
+      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
+      "now": "Publicação oficial identificada em 2026-11-06.",
+      "watch": "Conferir íntegra, vigência e próximos eventos.",
+      "sections": {
+        "aconteceu": "Agência Senado publicou: Áudio: Projeto amplia passe livre a pessoa com deficiência no transporte interestadual. Um projeto de lei apresentado no Senado amplia o passe livre para pessoas com deficiência de baixa renda no transporte interestadual, A proposta (PL 5.512/2026) impede que a gratuidade seja limitada pela categoria ou pelo nível de conforto do transporte. Pelo texto, o benefício vale para ônibus, trens e embarcações regulares, sejam eles convencionais, executivos ou de outra categoria. O texto, de autoria do senador Wellington Fagundes (PL-MT), segue para análise das comissões do Senado.",
+        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
+        "discussao": "A controvérsia precisa de conferência na fonte integral.",
+        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
+        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
+        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
+        "aberto": "Confirmar regulamentações, recursos e pendências.",
+        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
+      },
+      "timeline": [
+        [
+          "2026-11-06",
+          "Publicação detectada",
+          "Efeitos jurídicos a conferir"
+        ]
+      ]
+    },
+    {
+      "id": "auto-d5c5f48dfc263e16",
+      "automated": true,
+      "title": "Áudio: Regras para internação de adolescentes com dependência química seguem à CAS",
+      "date": "2026-11-06",
+      "published": "2026-11-06",
+      "checked": "2026-11-07",
+      "addedAt": "2026-11-06T18:41:06+00:00",
+      "org": "Agência Senado",
+      "trib": "A identificar",
+      "category": "Atualização tributária",
+      "kind": "Notícia oficial (coleta automática)",
+      "impact": "A avaliar",
+      "status": "Efeitos jurídicos a verificar",
+      "stage": "Publicação identificada",
+      "summary": "A Comissão de Assuntos Sociais (CAS) vai analisar o projeto que estabelece regras para a internação de adolescentes dependentes de drogas em situação de risco (PL 1.822/2024). O texto determina duas modalidades de internação: assistida, com o consentimento dos pais e do adolescente; e voluntária, solicitada pelos pais, responsáveis ou autoridade competente. Para a senadora Damares Alves (Republicanos-DF) — relatora no âmbito da Comissão de Direitos Humanos (CDH), onde o projeto foi aprovado esta semana — a proposta dá amparo legal a famílias que buscam socorro para filhos em risco de vida.",
+      "source": "https://www12.senado.leg.br/noticias/audios/2026/11/regras-para-internacao-de-adolescentes-com-dependencia-quimica-seguem-a-cas",
+      "sourceName": "Agência Senado · publicação oficial",
+      "topics": [
+        "Agência Senado"
+      ],
+      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
+      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
+      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
+      "now": "Publicação oficial identificada em 2026-11-06.",
+      "watch": "Conferir íntegra, vigência e próximos eventos.",
+      "sections": {
+        "aconteceu": "Agência Senado publicou: Áudio: Regras para internação de adolescentes com dependência química seguem à CAS. A Comissão de Assuntos Sociais (CAS) vai analisar o projeto que estabelece regras para a internação de adolescentes dependentes de drogas em situação de risco (PL 1.822/2024). O texto determina duas modalidades de internação: assistida, com o consentimento dos pais e do adolescente; e voluntária, solicitada pelos pais, responsáveis ou autoridade competente. Para a senadora Damares Alves (Republicanos-DF) — relatora no âmbito da Comissão de Direitos Humanos (CDH), onde o projeto foi aprovado esta semana — a proposta dá amparo legal a famílias que buscam socorro para filhos em risco de vida.",
+        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
+        "discussao": "A controvérsia precisa de conferência na fonte integral.",
+        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
+        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
+        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
+        "aberto": "Confirmar regulamentações, recursos e pendências.",
+        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
+      },
+      "timeline": [
+        [
+          "2026-11-06",
+          "Publicação detectada",
+          "Efeitos jurídicos a conferir"
+        ]
+      ]
+    },
+    {
+      "id": "auto-b4a5202d662b1168",
+      "automated": true,
+      "title": "Áudio: Projeto amplia participação feminina em concursos da segurança pública",
+      "date": "2026-11-06",
+      "published": "2026-11-06",
+      "checked": "2026-11-07",
+      "addedAt": "2026-11-06T18:34:27+00:00",
+      "org": "Agência Senado",
+      "trib": "A identificar",
+      "category": "Atualização tributária",
+      "kind": "Notícia oficial (coleta automática)",
+      "impact": "A avaliar",
+      "status": "Efeitos jurídicos a verificar",
+      "stage": "Publicação identificada",
+      "summary": "O Senado pode proibir a limitação de vagas para mulheres em concursos de algumas carreiras da segurança pública. O PL 1.722/2022 estabelece reserva de pelo menos 20% das vagas nos concursos das polícias militares e dos corpos de bombeiros militares para as mulheres. Para outras carreiras, como as polícias civis e penais, e as polícias institucionais do Poder Judiciário e do Ministério Público, o projeto proíbe a limitação de vagas para mulheres. A proposta, da senadora Daniella Ribeiro (PSDP-PB), foi aprovada na Comissão de Segurança Pública (CSP), onde a relatora foi a senadora Damares Alves (PL-DF), e aguarda votação no Plenário.",
+      "source": "https://www12.senado.leg.br/noticias/audios/2026/11/projeto-amplia-participacao-feminina-em-concursos-da-seguranca-publica",
+      "sourceName": "Agência Senado · publicação oficial",
+      "topics": [
+        "Agência Senado"
+      ],
+      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
+      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
+      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
+      "now": "Publicação oficial identificada em 2026-11-06.",
+      "watch": "Conferir íntegra, vigência e próximos eventos.",
+      "sections": {
+        "aconteceu": "Agência Senado publicou: Áudio: Projeto amplia participação feminina em concursos da segurança pública. O Senado pode proibir a limitação de vagas para mulheres em concursos de algumas carreiras da segurança pública. O PL 1.722/2022 estabelece reserva de pelo menos 20% das vagas nos concursos das polícias militares e dos corpos de bombeiros militares para as mulheres. Para outras carreiras, como as polícias civis e penais, e as polícias institucionais do Poder Judiciário e do Ministério Público, o projeto proíbe a limitação de vagas para mulheres. A proposta, da senadora Daniella Ribeiro (PSDP-PB), foi aprovada na Comissão de Segurança Pública (CSP), onde a relatora foi a senadora Damares Alves (PL-DF), e aguarda votação no Plenário.",
+        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
+        "discussao": "A controvérsia precisa de conferência na fonte integral.",
+        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
+        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
+        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
+        "aberto": "Confirmar regulamentações, recursos e pendências.",
+        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
+      },
+      "timeline": [
+        [
+          "2026-11-06",
+          "Publicação detectada",
+          "Efeitos jurídicos a conferir"
+        ]
+      ]
+    },
+    {
+      "id": "auto-578fc670832ba291",
+      "automated": true,
+      "title": "Áudio: Projeto prevê adaptação para atendimento de saúde digno a pessoas com obesidade",
+      "date": "2026-11-06",
+      "published": "2026-11-06",
+      "checked": "2026-11-07",
+      "addedAt": "2026-11-06T17:05:40+00:00",
+      "org": "Agência Senado",
+      "trib": "A identificar",
+      "category": "Atualização tributária",
+      "kind": "Notícia oficial (coleta automática)",
+      "impact": "A avaliar",
+      "status": "Efeitos jurídicos a verificar",
+      "stage": "Publicação identificada",
+      "summary": "O Senado analisa um projeto de lei que obriga os estabelecimentos que prestam serviços público e privado de saúde a adaptarem a estrutura física para garantir o acesso a pessoas com obesidade. Dados do Sistema de Vigilância de Fatores de Risco e Proteção para Doenças por Inquérito por Telefone (Vigitel), do Ministério da Saúde, indicam que em 2024 a proporção de adultos com obesidade nas capitais superou a marca de 25%. O PL 5.506/2026, da senadora Dra. Eudócia (PSDB-AL) ainda não foi distribuído para as comissões temáticas.",
+      "source": "https://www12.senado.leg.br/noticias/audios/2026/11/projeto-preve-adaptacao-para-atendimento-de-saude-digno-a-pessoas-com-obesidade",
+      "sourceName": "Agência Senado · publicação oficial",
+      "topics": [
+        "Agência Senado"
+      ],
+      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
+      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
+      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
+      "now": "Publicação oficial identificada em 2026-11-06.",
+      "watch": "Conferir íntegra, vigência e próximos eventos.",
+      "sections": {
+        "aconteceu": "Agência Senado publicou: Áudio: Projeto prevê adaptação para atendimento de saúde digno a pessoas com obesidade. O Senado analisa um projeto de lei que obriga os estabelecimentos que prestam serviços público e privado de saúde a adaptarem a estrutura física para garantir o acesso a pessoas com obesidade. Dados do Sistema de Vigilância de Fatores de Risco e Proteção para Doenças por Inquérito por Telefone (Vigitel), do Ministério da Saúde, indicam que em 2024 a proporção de adultos com obesidade nas capitais superou a marca de 25%. O PL 5.506/2026, da senadora Dra. Eudócia (PSDB-AL) ainda não foi distribuído para as comissões temáticas.",
+        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
+        "discussao": "A controvérsia precisa de conferência na fonte integral.",
+        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
+        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
+        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
+        "aberto": "Confirmar regulamentações, recursos e pendências.",
+        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
+      },
+      "timeline": [
+        [
+          "2026-11-06",
+          "Publicação detectada",
+          "Efeitos jurídicos a conferir"
+        ]
+      ]
+    },
+    {
+      "id": "auto-2ddac29a34307295",
+      "automated": true,
+      "title": "Vídeo: Senado Aprova: PEC da Segurança Pública",
+      "date": "2026-11-06",
+      "published": "2026-11-06",
+      "checked": "2026-11-07",
+      "addedAt": "2026-11-06T16:47:04+00:00",
+      "org": "Agência Senado",
+      "trib": "A identificar",
+      "category": "Atualização tributária",
+      "kind": "Notícia oficial (coleta automática)",
+      "impact": "A avaliar",
+      "status": "Efeitos jurídicos a verificar",
+      "stage": "Publicação identificada",
+      "summary": "O Senado aprovou na terça-feira (3) a PEC 18/2025, conhecida como PEC da Segurança Pública, que visa ampliar a integração entre os órgãos de segurança e fortalecer o combate ao crime organizado. A PEC também amplia a participação do governo federal no setor e traz medidas mais rigorosas contra integrantes de facções criminosas e milícias, proteção às vítimas e mais recursos para a segurança pública. Emendas que tratavam da redução da maioridade penal foram desmembradas do texto e passarão a tramitar como proposta autônoma. A PEC foi aprovada por unanimidade. Com isso, a emenda constitucional será promulgada. A Comissão de Ciência, Tecnologia, Inovação e Informática (CCT) aprovou na quarta-feira (4) projeto que garante ligações gratuitas, de telefones fixos ou celulares, para registrar reclamações e outras manifestações sobre serviços públ",
+      "source": "https://www12.senado.leg.br/noticias/videos/2026/11/senado-aprova-pec-da-seguranca-publica-1",
+      "sourceName": "Agência Senado · publicação oficial",
+      "topics": [
+        "Agência Senado"
+      ],
+      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
+      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
+      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
+      "now": "Publicação oficial identificada em 2026-11-06.",
+      "watch": "Conferir íntegra, vigência e próximos eventos.",
+      "sections": {
+        "aconteceu": "Agência Senado publicou: Vídeo: Senado Aprova: PEC da Segurança Pública. O Senado aprovou na terça-feira (3) a PEC 18/2025, conhecida como PEC da Segurança Pública, que visa ampliar a integração entre os órgãos de segurança e fortalecer o combate ao crime organizado. A PEC também amplia a participação do governo federal no setor e traz medidas mais rigorosas contra integrantes de facções criminosas e milícias, proteção às vítimas e mais recursos para a segurança pública. Emendas que tratavam da redução da maioridade penal foram desmembradas do texto e passarão a tramitar como proposta autônoma. A PEC foi aprovada por unanimidade. Com isso, a emenda constitucional será promulgada. A Comissão de Ciência, Tecnologia, Inovação e Informática (CCT) aprovou na quarta-feira (4) projeto que garante ligações gratuitas, de telefones fixos ou celulares, para registrar reclamações e outras manifestações sobre serviços públ",
+        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
+        "discussao": "A controvérsia precisa de conferência na fonte integral.",
+        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
+        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
+        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
+        "aberto": "Confirmar regulamentações, recursos e pendências.",
+        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
+      },
+      "timeline": [
+        [
+          "2026-11-06",
+          "Publicação detectada",
+          "Efeitos jurídicos a conferir"
+        ]
+      ]
+    },
+    {
+      "id": "auto-fd6baa08ee8e2ed9",
+      "automated": true,
+      "title": "Áudio: CCT vai debater desenvolvimento do mercado de drones no Brasil",
+      "date": "2026-11-06",
+      "published": "2026-11-06",
+      "checked": "2026-11-07",
+      "addedAt": "2026-11-06T15:50:20+00:00",
+      "org": "Agência Senado",
+      "trib": "A identificar",
+      "category": "Atualização tributária",
+      "kind": "Notícia oficial (coleta automática)",
+      "impact": "A avaliar",
+      "status": "Efeitos jurídicos a verificar",
+      "stage": "Publicação identificada",
+      "summary": "A Comissão de Ciência e Tecnologia (CCT) aprovou a realização de uma audiência pública sobre o Programa Nacional de Drones. O debate, previsto no REQ 96/2026 - CCT do senador Astronauta Marcos Pontes (PL-SP), vai reunir representantes de empresas e entidades do setor para discutir oportunidades e desafios do desenvolvimento dessa tecnologia no Brasil. A data ainda não foi marcada.",
+      "source": "https://www12.senado.leg.br/noticias/audios/2026/11/cct-vai-debater-desenvolvimento-do-mercado-de-drones-no-brasil",
+      "sourceName": "Agência Senado · publicação oficial",
+      "topics": [
+        "Agência Senado"
+      ],
+      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
+      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
+      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
+      "now": "Publicação oficial identificada em 2026-11-06.",
+      "watch": "Conferir íntegra, vigência e próximos eventos.",
+      "sections": {
+        "aconteceu": "Agência Senado publicou: Áudio: CCT vai debater desenvolvimento do mercado de drones no Brasil. A Comissão de Ciência e Tecnologia (CCT) aprovou a realização de uma audiência pública sobre o Programa Nacional de Drones. O debate, previsto no REQ 96/2026 - CCT do senador Astronauta Marcos Pontes (PL-SP), vai reunir representantes de empresas e entidades do setor para discutir oportunidades e desafios do desenvolvimento dessa tecnologia no Brasil. A data ainda não foi marcada.",
+        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
+        "discussao": "A controvérsia precisa de conferência na fonte integral.",
+        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
+        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
+        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
+        "aberto": "Confirmar regulamentações, recursos e pendências.",
+        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
+      },
+      "timeline": [
+        [
+          "2026-11-06",
+          "Publicação detectada",
+          "Efeitos jurídicos a conferir"
+        ]
+      ]
+    },
     {
       "id": "auto-64116831b92f238f",
       "automated": true,
