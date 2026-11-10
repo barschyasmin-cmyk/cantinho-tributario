@@ -1,7 +1,7 @@
 {
   "kind": "official-publication-feed",
-  "checkedAt": "2026-11-09T12:21:35+00:00",
-  "lastSuccessfulRun": "2026-11-09T12:21:35+00:00",
+  "checkedAt": "2026-11-10T12:12:21+00:00",
+  "lastSuccessfulRun": "2026-11-10T12:12:21+00:00",
   "sources": [
     {
       "org": "Receita Federal",
@@ -11,7 +11,7 @@
     {
       "org": "STJ",
       "ok": true,
-      "items": 20
+      "items": 25
     },
     {
       "org": "STJ · Informativo",
@@ -21,17 +21,281 @@
     {
       "org": "Agência Senado",
       "ok": true,
-      "items": 10
+      "items": 11
     }
   ],
   "entries": [
+    {
+      "id": "auto-874854b523a75774",
+      "automated": true,
+      "title": "STJ Notícias destaca decisão sobre moradia dos filhos após a separação dos pais",
+      "date": "2026-11-10",
+      "published": "2026-11-10",
+      "checked": "2026-11-10",
+      "addedAt": "2026-11-10T08:00:00+00:00",
+      "org": "STJ",
+      "trib": "A identificar",
+      "category": "Jurisprudência",
+      "kind": "Notícia oficial (coleta automática)",
+      "impact": "A avaliar",
+      "status": "Efeitos jurídicos a verificar",
+      "stage": "Publicação identificada",
+      "summary": "STJ Notícias destaca decisão sobre moradia dos filhos após a separação dos pais",
+      "source": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/10112026-STJ-Noticias-destaca-decisao-sobre-moradia-dos-filhos-apos-a-separacao-dos-pais.aspx",
+      "sourceName": "STJ · publicação oficial",
+      "topics": [
+        "STJ"
+      ],
+      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
+      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
+      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
+      "now": "Publicação oficial identificada em 2026-11-10.",
+      "watch": "Conferir íntegra, vigência e próximos eventos.",
+      "sections": {
+        "aconteceu": "STJ publicou: STJ Notícias destaca decisão sobre moradia dos filhos após a separação dos pais. STJ Notícias destaca decisão sobre moradia dos filhos após a separação dos pais",
+        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
+        "discussao": "A controvérsia precisa de conferência na fonte integral.",
+        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
+        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
+        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
+        "aberto": "Confirmar regulamentações, recursos e pendências.",
+        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
+      },
+      "timeline": [
+        [
+          "2026-11-10",
+          "Publicação detectada",
+          "Efeitos jurídicos a conferir"
+        ]
+      ]
+    },
+    {
+      "id": "auto-ee8f0fa92f4da3b0",
+      "automated": true,
+      "title": "STJ sedia lançamento do livro do ministro Og Fernandes sobre a história do STF nesta terça (10)",
+      "date": "2026-11-10",
+      "published": "2026-11-10",
+      "checked": "2026-11-10",
+      "addedAt": "2026-11-10T08:00:00+00:00",
+      "org": "STJ",
+      "trib": "A identificar",
+      "category": "Jurisprudência",
+      "kind": "Notícia oficial (coleta automática)",
+      "impact": "A avaliar",
+      "status": "Efeitos jurídicos a verificar",
+      "stage": "Publicação identificada",
+      "summary": "STJ sedia lançamento do livro do ministro Og Fernandes sobre a história do STF nesta terça (10)",
+      "source": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/09112026-STJ-sedia-lancamento-do-livro-do-ministro-Og-Fernandes-sobre-a-historia-do-STF-nesta-terca--10-.aspx",
+      "sourceName": "STJ · publicação oficial",
+      "topics": [
+        "STJ"
+      ],
+      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
+      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
+      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
+      "now": "Publicação oficial identificada em 2026-11-10.",
+      "watch": "Conferir íntegra, vigência e próximos eventos.",
+      "sections": {
+        "aconteceu": "STJ publicou: STJ sedia lançamento do livro do ministro Og Fernandes sobre a história do STF nesta terça (10). STJ sedia lançamento do livro do ministro Og Fernandes sobre a história do STF nesta terça (10)",
+        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
+        "discussao": "A controvérsia precisa de conferência na fonte integral.",
+        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
+        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
+        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
+        "aberto": "Confirmar regulamentações, recursos e pendências.",
+        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
+      },
+      "timeline": [
+        [
+          "2026-11-10",
+          "Publicação detectada",
+          "Efeitos jurídicos a conferir"
+        ]
+      ]
+    },
+    {
+      "id": "auto-7f08df24776b2450",
+      "automated": true,
+      "title": "Relevância: STJ discute se empresa com atividade secundária de transporte de carga pode creditar ICMS sobre combustível",
+      "date": "2026-11-10",
+      "published": "2026-11-10",
+      "checked": "2026-11-10",
+      "addedAt": "2026-11-10T07:10:00+00:00",
+      "org": "STJ",
+      "trib": "A identificar",
+      "category": "Jurisprudência",
+      "kind": "Notícia oficial (coleta automática)",
+      "impact": "A avaliar",
+      "status": "Efeitos jurídicos a verificar",
+      "stage": "Publicação identificada",
+      "summary": "Relevância: STJ discute se empresa com atividade secundária de transporte de carga pode creditar ICMS sobre combustível",
+      "source": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/10112026-Relevancia-STJ-discute-se-empresa-com-atividade-secundaria-de-transporte-de-carga-pode-creditar-ICMS-sobre.aspx",
+      "sourceName": "STJ · publicação oficial",
+      "topics": [
+        "STJ"
+      ],
+      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
+      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
+      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
+      "now": "Publicação oficial identificada em 2026-11-10.",
+      "watch": "Conferir íntegra, vigência e próximos eventos.",
+      "sections": {
+        "aconteceu": "STJ publicou: Relevância: STJ discute se empresa com atividade secundária de transporte de carga pode creditar ICMS sobre combustível. Relevância: STJ discute se empresa com atividade secundária de transporte de carga pode creditar ICMS sobre combustível",
+        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
+        "discussao": "A controvérsia precisa de conferência na fonte integral.",
+        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
+        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
+        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
+        "aberto": "Confirmar regulamentações, recursos e pendências.",
+        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
+      },
+      "timeline": [
+        [
+          "2026-11-10",
+          "Publicação detectada",
+          "Efeitos jurídicos a conferir"
+        ]
+      ]
+    },
+    {
+      "id": "auto-001ba0547409322d",
+      "automated": true,
+      "title": "Áudio: Selo Rosa e Estatuto do Aprendiz são destaques da pauta do Plenário",
+      "date": "2026-11-10",
+      "published": "2026-11-10",
+      "checked": "2026-11-10",
+      "addedAt": "2026-11-10T12:06:44+00:00",
+      "org": "Agência Senado",
+      "trib": "A identificar",
+      "category": "Atualização tributária",
+      "kind": "Notícia oficial (coleta automática)",
+      "impact": "A avaliar",
+      "status": "Efeitos jurídicos a verificar",
+      "stage": "Publicação identificada",
+      "summary": "O Plenário do Senado tem sessões deliberativas agendadas para terça (10) e quarta-feira (11). Na pauta, destacam-se o projeto de lei (PL 5.608/2023), que cria o Programa Empresa Rosa para incentivar a inclusão profissional de mulheres com câncer de mama, a ser votado nesta terça, e o (PL 6.461/2019), que cria o Estatuto do Aprendiz. Também está na pauta o projeto de lei complementar que permite à Agência Nacional do Petróleo, Gás Natural e Biocombustíveis (ANP) acessar dados fiscais de empresas do setor de combustíveis (PLP 109/2025).",
+      "source": "https://www12.senado.leg.br/noticias/audios/2026/11/selo-rosa-e-estatuto-do-aprendiz-sao-destaques-da-pauta-do-plenario",
+      "sourceName": "Agência Senado · publicação oficial",
+      "topics": [
+        "Agência Senado"
+      ],
+      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
+      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
+      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
+      "now": "Publicação oficial identificada em 2026-11-10.",
+      "watch": "Conferir íntegra, vigência e próximos eventos.",
+      "sections": {
+        "aconteceu": "Agência Senado publicou: Áudio: Selo Rosa e Estatuto do Aprendiz são destaques da pauta do Plenário. O Plenário do Senado tem sessões deliberativas agendadas para terça (10) e quarta-feira (11). Na pauta, destacam-se o projeto de lei (PL 5.608/2023), que cria o Programa Empresa Rosa para incentivar a inclusão profissional de mulheres com câncer de mama, a ser votado nesta terça, e o (PL 6.461/2019), que cria o Estatuto do Aprendiz. Também está na pauta o projeto de lei complementar que permite à Agência Nacional do Petróleo, Gás Natural e Biocombustíveis (ANP) acessar dados fiscais de empresas do setor de combustíveis (PLP 109/2025).",
+        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
+        "discussao": "A controvérsia precisa de conferência na fonte integral.",
+        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
+        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
+        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
+        "aberto": "Confirmar regulamentações, recursos e pendências.",
+        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
+      },
+      "timeline": [
+        [
+          "2026-11-10",
+          "Publicação detectada",
+          "Efeitos jurídicos a conferir"
+        ]
+      ]
+    },
+    {
+      "id": "auto-3943310b8dd2227a",
+      "automated": true,
+      "title": "STJ e CJF assinam contratos com Banco do Brasil e Caixa para cessão da folha de pagamento",
+      "date": "2026-11-09",
+      "published": "2026-11-09",
+      "checked": "2026-11-10",
+      "addedAt": "2026-11-09T20:13:00+00:00",
+      "org": "STJ",
+      "trib": "A identificar",
+      "category": "Jurisprudência",
+      "kind": "Notícia oficial (coleta automática)",
+      "impact": "A avaliar",
+      "status": "Efeitos jurídicos a verificar",
+      "stage": "Publicação identificada",
+      "summary": "STJ e CJF assinam contratos com Banco do Brasil e Caixa para cessão da folha de pagamento",
+      "source": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/09112026-STJ-e-CJF-assinam-contratos-com-Banco-do-Brasil-e-Caixa-para-cessao-da-folha-de-pagamento.aspx",
+      "sourceName": "STJ · publicação oficial",
+      "topics": [
+        "STJ"
+      ],
+      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
+      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
+      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
+      "now": "Publicação oficial identificada em 2026-11-09.",
+      "watch": "Conferir íntegra, vigência e próximos eventos.",
+      "sections": {
+        "aconteceu": "STJ publicou: STJ e CJF assinam contratos com Banco do Brasil e Caixa para cessão da folha de pagamento. STJ e CJF assinam contratos com Banco do Brasil e Caixa para cessão da folha de pagamento",
+        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
+        "discussao": "A controvérsia precisa de conferência na fonte integral.",
+        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
+        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
+        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
+        "aberto": "Confirmar regulamentações, recursos e pendências.",
+        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
+      },
+      "timeline": [
+        [
+          "2026-11-09",
+          "Publicação detectada",
+          "Efeitos jurídicos a conferir"
+        ]
+      ]
+    },
+    {
+      "id": "auto-f609a7e4c37aaa5f",
+      "automated": true,
+      "title": "STJ e PNUD lançam espaço multimídia Cabine Pontes durante Enajun no RJ",
+      "date": "2026-11-09",
+      "published": "2026-11-09",
+      "checked": "2026-11-10",
+      "addedAt": "2026-11-09T16:26:00+00:00",
+      "org": "STJ",
+      "trib": "A identificar",
+      "category": "Jurisprudência",
+      "kind": "Notícia oficial (coleta automática)",
+      "impact": "A avaliar",
+      "status": "Efeitos jurídicos a verificar",
+      "stage": "Publicação identificada",
+      "summary": "STJ e PNUD lançam espaço multimídia Cabine Pontes durante Enajun no RJ",
+      "source": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/09112026-STJ-e-PNUD-lancam-espaco-multimidia-Cabine-Pontes-durante-Enajun-no-RJ.aspx",
+      "sourceName": "STJ · publicação oficial",
+      "topics": [
+        "STJ"
+      ],
+      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
+      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
+      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
+      "now": "Publicação oficial identificada em 2026-11-09.",
+      "watch": "Conferir íntegra, vigência e próximos eventos.",
+      "sections": {
+        "aconteceu": "STJ publicou: STJ e PNUD lançam espaço multimídia Cabine Pontes durante Enajun no RJ. STJ e PNUD lançam espaço multimídia Cabine Pontes durante Enajun no RJ",
+        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
+        "discussao": "A controvérsia precisa de conferência na fonte integral.",
+        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
+        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
+        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
+        "aberto": "Confirmar regulamentações, recursos e pendências.",
+        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
+      },
+      "timeline": [
+        [
+          "2026-11-09",
+          "Publicação detectada",
+          "Efeitos jurídicos a conferir"
+        ]
+      ]
+    },
     {
       "id": "auto-4ff095ef184c6b37",
       "automated": true,
       "title": "Conheça o novo portal de precedentes qualificados do STJ",
       "date": "2026-11-09",
       "published": "2026-11-09",
-      "checked": "2026-11-09",
+      "checked": "2026-11-10",
       "addedAt": "2026-11-09T07:15:00+00:00",
       "org": "STJ",
       "trib": "A identificar",
@@ -75,7 +339,7 @@
       "title": "Primeira Seção reconhece relevância e suspende processos sobre revogação antecipada do benefício fiscal do Perse",
       "date": "2026-11-09",
       "published": "2026-11-09",
-      "checked": "2026-11-09",
+      "checked": "2026-11-10",
       "addedAt": "2026-11-09T07:00:00+00:00",
       "org": "STJ",
       "trib": "A identificar",
@@ -114,12 +378,452 @@
       ]
     },
     {
+      "id": "auto-609ae202fd8705b8",
+      "automated": true,
+      "title": "Conselho de Comunicação debate seu papel em remoção de conteúdos nas redes",
+      "date": "2026-11-09",
+      "published": "2026-11-09",
+      "checked": "2026-11-10",
+      "addedAt": "2026-11-09T21:36:05+00:00",
+      "org": "Agência Senado",
+      "trib": "A identificar",
+      "category": "Atualização tributária",
+      "kind": "Notícia oficial (coleta automática)",
+      "impact": "A avaliar",
+      "status": "Efeitos jurídicos a verificar",
+      "stage": "Publicação identificada",
+      "summary": "O Conselho de Comunicação Social (CCS) do Congresso Nacional discutiu, nesta segunda-feira (9), uma proposta que inclui o próprio colegiado entre os órgãos que devem ser comunicados pelas plataformas digitais quando retirarem conteúdos da internet sem ordem judicial. A proposta prevê que as plataformas façam a comunicação em até 24 horas, com o objetivo de dar transparência às decisões de moderação e evitar remoções excessivas que possam comprometer a liberdade de expressão. Durante o debate sobre o PL 3.283/2025, do senador Esperidião Amin (PP-SC), conselheiros levantaram dúvidas sobre a capacidade operacional do Conselho para receber e analisar essas informações. Convidado a analisar a proposta, o consultor legislativo do Senado Dilson do Carmo Lima Ferreira apontou problemas na redação do projeto. Segundo ele, não está claro quais tipo",
+      "source": "https://www12.senado.leg.br/noticias/materias/2026/11/09/conselho-de-comunicacao-debate-seu-papel-em-remocao-de-conteudos-nas-redes",
+      "sourceName": "Agência Senado · publicação oficial",
+      "topics": [
+        "Agência Senado"
+      ],
+      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
+      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
+      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
+      "now": "Publicação oficial identificada em 2026-11-09.",
+      "watch": "Conferir íntegra, vigência e próximos eventos.",
+      "sections": {
+        "aconteceu": "Agência Senado publicou: Conselho de Comunicação debate seu papel em remoção de conteúdos nas redes. O Conselho de Comunicação Social (CCS) do Congresso Nacional discutiu, nesta segunda-feira (9), uma proposta que inclui o próprio colegiado entre os órgãos que devem ser comunicados pelas plataformas digitais quando retirarem conteúdos da internet sem ordem judicial. A proposta prevê que as plataformas façam a comunicação em até 24 horas, com o objetivo de dar transparência às decisões de moderação e evitar remoções excessivas que possam comprometer a liberdade de expressão. Durante o debate sobre o PL 3.283/2025, do senador Esperidião Amin (PP-SC), conselheiros levantaram dúvidas sobre a capacidade operacional do Conselho para receber e analisar essas informações. Convidado a analisar a proposta, o consultor legislativo do Senado Dilson do Carmo Lima Ferreira apontou problemas na redação do projeto. Segundo ele, não está claro quais tipo",
+        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
+        "discussao": "A controvérsia precisa de conferência na fonte integral.",
+        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
+        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
+        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
+        "aberto": "Confirmar regulamentações, recursos e pendências.",
+        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
+      },
+      "timeline": [
+        [
+          "2026-11-09",
+          "Publicação detectada",
+          "Efeitos jurídicos a conferir"
+        ]
+      ]
+    },
+    {
+      "id": "auto-df10f65f3f8c76e1",
+      "automated": true,
+      "title": "Confúcio pede mais crédito para pequenos produtores da região amazônica",
+      "date": "2026-11-09",
+      "published": "2026-11-09",
+      "checked": "2026-11-10",
+      "addedAt": "2026-11-09T19:58:21+00:00",
+      "org": "Agência Senado",
+      "trib": "A identificar",
+      "category": "Atualização tributária",
+      "kind": "Notícia oficial (coleta automática)",
+      "impact": "A avaliar",
+      "status": "Efeitos jurídicos a verificar",
+      "stage": "Publicação identificada",
+      "summary": "O senador Confúcio Moura (MDB-RO) defendeu a ampliação do acesso ao crédito para agricultores familiares, pequenos produtores e trabalhadores autônomos da região amazônica. Em pronunciamento no Plenário nesta segunda-feira (9), ele criticou a concentração dos recursos do Fundo Constitucional de Financiamento do Norte (FNO) em grandes empresas e pediu mudanças na atuação do Banco da Amazônia para facilitar empréstimos a pequenos empreendedores. Confúcio também defendeu o fortalecimento do microcrédito produtivo solidário, com participação de cooperativas e agências de desenvolvimento capazes de atender pessoas que não têm acesso ao sistema bancário tradicional. — É necessário que o banco passe esse recurso para a gestão de quem cuida de gente simples: o mecânico que sai da oficina sujo de graxa; a costureira que precisa comprar uma máquina",
+      "source": "https://www12.senado.leg.br/noticias/materias/2026/11/09/confucio-pede-mais-credito-para-pequenos-produtores-da-regiao-amazonica",
+      "sourceName": "Agência Senado · publicação oficial",
+      "topics": [
+        "Agência Senado"
+      ],
+      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
+      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
+      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
+      "now": "Publicação oficial identificada em 2026-11-09.",
+      "watch": "Conferir íntegra, vigência e próximos eventos.",
+      "sections": {
+        "aconteceu": "Agência Senado publicou: Confúcio pede mais crédito para pequenos produtores da região amazônica. O senador Confúcio Moura (MDB-RO) defendeu a ampliação do acesso ao crédito para agricultores familiares, pequenos produtores e trabalhadores autônomos da região amazônica. Em pronunciamento no Plenário nesta segunda-feira (9), ele criticou a concentração dos recursos do Fundo Constitucional de Financiamento do Norte (FNO) em grandes empresas e pediu mudanças na atuação do Banco da Amazônia para facilitar empréstimos a pequenos empreendedores. Confúcio também defendeu o fortalecimento do microcrédito produtivo solidário, com participação de cooperativas e agências de desenvolvimento capazes de atender pessoas que não têm acesso ao sistema bancário tradicional. — É necessário que o banco passe esse recurso para a gestão de quem cuida de gente simples: o mecânico que sai da oficina sujo de graxa; a costureira que precisa comprar uma máquina",
+        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
+        "discussao": "A controvérsia precisa de conferência na fonte integral.",
+        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
+        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
+        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
+        "aberto": "Confirmar regulamentações, recursos e pendências.",
+        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
+      },
+      "timeline": [
+        [
+          "2026-11-09",
+          "Publicação detectada",
+          "Efeitos jurídicos a conferir"
+        ]
+      ]
+    },
+    {
+      "id": "auto-0ebd68d7e87472e6",
+      "automated": true,
+      "title": "Paulo Paim agradece a apoiadores e faz balanço de trajetória no Senado",
+      "date": "2026-11-09",
+      "published": "2026-11-09",
+      "checked": "2026-11-10",
+      "addedAt": "2026-11-09T19:49:07+00:00",
+      "org": "Agência Senado",
+      "trib": "A identificar",
+      "category": "Atualização tributária",
+      "kind": "Notícia oficial (coleta automática)",
+      "impact": "A avaliar",
+      "status": "Efeitos jurídicos a verificar",
+      "stage": "Publicação identificada",
+      "summary": "O senador Paulo Paim (PT-RS) fez, nesta segunda-feira (9), um balanço de sua trajetória política, em pronunciamento no Plenário do Senado. Ele agradeceu a colegas, trabalhadores, sindicalistas, movimentos sociais e eleitores que acompanharam o trabalho dele ao longo dos anos no Congresso Nacional. Paim anunciou em dezembro de 2025 que este seria o último ano mandato no Congresso, após quatro décadas de atividade. Antes de assumir o mandato de senador, em 2003, ele foi deputado federal, entre 1987 e 2003. Paim relembrou a infância em Caxias do Sul (RS), a influência dos pais, os impactos do racismo e o início da vida profissional como metalúrgico e sindicalista. Ao destacar sua atuação parlamentar, citou a participação na elaboração da Constituição de 1988 e a defesa de direitos sociais e trabalhistas. Também mencionou sua contribuição par",
+      "source": "https://www12.senado.leg.br/noticias/materias/2026/11/09/paulo-paim-agradece-a-apoiadores-e-faz-balanco-de-trajetoria-no-senado",
+      "sourceName": "Agência Senado · publicação oficial",
+      "topics": [
+        "Agência Senado"
+      ],
+      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
+      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
+      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
+      "now": "Publicação oficial identificada em 2026-11-09.",
+      "watch": "Conferir íntegra, vigência e próximos eventos.",
+      "sections": {
+        "aconteceu": "Agência Senado publicou: Paulo Paim agradece a apoiadores e faz balanço de trajetória no Senado. O senador Paulo Paim (PT-RS) fez, nesta segunda-feira (9), um balanço de sua trajetória política, em pronunciamento no Plenário do Senado. Ele agradeceu a colegas, trabalhadores, sindicalistas, movimentos sociais e eleitores que acompanharam o trabalho dele ao longo dos anos no Congresso Nacional. Paim anunciou em dezembro de 2025 que este seria o último ano mandato no Congresso, após quatro décadas de atividade. Antes de assumir o mandato de senador, em 2003, ele foi deputado federal, entre 1987 e 2003. Paim relembrou a infância em Caxias do Sul (RS), a influência dos pais, os impactos do racismo e o início da vida profissional como metalúrgico e sindicalista. Ao destacar sua atuação parlamentar, citou a participação na elaboração da Constituição de 1988 e a defesa de direitos sociais e trabalhistas. Também mencionou sua contribuição par",
+        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
+        "discussao": "A controvérsia precisa de conferência na fonte integral.",
+        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
+        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
+        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
+        "aberto": "Confirmar regulamentações, recursos e pendências.",
+        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
+      },
+      "timeline": [
+        [
+          "2026-11-09",
+          "Publicação detectada",
+          "Efeitos jurídicos a conferir"
+        ]
+      ]
+    },
+    {
+      "id": "auto-d5171360e5f3bc08",
+      "automated": true,
+      "title": "Plenário vota projeto que protege recursos para internet em escolas públicas",
+      "date": "2026-11-09",
+      "published": "2026-11-09",
+      "checked": "2026-11-10",
+      "addedAt": "2026-11-09T19:31:14+00:00",
+      "org": "Agência Senado",
+      "trib": "A identificar",
+      "category": "Atualização tributária",
+      "kind": "Notícia oficial (coleta automática)",
+      "impact": "A avaliar",
+      "status": "Efeitos jurídicos a verificar",
+      "stage": "Publicação identificada",
+      "summary": "O Plenário deve votar nesta quarta-feira (11) um projeto que busca melhorar o acesso à internet nas escolas públicas, sobretudo nas áreas rurais. Para isso, o PLP 230/2025 protege de bloqueios os recursos do Fundo de Universalização dos Serviços de Telecomunicações (Fust). A sessão, semipresencial, está prevista para começar às 14h. O projeto proíbe que o governo faça o contingenciamento (bloqueio temporário) das despesas do Fust. Também impede que o dinheiro do fundo seja reservado para emergências financeiras. A previsão de receitas do fundo para 2026 é de R$ 465 milhões. Para isso, o texto altera a Lei de Responsabilidade Fiscal e a Lei 9.998, de 2000, que criou o Fust. O projeto também determina que pelo menos 50% das receitas anuais do fundo sejam aplicadas em financiamentos reembolsáveis, ou seja, empréstimos que precisam ser devolv",
+      "source": "https://www12.senado.leg.br/noticias/materias/2026/11/09/plenario-vota-projeto-que-protege-recursos-para-internet-em-escolas-publicas",
+      "sourceName": "Agência Senado · publicação oficial",
+      "topics": [
+        "Agência Senado"
+      ],
+      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
+      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
+      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
+      "now": "Publicação oficial identificada em 2026-11-09.",
+      "watch": "Conferir íntegra, vigência e próximos eventos.",
+      "sections": {
+        "aconteceu": "Agência Senado publicou: Plenário vota projeto que protege recursos para internet em escolas públicas. O Plenário deve votar nesta quarta-feira (11) um projeto que busca melhorar o acesso à internet nas escolas públicas, sobretudo nas áreas rurais. Para isso, o PLP 230/2025 protege de bloqueios os recursos do Fundo de Universalização dos Serviços de Telecomunicações (Fust). A sessão, semipresencial, está prevista para começar às 14h. O projeto proíbe que o governo faça o contingenciamento (bloqueio temporário) das despesas do Fust. Também impede que o dinheiro do fundo seja reservado para emergências financeiras. A previsão de receitas do fundo para 2026 é de R$ 465 milhões. Para isso, o texto altera a Lei de Responsabilidade Fiscal e a Lei 9.998, de 2000, que criou o Fust. O projeto também determina que pelo menos 50% das receitas anuais do fundo sejam aplicadas em financiamentos reembolsáveis, ou seja, empréstimos que precisam ser devolv",
+        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
+        "discussao": "A controvérsia precisa de conferência na fonte integral.",
+        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
+        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
+        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
+        "aberto": "Confirmar regulamentações, recursos e pendências.",
+        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
+      },
+      "timeline": [
+        [
+          "2026-11-09",
+          "Publicação detectada",
+          "Efeitos jurídicos a conferir"
+        ]
+      ]
+    },
+    {
+      "id": "auto-0543c3966fd59776",
+      "automated": true,
+      "title": "Áudio: Aprovado acordo sobre regras para exposições internacionais",
+      "date": "2026-11-09",
+      "published": "2026-11-09",
+      "checked": "2026-11-10",
+      "addedAt": "2026-11-09T18:00:01+00:00",
+      "org": "Agência Senado",
+      "trib": "A identificar",
+      "category": "Atualização tributária",
+      "kind": "Notícia oficial (coleta automática)",
+      "impact": "A avaliar",
+      "status": "Efeitos jurídicos a verificar",
+      "stage": "Publicação identificada",
+      "summary": "O Senado aprovou o protocolo com novas regras para exposições internacionais e os direitos e deveres dos países organizadores e participantes (PDL 359/2024). O acordo permitirá que o Brasil recupere o direito de voto no Bureau Internacional de Exposições, suspenso desde 2015 devido ao acúmulo de contribuições em atraso. O texto vai à promulgação.",
+      "source": "https://www12.senado.leg.br/noticias/audios/2026/11/aprovado-acordo-sobre-regras-para-exposicoes-internacionais",
+      "sourceName": "Agência Senado · publicação oficial",
+      "topics": [
+        "Agência Senado"
+      ],
+      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
+      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
+      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
+      "now": "Publicação oficial identificada em 2026-11-09.",
+      "watch": "Conferir íntegra, vigência e próximos eventos.",
+      "sections": {
+        "aconteceu": "Agência Senado publicou: Áudio: Aprovado acordo sobre regras para exposições internacionais. O Senado aprovou o protocolo com novas regras para exposições internacionais e os direitos e deveres dos países organizadores e participantes (PDL 359/2024). O acordo permitirá que o Brasil recupere o direito de voto no Bureau Internacional de Exposições, suspenso desde 2015 devido ao acúmulo de contribuições em atraso. O texto vai à promulgação.",
+        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
+        "discussao": "A controvérsia precisa de conferência na fonte integral.",
+        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
+        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
+        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
+        "aberto": "Confirmar regulamentações, recursos e pendências.",
+        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
+      },
+      "timeline": [
+        [
+          "2026-11-09",
+          "Publicação detectada",
+          "Efeitos jurídicos a conferir"
+        ]
+      ]
+    },
+    {
+      "id": "auto-b9a4008757d811d1",
+      "automated": true,
+      "title": "Áudio: Contratação de associações de PcDs está na pauta da CCJ",
+      "date": "2026-11-09",
+      "published": "2026-11-09",
+      "checked": "2026-11-10",
+      "addedAt": "2026-11-09T17:49:05+00:00",
+      "org": "Agência Senado",
+      "trib": "A identificar",
+      "category": "Atualização tributária",
+      "kind": "Notícia oficial (coleta automática)",
+      "impact": "A avaliar",
+      "status": "Efeitos jurídicos a verificar",
+      "stage": "Publicação identificada",
+      "summary": "A Comissão de Constituição e Justiça (CCJ) pode votar nesta quarta-feira (11) projeto de lei que facilita a contratação direta pelo poder público de entidades de apoio a pessoas com deficiência (PL 1.498/2023). Do senador Flávio Arns (PSB-PR), a proposta elimina a exigência de que os serviços sejam prestados com exclusividade por trabalhadores com deficiência.",
+      "source": "https://www12.senado.leg.br/noticias/audios/2026/11/contratacao-de-associacoes-de-pcds-esta-na-pauta-da-ccj",
+      "sourceName": "Agência Senado · publicação oficial",
+      "topics": [
+        "Agência Senado"
+      ],
+      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
+      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
+      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
+      "now": "Publicação oficial identificada em 2026-11-09.",
+      "watch": "Conferir íntegra, vigência e próximos eventos.",
+      "sections": {
+        "aconteceu": "Agência Senado publicou: Áudio: Contratação de associações de PcDs está na pauta da CCJ. A Comissão de Constituição e Justiça (CCJ) pode votar nesta quarta-feira (11) projeto de lei que facilita a contratação direta pelo poder público de entidades de apoio a pessoas com deficiência (PL 1.498/2023). Do senador Flávio Arns (PSB-PR), a proposta elimina a exigência de que os serviços sejam prestados com exclusividade por trabalhadores com deficiência.",
+        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
+        "discussao": "A controvérsia precisa de conferência na fonte integral.",
+        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
+        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
+        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
+        "aberto": "Confirmar regulamentações, recursos e pendências.",
+        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
+      },
+      "timeline": [
+        [
+          "2026-11-09",
+          "Publicação detectada",
+          "Efeitos jurídicos a conferir"
+        ]
+      ]
+    },
+    {
+      "id": "auto-1805015e1528867a",
+      "automated": true,
+      "title": "Educação midiática é vital para exercer cidadania, dizem debatedores",
+      "date": "2026-11-09",
+      "published": "2026-11-09",
+      "checked": "2026-11-10",
+      "addedAt": "2026-11-09T17:45:06+00:00",
+      "org": "Agência Senado",
+      "trib": "A identificar",
+      "category": "Atualização tributária",
+      "kind": "Notícia oficial (coleta automática)",
+      "impact": "A avaliar",
+      "status": "Efeitos jurídicos a verificar",
+      "stage": "Publicação identificada",
+      "summary": "Compreender os interesses econômicos envolvidos na circulação de informações, identificar conteúdos manipulados e reconhecer situações de discriminação e violação de direitos são algumas das competências a serem desenvolvidas pela educação midiática. Foi o que disseram os participantes de audiência pública promovida nesta segunda-feira (9) pelo Conselho de Comunicação Social (CCS). Tema do debate, a educação midiática e o letramento digital envolvem a habilidade de participar do ambiente digital de forma crítica, ética, responsável e segura. A presidente do CCS, Patrícia Blanco, destacou a 4ª Semana Brasileira de Educação Midiática, de 4 a 11 de novembro, organizada pela Secretaria de Comunicação Social da Presidência da República e pelo Ministério da Educação. Segundo ela, as iniciativas de educação midiática estão se expandindo, e o Bra",
+      "source": "https://www12.senado.leg.br/noticias/materias/2026/11/09/educacao-midiatica-e-vital-para-exercer-cidadania-dizem-debatedores",
+      "sourceName": "Agência Senado · publicação oficial",
+      "topics": [
+        "Agência Senado"
+      ],
+      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
+      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
+      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
+      "now": "Publicação oficial identificada em 2026-11-09.",
+      "watch": "Conferir íntegra, vigência e próximos eventos.",
+      "sections": {
+        "aconteceu": "Agência Senado publicou: Educação midiática é vital para exercer cidadania, dizem debatedores. Compreender os interesses econômicos envolvidos na circulação de informações, identificar conteúdos manipulados e reconhecer situações de discriminação e violação de direitos são algumas das competências a serem desenvolvidas pela educação midiática. Foi o que disseram os participantes de audiência pública promovida nesta segunda-feira (9) pelo Conselho de Comunicação Social (CCS). Tema do debate, a educação midiática e o letramento digital envolvem a habilidade de participar do ambiente digital de forma crítica, ética, responsável e segura. A presidente do CCS, Patrícia Blanco, destacou a 4ª Semana Brasileira de Educação Midiática, de 4 a 11 de novembro, organizada pela Secretaria de Comunicação Social da Presidência da República e pelo Ministério da Educação. Segundo ela, as iniciativas de educação midiática estão se expandindo, e o Bra",
+        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
+        "discussao": "A controvérsia precisa de conferência na fonte integral.",
+        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
+        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
+        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
+        "aberto": "Confirmar regulamentações, recursos e pendências.",
+        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
+      },
+      "timeline": [
+        [
+          "2026-11-09",
+          "Publicação detectada",
+          "Efeitos jurídicos a conferir"
+        ]
+      ]
+    },
+    {
+      "id": "auto-bb813b12f4c139c8",
+      "automated": true,
+      "title": "Áudio: Atendimento presencial e educação digital para idosos estão em análise no Senado",
+      "date": "2026-11-09",
+      "published": "2026-11-09",
+      "checked": "2026-11-10",
+      "addedAt": "2026-11-09T17:38:19+00:00",
+      "org": "Agência Senado",
+      "trib": "A identificar",
+      "category": "Atualização tributária",
+      "kind": "Notícia oficial (coleta automática)",
+      "impact": "A avaliar",
+      "status": "Efeitos jurídicos a verificar",
+      "stage": "Publicação identificada",
+      "summary": "Diante do aumento do número de empresas que oferecem atendimento apenas por canais online, um projeto pronto para votação na Comissão de Ciência e Tecnologia (CCT) visa garantir o acesso das pessoas idosas a atendimento presencial em serviços considerados essenciais (PL 1.159/2026). A proposta é do senador Jader Barbalho (MDB-PA). O texto substitutivo do relator, senador Sérgio Petecão (PSD-AC), inclui no projeto a previsão de capacitação digital em cursos para a terceira idade.",
+      "source": "https://www12.senado.leg.br/noticias/audios/2026/11/atendimento-presencial-e-educacao-digital-para-idosos-estao-em-analise-no-senado",
+      "sourceName": "Agência Senado · publicação oficial",
+      "topics": [
+        "Agência Senado"
+      ],
+      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
+      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
+      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
+      "now": "Publicação oficial identificada em 2026-11-09.",
+      "watch": "Conferir íntegra, vigência e próximos eventos.",
+      "sections": {
+        "aconteceu": "Agência Senado publicou: Áudio: Atendimento presencial e educação digital para idosos estão em análise no Senado. Diante do aumento do número de empresas que oferecem atendimento apenas por canais online, um projeto pronto para votação na Comissão de Ciência e Tecnologia (CCT) visa garantir o acesso das pessoas idosas a atendimento presencial em serviços considerados essenciais (PL 1.159/2026). A proposta é do senador Jader Barbalho (MDB-PA). O texto substitutivo do relator, senador Sérgio Petecão (PSD-AC), inclui no projeto a previsão de capacitação digital em cursos para a terceira idade.",
+        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
+        "discussao": "A controvérsia precisa de conferência na fonte integral.",
+        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
+        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
+        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
+        "aberto": "Confirmar regulamentações, recursos e pendências.",
+        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
+      },
+      "timeline": [
+        [
+          "2026-11-09",
+          "Publicação detectada",
+          "Efeitos jurídicos a conferir"
+        ]
+      ]
+    },
+    {
+      "id": "auto-3db2da5ad0427d32",
+      "automated": true,
+      "title": "Áudio: CAE terá audiência sobre fim das bets",
+      "date": "2026-11-09",
+      "published": "2026-11-09",
+      "checked": "2026-11-10",
+      "addedAt": "2026-11-09T16:06:31+00:00",
+      "org": "Agência Senado",
+      "trib": "A identificar",
+      "category": "Atualização tributária",
+      "kind": "Notícia oficial (coleta automática)",
+      "impact": "A avaliar",
+      "status": "Efeitos jurídicos a verificar",
+      "stage": "Publicação identificada",
+      "summary": "A Comissão de Assuntos Econômicos (CAE) discutirá os impactos sociais e econômicos da proibição das bets. O debate foi pedido pelo senador Veneziano Vital do Rêgo (MDB-PB), que quer avaliar as consequências da medida provisória que trata do assunto (MP 1.394/2026). A data da audiência pública ainda será definida.",
+      "source": "https://www12.senado.leg.br/noticias/audios/2026/11/cae-tera-audiencia-sobre-fim-das-bets",
+      "sourceName": "Agência Senado · publicação oficial",
+      "topics": [
+        "Agência Senado"
+      ],
+      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
+      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
+      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
+      "now": "Publicação oficial identificada em 2026-11-09.",
+      "watch": "Conferir íntegra, vigência e próximos eventos.",
+      "sections": {
+        "aconteceu": "Agência Senado publicou: Áudio: CAE terá audiência sobre fim das bets. A Comissão de Assuntos Econômicos (CAE) discutirá os impactos sociais e econômicos da proibição das bets. O debate foi pedido pelo senador Veneziano Vital do Rêgo (MDB-PB), que quer avaliar as consequências da medida provisória que trata do assunto (MP 1.394/2026). A data da audiência pública ainda será definida.",
+        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
+        "discussao": "A controvérsia precisa de conferência na fonte integral.",
+        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
+        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
+        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
+        "aberto": "Confirmar regulamentações, recursos e pendências.",
+        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
+      },
+      "timeline": [
+        [
+          "2026-11-09",
+          "Publicação detectada",
+          "Efeitos jurídicos a conferir"
+        ]
+      ]
+    },
+    {
+      "id": "auto-5acc1b116eb16c3f",
+      "automated": true,
+      "title": "Atuação do grupo Lide é aplaudida em sessão especial no Senado",
+      "date": "2026-11-09",
+      "published": "2026-11-09",
+      "checked": "2026-11-10",
+      "addedAt": "2026-11-09T15:49:40+00:00",
+      "org": "Agência Senado",
+      "trib": "A identificar",
+      "category": "Atualização tributária",
+      "kind": "Notícia oficial (coleta automática)",
+      "impact": "A avaliar",
+      "status": "Efeitos jurídicos a verificar",
+      "stage": "Publicação identificada",
+      "summary": "O Senado homenageou em sessão especial nesta segunda-feira (9) o Grupo de Líderes Empresariais (Lide), que completou 25 anos. A solenidade foi pedida pelo senador Eduardo Gomes (PL-TO), por meio do requerimento (RQS) 999/2025. Os participantes da sessão destacaram a importância do setor empresarial para o desenvolvimento econômico e social do país. Eduardo Gomes ressaltou o papel do Lide na busca de soluções para os desafios do Brasil, especialmente diante dos avanços tecnológicos e das transformações econômicas. Segundo ele, a atuação do grupo estimula o debate de propostas e a busca de uma visão estratégica para o desenvolvimento nacional. — O grupo mobiliza o talento, a experiência e a capacidade de iniciativa do empresariado e promove o diálogo entre o setor produtivo, a comunidade acadêmica e o poder público em torno de uma agenda de",
+      "source": "https://www12.senado.leg.br/noticias/materias/2026/11/09/atuacao-do-grupo-lide-e-aplaudida-em-sessao-especial-no-senado",
+      "sourceName": "Agência Senado · publicação oficial",
+      "topics": [
+        "Agência Senado"
+      ],
+      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
+      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
+      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
+      "now": "Publicação oficial identificada em 2026-11-09.",
+      "watch": "Conferir íntegra, vigência e próximos eventos.",
+      "sections": {
+        "aconteceu": "Agência Senado publicou: Atuação do grupo Lide é aplaudida em sessão especial no Senado. O Senado homenageou em sessão especial nesta segunda-feira (9) o Grupo de Líderes Empresariais (Lide), que completou 25 anos. A solenidade foi pedida pelo senador Eduardo Gomes (PL-TO), por meio do requerimento (RQS) 999/2025. Os participantes da sessão destacaram a importância do setor empresarial para o desenvolvimento econômico e social do país. Eduardo Gomes ressaltou o papel do Lide na busca de soluções para os desafios do Brasil, especialmente diante dos avanços tecnológicos e das transformações econômicas. Segundo ele, a atuação do grupo estimula o debate de propostas e a busca de uma visão estratégica para o desenvolvimento nacional. — O grupo mobiliza o talento, a experiência e a capacidade de iniciativa do empresariado e promove o diálogo entre o setor produtivo, a comunidade acadêmica e o poder público em torno de uma agenda de",
+        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
+        "discussao": "A controvérsia precisa de conferência na fonte integral.",
+        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
+        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
+        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
+        "aberto": "Confirmar regulamentações, recursos e pendências.",
+        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
+      },
+      "timeline": [
+        [
+          "2026-11-09",
+          "Publicação detectada",
+          "Efeitos jurídicos a conferir"
+        ]
+      ]
+    },
+    {
       "id": "auto-9dd6038b676ade05",
       "automated": true,
       "title": "Og Fernandes: o juiz-jornalista encerra trajetória de quase cinco décadas dedicadas à Justiça",
       "date": "2026-11-08",
       "published": "2026-11-08",
-      "checked": "2026-11-09",
+      "checked": "2026-11-10",
       "addedAt": "2026-11-08T06:55:00+00:00",
       "org": "STJ",
       "trib": "A identificar",
@@ -163,7 +867,7 @@
       "title": "STJ lança livro sobre transformação digital e proteção das criações intelectuais",
       "date": "2026-11-06",
       "published": "2026-11-06",
-      "checked": "2026-11-09",
+      "checked": "2026-11-10",
       "addedAt": "2026-11-06T15:51:00+00:00",
       "org": "STJ",
       "trib": "A identificar",
@@ -207,7 +911,7 @@
       "title": "STJ recebe participantes do Caminhos para a Liderança de Mulheres na Justiça",
       "date": "2026-11-06",
       "published": "2026-11-06",
-      "checked": "2026-11-09",
+      "checked": "2026-11-10",
       "addedAt": "2026-11-06T12:22:00+00:00",
       "org": "STJ",
       "trib": "A identificar",
@@ -779,7 +1483,7 @@
       "title": "Tribunais debatem desafios e expectativas sobre o novo regime de relevância do STJ",
       "date": "2026-11-05",
       "published": "2026-11-05",
-      "checked": "2026-11-09",
+      "checked": "2026-11-10",
       "addedAt": "2026-11-05T20:54:00+00:00",
       "org": "STJ",
       "trib": "A identificar",
@@ -823,7 +1527,7 @@
       "title": "STJ e CNJ assinam acordo de cooperação para compartilhamento de dados",
       "date": "2026-11-05",
       "published": "2026-11-05",
-      "checked": "2026-11-09",
+      "checked": "2026-11-10",
       "addedAt": "2026-11-05T12:49:00+00:00",
       "org": "STJ",
       "trib": "A identificar",
@@ -867,7 +1571,7 @@
       "title": "STJ reúne tribunais para debater aplicação da relevância nos recursos especiais",
       "date": "2026-11-05",
       "published": "2026-11-05",
-      "checked": "2026-11-09",
+      "checked": "2026-11-10",
       "addedAt": "2026-11-05T12:24:00+00:00",
       "org": "STJ",
       "trib": "A identificar",
@@ -911,7 +1615,7 @@
       "title": "STJ apresenta novas ferramentas e programas para fortalecer atuação como corte de precedentes",
       "date": "2026-11-05",
       "published": "2026-11-05",
-      "checked": "2026-11-09",
+      "checked": "2026-11-10",
       "addedAt": "2026-11-05T12:06:00+00:00",
       "org": "STJ",
       "trib": "A identificar",
@@ -955,7 +1659,7 @@
       "title": "Rádio Decidendi aborda relação entre os repetitivos e o novo modelo da relevância",
       "date": "2026-11-05",
       "published": "2026-11-05",
-      "checked": "2026-11-09",
+      "checked": "2026-11-10",
       "addedAt": "2026-11-05T07:50:00+00:00",
       "org": "STJ",
       "trib": "A identificar",
@@ -999,7 +1703,7 @@
       "title": "STJ lança tutorial sobre nova página do calendário de sessões de julgamento",
       "date": "2026-11-05",
       "published": "2026-11-05",
-      "checked": "2026-11-09",
+      "checked": "2026-11-10",
       "addedAt": "2026-11-05T07:10:00+00:00",
       "org": "STJ",
       "trib": "A identificar",
@@ -1043,7 +1747,7 @@
       "title": "STJ realiza Encontro Nacional sobre a Relevância da Questão de Direito Federal, com transmissão ao vivo",
       "date": "2026-11-05",
       "published": "2026-11-05",
-      "checked": "2026-11-09",
+      "checked": "2026-11-10",
       "addedAt": "2026-11-05T06:00:00+00:00",
       "org": "STJ",
       "trib": "A identificar",
@@ -1483,7 +2187,7 @@
       "title": "Operação Faroeste: STJ condena mais uma desembargadora do TJBA e cassa aposentadoria",
       "date": "2026-11-04",
       "published": "2026-11-04",
-      "checked": "2026-11-09",
+      "checked": "2026-11-10",
       "addedAt": "2026-11-04T17:11:00+00:00",
       "org": "STJ",
       "trib": "A identificar",
@@ -1527,7 +2231,7 @@
       "title": "Ministro Og Fernandes lança livro sobre a história do STF em 10 de novembro",
       "date": "2026-11-04",
       "published": "2026-11-04",
-      "checked": "2026-11-09",
+      "checked": "2026-11-10",
       "addedAt": "2026-11-04T13:26:00+00:00",
       "org": "STJ",
       "trib": "A identificar",
@@ -1571,7 +2275,7 @@
       "title": "STJ fixa critérios para honorários por habilitação e impugnação de crédito em recuperação ou falência",
       "date": "2026-11-04",
       "published": "2026-11-04",
-      "checked": "2026-11-09",
+      "checked": "2026-11-10",
       "addedAt": "2026-11-04T07:10:00+00:00",
       "org": "STJ",
       "trib": "A identificar",
@@ -2759,7 +3463,7 @@
       "title": "STJ Notícias aborda decisão sobre alteração de paternidade em registro civil",
       "date": "2026-11-03",
       "published": "2026-11-03",
-      "checked": "2026-11-09",
+      "checked": "2026-11-10",
       "addedAt": "2026-11-03T14:48:00+00:00",
       "org": "STJ",
       "trib": "A identificar",
@@ -2803,7 +3507,7 @@
       "title": "Projeto do STJ e do PNUD para diversidade e fortalecimento da Justiça lança informativo mensal",
       "date": "2026-11-03",
       "published": "2026-11-03",
-      "checked": "2026-11-09",
+      "checked": "2026-11-10",
       "addedAt": "2026-11-03T11:55:00+00:00",
       "org": "STJ",
       "trib": "A identificar",
@@ -2847,7 +3551,7 @@
       "title": "STJ lança nova página de consulta processual com foco em acessibilidade e eficiência",
       "date": "2026-11-03",
       "published": "2026-11-03",
-      "checked": "2026-11-09",
+      "checked": "2026-11-10",
       "addedAt": "2026-11-03T08:00:00+00:00",
       "org": "STJ",
       "trib": "A identificar",
@@ -2856,7 +3560,7 @@
       "impact": "A avaliar",
       "status": "Efeitos jurídicos a verificar",
       "stage": "Publicação identificada",
-      "summary": "STJ lança nova página de consulta processual com foco em acessibilidade e eficiência",
+      "summary": "Página de pesquisa de processos está mais moderna e acessível",
       "source": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/03112026-STJ-lanca-nova-pagina-de-consulta-processual-com-foco-em-acessibilidade-e-eficiencia.aspx",
       "sourceName": "STJ · publicação oficial",
       "topics": [
@@ -2868,7 +3572,7 @@
       "now": "Publicação oficial identificada em 2026-11-03.",
       "watch": "Conferir íntegra, vigência e próximos eventos.",
       "sections": {
-        "aconteceu": "STJ publicou: STJ lança nova página de consulta processual com foco em acessibilidade e eficiência. STJ lança nova página de consulta processual com foco em acessibilidade e eficiência",
+        "aconteceu": "STJ publicou: STJ lança nova página de consulta processual com foco em acessibilidade e eficiência. Página de pesquisa de processos está mais moderna e acessível",
         "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
         "discussao": "A controvérsia precisa de conferência na fonte integral.",
         "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
@@ -2891,7 +3595,7 @@
       "title": "Consulta à página de jurisprudência do STJ ajuda a evitar citações falsas geradas por IA",
       "date": "2026-11-03",
       "published": "2026-11-03",
-      "checked": "2026-11-09",
+      "checked": "2026-11-10",
       "addedAt": "2026-11-03T07:05:00+00:00",
       "org": "STJ",
       "trib": "A identificar",
@@ -2935,7 +3639,7 @@
       "title": "Terceira Seção define cinco teses repetitivas sobre a natureza e a quantidade de drogas no cálculo da pena por tráfico",
       "date": "2026-11-03",
       "published": "2026-11-03",
-      "checked": "2026-11-09",
+      "checked": "2026-11-10",
       "addedAt": "2026-11-03T06:50:00+00:00",
       "org": "STJ",
       "trib": "A identificar",
