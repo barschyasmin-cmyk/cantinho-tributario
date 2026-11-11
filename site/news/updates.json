@@ -1,7 +1,7 @@
 {
   "kind": "official-publication-feed",
-  "checkedAt": "2026-11-10T12:12:21+00:00",
-  "lastSuccessfulRun": "2026-11-10T12:12:21+00:00",
+  "checkedAt": "2026-11-11T12:19:36+00:00",
+  "lastSuccessfulRun": "2026-11-11T12:19:36+00:00",
   "sources": [
     {
       "org": "Receita Federal",
@@ -11,7 +11,7 @@
     {
       "org": "STJ",
       "ok": true,
-      "items": 25
+      "items": 29
     },
     {
       "org": "STJ · Informativo",
@@ -21,17 +21,545 @@
     {
       "org": "Agência Senado",
       "ok": true,
-      "items": 11
+      "items": 13
     }
   ],
   "entries": [
+    {
+      "id": "auto-d4acab9a67ba7717",
+      "automated": true,
+      "title": "STJ lança, nesta quarta-feira (11), obra sobre transformação digital",
+      "date": "2026-11-11",
+      "published": "2026-11-11",
+      "checked": "2026-11-11",
+      "addedAt": "2026-11-11T08:05:00+00:00",
+      "org": "STJ",
+      "trib": "A identificar",
+      "category": "Jurisprudência",
+      "kind": "Notícia oficial (coleta automática)",
+      "impact": "A avaliar",
+      "status": "Efeitos jurídicos a verificar",
+      "stage": "Publicação identificada",
+      "summary": "STJ lança, nesta quarta-feira (11), obra sobre transformação digital",
+      "source": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/1111STJ-lanca--nesta-quarta-feira--11---obra-sobre-transformacao-digital-.aspx",
+      "sourceName": "STJ · publicação oficial",
+      "topics": [
+        "STJ"
+      ],
+      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
+      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
+      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
+      "now": "Publicação oficial identificada em 2026-11-11.",
+      "watch": "Conferir íntegra, vigência e próximos eventos.",
+      "sections": {
+        "aconteceu": "STJ publicou: STJ lança, nesta quarta-feira (11), obra sobre transformação digital. STJ lança, nesta quarta-feira (11), obra sobre transformação digital",
+        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
+        "discussao": "A controvérsia precisa de conferência na fonte integral.",
+        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
+        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
+        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
+        "aberto": "Confirmar regulamentações, recursos e pendências.",
+        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
+      },
+      "timeline": [
+        [
+          "2026-11-11",
+          "Publicação detectada",
+          "Efeitos jurídicos a conferir"
+        ]
+      ]
+    },
+    {
+      "id": "auto-e1b4212a6b94ccb0",
+      "automated": true,
+      "title": "Podcast STJ No Seu Dia debate direitos difusos e indenização por venda irregular de agrotóxicos",
+      "date": "2026-11-11",
+      "published": "2026-11-11",
+      "checked": "2026-11-11",
+      "addedAt": "2026-11-11T07:50:00+00:00",
+      "org": "STJ",
+      "trib": "A identificar",
+      "category": "Jurisprudência",
+      "kind": "Notícia oficial (coleta automática)",
+      "impact": "A avaliar",
+      "status": "Efeitos jurídicos a verificar",
+      "stage": "Publicação identificada",
+      "summary": "Podcast STJ No Seu Dia debate direitos difusos e indenização por venda irregular de agrotóxicos",
+      "source": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/11112026-Podcast-STJ-No-Seu-Dia-debate-direitos-difusos-e-indenizacao-por-venda-irregular-de-agrotoxicos.aspx",
+      "sourceName": "STJ · publicação oficial",
+      "topics": [
+        "STJ"
+      ],
+      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
+      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
+      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
+      "now": "Publicação oficial identificada em 2026-11-11.",
+      "watch": "Conferir íntegra, vigência e próximos eventos.",
+      "sections": {
+        "aconteceu": "STJ publicou: Podcast STJ No Seu Dia debate direitos difusos e indenização por venda irregular de agrotóxicos. Podcast STJ No Seu Dia debate direitos difusos e indenização por venda irregular de agrotóxicos",
+        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
+        "discussao": "A controvérsia precisa de conferência na fonte integral.",
+        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
+        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
+        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
+        "aberto": "Confirmar regulamentações, recursos e pendências.",
+        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
+      },
+      "timeline": [
+        [
+          "2026-11-11",
+          "Publicação detectada",
+          "Efeitos jurídicos a conferir"
+        ]
+      ]
+    },
+    {
+      "id": "auto-1a3285eb5715c118",
+      "automated": true,
+      "title": "Vídeo: CCJ debate nova classificação de desaparecimentos de pessoas em 3 tipos",
+      "date": "2026-11-11",
+      "published": "2026-11-11",
+      "checked": "2026-11-11",
+      "addedAt": "2026-11-11T11:52:04+00:00",
+      "org": "Agência Senado",
+      "trib": "A identificar",
+      "category": "Atualização tributária",
+      "kind": "Notícia oficial (coleta automática)",
+      "impact": "A avaliar",
+      "status": "Efeitos jurídicos a verificar",
+      "stage": "Publicação identificada",
+      "summary": "Uma classificação para os diferentes tipos de desaparecimento de pessoas está em pauta na Comissão de Constituição e Justiça (CCJ). Especialistas e convidados debateram ações a serem adotadas em cada caso, com o objetivo de fortalecer o enfrentamento dessa questão.",
+      "source": "https://www12.senado.leg.br/noticias/videos/2026/11/ccj-debate-nova-classificacao-de-desaparecimentos-de-pessoas-em-3-tipos",
+      "sourceName": "Agência Senado · publicação oficial",
+      "topics": [
+        "Agência Senado"
+      ],
+      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
+      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
+      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
+      "now": "Publicação oficial identificada em 2026-11-11.",
+      "watch": "Conferir íntegra, vigência e próximos eventos.",
+      "sections": {
+        "aconteceu": "Agência Senado publicou: Vídeo: CCJ debate nova classificação de desaparecimentos de pessoas em 3 tipos. Uma classificação para os diferentes tipos de desaparecimento de pessoas está em pauta na Comissão de Constituição e Justiça (CCJ). Especialistas e convidados debateram ações a serem adotadas em cada caso, com o objetivo de fortalecer o enfrentamento dessa questão.",
+        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
+        "discussao": "A controvérsia precisa de conferência na fonte integral.",
+        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
+        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
+        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
+        "aberto": "Confirmar regulamentações, recursos e pendências.",
+        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
+      },
+      "timeline": [
+        [
+          "2026-11-11",
+          "Publicação detectada",
+          "Efeitos jurídicos a conferir"
+        ]
+      ]
+    },
+    {
+      "id": "auto-079f5d8d44407047",
+      "automated": true,
+      "title": "Vídeo: Davi afirma que senadores do governo devem apresentar ajuste fiscal",
+      "date": "2026-11-11",
+      "published": "2026-11-11",
+      "checked": "2026-11-11",
+      "addedAt": "2026-11-11T11:51:31+00:00",
+      "org": "Agência Senado",
+      "trib": "A identificar",
+      "category": "Atualização tributária",
+      "kind": "Notícia oficial (coleta automática)",
+      "impact": "A avaliar",
+      "status": "Efeitos jurídicos a verificar",
+      "stage": "Publicação identificada",
+      "summary": "O presidente do Senado, Davi Alcolumbre (União-AP), afirmou na terça-feira (10) que uma proposta de ajuste fiscal deve ser apresentada por senadores da base governista nos próximos dias. Segundo Davi, o teor da proposta ainda está em discussão.",
+      "source": "https://www12.senado.leg.br/noticias/videos/2026/11/davi-afirma-que-senadores-do-governo-devem-apresentar-ajuste-fiscal",
+      "sourceName": "Agência Senado · publicação oficial",
+      "topics": [
+        "Agência Senado"
+      ],
+      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
+      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
+      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
+      "now": "Publicação oficial identificada em 2026-11-11.",
+      "watch": "Conferir íntegra, vigência e próximos eventos.",
+      "sections": {
+        "aconteceu": "Agência Senado publicou: Vídeo: Davi afirma que senadores do governo devem apresentar ajuste fiscal. O presidente do Senado, Davi Alcolumbre (União-AP), afirmou na terça-feira (10) que uma proposta de ajuste fiscal deve ser apresentada por senadores da base governista nos próximos dias. Segundo Davi, o teor da proposta ainda está em discussão.",
+        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
+        "discussao": "A controvérsia precisa de conferência na fonte integral.",
+        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
+        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
+        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
+        "aberto": "Confirmar regulamentações, recursos e pendências.",
+        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
+      },
+      "timeline": [
+        [
+          "2026-11-11",
+          "Publicação detectada",
+          "Efeitos jurídicos a conferir"
+        ]
+      ]
+    },
+    {
+      "id": "auto-1cc28ea6aabd981d",
+      "automated": true,
+      "title": "Vídeo: Comissão amplia beneficiários da MP de renegociação de dívidas rurais",
+      "date": "2026-11-11",
+      "published": "2026-11-11",
+      "checked": "2026-11-11",
+      "addedAt": "2026-11-11T11:47:24+00:00",
+      "org": "Agência Senado",
+      "trib": "A identificar",
+      "category": "Atualização tributária",
+      "kind": "Notícia oficial (coleta automática)",
+      "impact": "A avaliar",
+      "status": "Efeitos jurídicos a verificar",
+      "stage": "Publicação identificada",
+      "summary": "A comissão mista da medida provisória de renegociação das dívidas rurais aprovou na terça-feira (10) a ampliação dos beneficiários e a redução das exigências burocráticas para o acesso ao benefício. A iniciativa atende produtores afetados por eventos climáticos extremos. Após a aprovação do relatório na comissão especial, a MP 1.376/2026 será votada nos Plenários da Câmara e do Senado.",
+      "source": "https://www12.senado.leg.br/noticias/videos/2026/11/comissao-amplia-beneficiarios-da-mp-de-renegociacao-de-dividas-rurais",
+      "sourceName": "Agência Senado · publicação oficial",
+      "topics": [
+        "Agência Senado"
+      ],
+      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
+      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
+      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
+      "now": "Publicação oficial identificada em 2026-11-11.",
+      "watch": "Conferir íntegra, vigência e próximos eventos.",
+      "sections": {
+        "aconteceu": "Agência Senado publicou: Vídeo: Comissão amplia beneficiários da MP de renegociação de dívidas rurais. A comissão mista da medida provisória de renegociação das dívidas rurais aprovou na terça-feira (10) a ampliação dos beneficiários e a redução das exigências burocráticas para o acesso ao benefício. A iniciativa atende produtores afetados por eventos climáticos extremos. Após a aprovação do relatório na comissão especial, a MP 1.376/2026 será votada nos Plenários da Câmara e do Senado.",
+        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
+        "discussao": "A controvérsia precisa de conferência na fonte integral.",
+        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
+        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
+        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
+        "aberto": "Confirmar regulamentações, recursos e pendências.",
+        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
+      },
+      "timeline": [
+        [
+          "2026-11-11",
+          "Publicação detectada",
+          "Efeitos jurídicos a conferir"
+        ]
+      ]
+    },
+    {
+      "id": "auto-4f828e83b80ae389",
+      "automated": true,
+      "title": "Áudio: Assistência federal para municípios atualizarem plano diretor está na pauta da CDR",
+      "date": "2026-11-11",
+      "published": "2026-11-11",
+      "checked": "2026-11-11",
+      "addedAt": "2026-11-11T11:39:04+00:00",
+      "org": "Agência Senado",
+      "trib": "A identificar",
+      "category": "Atualização tributária",
+      "kind": "Notícia oficial (coleta automática)",
+      "impact": "A avaliar",
+      "status": "Efeitos jurídicos a verificar",
+      "stage": "Publicação identificada",
+      "summary": "A Comissão de Desenvolvimento Regional e Turismo (CDR) analisa o Projeto de Lei (PL) 3.020/2024, do senador Alessandro Vieira (MDB-SE), que prevê assistência técnica e financeira da União a municípios sem condições de elaborar ou atualizar seus planos diretores. A proposta, já aprovada pela Comissão de Assuntos Econômicos (CAE), trata do apoio a cidades com menor capacidade técnica e financeira para fazer o planejamento urbano. O texto aguarda votação na Comissão de Desenvolvimento Regional (CDR).",
+      "source": "https://www12.senado.leg.br/noticias/audios/2026/11/assistencia-federal-para-municipios-atualizarem-plano-diretor-esta-na-pauta-da-cdr",
+      "sourceName": "Agência Senado · publicação oficial",
+      "topics": [
+        "Agência Senado"
+      ],
+      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
+      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
+      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
+      "now": "Publicação oficial identificada em 2026-11-11.",
+      "watch": "Conferir íntegra, vigência e próximos eventos.",
+      "sections": {
+        "aconteceu": "Agência Senado publicou: Áudio: Assistência federal para municípios atualizarem plano diretor está na pauta da CDR. A Comissão de Desenvolvimento Regional e Turismo (CDR) analisa o Projeto de Lei (PL) 3.020/2024, do senador Alessandro Vieira (MDB-SE), que prevê assistência técnica e financeira da União a municípios sem condições de elaborar ou atualizar seus planos diretores. A proposta, já aprovada pela Comissão de Assuntos Econômicos (CAE), trata do apoio a cidades com menor capacidade técnica e financeira para fazer o planejamento urbano. O texto aguarda votação na Comissão de Desenvolvimento Regional (CDR).",
+        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
+        "discussao": "A controvérsia precisa de conferência na fonte integral.",
+        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
+        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
+        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
+        "aberto": "Confirmar regulamentações, recursos e pendências.",
+        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
+      },
+      "timeline": [
+        [
+          "2026-11-11",
+          "Publicação detectada",
+          "Efeitos jurídicos a conferir"
+        ]
+      ]
+    },
+    {
+      "id": "auto-6839104653ab4695",
+      "automated": true,
+      "title": "Áudio: Senado aprova projeto que permite à ANP acessar dados de notas fiscais",
+      "date": "2026-11-11",
+      "published": "2026-11-11",
+      "checked": "2026-11-11",
+      "addedAt": "2026-11-11T11:37:45+00:00",
+      "org": "Agência Senado",
+      "trib": "A identificar",
+      "category": "Atualização tributária",
+      "kind": "Notícia oficial (coleta automática)",
+      "impact": "A avaliar",
+      "status": "Efeitos jurídicos a verificar",
+      "stage": "Publicação identificada",
+      "summary": "O Plenário do Senado aprovou na terça-feira (10) projeto de lei complementar que permite à Agência Nacional do Petróleo, Gás Natural e Biocombustíveis (ANP) acessar dados fiscais de empresas do setor de combustíveis. Os dados serão protegidos por sigilo fiscal e poderão ser usados pela ANP em estudos técnicos e na regulação do setor. O PLP 109/2025 segue para sanção.",
+      "source": "https://www12.senado.leg.br/noticias/audios/2026/11/senado-aprova-projeto-que-permite-a-anp-acessar-dados-de-notas-fiscais",
+      "sourceName": "Agência Senado · publicação oficial",
+      "topics": [
+        "Agência Senado"
+      ],
+      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
+      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
+      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
+      "now": "Publicação oficial identificada em 2026-11-11.",
+      "watch": "Conferir íntegra, vigência e próximos eventos.",
+      "sections": {
+        "aconteceu": "Agência Senado publicou: Áudio: Senado aprova projeto que permite à ANP acessar dados de notas fiscais. O Plenário do Senado aprovou na terça-feira (10) projeto de lei complementar que permite à Agência Nacional do Petróleo, Gás Natural e Biocombustíveis (ANP) acessar dados fiscais de empresas do setor de combustíveis. Os dados serão protegidos por sigilo fiscal e poderão ser usados pela ANP em estudos técnicos e na regulação do setor. O PLP 109/2025 segue para sanção.",
+        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
+        "discussao": "A controvérsia precisa de conferência na fonte integral.",
+        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
+        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
+        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
+        "aberto": "Confirmar regulamentações, recursos e pendências.",
+        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
+      },
+      "timeline": [
+        [
+          "2026-11-11",
+          "Publicação detectada",
+          "Efeitos jurídicos a conferir"
+        ]
+      ]
+    },
+    {
+      "id": "auto-e0f0eb9bfeceaac8",
+      "automated": true,
+      "title": "Áudio: Cientistas apresentam iniciativas contra efeitos das mudanças climáticas",
+      "date": "2026-11-11",
+      "published": "2026-11-11",
+      "checked": "2026-11-11",
+      "addedAt": "2026-11-11T11:35:04+00:00",
+      "org": "Agência Senado",
+      "trib": "A identificar",
+      "category": "Atualização tributária",
+      "kind": "Notícia oficial (coleta automática)",
+      "impact": "A avaliar",
+      "status": "Efeitos jurídicos a verificar",
+      "stage": "Publicação identificada",
+      "summary": "A Comissão de Ciência, Tecnologia, Inovação e Informática (CCT) debateu nesta terça-feira (10) os efeitos das mudanças climáticas sobre as pessoas que moram em áreas vulneráveis. Representantes do poder público defenderam iniciativas para diminuir e prevenir esses impactos. Uma delas foi o Programa de Inteligência Térmica e Vigilância Ambiental em Periferias Brasileiras, da Universidade Federal do Paraná (UFPR), que monitora o calor extremo nos territórios mais vulneráveis.",
+      "source": "https://www12.senado.leg.br/noticias/audios/2026/11/cientistas-apresentam-iniciativas-contra-efeitos-das-mudancas-climaticas",
+      "sourceName": "Agência Senado · publicação oficial",
+      "topics": [
+        "Agência Senado"
+      ],
+      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
+      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
+      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
+      "now": "Publicação oficial identificada em 2026-11-11.",
+      "watch": "Conferir íntegra, vigência e próximos eventos.",
+      "sections": {
+        "aconteceu": "Agência Senado publicou: Áudio: Cientistas apresentam iniciativas contra efeitos das mudanças climáticas. A Comissão de Ciência, Tecnologia, Inovação e Informática (CCT) debateu nesta terça-feira (10) os efeitos das mudanças climáticas sobre as pessoas que moram em áreas vulneráveis. Representantes do poder público defenderam iniciativas para diminuir e prevenir esses impactos. Uma delas foi o Programa de Inteligência Térmica e Vigilância Ambiental em Periferias Brasileiras, da Universidade Federal do Paraná (UFPR), que monitora o calor extremo nos territórios mais vulneráveis.",
+        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
+        "discussao": "A controvérsia precisa de conferência na fonte integral.",
+        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
+        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
+        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
+        "aberto": "Confirmar regulamentações, recursos e pendências.",
+        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
+      },
+      "timeline": [
+        [
+          "2026-11-11",
+          "Publicação detectada",
+          "Efeitos jurídicos a conferir"
+        ]
+      ]
+    },
+    {
+      "id": "auto-26087c2e62ce7477",
+      "automated": true,
+      "title": "Áudio: Medida provisória prorroga programa Gás do Povo até 2031",
+      "date": "2026-11-11",
+      "published": "2026-11-11",
+      "checked": "2026-11-11",
+      "addedAt": "2026-11-11T11:32:14+00:00",
+      "org": "Agência Senado",
+      "trib": "A identificar",
+      "category": "Atualização tributária",
+      "kind": "Notícia oficial (coleta automática)",
+      "impact": "A avaliar",
+      "status": "Efeitos jurídicos a verificar",
+      "stage": "Publicação identificada",
+      "summary": "Uma medida provisória publicada na sexta-feira (6) prorroga até novembro de 2031 o programa Gás do Povo, que garante recargas gratuitas de botijões para famílias de baixa renda inscritas no Cadastro Único. O programa terminaria neste mês. Para 2027, a proposta de Orçamento prevê R$ 7,6 bilhões para o benefício. A MP 1.400/2026 será analisada por uma comissão mista de deputados e senadores e, depois, pelos plenários da Câmara e do Senado.",
+      "source": "https://www12.senado.leg.br/noticias/audios/2026/11/medida-provisoria-prorroga-programa-gas-do-povo-ate-2031",
+      "sourceName": "Agência Senado · publicação oficial",
+      "topics": [
+        "Agência Senado"
+      ],
+      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
+      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
+      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
+      "now": "Publicação oficial identificada em 2026-11-11.",
+      "watch": "Conferir íntegra, vigência e próximos eventos.",
+      "sections": {
+        "aconteceu": "Agência Senado publicou: Áudio: Medida provisória prorroga programa Gás do Povo até 2031. Uma medida provisória publicada na sexta-feira (6) prorroga até novembro de 2031 o programa Gás do Povo, que garante recargas gratuitas de botijões para famílias de baixa renda inscritas no Cadastro Único. O programa terminaria neste mês. Para 2027, a proposta de Orçamento prevê R$ 7,6 bilhões para o benefício. A MP 1.400/2026 será analisada por uma comissão mista de deputados e senadores e, depois, pelos plenários da Câmara e do Senado.",
+        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
+        "discussao": "A controvérsia precisa de conferência na fonte integral.",
+        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
+        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
+        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
+        "aberto": "Confirmar regulamentações, recursos e pendências.",
+        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
+      },
+      "timeline": [
+        [
+          "2026-11-11",
+          "Publicação detectada",
+          "Efeitos jurídicos a conferir"
+        ]
+      ]
+    },
+    {
+      "id": "auto-9b6798bdfed78321",
+      "automated": true,
+      "title": "Senadores negociam projeto de ajuste fiscal com Poder Executivo, diz Davi",
+      "date": "2026-11-11",
+      "published": "2026-11-11",
+      "checked": "2026-11-11",
+      "addedAt": "2026-11-11T01:17:24+00:00",
+      "org": "Agência Senado",
+      "trib": "A identificar",
+      "category": "Atualização tributária",
+      "kind": "Notícia oficial (coleta automática)",
+      "impact": "A avaliar",
+      "status": "Efeitos jurídicos a verificar",
+      "stage": "Publicação identificada",
+      "summary": "O presidente do Senado, Davi Alcolumbre, confirmou na noite desta terça-feira (10) que parlamentares aliados ao governo devem apresentar um projeto de lei complementar (PLP) para promover uma redução nas despesas do Poder Executivo. O texto está sendo negociado com os ministros da Fazenda, Dario Durigan, e do Planejamento, Bruno Moretti. Segundo Alcolumbre, participam da discussão sobre o ajuste fiscal os senadores Jaques Wagner (PT-BA), Eduardo Braga (MDB-AM) e Teresa Leitão (PT-PE), que é líder do Governo na Casa. O presidente do Senado confirmou que conversou com Dario Durigan sobre o tema nesta semana, mas disse não conhecer o teor da proposição. — Estou apenas sendo informado das tratativas em relação à possibilidade da votação ou da apresentação desse projeto de lei complementar. Conversei com ele (Durigan) sobre muitos assuntos de ",
+      "source": "https://www12.senado.leg.br/noticias/materias/2026/11/10/senadores-negociam-projeto-de-ajuste-fiscal-com-poder-executivo-diz-davi",
+      "sourceName": "Agência Senado · publicação oficial",
+      "topics": [
+        "Agência Senado"
+      ],
+      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
+      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
+      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
+      "now": "Publicação oficial identificada em 2026-11-11.",
+      "watch": "Conferir íntegra, vigência e próximos eventos.",
+      "sections": {
+        "aconteceu": "Agência Senado publicou: Senadores negociam projeto de ajuste fiscal com Poder Executivo, diz Davi. O presidente do Senado, Davi Alcolumbre, confirmou na noite desta terça-feira (10) que parlamentares aliados ao governo devem apresentar um projeto de lei complementar (PLP) para promover uma redução nas despesas do Poder Executivo. O texto está sendo negociado com os ministros da Fazenda, Dario Durigan, e do Planejamento, Bruno Moretti. Segundo Alcolumbre, participam da discussão sobre o ajuste fiscal os senadores Jaques Wagner (PT-BA), Eduardo Braga (MDB-AM) e Teresa Leitão (PT-PE), que é líder do Governo na Casa. O presidente do Senado confirmou que conversou com Dario Durigan sobre o tema nesta semana, mas disse não conhecer o teor da proposição. — Estou apenas sendo informado das tratativas em relação à possibilidade da votação ou da apresentação desse projeto de lei complementar. Conversei com ele (Durigan) sobre muitos assuntos de ",
+        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
+        "discussao": "A controvérsia precisa de conferência na fonte integral.",
+        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
+        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
+        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
+        "aberto": "Confirmar regulamentações, recursos e pendências.",
+        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
+      },
+      "timeline": [
+        [
+          "2026-11-11",
+          "Publicação detectada",
+          "Efeitos jurídicos a conferir"
+        ]
+      ]
+    },
+    {
+      "id": "auto-333e3ada3547066a",
+      "automated": true,
+      "title": "Sexta Turma aumenta pena dos sócios pela tragédia da Boate Kiss",
+      "date": "2026-11-10",
+      "published": "2026-11-10",
+      "checked": "2026-11-11",
+      "addedAt": "2026-11-10T20:14:00+00:00",
+      "org": "STJ",
+      "trib": "A identificar",
+      "category": "Jurisprudência",
+      "kind": "Notícia oficial (coleta automática)",
+      "impact": "A avaliar",
+      "status": "Efeitos jurídicos a verificar",
+      "stage": "Publicação identificada",
+      "summary": "Colegiado fixou penas dos empresários Elissandro Callegaro Spohr e Mauro Londero Hoffmann em 14 anos e quatro meses de prisão e 13 anos e dois meses de prisão, respectivamente, ambas em regime inicial fechado.",
+      "source": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/10112026-Sexta-Turma-aumenta-pena-dos-socios-pela-tragedia-da-Boate-Kiss.aspx",
+      "sourceName": "STJ · publicação oficial",
+      "topics": [
+        "STJ"
+      ],
+      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
+      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
+      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
+      "now": "Publicação oficial identificada em 2026-11-10.",
+      "watch": "Conferir íntegra, vigência e próximos eventos.",
+      "sections": {
+        "aconteceu": "STJ publicou: Sexta Turma aumenta pena dos sócios pela tragédia da Boate Kiss. Colegiado fixou penas dos empresários Elissandro Callegaro Spohr e Mauro Londero Hoffmann em 14 anos e quatro meses de prisão e 13 anos e dois meses de prisão, respectivamente, ambas em regime inicial fechado.",
+        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
+        "discussao": "A controvérsia precisa de conferência na fonte integral.",
+        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
+        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
+        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
+        "aberto": "Confirmar regulamentações, recursos e pendências.",
+        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
+      },
+      "timeline": [
+        [
+          "2026-11-10",
+          "Publicação detectada",
+          "Efeitos jurídicos a conferir"
+        ]
+      ]
+    },
+    {
+      "id": "auto-8c188d28a4d9a436",
+      "automated": true,
+      "title": "Ministros representam Enfam e STJ em conferência sobre formação de juízes na França",
+      "date": "2026-11-10",
+      "published": "2026-11-10",
+      "checked": "2026-11-11",
+      "addedAt": "2026-11-10T13:40:00+00:00",
+      "org": "STJ",
+      "trib": "A identificar",
+      "category": "Jurisprudência",
+      "kind": "Notícia oficial (coleta automática)",
+      "impact": "A avaliar",
+      "status": "Efeitos jurídicos a verificar",
+      "stage": "Publicação identificada",
+      "summary": "Ministros representam Enfam e STJ em conferência sobre formação de juízes na França",
+      "source": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/10112026-Ministros-representam-Enfam-e-STJ-em-conferencia-sobre-formacao-de-juizes-na-Franca-.aspx",
+      "sourceName": "STJ · publicação oficial",
+      "topics": [
+        "STJ"
+      ],
+      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
+      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
+      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
+      "now": "Publicação oficial identificada em 2026-11-10.",
+      "watch": "Conferir íntegra, vigência e próximos eventos.",
+      "sections": {
+        "aconteceu": "STJ publicou: Ministros representam Enfam e STJ em conferência sobre formação de juízes na França. Ministros representam Enfam e STJ em conferência sobre formação de juízes na França",
+        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
+        "discussao": "A controvérsia precisa de conferência na fonte integral.",
+        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
+        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
+        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
+        "aberto": "Confirmar regulamentações, recursos e pendências.",
+        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
+      },
+      "timeline": [
+        [
+          "2026-11-10",
+          "Publicação detectada",
+          "Efeitos jurídicos a conferir"
+        ]
+      ]
+    },
     {
       "id": "auto-874854b523a75774",
       "automated": true,
       "title": "STJ Notícias destaca decisão sobre moradia dos filhos após a separação dos pais",
       "date": "2026-11-10",
       "published": "2026-11-10",
-      "checked": "2026-11-10",
+      "checked": "2026-11-11",
       "addedAt": "2026-11-10T08:00:00+00:00",
       "org": "STJ",
       "trib": "A identificar",
@@ -75,7 +603,7 @@
       "title": "STJ sedia lançamento do livro do ministro Og Fernandes sobre a história do STF nesta terça (10)",
       "date": "2026-11-10",
       "published": "2026-11-10",
-      "checked": "2026-11-10",
+      "checked": "2026-11-11",
       "addedAt": "2026-11-10T08:00:00+00:00",
       "org": "STJ",
       "trib": "A identificar",
@@ -119,7 +647,7 @@
       "title": "Relevância: STJ discute se empresa com atividade secundária de transporte de carga pode creditar ICMS sobre combustível",
       "date": "2026-11-10",
       "published": "2026-11-10",
-      "checked": "2026-11-10",
+      "checked": "2026-11-11",
       "addedAt": "2026-11-10T07:10:00+00:00",
       "org": "STJ",
       "trib": "A identificar",
@@ -141,6 +669,226 @@
       "watch": "Conferir íntegra, vigência e próximos eventos.",
       "sections": {
         "aconteceu": "STJ publicou: Relevância: STJ discute se empresa com atividade secundária de transporte de carga pode creditar ICMS sobre combustível. Relevância: STJ discute se empresa com atividade secundária de transporte de carga pode creditar ICMS sobre combustível",
+        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
+        "discussao": "A controvérsia precisa de conferência na fonte integral.",
+        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
+        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
+        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
+        "aberto": "Confirmar regulamentações, recursos e pendências.",
+        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
+      },
+      "timeline": [
+        [
+          "2026-11-10",
+          "Publicação detectada",
+          "Efeitos jurídicos a conferir"
+        ]
+      ]
+    },
+    {
+      "id": "auto-42d3dd6dce5afe00",
+      "automated": true,
+      "title": "Zequinha Marinho defende medida provisória de renegociação de dívidas rurais",
+      "date": "2026-11-10",
+      "published": "2026-11-10",
+      "checked": "2026-11-11",
+      "addedAt": "2026-11-10T23:40:21+00:00",
+      "org": "Agência Senado",
+      "trib": "A identificar",
+      "category": "Atualização tributária",
+      "kind": "Notícia oficial (coleta automática)",
+      "impact": "A avaliar",
+      "status": "Efeitos jurídicos a verificar",
+      "stage": "Publicação identificada",
+      "summary": "O senador Zequinha Marinho (Podemos-PA), em pronunciamento no Plenário nesta terça-feira (10), defendeu a aprovação da MP 1.376/2026, medida provisória que trata da renegociação de dívidas de produtores rurais. Ele alertou para o prazo dessa MP, que se encerra nesta quarta-feira (11). A matéria foi aprovada nesta terça-feira na comissão mista (formada por senadores e deputados federais) encarregada de analisá-la. Agora o texto segue para votação nos Plenários da Câmara e do Senado. — Dos cerca de R$ 100 bilhões anunciados pela medida provisória do governo federal para atender os produtores, apenas R$ 14,34 bilhões foram efetivamente renegociados, distribuídos em pouco mais de 27 mil operações. Em outras palavras, somente 14% do resultado esperado foi alcançado. Ficam 86% em aberto — disse. Zequinha defendeu mudanças no texto, com a inclus",
+      "source": "https://www12.senado.leg.br/noticias/materias/2026/11/10/zequinha-marinho-defende-medida-provisoria-de-renegociacao-de-dividas-rurais",
+      "sourceName": "Agência Senado · publicação oficial",
+      "topics": [
+        "Agência Senado"
+      ],
+      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
+      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
+      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
+      "now": "Publicação oficial identificada em 2026-11-10.",
+      "watch": "Conferir íntegra, vigência e próximos eventos.",
+      "sections": {
+        "aconteceu": "Agência Senado publicou: Zequinha Marinho defende medida provisória de renegociação de dívidas rurais. O senador Zequinha Marinho (Podemos-PA), em pronunciamento no Plenário nesta terça-feira (10), defendeu a aprovação da MP 1.376/2026, medida provisória que trata da renegociação de dívidas de produtores rurais. Ele alertou para o prazo dessa MP, que se encerra nesta quarta-feira (11). A matéria foi aprovada nesta terça-feira na comissão mista (formada por senadores e deputados federais) encarregada de analisá-la. Agora o texto segue para votação nos Plenários da Câmara e do Senado. — Dos cerca de R$ 100 bilhões anunciados pela medida provisória do governo federal para atender os produtores, apenas R$ 14,34 bilhões foram efetivamente renegociados, distribuídos em pouco mais de 27 mil operações. Em outras palavras, somente 14% do resultado esperado foi alcançado. Ficam 86% em aberto — disse. Zequinha defendeu mudanças no texto, com a inclus",
+        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
+        "discussao": "A controvérsia precisa de conferência na fonte integral.",
+        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
+        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
+        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
+        "aberto": "Confirmar regulamentações, recursos e pendências.",
+        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
+      },
+      "timeline": [
+        [
+          "2026-11-10",
+          "Publicação detectada",
+          "Efeitos jurídicos a conferir"
+        ]
+      ]
+    },
+    {
+      "id": "auto-2460e1c440316f6c",
+      "automated": true,
+      "title": "Sérgio Petecão faz balanço de atuação no Senado",
+      "date": "2026-11-10",
+      "published": "2026-11-10",
+      "checked": "2026-11-11",
+      "addedAt": "2026-11-10T23:34:10+00:00",
+      "org": "Agência Senado",
+      "trib": "A identificar",
+      "category": "Atualização tributária",
+      "kind": "Notícia oficial (coleta automática)",
+      "impact": "A avaliar",
+      "status": "Efeitos jurídicos a verificar",
+      "stage": "Publicação identificada",
+      "summary": "O senador Sérgio Petecão (PSD-AC), em pronunciamento no Plenário nesta terça-feira (10), apresentou um balanço de sua atuação parlamentar — incluindo os recursos destinados ao Acre ao longo de 16 anos de mandato. Ele afirmou ter destinado mais de R$ 1 bilhão em emendas aos 22 municípios do estado, com investimentos nas áreas de saúde, infraestrutura, agricultura familiar e educação (com destaque para a criação da Universidade Federal do Vale do Juruá). — Na saúde, nós investimos mais de R$ 300 milhões; na infraestrutura, mais de R$255 milhões. Ajudamos o povo da agricultura: somente na agricultura familiar, foram mais de R$ 200 milhões. Fizemos um trabalho junto à educação do meu estado, em que fizemos um investimento de mais de R$ 100 milhões, além de investimentos em outras áreas, inclusive nas ações sociais, na segurança, no turismo. E",
+      "source": "https://www12.senado.leg.br/noticias/materias/2026/11/10/sergio-petecao-faz-balanco-de-atuacao-no-senado",
+      "sourceName": "Agência Senado · publicação oficial",
+      "topics": [
+        "Agência Senado"
+      ],
+      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
+      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
+      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
+      "now": "Publicação oficial identificada em 2026-11-10.",
+      "watch": "Conferir íntegra, vigência e próximos eventos.",
+      "sections": {
+        "aconteceu": "Agência Senado publicou: Sérgio Petecão faz balanço de atuação no Senado. O senador Sérgio Petecão (PSD-AC), em pronunciamento no Plenário nesta terça-feira (10), apresentou um balanço de sua atuação parlamentar — incluindo os recursos destinados ao Acre ao longo de 16 anos de mandato. Ele afirmou ter destinado mais de R$ 1 bilhão em emendas aos 22 municípios do estado, com investimentos nas áreas de saúde, infraestrutura, agricultura familiar e educação (com destaque para a criação da Universidade Federal do Vale do Juruá). — Na saúde, nós investimos mais de R$ 300 milhões; na infraestrutura, mais de R$255 milhões. Ajudamos o povo da agricultura: somente na agricultura familiar, foram mais de R$ 200 milhões. Fizemos um trabalho junto à educação do meu estado, em que fizemos um investimento de mais de R$ 100 milhões, além de investimentos em outras áreas, inclusive nas ações sociais, na segurança, no turismo. E",
+        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
+        "discussao": "A controvérsia precisa de conferência na fonte integral.",
+        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
+        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
+        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
+        "aberto": "Confirmar regulamentações, recursos e pendências.",
+        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
+      },
+      "timeline": [
+        [
+          "2026-11-10",
+          "Publicação detectada",
+          "Efeitos jurídicos a conferir"
+        ]
+      ]
+    },
+    {
+      "id": "auto-8240243c29ad77cb",
+      "automated": true,
+      "title": "Áudio: Vai à sanção projeto que incentiva contratação de mulheres com câncer de mama",
+      "date": "2026-11-10",
+      "published": "2026-11-10",
+      "checked": "2026-11-11",
+      "addedAt": "2026-11-10T23:17:57+00:00",
+      "org": "Agência Senado",
+      "trib": "A identificar",
+      "category": "Atualização tributária",
+      "kind": "Notícia oficial (coleta automática)",
+      "impact": "A avaliar",
+      "status": "Efeitos jurídicos a verificar",
+      "stage": "Publicação identificada",
+      "summary": "O projeto de lei que incentiva a contratação de mulheres com diagnóstico, em tratamento ou em remissão de câncer de mama (PL 5.608/2023) foi aprovado nesta terça-feira (10) pelo Senado. O texto segue para a sanção da Presidência da República. Ouça o áudio.",
+      "source": "https://www12.senado.leg.br/noticias/audios/2026/11/vai-a-sancao-projeto-que-incentiva-contratacao-de-mulheres-com-cancer-de-mama",
+      "sourceName": "Agência Senado · publicação oficial",
+      "topics": [
+        "Agência Senado"
+      ],
+      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
+      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
+      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
+      "now": "Publicação oficial identificada em 2026-11-10.",
+      "watch": "Conferir íntegra, vigência e próximos eventos.",
+      "sections": {
+        "aconteceu": "Agência Senado publicou: Áudio: Vai à sanção projeto que incentiva contratação de mulheres com câncer de mama. O projeto de lei que incentiva a contratação de mulheres com diagnóstico, em tratamento ou em remissão de câncer de mama (PL 5.608/2023) foi aprovado nesta terça-feira (10) pelo Senado. O texto segue para a sanção da Presidência da República. Ouça o áudio.",
+        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
+        "discussao": "A controvérsia precisa de conferência na fonte integral.",
+        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
+        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
+        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
+        "aberto": "Confirmar regulamentações, recursos e pendências.",
+        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
+      },
+      "timeline": [
+        [
+          "2026-11-10",
+          "Publicação detectada",
+          "Efeitos jurídicos a conferir"
+        ]
+      ]
+    },
+    {
+      "id": "auto-e026036133a4ca7c",
+      "automated": true,
+      "title": "Áudio: Secretaria-Geral da Mesa do Senado completa 80 anos",
+      "date": "2026-11-10",
+      "published": "2026-11-10",
+      "checked": "2026-11-11",
+      "addedAt": "2026-11-10T23:12:46+00:00",
+      "org": "Agência Senado",
+      "trib": "A identificar",
+      "category": "Atualização tributária",
+      "kind": "Notícia oficial (coleta automática)",
+      "impact": "A avaliar",
+      "status": "Efeitos jurídicos a verificar",
+      "stage": "Publicação identificada",
+      "summary": "Uma sessão especial em Plenário celebrou, nesta terça-feira (10), os 80 anos da Secretaria-Geral da Mesa do Senado. Esse órgão atua como o principal braço técnico de apoio aos senadores, auxiliando diretamente nos trabalhos em Plenário, nas comissões temáticas e nas reuniões de líderes da Casa e do Congresso Nacional. Ouça o áudio.",
+      "source": "https://www12.senado.leg.br/noticias/audios/2026/11/secretaria-geral-da-mesa-do-senado-completa-80-anos",
+      "sourceName": "Agência Senado · publicação oficial",
+      "topics": [
+        "Agência Senado"
+      ],
+      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
+      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
+      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
+      "now": "Publicação oficial identificada em 2026-11-10.",
+      "watch": "Conferir íntegra, vigência e próximos eventos.",
+      "sections": {
+        "aconteceu": "Agência Senado publicou: Áudio: Secretaria-Geral da Mesa do Senado completa 80 anos. Uma sessão especial em Plenário celebrou, nesta terça-feira (10), os 80 anos da Secretaria-Geral da Mesa do Senado. Esse órgão atua como o principal braço técnico de apoio aos senadores, auxiliando diretamente nos trabalhos em Plenário, nas comissões temáticas e nas reuniões de líderes da Casa e do Congresso Nacional. Ouça o áudio.",
+        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
+        "discussao": "A controvérsia precisa de conferência na fonte integral.",
+        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
+        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
+        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
+        "aberto": "Confirmar regulamentações, recursos e pendências.",
+        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
+      },
+      "timeline": [
+        [
+          "2026-11-10",
+          "Publicação detectada",
+          "Efeitos jurídicos a conferir"
+        ]
+      ]
+    },
+    {
+      "id": "auto-55bd4e130ebcde13",
+      "automated": true,
+      "title": "Chico Rodrigues comemora aprovação da PEC da Segurança Pública",
+      "date": "2026-11-10",
+      "published": "2026-11-10",
+      "checked": "2026-11-11",
+      "addedAt": "2026-11-10T23:01:49+00:00",
+      "org": "Agência Senado",
+      "trib": "A identificar",
+      "category": "Atualização tributária",
+      "kind": "Notícia oficial (coleta automática)",
+      "impact": "A avaliar",
+      "status": "Efeitos jurídicos a verificar",
+      "stage": "Publicação identificada",
+      "summary": "O senador Chico Rodrigues (PSB-RR), em pronunciamento no Plenário nesta terça-feira (10), comemorou a aprovação da Proposta de Emenda à Constituição (PEC) 18/2025, que trata da segurança pública. Segundo o parlamentar, a matéria amplia a cooperação entre União, estados e municípios e fortalece a atuação integrada das instituições responsáveis pelo combate à criminalidade. — Não podemos enfrentar um crime que atua nacionalmente com uma segurança pública que ainda encontra dificuldades para agir de maneira integrada. É justamente neste ponto que a PEC aprovada representa um avanço — declarou. Chico Rodrigues afirmou que a incorporação do Sistema Único de Segurança Pública (Susp) à Constituição deve favorecer o compartilhamento de informações e as operações conjuntas. O senador também apoiou a criação de um Ministério da Segurança Pública se",
+      "source": "https://www12.senado.leg.br/noticias/materias/2026/11/10/chico-rodrigues-comemora-aprovacao-da-pec-da-seguranca-publica",
+      "sourceName": "Agência Senado · publicação oficial",
+      "topics": [
+        "Agência Senado"
+      ],
+      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
+      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
+      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
+      "now": "Publicação oficial identificada em 2026-11-10.",
+      "watch": "Conferir íntegra, vigência e próximos eventos.",
+      "sections": {
+        "aconteceu": "Agência Senado publicou: Chico Rodrigues comemora aprovação da PEC da Segurança Pública. O senador Chico Rodrigues (PSB-RR), em pronunciamento no Plenário nesta terça-feira (10), comemorou a aprovação da Proposta de Emenda à Constituição (PEC) 18/2025, que trata da segurança pública. Segundo o parlamentar, a matéria amplia a cooperação entre União, estados e municípios e fortalece a atuação integrada das instituições responsáveis pelo combate à criminalidade. — Não podemos enfrentar um crime que atua nacionalmente com uma segurança pública que ainda encontra dificuldades para agir de maneira integrada. É justamente neste ponto que a PEC aprovada representa um avanço — declarou. Chico Rodrigues afirmou que a incorporação do Sistema Único de Segurança Pública (Susp) à Constituição deve favorecer o compartilhamento de informações e as operações conjuntas. O senador também apoiou a criação de um Ministério da Segurança Pública se",
         "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
         "discussao": "A controvérsia precisa de conferência na fonte integral.",
         "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
@@ -207,7 +955,7 @@
       "title": "STJ e CJF assinam contratos com Banco do Brasil e Caixa para cessão da folha de pagamento",
       "date": "2026-11-09",
       "published": "2026-11-09",
-      "checked": "2026-11-10",
+      "checked": "2026-11-11",
       "addedAt": "2026-11-09T20:13:00+00:00",
       "org": "STJ",
       "trib": "A identificar",
@@ -251,7 +999,7 @@
       "title": "STJ e PNUD lançam espaço multimídia Cabine Pontes durante Enajun no RJ",
       "date": "2026-11-09",
       "published": "2026-11-09",
-      "checked": "2026-11-10",
+      "checked": "2026-11-11",
       "addedAt": "2026-11-09T16:26:00+00:00",
       "org": "STJ",
       "trib": "A identificar",
@@ -295,7 +1043,7 @@
       "title": "Conheça o novo portal de precedentes qualificados do STJ",
       "date": "2026-11-09",
       "published": "2026-11-09",
-      "checked": "2026-11-10",
+      "checked": "2026-11-11",
       "addedAt": "2026-11-09T07:15:00+00:00",
       "org": "STJ",
       "trib": "A identificar",
@@ -339,7 +1087,7 @@
       "title": "Primeira Seção reconhece relevância e suspende processos sobre revogação antecipada do benefício fiscal do Perse",
       "date": "2026-11-09",
       "published": "2026-11-09",
-      "checked": "2026-11-10",
+      "checked": "2026-11-11",
       "addedAt": "2026-11-09T07:00:00+00:00",
       "org": "STJ",
       "trib": "A identificar",
@@ -823,7 +1571,7 @@
       "title": "Og Fernandes: o juiz-jornalista encerra trajetória de quase cinco décadas dedicadas à Justiça",
       "date": "2026-11-08",
       "published": "2026-11-08",
-      "checked": "2026-11-10",
+      "checked": "2026-11-11",
       "addedAt": "2026-11-08T06:55:00+00:00",
       "org": "STJ",
       "trib": "A identificar",
@@ -867,7 +1615,7 @@
       "title": "STJ lança livro sobre transformação digital e proteção das criações intelectuais",
       "date": "2026-11-06",
       "published": "2026-11-06",
-      "checked": "2026-11-10",
+      "checked": "2026-11-11",
       "addedAt": "2026-11-06T15:51:00+00:00",
       "org": "STJ",
       "trib": "A identificar",
@@ -911,7 +1659,7 @@
       "title": "STJ recebe participantes do Caminhos para a Liderança de Mulheres na Justiça",
       "date": "2026-11-06",
       "published": "2026-11-06",
-      "checked": "2026-11-10",
+      "checked": "2026-11-11",
       "addedAt": "2026-11-06T12:22:00+00:00",
       "org": "STJ",
       "trib": "A identificar",
@@ -1483,7 +2231,7 @@
       "title": "Tribunais debatem desafios e expectativas sobre o novo regime de relevância do STJ",
       "date": "2026-11-05",
       "published": "2026-11-05",
-      "checked": "2026-11-10",
+      "checked": "2026-11-11",
       "addedAt": "2026-11-05T20:54:00+00:00",
       "org": "STJ",
       "trib": "A identificar",
@@ -1527,7 +2275,7 @@
       "title": "STJ e CNJ assinam acordo de cooperação para compartilhamento de dados",
       "date": "2026-11-05",
       "published": "2026-11-05",
-      "checked": "2026-11-10",
+      "checked": "2026-11-11",
       "addedAt": "2026-11-05T12:49:00+00:00",
       "org": "STJ",
       "trib": "A identificar",
@@ -1571,7 +2319,7 @@
       "title": "STJ reúne tribunais para debater aplicação da relevância nos recursos especiais",
       "date": "2026-11-05",
       "published": "2026-11-05",
-      "checked": "2026-11-10",
+      "checked": "2026-11-11",
       "addedAt": "2026-11-05T12:24:00+00:00",
       "org": "STJ",
       "trib": "A identificar",
@@ -1615,7 +2363,7 @@
       "title": "STJ apresenta novas ferramentas e programas para fortalecer atuação como corte de precedentes",
       "date": "2026-11-05",
       "published": "2026-11-05",
-      "checked": "2026-11-10",
+      "checked": "2026-11-11",
       "addedAt": "2026-11-05T12:06:00+00:00",
       "org": "STJ",
       "trib": "A identificar",
@@ -1659,7 +2407,7 @@
       "title": "Rádio Decidendi aborda relação entre os repetitivos e o novo modelo da relevância",
       "date": "2026-11-05",
       "published": "2026-11-05",
-      "checked": "2026-11-10",
+      "checked": "2026-11-11",
       "addedAt": "2026-11-05T07:50:00+00:00",
       "org": "STJ",
       "trib": "A identificar",
@@ -1703,7 +2451,7 @@
       "title": "STJ lança tutorial sobre nova página do calendário de sessões de julgamento",
       "date": "2026-11-05",
       "published": "2026-11-05",
-      "checked": "2026-11-10",
+      "checked": "2026-11-11",
       "addedAt": "2026-11-05T07:10:00+00:00",
       "org": "STJ",
       "trib": "A identificar",
@@ -1747,7 +2495,7 @@
       "title": "STJ realiza Encontro Nacional sobre a Relevância da Questão de Direito Federal, com transmissão ao vivo",
       "date": "2026-11-05",
       "published": "2026-11-05",
-      "checked": "2026-11-10",
+      "checked": "2026-11-11",
       "addedAt": "2026-11-05T06:00:00+00:00",
       "org": "STJ",
       "trib": "A identificar",
@@ -2187,7 +2935,7 @@
       "title": "Operação Faroeste: STJ condena mais uma desembargadora do TJBA e cassa aposentadoria",
       "date": "2026-11-04",
       "published": "2026-11-04",
-      "checked": "2026-11-10",
+      "checked": "2026-11-11",
       "addedAt": "2026-11-04T17:11:00+00:00",
       "org": "STJ",
       "trib": "A identificar",
@@ -2231,7 +2979,7 @@
       "title": "Ministro Og Fernandes lança livro sobre a história do STF em 10 de novembro",
       "date": "2026-11-04",
       "published": "2026-11-04",
-      "checked": "2026-11-10",
+      "checked": "2026-11-11",
       "addedAt": "2026-11-04T13:26:00+00:00",
       "org": "STJ",
       "trib": "A identificar",
@@ -2275,7 +3023,7 @@
       "title": "STJ fixa critérios para honorários por habilitação e impugnação de crédito em recuperação ou falência",
       "date": "2026-11-04",
       "published": "2026-11-04",
-      "checked": "2026-11-10",
+      "checked": "2026-11-11",
       "addedAt": "2026-11-04T07:10:00+00:00",
       "org": "STJ",
       "trib": "A identificar",
@@ -3463,7 +4211,7 @@
       "title": "STJ Notícias aborda decisão sobre alteração de paternidade em registro civil",
       "date": "2026-11-03",
       "published": "2026-11-03",
-      "checked": "2026-11-10",
+      "checked": "2026-11-11",
       "addedAt": "2026-11-03T14:48:00+00:00",
       "org": "STJ",
       "trib": "A identificar",
@@ -3507,7 +4255,7 @@
       "title": "Projeto do STJ e do PNUD para diversidade e fortalecimento da Justiça lança informativo mensal",
       "date": "2026-11-03",
       "published": "2026-11-03",
-      "checked": "2026-11-10",
+      "checked": "2026-11-11",
       "addedAt": "2026-11-03T11:55:00+00:00",
       "org": "STJ",
       "trib": "A identificar",
@@ -3551,7 +4299,7 @@
       "title": "STJ lança nova página de consulta processual com foco em acessibilidade e eficiência",
       "date": "2026-11-03",
       "published": "2026-11-03",
-      "checked": "2026-11-10",
+      "checked": "2026-11-11",
       "addedAt": "2026-11-03T08:00:00+00:00",
       "org": "STJ",
       "trib": "A identificar",
@@ -3595,7 +4343,7 @@
       "title": "Consulta à página de jurisprudência do STJ ajuda a evitar citações falsas geradas por IA",
       "date": "2026-11-03",
       "published": "2026-11-03",
-      "checked": "2026-11-10",
+      "checked": "2026-11-11",
       "addedAt": "2026-11-03T07:05:00+00:00",
       "org": "STJ",
       "trib": "A identificar",
@@ -3639,7 +4387,7 @@
       "title": "Terceira Seção define cinco teses repetitivas sobre a natureza e a quantidade de drogas no cálculo da pena por tráfico",
       "date": "2026-11-03",
       "published": "2026-11-03",
-      "checked": "2026-11-10",
+      "checked": "2026-11-11",
       "addedAt": "2026-11-03T06:50:00+00:00",
       "org": "STJ",
       "trib": "A identificar",
