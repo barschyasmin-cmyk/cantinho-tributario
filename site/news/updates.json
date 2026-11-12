@@ -1,7 +1,7 @@
 {
   "kind": "official-publication-feed",
-  "checkedAt": "2026-11-11T12:19:36+00:00",
-  "lastSuccessfulRun": "2026-11-11T12:19:36+00:00",
+  "checkedAt": "2026-11-12T12:19:48+00:00",
+  "lastSuccessfulRun": "2026-11-12T12:19:48+00:00",
   "sources": [
     {
       "org": "Receita Federal",
@@ -11,7 +11,7 @@
     {
       "org": "STJ",
       "ok": true,
-      "items": 29
+      "items": 31
     },
     {
       "org": "STJ · Informativo",
@@ -26,12 +26,496 @@
   ],
   "entries": [
     {
+      "id": "auto-f3c5e07e835ef1e6",
+      "automated": true,
+      "title": "Livro Liber Amicorum homenageia 18 anos do ministro Benedito Gonçalves no STJ",
+      "date": "2026-11-12",
+      "published": "2026-11-12",
+      "checked": "2026-11-12",
+      "addedAt": "2026-11-12T08:00:00+00:00",
+      "org": "STJ",
+      "trib": "A identificar",
+      "category": "Jurisprudência",
+      "kind": "Notícia oficial (coleta automática)",
+      "impact": "A avaliar",
+      "status": "Efeitos jurídicos a verificar",
+      "stage": "Publicação identificada",
+      "summary": "Livro Liber Amicorum homenageia 18 anos do ministro Benedito Gonçalves no STJ",
+      "source": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/12112026-Livro-Liber-Amicorum-homenageia-18-anos-do-ministro-Benedito-Goncalves-no-STJ.aspx",
+      "sourceName": "STJ · publicação oficial",
+      "topics": [
+        "STJ"
+      ],
+      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
+      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
+      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
+      "now": "Publicação oficial identificada em 2026-11-12.",
+      "watch": "Conferir íntegra, vigência e próximos eventos.",
+      "sections": {
+        "aconteceu": "STJ publicou: Livro Liber Amicorum homenageia 18 anos do ministro Benedito Gonçalves no STJ. Livro Liber Amicorum homenageia 18 anos do ministro Benedito Gonçalves no STJ",
+        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
+        "discussao": "A controvérsia precisa de conferência na fonte integral.",
+        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
+        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
+        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
+        "aberto": "Confirmar regulamentações, recursos e pendências.",
+        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
+      },
+      "timeline": [
+        [
+          "2026-11-12",
+          "Publicação detectada",
+          "Efeitos jurídicos a conferir"
+        ]
+      ]
+    },
+    {
+      "id": "auto-8afc1ac4b2c325f4",
+      "automated": true,
+      "title": "Áudio: CE aprova Política Nacional de Educação Escolar Indígena",
+      "date": "2026-11-12",
+      "published": "2026-11-12",
+      "checked": "2026-11-12",
+      "addedAt": "2026-11-12T12:09:52+00:00",
+      "org": "Agência Senado",
+      "trib": "A identificar",
+      "category": "Atualização tributária",
+      "kind": "Notícia oficial (coleta automática)",
+      "impact": "A avaliar",
+      "status": "Efeitos jurídicos a verificar",
+      "stage": "Publicação identificada",
+      "summary": "A Comissão de Educação e Cultura (CE) aprovou nesta quarta-feira (11) a criação da Política Nacional de Educação Escolar Indígena nos Territórios Etnoeducacionais (PL 4.980/2026). A proposta, do senador Camilo Santana (PT-CE), prevê ensino multilíngue e intercultural, com respeito às tradições dos povos indígenas. O projeto segue para a análise da Comissão de Direitos Humanos (CDH).",
+      "source": "https://www12.senado.leg.br/noticias/audios/2026/11/ce-aprova-politica-nacional-de-educacao-escolar-indigena",
+      "sourceName": "Agência Senado · publicação oficial",
+      "topics": [
+        "Agência Senado"
+      ],
+      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
+      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
+      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
+      "now": "Publicação oficial identificada em 2026-11-12.",
+      "watch": "Conferir íntegra, vigência e próximos eventos.",
+      "sections": {
+        "aconteceu": "Agência Senado publicou: Áudio: CE aprova Política Nacional de Educação Escolar Indígena. A Comissão de Educação e Cultura (CE) aprovou nesta quarta-feira (11) a criação da Política Nacional de Educação Escolar Indígena nos Territórios Etnoeducacionais (PL 4.980/2026). A proposta, do senador Camilo Santana (PT-CE), prevê ensino multilíngue e intercultural, com respeito às tradições dos povos indígenas. O projeto segue para a análise da Comissão de Direitos Humanos (CDH).",
+        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
+        "discussao": "A controvérsia precisa de conferência na fonte integral.",
+        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
+        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
+        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
+        "aberto": "Confirmar regulamentações, recursos e pendências.",
+        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
+      },
+      "timeline": [
+        [
+          "2026-11-12",
+          "Publicação detectada",
+          "Efeitos jurídicos a conferir"
+        ]
+      ]
+    },
+    {
+      "id": "auto-44bf43c1c9f60cb9",
+      "automated": true,
+      "title": "Áudio: Senado aprova regras para impedir limitação de recursos do Fust",
+      "date": "2026-11-12",
+      "published": "2026-11-12",
+      "checked": "2026-11-12",
+      "addedAt": "2026-11-12T12:03:51+00:00",
+      "org": "Agência Senado",
+      "trib": "A identificar",
+      "category": "Atualização tributária",
+      "kind": "Notícia oficial (coleta automática)",
+      "impact": "A avaliar",
+      "status": "Efeitos jurídicos a verificar",
+      "stage": "Publicação identificada",
+      "summary": "O Senado aprovou regras para impedir a limitação de recursos para as ações do Fundo de Universalização dos Serviços de Telecomunicações (Fust). O projeto (PLP 230/2025) também prorroga por cinco anos a redução de até 50% da contribuição ao Fust para prestadoras que investirem recursos próprios em programas aprovados pelo Conselho Gestor do Fundo. O benefício terminaria em dezembro de 2026. O texto segue para sanção presidencial.",
+      "source": "https://www12.senado.leg.br/noticias/audios/2026/11/senado-aprova-regras-para-impedir-limitacao-de-recursos-do-fust",
+      "sourceName": "Agência Senado · publicação oficial",
+      "topics": [
+        "Agência Senado"
+      ],
+      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
+      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
+      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
+      "now": "Publicação oficial identificada em 2026-11-12.",
+      "watch": "Conferir íntegra, vigência e próximos eventos.",
+      "sections": {
+        "aconteceu": "Agência Senado publicou: Áudio: Senado aprova regras para impedir limitação de recursos do Fust. O Senado aprovou regras para impedir a limitação de recursos para as ações do Fundo de Universalização dos Serviços de Telecomunicações (Fust). O projeto (PLP 230/2025) também prorroga por cinco anos a redução de até 50% da contribuição ao Fust para prestadoras que investirem recursos próprios em programas aprovados pelo Conselho Gestor do Fundo. O benefício terminaria em dezembro de 2026. O texto segue para sanção presidencial.",
+        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
+        "discussao": "A controvérsia precisa de conferência na fonte integral.",
+        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
+        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
+        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
+        "aberto": "Confirmar regulamentações, recursos e pendências.",
+        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
+      },
+      "timeline": [
+        [
+          "2026-11-12",
+          "Publicação detectada",
+          "Efeitos jurídicos a conferir"
+        ]
+      ]
+    },
+    {
+      "id": "auto-a8b3429024a0eeb9",
+      "automated": true,
+      "title": "Vídeo: Consultor de Orçamento do Senado explica o que muda com o projeto de ajuste fiscal do governo",
+      "date": "2026-11-12",
+      "published": "2026-11-12",
+      "checked": "2026-11-12",
+      "addedAt": "2026-11-12T11:58:16+00:00",
+      "org": "Agência Senado",
+      "trib": "A identificar",
+      "category": "Atualização tributária",
+      "kind": "Notícia oficial (coleta automática)",
+      "impact": "A avaliar",
+      "status": "Efeitos jurídicos a verificar",
+      "stage": "Publicação identificada",
+      "summary": "Em entrevista à TV Senado, o consultor-geral de Orçamento do Senado, Flávio Luz, explicou o projeto de ajuste fiscal do governo (PLP 299/2026). Segundo ele, o texto reduz de 2,5% para 2% o limite de crescimento real das despesas nos anos em que houver contingenciamento e prevê corte de cerca de 20% nos gastos tributários. O projeto também permite usar recursos vinculados não utilizados para pagar a dívida pública. A aprovação deve ocorrer antes do prazo de emendas ao Orçamento de 2027, no fim de novembro.",
+      "source": "https://www12.senado.leg.br/noticias/videos/2026/11/consultor-de-orcamento-do-senado-explica-o-que-muda-com-o-projeto-de-ajuste-fiscal-do-governo",
+      "sourceName": "Agência Senado · publicação oficial",
+      "topics": [
+        "Agência Senado"
+      ],
+      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
+      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
+      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
+      "now": "Publicação oficial identificada em 2026-11-12.",
+      "watch": "Conferir íntegra, vigência e próximos eventos.",
+      "sections": {
+        "aconteceu": "Agência Senado publicou: Vídeo: Consultor de Orçamento do Senado explica o que muda com o projeto de ajuste fiscal do governo. Em entrevista à TV Senado, o consultor-geral de Orçamento do Senado, Flávio Luz, explicou o projeto de ajuste fiscal do governo (PLP 299/2026). Segundo ele, o texto reduz de 2,5% para 2% o limite de crescimento real das despesas nos anos em que houver contingenciamento e prevê corte de cerca de 20% nos gastos tributários. O projeto também permite usar recursos vinculados não utilizados para pagar a dívida pública. A aprovação deve ocorrer antes do prazo de emendas ao Orçamento de 2027, no fim de novembro.",
+        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
+        "discussao": "A controvérsia precisa de conferência na fonte integral.",
+        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
+        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
+        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
+        "aberto": "Confirmar regulamentações, recursos e pendências.",
+        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
+      },
+      "timeline": [
+        [
+          "2026-11-12",
+          "Publicação detectada",
+          "Efeitos jurídicos a conferir"
+        ]
+      ]
+    },
+    {
+      "id": "auto-90e8c1381bd43024",
+      "automated": true,
+      "title": "Áudio: Aumento de punição para uso de celular nos presídios vai a Plenário",
+      "date": "2026-11-12",
+      "published": "2026-11-12",
+      "checked": "2026-11-12",
+      "addedAt": "2026-11-12T11:53:34+00:00",
+      "org": "Agência Senado",
+      "trib": "A identificar",
+      "category": "Atualização tributária",
+      "kind": "Notícia oficial (coleta automática)",
+      "impact": "A avaliar",
+      "status": "Efeitos jurídicos a verificar",
+      "stage": "Publicação identificada",
+      "summary": "A Comissão de Constituição e Justiça (CCJ) aprovou na quarta-feira (11) punição maior contra a comunicação ilícita em estabelecimentos prisionais. O PL 2.905/2022 pune criminalmente o preso que mantiver celular no regime fechado, tipifica a entrada de peças e acessórios e prevê a chamada \"revista invertida\" dos detentos. O texto segue para o Plenário do Senado.",
+      "source": "https://www12.senado.leg.br/noticias/audios/2026/11/aumento-de-punicao-para-uso-de-celular-nos-presidios-vai-a-plenario",
+      "sourceName": "Agência Senado · publicação oficial",
+      "topics": [
+        "Agência Senado"
+      ],
+      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
+      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
+      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
+      "now": "Publicação oficial identificada em 2026-11-12.",
+      "watch": "Conferir íntegra, vigência e próximos eventos.",
+      "sections": {
+        "aconteceu": "Agência Senado publicou: Áudio: Aumento de punição para uso de celular nos presídios vai a Plenário. A Comissão de Constituição e Justiça (CCJ) aprovou na quarta-feira (11) punição maior contra a comunicação ilícita em estabelecimentos prisionais. O PL 2.905/2022 pune criminalmente o preso que mantiver celular no regime fechado, tipifica a entrada de peças e acessórios e prevê a chamada \"revista invertida\" dos detentos. O texto segue para o Plenário do Senado.",
+        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
+        "discussao": "A controvérsia precisa de conferência na fonte integral.",
+        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
+        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
+        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
+        "aberto": "Confirmar regulamentações, recursos e pendências.",
+        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
+      },
+      "timeline": [
+        [
+          "2026-11-12",
+          "Publicação detectada",
+          "Efeitos jurídicos a conferir"
+        ]
+      ]
+    },
+    {
+      "id": "auto-35592075eb689037",
+      "automated": true,
+      "title": "Vídeo: CRA aprova incentivos à produção e benefício para trabalhadoras rurais",
+      "date": "2026-11-12",
+      "published": "2026-11-12",
+      "checked": "2026-11-12",
+      "addedAt": "2026-11-12T11:49:38+00:00",
+      "org": "Agência Senado",
+      "trib": "A identificar",
+      "category": "Atualização tributária",
+      "kind": "Notícia oficial (coleta automática)",
+      "impact": "A avaliar",
+      "status": "Efeitos jurídicos a verificar",
+      "stage": "Publicação identificada",
+      "summary": "A Comissão de Agricultura e Reforma Agrária (CRA) aprovou na quarta-feira (11) projetos de incentivos à produção de café (PL 1.454/2023) e pimenta e (PL 2.230/2025) e medidas que priorizam mulheres no processo de titulação de terras (PL 810/2020).",
+      "source": "https://www12.senado.leg.br/noticias/videos/2026/11/cra-aprova-incentivos-a-producao-e-beneficio-para-trabalhadoras-rurais",
+      "sourceName": "Agência Senado · publicação oficial",
+      "topics": [
+        "Agência Senado"
+      ],
+      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
+      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
+      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
+      "now": "Publicação oficial identificada em 2026-11-12.",
+      "watch": "Conferir íntegra, vigência e próximos eventos.",
+      "sections": {
+        "aconteceu": "Agência Senado publicou: Vídeo: CRA aprova incentivos à produção e benefício para trabalhadoras rurais. A Comissão de Agricultura e Reforma Agrária (CRA) aprovou na quarta-feira (11) projetos de incentivos à produção de café (PL 1.454/2023) e pimenta e (PL 2.230/2025) e medidas que priorizam mulheres no processo de titulação de terras (PL 810/2020).",
+        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
+        "discussao": "A controvérsia precisa de conferência na fonte integral.",
+        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
+        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
+        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
+        "aberto": "Confirmar regulamentações, recursos e pendências.",
+        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
+      },
+      "timeline": [
+        [
+          "2026-11-12",
+          "Publicação detectada",
+          "Efeitos jurídicos a conferir"
+        ]
+      ]
+    },
+    {
+      "id": "auto-6f75295eca0f4b29",
+      "automated": true,
+      "title": "Áudio: Master: comissões convidam ministro da Justiça e diretor da PF",
+      "date": "2026-11-12",
+      "published": "2026-11-12",
+      "checked": "2026-11-12",
+      "addedAt": "2026-11-12T11:42:11+00:00",
+      "org": "Agência Senado",
+      "trib": "A identificar",
+      "category": "Atualização tributária",
+      "kind": "Notícia oficial (coleta automática)",
+      "impact": "A avaliar",
+      "status": "Efeitos jurídicos a verificar",
+      "stage": "Publicação identificada",
+      "summary": "As Comissões de Constituição, Justiça e Cidadania (CCJ) e de Segurança Pública (CSP) querem ouvir o ministro da Justiça e Segurança Pública, Wellington César Lima e Silva, e o diretor-geral da Polícia Federal, Andrei Rodrigues. Eles devem prestar esclarecimentos sobre a alteração de relatórios da corporação destinados ao Supremo Tribunal Federal (STF) no caso do Banco Master e o afastamento de delegados ligados ao caso. A audiência com o ministro da Justiça está prevista para o dia 18 de novembro.",
+      "source": "https://www12.senado.leg.br/noticias/audios/2026/11/master-comissoes-convidam-ministro-da-justica-e-diretor-da-pf",
+      "sourceName": "Agência Senado · publicação oficial",
+      "topics": [
+        "Agência Senado"
+      ],
+      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
+      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
+      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
+      "now": "Publicação oficial identificada em 2026-11-12.",
+      "watch": "Conferir íntegra, vigência e próximos eventos.",
+      "sections": {
+        "aconteceu": "Agência Senado publicou: Áudio: Master: comissões convidam ministro da Justiça e diretor da PF. As Comissões de Constituição, Justiça e Cidadania (CCJ) e de Segurança Pública (CSP) querem ouvir o ministro da Justiça e Segurança Pública, Wellington César Lima e Silva, e o diretor-geral da Polícia Federal, Andrei Rodrigues. Eles devem prestar esclarecimentos sobre a alteração de relatórios da corporação destinados ao Supremo Tribunal Federal (STF) no caso do Banco Master e o afastamento de delegados ligados ao caso. A audiência com o ministro da Justiça está prevista para o dia 18 de novembro.",
+        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
+        "discussao": "A controvérsia precisa de conferência na fonte integral.",
+        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
+        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
+        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
+        "aberto": "Confirmar regulamentações, recursos e pendências.",
+        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
+      },
+      "timeline": [
+        [
+          "2026-11-12",
+          "Publicação detectada",
+          "Efeitos jurídicos a conferir"
+        ]
+      ]
+    },
+    {
+      "id": "auto-69cc5ba9fcbd5a8d",
+      "automated": true,
+      "title": "Vídeo: Davi anuncia que projeto do ajuste fiscal pode ser votado nesta quinta (12)",
+      "date": "2026-11-12",
+      "published": "2026-11-12",
+      "checked": "2026-11-12",
+      "addedAt": "2026-11-12T11:39:44+00:00",
+      "org": "Agência Senado",
+      "trib": "A identificar",
+      "category": "Atualização tributária",
+      "kind": "Notícia oficial (coleta automática)",
+      "impact": "A avaliar",
+      "status": "Efeitos jurídicos a verificar",
+      "stage": "Publicação identificada",
+      "summary": "O Projeto de Lei Complementar (PLP) 299/2026, que permite ao governo um ajuste fiscal, pode ser analisado nesta quinta (12). Foi o que anunciou o presidente do Senado, Davi Alcolumbre, ao suspender na noite desta quarta-feira (11), a pedido da oposição, a votação do texto, apresentado pelo líder do governo, senador Jaques Wagner (PT-BA).",
+      "source": "https://www12.senado.leg.br/noticias/videos/2026/11/davi-anuncia-que-projeto-do-ajuste-fiscal-pode-ser-votado-nesta-quinta-12",
+      "sourceName": "Agência Senado · publicação oficial",
+      "topics": [
+        "Agência Senado"
+      ],
+      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
+      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
+      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
+      "now": "Publicação oficial identificada em 2026-11-12.",
+      "watch": "Conferir íntegra, vigência e próximos eventos.",
+      "sections": {
+        "aconteceu": "Agência Senado publicou: Vídeo: Davi anuncia que projeto do ajuste fiscal pode ser votado nesta quinta (12). O Projeto de Lei Complementar (PLP) 299/2026, que permite ao governo um ajuste fiscal, pode ser analisado nesta quinta (12). Foi o que anunciou o presidente do Senado, Davi Alcolumbre, ao suspender na noite desta quarta-feira (11), a pedido da oposição, a votação do texto, apresentado pelo líder do governo, senador Jaques Wagner (PT-BA).",
+        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
+        "discussao": "A controvérsia precisa de conferência na fonte integral.",
+        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
+        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
+        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
+        "aberto": "Confirmar regulamentações, recursos e pendências.",
+        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
+      },
+      "timeline": [
+        [
+          "2026-11-12",
+          "Publicação detectada",
+          "Efeitos jurídicos a conferir"
+        ]
+      ]
+    },
+    {
+      "id": "auto-c038c89cd5e7c38b",
+      "automated": true,
+      "title": "Áudio: CDH aprova prioridade de proteção a gestantes e lactantes em epidemias",
+      "date": "2026-11-12",
+      "published": "2026-11-12",
+      "checked": "2026-11-12",
+      "addedAt": "2026-11-12T11:36:01+00:00",
+      "org": "Agência Senado",
+      "trib": "A identificar",
+      "category": "Atualização tributária",
+      "kind": "Notícia oficial (coleta automática)",
+      "impact": "A avaliar",
+      "status": "Efeitos jurídicos a verificar",
+      "stage": "Publicação identificada",
+      "summary": "A Comissão de Direitos Humanos (CDH) aprovou na quarta-feira (11) um projeto que assegura prioridade a gestantes e lactantes no recebimento de insumos de proteção contra epidemias ou agravos inusitados à saúde (PL 4.124/2024). Para a relatora, senadora Mara Gabrilli (PSD-SP), a proteção de gestantes e mulheres que amamentam beneficia também as crianças em gestação e nos primeiros meses de vida, prevenindo riscos em uma das fases mais sensíveis do desenvolvimento humano.",
+      "source": "https://www12.senado.leg.br/noticias/audios/2026/11/cdh-aprova-prioridade-de-protecao-a-gestantes-e-lactantes-em-epidemias",
+      "sourceName": "Agência Senado · publicação oficial",
+      "topics": [
+        "Agência Senado"
+      ],
+      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
+      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
+      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
+      "now": "Publicação oficial identificada em 2026-11-12.",
+      "watch": "Conferir íntegra, vigência e próximos eventos.",
+      "sections": {
+        "aconteceu": "Agência Senado publicou: Áudio: CDH aprova prioridade de proteção a gestantes e lactantes em epidemias. A Comissão de Direitos Humanos (CDH) aprovou na quarta-feira (11) um projeto que assegura prioridade a gestantes e lactantes no recebimento de insumos de proteção contra epidemias ou agravos inusitados à saúde (PL 4.124/2024). Para a relatora, senadora Mara Gabrilli (PSD-SP), a proteção de gestantes e mulheres que amamentam beneficia também as crianças em gestação e nos primeiros meses de vida, prevenindo riscos em uma das fases mais sensíveis do desenvolvimento humano.",
+        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
+        "discussao": "A controvérsia precisa de conferência na fonte integral.",
+        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
+        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
+        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
+        "aberto": "Confirmar regulamentações, recursos e pendências.",
+        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
+      },
+      "timeline": [
+        [
+          "2026-11-12",
+          "Publicação detectada",
+          "Efeitos jurídicos a conferir"
+        ]
+      ]
+    },
+    {
+      "id": "auto-2024aad5ffb118cb",
+      "automated": true,
+      "title": "Relator, Braga diz que Orçamento de 2027 depende de novas regras",
+      "date": "2026-11-12",
+      "published": "2026-11-12",
+      "checked": "2026-11-12",
+      "addedAt": "2026-11-12T00:26:30+00:00",
+      "org": "Agência Senado",
+      "trib": "A identificar",
+      "category": "Atualização tributária",
+      "kind": "Notícia oficial (coleta automática)",
+      "impact": "A avaliar",
+      "status": "Efeitos jurídicos a verificar",
+      "stage": "Publicação identificada",
+      "summary": "Relator do Orçamento de 2027 e do projeto de lei complementar que permitirá ao governo fazer um ajuste fiscal em 2027, o senador Eduardo Braga (MDB-AM) afirmou em entrevista na noite desta quarta-feira (11), após a sessão plenária, que a aprovação da lei orçamentária para o ano que vem depende de novas regras fiscais. O senador disse que as urnas indicaram apoio a programas sociais, o que precisa ser feito sem abrir mão da responsabilidade fiscal. O PLP 299/2026 está na pauta do Plenário desta quinta-feira (12). — Temos duas pré-condições para a gente votar o Orçamento: uma é a aprovação desse PLP e a outra é a aprovação de uma Emenda Constitucional cujo texto ainda não conhecemos. São condições para dar os instrumentos ao Congresso Nacional para que possa viabilizar o Orçamento diante do que foi aprovado pela população nas urnas na eleiç",
+      "source": "https://www12.senado.leg.br/noticias/materias/2026/11/11/relator-braga-diz-que-orcamento-de-2027-depende-de-novas-regras",
+      "sourceName": "Agência Senado · publicação oficial",
+      "topics": [
+        "Agência Senado"
+      ],
+      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
+      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
+      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
+      "now": "Publicação oficial identificada em 2026-11-12.",
+      "watch": "Conferir íntegra, vigência e próximos eventos.",
+      "sections": {
+        "aconteceu": "Agência Senado publicou: Relator, Braga diz que Orçamento de 2027 depende de novas regras. Relator do Orçamento de 2027 e do projeto de lei complementar que permitirá ao governo fazer um ajuste fiscal em 2027, o senador Eduardo Braga (MDB-AM) afirmou em entrevista na noite desta quarta-feira (11), após a sessão plenária, que a aprovação da lei orçamentária para o ano que vem depende de novas regras fiscais. O senador disse que as urnas indicaram apoio a programas sociais, o que precisa ser feito sem abrir mão da responsabilidade fiscal. O PLP 299/2026 está na pauta do Plenário desta quinta-feira (12). — Temos duas pré-condições para a gente votar o Orçamento: uma é a aprovação desse PLP e a outra é a aprovação de uma Emenda Constitucional cujo texto ainda não conhecemos. São condições para dar os instrumentos ao Congresso Nacional para que possa viabilizar o Orçamento diante do que foi aprovado pela população nas urnas na eleiç",
+        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
+        "discussao": "A controvérsia precisa de conferência na fonte integral.",
+        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
+        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
+        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
+        "aberto": "Confirmar regulamentações, recursos e pendências.",
+        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
+      },
+      "timeline": [
+        [
+          "2026-11-12",
+          "Publicação detectada",
+          "Efeitos jurídicos a conferir"
+        ]
+      ]
+    },
+    {
+      "id": "auto-cff78c34e0434b6e",
+      "automated": true,
+      "title": "STJ e PNUD lançam vídeo sobre diversidade e importância da ampliação do acesso à magistratura",
+      "date": "2026-11-11",
+      "published": "2026-11-11",
+      "checked": "2026-11-12",
+      "addedAt": "2026-11-11T20:25:00+00:00",
+      "org": "STJ",
+      "trib": "A identificar",
+      "category": "Jurisprudência",
+      "kind": "Notícia oficial (coleta automática)",
+      "impact": "A avaliar",
+      "status": "Efeitos jurídicos a verificar",
+      "stage": "Publicação identificada",
+      "summary": "STJ e PNUD lançam vídeo sobre diversidade e importância da ampliação do acesso à magistratura",
+      "source": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/11112026-STJ-e-PNUD-lancam-video-sobre-diversidade-e-importancia-da-ampliacao-do-acesso-a-magistratura.aspx",
+      "sourceName": "STJ · publicação oficial",
+      "topics": [
+        "STJ"
+      ],
+      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
+      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
+      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
+      "now": "Publicação oficial identificada em 2026-11-11.",
+      "watch": "Conferir íntegra, vigência e próximos eventos.",
+      "sections": {
+        "aconteceu": "STJ publicou: STJ e PNUD lançam vídeo sobre diversidade e importância da ampliação do acesso à magistratura. STJ e PNUD lançam vídeo sobre diversidade e importância da ampliação do acesso à magistratura",
+        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
+        "discussao": "A controvérsia precisa de conferência na fonte integral.",
+        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
+        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
+        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
+        "aberto": "Confirmar regulamentações, recursos e pendências.",
+        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
+      },
+      "timeline": [
+        [
+          "2026-11-11",
+          "Publicação detectada",
+          "Efeitos jurídicos a conferir"
+        ]
+      ]
+    },
+    {
       "id": "auto-d4acab9a67ba7717",
       "automated": true,
       "title": "STJ lança, nesta quarta-feira (11), obra sobre transformação digital",
       "date": "2026-11-11",
       "published": "2026-11-11",
-      "checked": "2026-11-11",
+      "checked": "2026-11-12",
       "addedAt": "2026-11-11T08:05:00+00:00",
       "org": "STJ",
       "trib": "A identificar",
@@ -75,7 +559,7 @@
       "title": "Podcast STJ No Seu Dia debate direitos difusos e indenização por venda irregular de agrotóxicos",
       "date": "2026-11-11",
       "published": "2026-11-11",
-      "checked": "2026-11-11",
+      "checked": "2026-11-12",
       "addedAt": "2026-11-11T07:50:00+00:00",
       "org": "STJ",
       "trib": "A identificar",
@@ -97,6 +581,182 @@
       "watch": "Conferir íntegra, vigência e próximos eventos.",
       "sections": {
         "aconteceu": "STJ publicou: Podcast STJ No Seu Dia debate direitos difusos e indenização por venda irregular de agrotóxicos. Podcast STJ No Seu Dia debate direitos difusos e indenização por venda irregular de agrotóxicos",
+        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
+        "discussao": "A controvérsia precisa de conferência na fonte integral.",
+        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
+        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
+        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
+        "aberto": "Confirmar regulamentações, recursos e pendências.",
+        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
+      },
+      "timeline": [
+        [
+          "2026-11-11",
+          "Publicação detectada",
+          "Efeitos jurídicos a conferir"
+        ]
+      ]
+    },
+    {
+      "id": "auto-2df8eeb0fdd4fdeb",
+      "automated": true,
+      "title": "Áudio: Acesso de idosos a tecnologias de estimulação cognitiva vai ao Plenário",
+      "date": "2026-11-11",
+      "published": "2026-11-11",
+      "checked": "2026-11-12",
+      "addedAt": "2026-11-11T23:30:25+00:00",
+      "org": "Agência Senado",
+      "trib": "A identificar",
+      "category": "Atualização tributária",
+      "kind": "Notícia oficial (coleta automática)",
+      "impact": "A avaliar",
+      "status": "Efeitos jurídicos a verificar",
+      "stage": "Publicação identificada",
+      "summary": "A Comissão de Direitos Humanos (CDH) aprovou projeto que amplia o acesso de pessoas idosas a tecnologias digitais destinadas à preservação da saúde mental e das funções cognitivas (PL 1.257/2021). A proposta determina o uso dessas tecnologias para prevenir e tratar transtornos mentais e cognitivos, ampliar o acesso a serviços de saúde por teleatendimento e reduzir o isolamento social. A relatora, senadora Roberta Acioly (Republicanos-RR) defendeu o uso orientado, acessível e seguro de tecnologias digitais.",
+      "source": "https://www12.senado.leg.br/noticias/audios/2026/11/acesso-de-idosos-a-tecnologias-de-estimulacao-cognitiva-vai-ao-plenario",
+      "sourceName": "Agência Senado · publicação oficial",
+      "topics": [
+        "Agência Senado"
+      ],
+      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
+      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
+      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
+      "now": "Publicação oficial identificada em 2026-11-11.",
+      "watch": "Conferir íntegra, vigência e próximos eventos.",
+      "sections": {
+        "aconteceu": "Agência Senado publicou: Áudio: Acesso de idosos a tecnologias de estimulação cognitiva vai ao Plenário. A Comissão de Direitos Humanos (CDH) aprovou projeto que amplia o acesso de pessoas idosas a tecnologias digitais destinadas à preservação da saúde mental e das funções cognitivas (PL 1.257/2021). A proposta determina o uso dessas tecnologias para prevenir e tratar transtornos mentais e cognitivos, ampliar o acesso a serviços de saúde por teleatendimento e reduzir o isolamento social. A relatora, senadora Roberta Acioly (Republicanos-RR) defendeu o uso orientado, acessível e seguro de tecnologias digitais.",
+        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
+        "discussao": "A controvérsia precisa de conferência na fonte integral.",
+        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
+        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
+        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
+        "aberto": "Confirmar regulamentações, recursos e pendências.",
+        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
+      },
+      "timeline": [
+        [
+          "2026-11-11",
+          "Publicação detectada",
+          "Efeitos jurídicos a conferir"
+        ]
+      ]
+    },
+    {
+      "id": "auto-675df7fd8ef437b6",
+      "automated": true,
+      "title": "Ajuste fiscal pode ser votado nesta quinta-feira",
+      "date": "2026-11-11",
+      "published": "2026-11-11",
+      "checked": "2026-11-12",
+      "addedAt": "2026-11-11T23:24:29+00:00",
+      "org": "Agência Senado",
+      "trib": "A identificar",
+      "category": "Atualização tributária",
+      "kind": "Notícia oficial (coleta automática)",
+      "impact": "A avaliar",
+      "status": "Efeitos jurídicos a verificar",
+      "stage": "Publicação identificada",
+      "summary": "O Projeto de Lei Complementar (PLP) 299/2026, que diminui o espaço fiscal para crescimento de despesas e permite ao governo ampliar seus instrumentos de controle dos gastos públicos, deve ser votado nesta quinta-feira (12). A sessão desta quarta-feira (11) foi suspensa e será reaberta na quinta às 16h. O presidente do Senado, Davi Alcolumbre, disse que, se ao longo da quinta as lideranças manifestarem que precisam de mais tempo, a votação ficará para a próxima semana. Davi apontou que o projeto de ajuste fiscal vai ao encontro da manifestação de muitos senadores sobre a questão do equilíbrio da relação entre receita e despesa do Estado. Segundo o presidente do Senado, o projeto mira o equilíbrio das contas públicas. — É um projeto que resolve um problema que a unanimidade do Brasil deseja em relação ao Estado brasileiro. O impacto do proj",
+      "source": "https://www12.senado.leg.br/noticias/materias/2026/11/11/ajuste-fiscal-pode-ser-votado-nesta-quinta-feira",
+      "sourceName": "Agência Senado · publicação oficial",
+      "topics": [
+        "Agência Senado"
+      ],
+      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
+      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
+      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
+      "now": "Publicação oficial identificada em 2026-11-11.",
+      "watch": "Conferir íntegra, vigência e próximos eventos.",
+      "sections": {
+        "aconteceu": "Agência Senado publicou: Ajuste fiscal pode ser votado nesta quinta-feira. O Projeto de Lei Complementar (PLP) 299/2026, que diminui o espaço fiscal para crescimento de despesas e permite ao governo ampliar seus instrumentos de controle dos gastos públicos, deve ser votado nesta quinta-feira (12). A sessão desta quarta-feira (11) foi suspensa e será reaberta na quinta às 16h. O presidente do Senado, Davi Alcolumbre, disse que, se ao longo da quinta as lideranças manifestarem que precisam de mais tempo, a votação ficará para a próxima semana. Davi apontou que o projeto de ajuste fiscal vai ao encontro da manifestação de muitos senadores sobre a questão do equilíbrio da relação entre receita e despesa do Estado. Segundo o presidente do Senado, o projeto mira o equilíbrio das contas públicas. — É um projeto que resolve um problema que a unanimidade do Brasil deseja em relação ao Estado brasileiro. O impacto do proj",
+        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
+        "discussao": "A controvérsia precisa de conferência na fonte integral.",
+        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
+        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
+        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
+        "aberto": "Confirmar regulamentações, recursos e pendências.",
+        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
+      },
+      "timeline": [
+        [
+          "2026-11-11",
+          "Publicação detectada",
+          "Efeitos jurídicos a conferir"
+        ]
+      ]
+    },
+    {
+      "id": "auto-d104363a6fa9b088",
+      "automated": true,
+      "title": "Criação do Dia Nacional da Cachaça Brasileira recebe apoio durante audiência",
+      "date": "2026-11-11",
+      "published": "2026-11-11",
+      "checked": "2026-11-12",
+      "addedAt": "2026-11-11T23:20:53+00:00",
+      "org": "Agência Senado",
+      "trib": "A identificar",
+      "category": "Atualização tributária",
+      "kind": "Notícia oficial (coleta automática)",
+      "impact": "A avaliar",
+      "status": "Efeitos jurídicos a verificar",
+      "stage": "Publicação identificada",
+      "summary": "A Comissão de Educação e Cultura do Senado (CE) promoveu nesta quarta-feira (11) uma audiência pública para discutir a criação do Dia Nacional da Cachaça Brasileira. A data já é comemorada em 13 de setembro, mas ainda não tem reconhecimento oficial — ou seja, em lei. Representantes do setor privado e de entidades culturais defenderam o reconhecimento da bebida como patrimônio nacional e destacaram sua importância econômica e turística. Ao final da reunião, o senador Carlos Portinho (PL-RJ) anunciou a apresentação de um projeto de lei, o PL 5.824/2026, que institui o Dia Nacional da Cachaça Brasileira. A iniciativa também é objeto de outro projeto, o PL 3.771/2026, do senador Izalci Lucas (PL-DF), cria o Dia Nacional da Cachaça. A audiência aconteceu a pedido (REQ 30/2026 - CE) dos senadores Carlos Portinho, que presidiu o debate, Teresa L",
+      "source": "https://www12.senado.leg.br/noticias/materias/2026/11/11/criacao-do-dia-nacional-da-cachaca-brasileira-recebe-apoio-durante-audiencia",
+      "sourceName": "Agência Senado · publicação oficial",
+      "topics": [
+        "Agência Senado"
+      ],
+      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
+      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
+      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
+      "now": "Publicação oficial identificada em 2026-11-11.",
+      "watch": "Conferir íntegra, vigência e próximos eventos.",
+      "sections": {
+        "aconteceu": "Agência Senado publicou: Criação do Dia Nacional da Cachaça Brasileira recebe apoio durante audiência. A Comissão de Educação e Cultura do Senado (CE) promoveu nesta quarta-feira (11) uma audiência pública para discutir a criação do Dia Nacional da Cachaça Brasileira. A data já é comemorada em 13 de setembro, mas ainda não tem reconhecimento oficial — ou seja, em lei. Representantes do setor privado e de entidades culturais defenderam o reconhecimento da bebida como patrimônio nacional e destacaram sua importância econômica e turística. Ao final da reunião, o senador Carlos Portinho (PL-RJ) anunciou a apresentação de um projeto de lei, o PL 5.824/2026, que institui o Dia Nacional da Cachaça Brasileira. A iniciativa também é objeto de outro projeto, o PL 3.771/2026, do senador Izalci Lucas (PL-DF), cria o Dia Nacional da Cachaça. A audiência aconteceu a pedido (REQ 30/2026 - CE) dos senadores Carlos Portinho, que presidiu o debate, Teresa L",
+        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
+        "discussao": "A controvérsia precisa de conferência na fonte integral.",
+        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
+        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
+        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
+        "aberto": "Confirmar regulamentações, recursos e pendências.",
+        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
+      },
+      "timeline": [
+        [
+          "2026-11-11",
+          "Publicação detectada",
+          "Efeitos jurídicos a conferir"
+        ]
+      ]
+    },
+    {
+      "id": "auto-ecac6b2741f90a68",
+      "automated": true,
+      "title": "Teresa Leitão defende política permanente de proteção ambiental",
+      "date": "2026-11-11",
+      "published": "2026-11-11",
+      "checked": "2026-11-12",
+      "addedAt": "2026-11-11T23:17:54+00:00",
+      "org": "Agência Senado",
+      "trib": "A identificar",
+      "category": "Atualização tributária",
+      "kind": "Notícia oficial (coleta automática)",
+      "impact": "A avaliar",
+      "status": "Efeitos jurídicos a verificar",
+      "stage": "Publicação identificada",
+      "summary": "A senadora Teresa Leitão (PT-PE) defendeu em Plenário políticas permanentes de proteção ambiental e ações para enfrentar os efeitos das mudanças climáticas. A parlamentar ressaltou a necessidade de conciliar desenvolvimento econômico, inclusão social e sustentabilidade. Em pronunciamento nesta quarta-feira (11), a senadora afirmou que populações vulneráveis são atingidas de forma mais intensa por enchentes, secas, ondas de calor e insegurança alimentar. Teresa Leitão também defendeu a adoção de medidas para transformar compromissos internacionais em políticas públicas de mitigação e adaptação climática. — Não existe nada possível que não envolva a todos os países, os ricos e os pobres, os desenvolvidos e os subdesenvolvidos. Se não houver solidariedade internacional, nós não poderemos enfrentar o que o mundo está nos colocando como um des",
+      "source": "https://www12.senado.leg.br/noticias/materias/2026/11/11/teresa-leitao-defende-politica-permanente-de-protecao-ambiental",
+      "sourceName": "Agência Senado · publicação oficial",
+      "topics": [
+        "Agência Senado"
+      ],
+      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
+      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
+      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
+      "now": "Publicação oficial identificada em 2026-11-11.",
+      "watch": "Conferir íntegra, vigência e próximos eventos.",
+      "sections": {
+        "aconteceu": "Agência Senado publicou: Teresa Leitão defende política permanente de proteção ambiental. A senadora Teresa Leitão (PT-PE) defendeu em Plenário políticas permanentes de proteção ambiental e ações para enfrentar os efeitos das mudanças climáticas. A parlamentar ressaltou a necessidade de conciliar desenvolvimento econômico, inclusão social e sustentabilidade. Em pronunciamento nesta quarta-feira (11), a senadora afirmou que populações vulneráveis são atingidas de forma mais intensa por enchentes, secas, ondas de calor e insegurança alimentar. Teresa Leitão também defendeu a adoção de medidas para transformar compromissos internacionais em políticas públicas de mitigação e adaptação climática. — Não existe nada possível que não envolva a todos os países, os ricos e os pobres, os desenvolvidos e os subdesenvolvidos. Se não houver solidariedade internacional, nós não poderemos enfrentar o que o mundo está nos colocando como um des",
         "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
         "discussao": "A controvérsia precisa de conferência na fonte integral.",
         "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
@@ -471,7 +1131,7 @@
       "title": "Sexta Turma aumenta pena dos sócios pela tragédia da Boate Kiss",
       "date": "2026-11-10",
       "published": "2026-11-10",
-      "checked": "2026-11-11",
+      "checked": "2026-11-12",
       "addedAt": "2026-11-10T20:14:00+00:00",
       "org": "STJ",
       "trib": "A identificar",
@@ -515,7 +1175,7 @@
       "title": "Ministros representam Enfam e STJ em conferência sobre formação de juízes na França",
       "date": "2026-11-10",
       "published": "2026-11-10",
-      "checked": "2026-11-11",
+      "checked": "2026-11-12",
       "addedAt": "2026-11-10T13:40:00+00:00",
       "org": "STJ",
       "trib": "A identificar",
@@ -559,7 +1219,7 @@
       "title": "STJ Notícias destaca decisão sobre moradia dos filhos após a separação dos pais",
       "date": "2026-11-10",
       "published": "2026-11-10",
-      "checked": "2026-11-11",
+      "checked": "2026-11-12",
       "addedAt": "2026-11-10T08:00:00+00:00",
       "org": "STJ",
       "trib": "A identificar",
@@ -603,7 +1263,7 @@
       "title": "STJ sedia lançamento do livro do ministro Og Fernandes sobre a história do STF nesta terça (10)",
       "date": "2026-11-10",
       "published": "2026-11-10",
-      "checked": "2026-11-11",
+      "checked": "2026-11-12",
       "addedAt": "2026-11-10T08:00:00+00:00",
       "org": "STJ",
       "trib": "A identificar",
@@ -647,7 +1307,7 @@
       "title": "Relevância: STJ discute se empresa com atividade secundária de transporte de carga pode creditar ICMS sobre combustível",
       "date": "2026-11-10",
       "published": "2026-11-10",
-      "checked": "2026-11-11",
+      "checked": "2026-11-12",
       "addedAt": "2026-11-10T07:10:00+00:00",
       "org": "STJ",
       "trib": "A identificar",
@@ -955,7 +1615,7 @@
       "title": "STJ e CJF assinam contratos com Banco do Brasil e Caixa para cessão da folha de pagamento",
       "date": "2026-11-09",
       "published": "2026-11-09",
-      "checked": "2026-11-11",
+      "checked": "2026-11-12",
       "addedAt": "2026-11-09T20:13:00+00:00",
       "org": "STJ",
       "trib": "A identificar",
@@ -999,7 +1659,7 @@
       "title": "STJ e PNUD lançam espaço multimídia Cabine Pontes durante Enajun no RJ",
       "date": "2026-11-09",
       "published": "2026-11-09",
-      "checked": "2026-11-11",
+      "checked": "2026-11-12",
       "addedAt": "2026-11-09T16:26:00+00:00",
       "org": "STJ",
       "trib": "A identificar",
@@ -1043,7 +1703,7 @@
       "title": "Conheça o novo portal de precedentes qualificados do STJ",
       "date": "2026-11-09",
       "published": "2026-11-09",
-      "checked": "2026-11-11",
+      "checked": "2026-11-12",
       "addedAt": "2026-11-09T07:15:00+00:00",
       "org": "STJ",
       "trib": "A identificar",
@@ -1087,7 +1747,7 @@
       "title": "Primeira Seção reconhece relevância e suspende processos sobre revogação antecipada do benefício fiscal do Perse",
       "date": "2026-11-09",
       "published": "2026-11-09",
-      "checked": "2026-11-11",
+      "checked": "2026-11-12",
       "addedAt": "2026-11-09T07:00:00+00:00",
       "org": "STJ",
       "trib": "A identificar",
@@ -1571,7 +2231,7 @@
       "title": "Og Fernandes: o juiz-jornalista encerra trajetória de quase cinco décadas dedicadas à Justiça",
       "date": "2026-11-08",
       "published": "2026-11-08",
-      "checked": "2026-11-11",
+      "checked": "2026-11-12",
       "addedAt": "2026-11-08T06:55:00+00:00",
       "org": "STJ",
       "trib": "A identificar",
@@ -1615,7 +2275,7 @@
       "title": "STJ lança livro sobre transformação digital e proteção das criações intelectuais",
       "date": "2026-11-06",
       "published": "2026-11-06",
-      "checked": "2026-11-11",
+      "checked": "2026-11-12",
       "addedAt": "2026-11-06T15:51:00+00:00",
       "org": "STJ",
       "trib": "A identificar",
@@ -1659,7 +2319,7 @@
       "title": "STJ recebe participantes do Caminhos para a Liderança de Mulheres na Justiça",
       "date": "2026-11-06",
       "published": "2026-11-06",
-      "checked": "2026-11-11",
+      "checked": "2026-11-12",
       "addedAt": "2026-11-06T12:22:00+00:00",
       "org": "STJ",
       "trib": "A identificar",
@@ -2231,7 +2891,7 @@
       "title": "Tribunais debatem desafios e expectativas sobre o novo regime de relevância do STJ",
       "date": "2026-11-05",
       "published": "2026-11-05",
-      "checked": "2026-11-11",
+      "checked": "2026-11-12",
       "addedAt": "2026-11-05T20:54:00+00:00",
       "org": "STJ",
       "trib": "A identificar",
@@ -2275,7 +2935,7 @@
       "title": "STJ e CNJ assinam acordo de cooperação para compartilhamento de dados",
       "date": "2026-11-05",
       "published": "2026-11-05",
-      "checked": "2026-11-11",
+      "checked": "2026-11-12",
       "addedAt": "2026-11-05T12:49:00+00:00",
       "org": "STJ",
       "trib": "A identificar",
@@ -2319,7 +2979,7 @@
       "title": "STJ reúne tribunais para debater aplicação da relevância nos recursos especiais",
       "date": "2026-11-05",
       "published": "2026-11-05",
-      "checked": "2026-11-11",
+      "checked": "2026-11-12",
       "addedAt": "2026-11-05T12:24:00+00:00",
       "org": "STJ",
       "trib": "A identificar",
@@ -2363,7 +3023,7 @@
       "title": "STJ apresenta novas ferramentas e programas para fortalecer atuação como corte de precedentes",
       "date": "2026-11-05",
       "published": "2026-11-05",
-      "checked": "2026-11-11",
+      "checked": "2026-11-12",
       "addedAt": "2026-11-05T12:06:00+00:00",
       "org": "STJ",
       "trib": "A identificar",
@@ -2407,7 +3067,7 @@
       "title": "Rádio Decidendi aborda relação entre os repetitivos e o novo modelo da relevância",
       "date": "2026-11-05",
       "published": "2026-11-05",
-      "checked": "2026-11-11",
+      "checked": "2026-11-12",
       "addedAt": "2026-11-05T07:50:00+00:00",
       "org": "STJ",
       "trib": "A identificar",
@@ -2451,7 +3111,7 @@
       "title": "STJ lança tutorial sobre nova página do calendário de sessões de julgamento",
       "date": "2026-11-05",
       "published": "2026-11-05",
-      "checked": "2026-11-11",
+      "checked": "2026-11-12",
       "addedAt": "2026-11-05T07:10:00+00:00",
       "org": "STJ",
       "trib": "A identificar",
@@ -2495,7 +3155,7 @@
       "title": "STJ realiza Encontro Nacional sobre a Relevância da Questão de Direito Federal, com transmissão ao vivo",
       "date": "2026-11-05",
       "published": "2026-11-05",
-      "checked": "2026-11-11",
+      "checked": "2026-11-12",
       "addedAt": "2026-11-05T06:00:00+00:00",
       "org": "STJ",
       "trib": "A identificar",
@@ -2935,7 +3595,7 @@
       "title": "Operação Faroeste: STJ condena mais uma desembargadora do TJBA e cassa aposentadoria",
       "date": "2026-11-04",
       "published": "2026-11-04",
-      "checked": "2026-11-11",
+      "checked": "2026-11-12",
       "addedAt": "2026-11-04T17:11:00+00:00",
       "org": "STJ",
       "trib": "A identificar",
@@ -2979,7 +3639,7 @@
       "title": "Ministro Og Fernandes lança livro sobre a história do STF em 10 de novembro",
       "date": "2026-11-04",
       "published": "2026-11-04",
-      "checked": "2026-11-11",
+      "checked": "2026-11-12",
       "addedAt": "2026-11-04T13:26:00+00:00",
       "org": "STJ",
       "trib": "A identificar",
@@ -3023,7 +3683,7 @@
       "title": "STJ fixa critérios para honorários por habilitação e impugnação de crédito em recuperação ou falência",
       "date": "2026-11-04",
       "published": "2026-11-04",
-      "checked": "2026-11-11",
+      "checked": "2026-11-12",
       "addedAt": "2026-11-04T07:10:00+00:00",
       "org": "STJ",
       "trib": "A identificar",
@@ -4211,7 +4871,7 @@
       "title": "STJ Notícias aborda decisão sobre alteração de paternidade em registro civil",
       "date": "2026-11-03",
       "published": "2026-11-03",
-      "checked": "2026-11-11",
+      "checked": "2026-11-12",
       "addedAt": "2026-11-03T14:48:00+00:00",
       "org": "STJ",
       "trib": "A identificar",
@@ -4255,7 +4915,7 @@
       "title": "Projeto do STJ e do PNUD para diversidade e fortalecimento da Justiça lança informativo mensal",
       "date": "2026-11-03",
       "published": "2026-11-03",
-      "checked": "2026-11-11",
+      "checked": "2026-11-12",
       "addedAt": "2026-11-03T11:55:00+00:00",
       "org": "STJ",
       "trib": "A identificar",
@@ -4299,7 +4959,7 @@
       "title": "STJ lança nova página de consulta processual com foco em acessibilidade e eficiência",
       "date": "2026-11-03",
       "published": "2026-11-03",
-      "checked": "2026-11-11",
+      "checked": "2026-11-12",
       "addedAt": "2026-11-03T08:00:00+00:00",
       "org": "STJ",
       "trib": "A identificar",
@@ -4343,7 +5003,7 @@
       "title": "Consulta à página de jurisprudência do STJ ajuda a evitar citações falsas geradas por IA",
       "date": "2026-11-03",
       "published": "2026-11-03",
-      "checked": "2026-11-11",
+      "checked": "2026-11-12",
       "addedAt": "2026-11-03T07:05:00+00:00",
       "org": "STJ",
       "trib": "A identificar",
@@ -4387,7 +5047,7 @@
       "title": "Terceira Seção define cinco teses repetitivas sobre a natureza e a quantidade de drogas no cálculo da pena por tráfico",
       "date": "2026-11-03",
       "published": "2026-11-03",
-      "checked": "2026-11-11",
+      "checked": "2026-11-12",
       "addedAt": "2026-11-03T06:50:00+00:00",
       "org": "STJ",
       "trib": "A identificar",
