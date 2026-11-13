@@ -1,7 +1,7 @@
 {
   "kind": "official-publication-feed",
-  "checkedAt": "2026-11-12T12:19:48+00:00",
-  "lastSuccessfulRun": "2026-11-12T12:19:48+00:00",
+  "checkedAt": "2026-11-13T12:19:06+00:00",
+  "lastSuccessfulRun": "2026-11-13T12:19:06+00:00",
   "sources": [
     {
       "org": "Receita Federal",
@@ -11,7 +11,7 @@
     {
       "org": "STJ",
       "ok": true,
-      "items": 31
+      "items": 35
     },
     {
       "org": "STJ · Informativo",
@@ -21,17 +21,369 @@
     {
       "org": "Agência Senado",
       "ok": true,
-      "items": 13
+      "items": 11
     }
   ],
   "entries": [
+    {
+      "id": "auto-98daad7ec243c076",
+      "automated": true,
+      "title": "Podcast STJ No Seu Dia aborda pensão alimentícia em casos de desemprego ou trabalho informal",
+      "date": "2026-11-13",
+      "published": "2026-11-13",
+      "checked": "2026-11-13",
+      "addedAt": "2026-11-13T08:40:00+00:00",
+      "org": "STJ",
+      "trib": "A identificar",
+      "category": "Jurisprudência",
+      "kind": "Notícia oficial (coleta automática)",
+      "impact": "A avaliar",
+      "status": "Efeitos jurídicos a verificar",
+      "stage": "Publicação identificada",
+      "summary": "Podcast STJ No Seu Dia aborda pensão alimentícia em casos de desemprego ou trabalho informal",
+      "source": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/13112026-Podcast-STJ-No-Seu-Dia-aborda-pensao-alimenticia-em-casos-de-desemprego-ou-trabalho-informal.aspx",
+      "sourceName": "STJ · publicação oficial",
+      "topics": [
+        "STJ"
+      ],
+      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
+      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
+      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
+      "now": "Publicação oficial identificada em 2026-11-13.",
+      "watch": "Conferir íntegra, vigência e próximos eventos.",
+      "sections": {
+        "aconteceu": "STJ publicou: Podcast STJ No Seu Dia aborda pensão alimentícia em casos de desemprego ou trabalho informal. Podcast STJ No Seu Dia aborda pensão alimentícia em casos de desemprego ou trabalho informal",
+        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
+        "discussao": "A controvérsia precisa de conferência na fonte integral.",
+        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
+        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
+        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
+        "aberto": "Confirmar regulamentações, recursos e pendências.",
+        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
+      },
+      "timeline": [
+        [
+          "2026-11-13",
+          "Publicação detectada",
+          "Efeitos jurídicos a conferir"
+        ]
+      ]
+    },
+    {
+      "id": "auto-753e1d6dacbc4943",
+      "automated": true,
+      "title": "Corte Especial zera pauta acumulada e acelera julgamento de repetitivos",
+      "date": "2026-11-13",
+      "published": "2026-11-13",
+      "checked": "2026-11-13",
+      "addedAt": "2026-11-13T08:00:00+00:00",
+      "org": "STJ",
+      "trib": "A identificar",
+      "category": "Jurisprudência",
+      "kind": "Notícia oficial (coleta automática)",
+      "impact": "A avaliar",
+      "status": "Efeitos jurídicos a verificar",
+      "stage": "Publicação identificada",
+      "summary": "Corte Especial zera pauta acumulada e acelera julgamento de repetitivos",
+      "source": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/13112026-Corte-Especial-zera-pauta-acumulada-e-acelera-julgamento-de-repetitivos.aspx",
+      "sourceName": "STJ · publicação oficial",
+      "topics": [
+        "STJ"
+      ],
+      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
+      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
+      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
+      "now": "Publicação oficial identificada em 2026-11-13.",
+      "watch": "Conferir íntegra, vigência e próximos eventos.",
+      "sections": {
+        "aconteceu": "STJ publicou: Corte Especial zera pauta acumulada e acelera julgamento de repetitivos. Corte Especial zera pauta acumulada e acelera julgamento de repetitivos",
+        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
+        "discussao": "A controvérsia precisa de conferência na fonte integral.",
+        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
+        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
+        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
+        "aberto": "Confirmar regulamentações, recursos e pendências.",
+        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
+      },
+      "timeline": [
+        [
+          "2026-11-13",
+          "Publicação detectada",
+          "Efeitos jurídicos a conferir"
+        ]
+      ]
+    },
+    {
+      "id": "auto-4847fe1ce412fa3d",
+      "automated": true,
+      "title": "CPRB compõe a base de cálculo do PIS/Pasep e da Cofins, define STJ em tese vinculante",
+      "date": "2026-11-13",
+      "published": "2026-11-13",
+      "checked": "2026-11-13",
+      "addedAt": "2026-11-13T07:20:00+00:00",
+      "org": "STJ",
+      "trib": "A identificar",
+      "category": "Jurisprudência",
+      "kind": "Notícia oficial (coleta automática)",
+      "impact": "A avaliar",
+      "status": "Efeitos jurídicos a verificar",
+      "stage": "Publicação identificada",
+      "summary": "CPRB compõe a base de cálculo do PIS/Pasep e da Cofins, define STJ em tese vinculante",
+      "source": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/13112026-CPRB-compoe-a-base-de-calculo-do-PISPasep-e-da-Cofins--define-STJ-em-tese-vinculante.aspx",
+      "sourceName": "STJ · publicação oficial",
+      "topics": [
+        "STJ"
+      ],
+      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
+      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
+      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
+      "now": "Publicação oficial identificada em 2026-11-13.",
+      "watch": "Conferir íntegra, vigência e próximos eventos.",
+      "sections": {
+        "aconteceu": "STJ publicou: CPRB compõe a base de cálculo do PIS/Pasep e da Cofins, define STJ em tese vinculante. CPRB compõe a base de cálculo do PIS/Pasep e da Cofins, define STJ em tese vinculante",
+        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
+        "discussao": "A controvérsia precisa de conferência na fonte integral.",
+        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
+        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
+        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
+        "aberto": "Confirmar regulamentações, recursos e pendências.",
+        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
+      },
+      "timeline": [
+        [
+          "2026-11-13",
+          "Publicação detectada",
+          "Efeitos jurídicos a conferir"
+        ]
+      ]
+    },
+    {
+      "id": "auto-afc388eff5efd020",
+      "automated": true,
+      "title": "Áudio: Senado aprova texto-base do ajuste fiscal e analisará quatro destaques na terça",
+      "date": "2026-11-13",
+      "published": "2026-11-13",
+      "checked": "2026-11-13",
+      "addedAt": "2026-11-13T12:09:36+00:00",
+      "org": "Agência Senado",
+      "trib": "A identificar",
+      "category": "Atualização tributária",
+      "kind": "Notícia oficial (coleta automática)",
+      "impact": "A avaliar",
+      "status": "Efeitos jurídicos a verificar",
+      "stage": "Publicação identificada",
+      "summary": "O Senado aprovou o texto-base do PLP 299/2026, que amplia os instrumentos do governo para conter despesas e reduz benefícios tributários. Quatro destaques ainda serão votados, incluindo o adiamento de repasses da Lei Kandir, o limite à compensação previdenciária e a restrição ao uso de créditos para quitar impostos. Rogerio Marinho (PL-RN) criticou as mudanças nos repasses aos estados. O relator, Eduardo Braga (MDB-AM), defendeu a responsabilidade fiscal da proposta.",
+      "source": "https://www12.senado.leg.br/noticias/audios/2026/11/senado-aprova-texto-base-do-ajuste-fiscal-e-analisara-quatro-destaques-na-terca",
+      "sourceName": "Agência Senado · publicação oficial",
+      "topics": [
+        "Agência Senado"
+      ],
+      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
+      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
+      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
+      "now": "Publicação oficial identificada em 2026-11-13.",
+      "watch": "Conferir íntegra, vigência e próximos eventos.",
+      "sections": {
+        "aconteceu": "Agência Senado publicou: Áudio: Senado aprova texto-base do ajuste fiscal e analisará quatro destaques na terça. O Senado aprovou o texto-base do PLP 299/2026, que amplia os instrumentos do governo para conter despesas e reduz benefícios tributários. Quatro destaques ainda serão votados, incluindo o adiamento de repasses da Lei Kandir, o limite à compensação previdenciária e a restrição ao uso de créditos para quitar impostos. Rogerio Marinho (PL-RN) criticou as mudanças nos repasses aos estados. O relator, Eduardo Braga (MDB-AM), defendeu a responsabilidade fiscal da proposta.",
+        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
+        "discussao": "A controvérsia precisa de conferência na fonte integral.",
+        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
+        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
+        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
+        "aberto": "Confirmar regulamentações, recursos e pendências.",
+        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
+      },
+      "timeline": [
+        [
+          "2026-11-13",
+          "Publicação detectada",
+          "Efeitos jurídicos a conferir"
+        ]
+      ]
+    },
+    {
+      "id": "auto-0881b6ed0380f220",
+      "automated": true,
+      "title": "Vídeo: Senado aprova texto-base do projeto de ajuste fiscal",
+      "date": "2026-11-13",
+      "published": "2026-11-13",
+      "checked": "2026-11-13",
+      "addedAt": "2026-11-13T11:46:12+00:00",
+      "org": "Agência Senado",
+      "trib": "A identificar",
+      "category": "Atualização tributária",
+      "kind": "Notícia oficial (coleta automática)",
+      "impact": "A avaliar",
+      "status": "Efeitos jurídicos a verificar",
+      "stage": "Publicação identificada",
+      "summary": "Por 45 votos a favor e 31 contra, o Senado aprovou na quinta-feira (12) o texto-base do projeto de ajuste fiscal nas contas públicas. Entre os itens previstos estão o corte de benefícios fiscais e a mudança na base de cálculo do piso constitucional para a área da saúde.",
+      "source": "https://www12.senado.leg.br/noticias/videos/2026/11/senado-aprova-projeto-de-ajuste-fiscal",
+      "sourceName": "Agência Senado · publicação oficial",
+      "topics": [
+        "Agência Senado"
+      ],
+      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
+      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
+      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
+      "now": "Publicação oficial identificada em 2026-11-13.",
+      "watch": "Conferir íntegra, vigência e próximos eventos.",
+      "sections": {
+        "aconteceu": "Agência Senado publicou: Vídeo: Senado aprova texto-base do projeto de ajuste fiscal. Por 45 votos a favor e 31 contra, o Senado aprovou na quinta-feira (12) o texto-base do projeto de ajuste fiscal nas contas públicas. Entre os itens previstos estão o corte de benefícios fiscais e a mudança na base de cálculo do piso constitucional para a área da saúde.",
+        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
+        "discussao": "A controvérsia precisa de conferência na fonte integral.",
+        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
+        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
+        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
+        "aberto": "Confirmar regulamentações, recursos e pendências.",
+        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
+      },
+      "timeline": [
+        [
+          "2026-11-13",
+          "Publicação detectada",
+          "Efeitos jurídicos a conferir"
+        ]
+      ]
+    },
+    {
+      "id": "auto-59ce8ce32905a73c",
+      "automated": true,
+      "title": "Mesmo com urgência, projeto de ajuste fiscal foi alterado por emendas",
+      "date": "2026-11-13",
+      "published": "2026-11-13",
+      "checked": "2026-11-13",
+      "addedAt": "2026-11-13T01:54:15+00:00",
+      "org": "Agência Senado",
+      "trib": "A identificar",
+      "category": "Atualização tributária",
+      "kind": "Notícia oficial (coleta automática)",
+      "impact": "A avaliar",
+      "status": "Efeitos jurídicos a verificar",
+      "stage": "Publicação identificada",
+      "summary": "Mesmo com o pouco tempo entre o recebimento do projeto de ajuste fiscal (PLP 299/2026) do senador Jaques Wagner (PT-BA) e a votação, o relatório do senador Eduardo Braga (MDB-AM) acatou mais de 20 emendas dos senadores, seja da base governista, seja da oposição. Quatro trechos foram destacados e serão votados na próxima terça-feira (17). Concluída essa etapa, o texto estará pronto para seguir para votação na Câmara dos Deputados. A proposta foi aprovada em regime de urgência nesta quinta-feira (12), por 45 votos a 31. O requerimento de urgência para votação foi acatado em uma apertada: 40 votos favoráveis e 38 contrários. Durante a sessão, os senadores contrários à votação imediata tentaram adiar a análise da matéria, argumentando que sua complexidade exigia mais tempo de discussão — e Magno Malta (PL-ES) chegou a apresentar uma questão d",
+      "source": "https://www12.senado.leg.br/noticias/materias/2026/11/12/mesmo-com-urgencia-projeto-de-ajuste-fiscal-foi-alterado-por-emendas",
+      "sourceName": "Agência Senado · publicação oficial",
+      "topics": [
+        "Agência Senado"
+      ],
+      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
+      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
+      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
+      "now": "Publicação oficial identificada em 2026-11-13.",
+      "watch": "Conferir íntegra, vigência e próximos eventos.",
+      "sections": {
+        "aconteceu": "Agência Senado publicou: Mesmo com urgência, projeto de ajuste fiscal foi alterado por emendas. Mesmo com o pouco tempo entre o recebimento do projeto de ajuste fiscal (PLP 299/2026) do senador Jaques Wagner (PT-BA) e a votação, o relatório do senador Eduardo Braga (MDB-AM) acatou mais de 20 emendas dos senadores, seja da base governista, seja da oposição. Quatro trechos foram destacados e serão votados na próxima terça-feira (17). Concluída essa etapa, o texto estará pronto para seguir para votação na Câmara dos Deputados. A proposta foi aprovada em regime de urgência nesta quinta-feira (12), por 45 votos a 31. O requerimento de urgência para votação foi acatado em uma apertada: 40 votos favoráveis e 38 contrários. Durante a sessão, os senadores contrários à votação imediata tentaram adiar a análise da matéria, argumentando que sua complexidade exigia mais tempo de discussão — e Magno Malta (PL-ES) chegou a apresentar uma questão d",
+        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
+        "discussao": "A controvérsia precisa de conferência na fonte integral.",
+        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
+        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
+        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
+        "aberto": "Confirmar regulamentações, recursos e pendências.",
+        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
+      },
+      "timeline": [
+        [
+          "2026-11-13",
+          "Publicação detectada",
+          "Efeitos jurídicos a conferir"
+        ]
+      ]
+    },
+    {
+      "id": "auto-4e2146289b8fb230",
+      "automated": true,
+      "title": "Texto principal do ajuste fiscal é aprovado pelo Senado",
+      "date": "2026-11-13",
+      "published": "2026-11-13",
+      "checked": "2026-11-13",
+      "addedAt": "2026-11-13T00:35:36+00:00",
+      "org": "Agência Senado",
+      "trib": "A identificar",
+      "category": "Atualização tributária",
+      "kind": "Notícia oficial (coleta automática)",
+      "impact": "A avaliar",
+      "status": "Efeitos jurídicos a verificar",
+      "stage": "Publicação identificada",
+      "summary": "O Plenário do Senado aprovou, nesta quinta-feira (12), o texto principal do projeto de ajuste fiscal do governo (PLP 299/2026). O texto aprovado, por 45 votos a 31, foi um substitutivo do senador Eduardo Braga (MDB-AM) ao projeto apresentado pelo senador Jaques Wagner (PT-BA) a pedido do Executivo. Ainda restam quatro pontos (destaques), que devem ser votados na próxima terça-feira (17). Concluído o processo de votação, a matéria seguirá para a análise da Câmara dos Deputados. Com as medidas previstas no projeto, o Poder Executivo estima uma melhora de R$ 45,1 bilhões a R$ 56,1 bilhões no resultado primário de 2027. Esse indicador representa a diferença entre as receitas e as despesas do governo, sem considerar os juros da dívida pública. Quando a arrecadação supera os gastos, há superávit primário. Para o relator, o projeto garante respo",
+      "source": "https://www12.senado.leg.br/noticias/materias/2026/11/12/texto-principal-do-ajuste-fiscal-e-aprovado-pelo-senado",
+      "sourceName": "Agência Senado · publicação oficial",
+      "topics": [
+        "Agência Senado"
+      ],
+      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
+      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
+      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
+      "now": "Publicação oficial identificada em 2026-11-13.",
+      "watch": "Conferir íntegra, vigência e próximos eventos.",
+      "sections": {
+        "aconteceu": "Agência Senado publicou: Texto principal do ajuste fiscal é aprovado pelo Senado. O Plenário do Senado aprovou, nesta quinta-feira (12), o texto principal do projeto de ajuste fiscal do governo (PLP 299/2026). O texto aprovado, por 45 votos a 31, foi um substitutivo do senador Eduardo Braga (MDB-AM) ao projeto apresentado pelo senador Jaques Wagner (PT-BA) a pedido do Executivo. Ainda restam quatro pontos (destaques), que devem ser votados na próxima terça-feira (17). Concluído o processo de votação, a matéria seguirá para a análise da Câmara dos Deputados. Com as medidas previstas no projeto, o Poder Executivo estima uma melhora de R$ 45,1 bilhões a R$ 56,1 bilhões no resultado primário de 2027. Esse indicador representa a diferença entre as receitas e as despesas do governo, sem considerar os juros da dívida pública. Quando a arrecadação supera os gastos, há superávit primário. Para o relator, o projeto garante respo",
+        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
+        "discussao": "A controvérsia precisa de conferência na fonte integral.",
+        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
+        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
+        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
+        "aberto": "Confirmar regulamentações, recursos e pendências.",
+        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
+      },
+      "timeline": [
+        [
+          "2026-11-13",
+          "Publicação detectada",
+          "Efeitos jurídicos a conferir"
+        ]
+      ]
+    },
+    {
+      "id": "auto-33627b200a4ea386",
+      "automated": true,
+      "title": "STJ lança Programa Confiança Digital para unir segurança da informação e governança de tecnologia",
+      "date": "2026-11-12",
+      "published": "2026-11-12",
+      "checked": "2026-11-13",
+      "addedAt": "2026-11-12T15:29:00+00:00",
+      "org": "STJ",
+      "trib": "A identificar",
+      "category": "Jurisprudência",
+      "kind": "Notícia oficial (coleta automática)",
+      "impact": "A avaliar",
+      "status": "Efeitos jurídicos a verificar",
+      "stage": "Publicação identificada",
+      "summary": "STJ lança Programa Confiança Digital para unir segurança da informação e governança de tecnologia",
+      "source": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/12112026-STJ-lanca-Programa-Confianca-Digital-para-unir-seguranca-da-informacao-e-governanca-de-tecnologia.aspx",
+      "sourceName": "STJ · publicação oficial",
+      "topics": [
+        "STJ"
+      ],
+      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
+      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
+      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
+      "now": "Publicação oficial identificada em 2026-11-12.",
+      "watch": "Conferir íntegra, vigência e próximos eventos.",
+      "sections": {
+        "aconteceu": "STJ publicou: STJ lança Programa Confiança Digital para unir segurança da informação e governança de tecnologia. STJ lança Programa Confiança Digital para unir segurança da informação e governança de tecnologia",
+        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
+        "discussao": "A controvérsia precisa de conferência na fonte integral.",
+        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
+        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
+        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
+        "aberto": "Confirmar regulamentações, recursos e pendências.",
+        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
+      },
+      "timeline": [
+        [
+          "2026-11-12",
+          "Publicação detectada",
+          "Efeitos jurídicos a conferir"
+        ]
+      ]
+    },
     {
       "id": "auto-f3c5e07e835ef1e6",
       "automated": true,
       "title": "Livro Liber Amicorum homenageia 18 anos do ministro Benedito Gonçalves no STJ",
       "date": "2026-11-12",
       "published": "2026-11-12",
-      "checked": "2026-11-12",
+      "checked": "2026-11-13",
       "addedAt": "2026-11-12T08:00:00+00:00",
       "org": "STJ",
       "trib": "A identificar",
@@ -53,6 +405,314 @@
       "watch": "Conferir íntegra, vigência e próximos eventos.",
       "sections": {
         "aconteceu": "STJ publicou: Livro Liber Amicorum homenageia 18 anos do ministro Benedito Gonçalves no STJ. Livro Liber Amicorum homenageia 18 anos do ministro Benedito Gonçalves no STJ",
+        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
+        "discussao": "A controvérsia precisa de conferência na fonte integral.",
+        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
+        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
+        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
+        "aberto": "Confirmar regulamentações, recursos e pendências.",
+        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
+      },
+      "timeline": [
+        [
+          "2026-11-12",
+          "Publicação detectada",
+          "Efeitos jurídicos a conferir"
+        ]
+      ]
+    },
+    {
+      "id": "auto-5da5d7dd44568a0e",
+      "automated": true,
+      "title": "Áudio: Projeto de ajuste fiscal prevê economia de até R$ 60 bilhões em 2027",
+      "date": "2026-11-12",
+      "published": "2026-11-12",
+      "checked": "2026-11-13",
+      "addedAt": "2026-11-12T22:54:11+00:00",
+      "org": "Agência Senado",
+      "trib": "A identificar",
+      "category": "Atualização tributária",
+      "kind": "Notícia oficial (coleta automática)",
+      "impact": "A avaliar",
+      "status": "Efeitos jurídicos a verificar",
+      "stage": "Publicação identificada",
+      "summary": "O projeto de ajuste fiscal (PLP 299/2026), que está em análise no Senado, prevê uma economia estimada de até R$ 60 bilhões em 2027. Ouça o áudio.",
+      "source": "https://www12.senado.leg.br/noticias/audios/2026/11/projeto-de-ajuste-fiscal-preve-economia-de-ate-r-60-bilhoes-em-2027",
+      "sourceName": "Agência Senado · publicação oficial",
+      "topics": [
+        "Agência Senado"
+      ],
+      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
+      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
+      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
+      "now": "Publicação oficial identificada em 2026-11-12.",
+      "watch": "Conferir íntegra, vigência e próximos eventos.",
+      "sections": {
+        "aconteceu": "Agência Senado publicou: Áudio: Projeto de ajuste fiscal prevê economia de até R$ 60 bilhões em 2027. O projeto de ajuste fiscal (PLP 299/2026), que está em análise no Senado, prevê uma economia estimada de até R$ 60 bilhões em 2027. Ouça o áudio.",
+        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
+        "discussao": "A controvérsia precisa de conferência na fonte integral.",
+        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
+        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
+        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
+        "aberto": "Confirmar regulamentações, recursos e pendências.",
+        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
+      },
+      "timeline": [
+        [
+          "2026-11-12",
+          "Publicação detectada",
+          "Efeitos jurídicos a conferir"
+        ]
+      ]
+    },
+    {
+      "id": "auto-fb306e2ed061e871",
+      "automated": true,
+      "title": "Áudio: CAS aprova estabilidade para gestantes e vacina contra herpes-zóster no SUS",
+      "date": "2026-11-12",
+      "published": "2026-11-12",
+      "checked": "2026-11-13",
+      "addedAt": "2026-11-12T21:16:57+00:00",
+      "org": "Agência Senado",
+      "trib": "A identificar",
+      "category": "Atualização tributária",
+      "kind": "Notícia oficial (coleta automática)",
+      "impact": "A avaliar",
+      "status": "Efeitos jurídicos a verificar",
+      "stage": "Publicação identificada",
+      "summary": "A Comissão de Assuntos Sociais (CAS) do Senado concluiu na quarta-feira (11) a análise do projeto que reforça a estabilidade da gestante em contratos temporários e outras modalidades (PL 3.522/2025) e do projeto que inclui a vacina contra herpes-zóster no Sistema Único de Saúde (SUS) para maiores de 50 anos e maiores de 18 anos com condições que comprometam a imunidade (PL 4.426/2025). Os textos seguem para análise na Câmara dos Deputados, se não houver recurso para votação no Plenário do Senado. O prazo para recurso termina em 18 de novembro.",
+      "source": "https://www12.senado.leg.br/noticias/audios/2026/11/cas-aprova-estabilidade-para-gestantes-e-vacina-contra-herpes-zoster-no-sus",
+      "sourceName": "Agência Senado · publicação oficial",
+      "topics": [
+        "Agência Senado"
+      ],
+      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
+      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
+      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
+      "now": "Publicação oficial identificada em 2026-11-12.",
+      "watch": "Conferir íntegra, vigência e próximos eventos.",
+      "sections": {
+        "aconteceu": "Agência Senado publicou: Áudio: CAS aprova estabilidade para gestantes e vacina contra herpes-zóster no SUS. A Comissão de Assuntos Sociais (CAS) do Senado concluiu na quarta-feira (11) a análise do projeto que reforça a estabilidade da gestante em contratos temporários e outras modalidades (PL 3.522/2025) e do projeto que inclui a vacina contra herpes-zóster no Sistema Único de Saúde (SUS) para maiores de 50 anos e maiores de 18 anos com condições que comprometam a imunidade (PL 4.426/2025). Os textos seguem para análise na Câmara dos Deputados, se não houver recurso para votação no Plenário do Senado. O prazo para recurso termina em 18 de novembro.",
+        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
+        "discussao": "A controvérsia precisa de conferência na fonte integral.",
+        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
+        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
+        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
+        "aberto": "Confirmar regulamentações, recursos e pendências.",
+        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
+      },
+      "timeline": [
+        [
+          "2026-11-12",
+          "Publicação detectada",
+          "Efeitos jurídicos a conferir"
+        ]
+      ]
+    },
+    {
+      "id": "auto-6f71def3765037ce",
+      "automated": true,
+      "title": "Pestalozzianos pedem, em sessão especial, atenção à pessoa com deficiência",
+      "date": "2026-11-12",
+      "published": "2026-11-12",
+      "checked": "2026-11-13",
+      "addedAt": "2026-11-12T20:55:34+00:00",
+      "org": "Agência Senado",
+      "trib": "A identificar",
+      "category": "Atualização tributária",
+      "kind": "Notícia oficial (coleta automática)",
+      "impact": "A avaliar",
+      "status": "Efeitos jurídicos a verificar",
+      "stage": "Publicação identificada",
+      "summary": "Durante sessão especial do Senado nesta quinta-feira (12) para comemorar os 100 anos do Movimento Pestalozziano no Brasil, seus representantes defenderam políticas públicas mais alinhadas às necessidades das pessoas com deficiência. Os pestalozzianos cobraram a ampliação da rede de reabilitação do Sistema Único de Saúde (SUS), com a revisão e atualização dos custos reais dos procedimentos, levando em consideração a complexidade dos serviços prestados. Defenderam ainda o fortalecimento e a regulamentação da Lei Orgânica de Assistência Social (Loas) e um piso nacional que assegure serviços de acolhimento e de alta complexidade às pessoas com deficiência. Essas reivindicações haviam sido definidas em convenção da instituição, nesta semana, em Brasília. A sessão, realizada por iniciativa da senadora Damares Alves (Republicanos-DF) e outros se",
+      "source": "https://www12.senado.leg.br/noticias/materias/2026/11/12/pestalozzianos-pedem-em-sessao-especial-atencao-a-pessoa-com-deficiencia",
+      "sourceName": "Agência Senado · publicação oficial",
+      "topics": [
+        "Agência Senado"
+      ],
+      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
+      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
+      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
+      "now": "Publicação oficial identificada em 2026-11-12.",
+      "watch": "Conferir íntegra, vigência e próximos eventos.",
+      "sections": {
+        "aconteceu": "Agência Senado publicou: Pestalozzianos pedem, em sessão especial, atenção à pessoa com deficiência. Durante sessão especial do Senado nesta quinta-feira (12) para comemorar os 100 anos do Movimento Pestalozziano no Brasil, seus representantes defenderam políticas públicas mais alinhadas às necessidades das pessoas com deficiência. Os pestalozzianos cobraram a ampliação da rede de reabilitação do Sistema Único de Saúde (SUS), com a revisão e atualização dos custos reais dos procedimentos, levando em consideração a complexidade dos serviços prestados. Defenderam ainda o fortalecimento e a regulamentação da Lei Orgânica de Assistência Social (Loas) e um piso nacional que assegure serviços de acolhimento e de alta complexidade às pessoas com deficiência. Essas reivindicações haviam sido definidas em convenção da instituição, nesta semana, em Brasília. A sessão, realizada por iniciativa da senadora Damares Alves (Republicanos-DF) e outros se",
+        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
+        "discussao": "A controvérsia precisa de conferência na fonte integral.",
+        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
+        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
+        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
+        "aberto": "Confirmar regulamentações, recursos e pendências.",
+        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
+      },
+      "timeline": [
+        [
+          "2026-11-12",
+          "Publicação detectada",
+          "Efeitos jurídicos a conferir"
+        ]
+      ]
+    },
+    {
+      "id": "auto-36403a69060de366",
+      "automated": true,
+      "title": "Áudio: Vai a Plenário projeto de atendimento integral no SUS para mulheres com endometriose",
+      "date": "2026-11-12",
+      "published": "2026-11-12",
+      "checked": "2026-11-13",
+      "addedAt": "2026-11-12T20:29:52+00:00",
+      "org": "Agência Senado",
+      "trib": "A identificar",
+      "category": "Atualização tributária",
+      "kind": "Notícia oficial (coleta automática)",
+      "impact": "A avaliar",
+      "status": "Efeitos jurídicos a verificar",
+      "stage": "Publicação identificada",
+      "summary": "A Comissão de Assuntos Sociais do Senado (CAS) aprovou na quarta-feira (11) um projeto de lei que garante para as mulheres com endometriose atendimento integral pelo Sistema Único de Saúde (SUS). O projeto (PL 1.069/2023) segue para votação no Plenário do Senado. Ouça o áudio.",
+      "source": "https://www12.senado.leg.br/noticias/audios/2026/11/vai-a-plenario-projeto-de-atendimento-integral-no-sus-para-mulheres-com-endometriose",
+      "sourceName": "Agência Senado · publicação oficial",
+      "topics": [
+        "Agência Senado"
+      ],
+      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
+      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
+      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
+      "now": "Publicação oficial identificada em 2026-11-12.",
+      "watch": "Conferir íntegra, vigência e próximos eventos.",
+      "sections": {
+        "aconteceu": "Agência Senado publicou: Áudio: Vai a Plenário projeto de atendimento integral no SUS para mulheres com endometriose. A Comissão de Assuntos Sociais do Senado (CAS) aprovou na quarta-feira (11) um projeto de lei que garante para as mulheres com endometriose atendimento integral pelo Sistema Único de Saúde (SUS). O projeto (PL 1.069/2023) segue para votação no Plenário do Senado. Ouça o áudio.",
+        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
+        "discussao": "A controvérsia precisa de conferência na fonte integral.",
+        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
+        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
+        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
+        "aberto": "Confirmar regulamentações, recursos e pendências.",
+        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
+      },
+      "timeline": [
+        [
+          "2026-11-12",
+          "Publicação detectada",
+          "Efeitos jurídicos a conferir"
+        ]
+      ]
+    },
+    {
+      "id": "auto-2a483ec2fdb058f6",
+      "automated": true,
+      "title": "Áudio: Projeto incentiva autonomia financeira de mulheres",
+      "date": "2026-11-12",
+      "published": "2026-11-12",
+      "checked": "2026-11-13",
+      "addedAt": "2026-11-12T20:26:12+00:00",
+      "org": "Agência Senado",
+      "trib": "A identificar",
+      "category": "Atualização tributária",
+      "kind": "Notícia oficial (coleta automática)",
+      "impact": "A avaliar",
+      "status": "Efeitos jurídicos a verificar",
+      "stage": "Publicação identificada",
+      "summary": "Um projeto de lei do Senado busca incentivar a autonomia financeira de mulheres, com iniciativas de capacitação, estímulo ao empreendedorismo feminino, acesso facilitado ao crédito e outras ações voltadas à redução de desigualdades de gênero. O PL 1.763/2026, de autoria do senador Ciro Monteiro (PP-PI), cria a Política Nacional Integrada de Autonomia Econômica, Empreendedorismo e Inserção Produtiva de Mulheres. A política tem, entre seus objetivos, o enfrentamento à dependência financeira relacionada à violência doméstica. O projeto está na Comissão de Direitos Humanos (CDH).",
+      "source": "https://www12.senado.leg.br/noticias/audios/2026/11/projeto-incentiva-autonomia-financeira-de-mulheres",
+      "sourceName": "Agência Senado · publicação oficial",
+      "topics": [
+        "Agência Senado"
+      ],
+      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
+      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
+      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
+      "now": "Publicação oficial identificada em 2026-11-12.",
+      "watch": "Conferir íntegra, vigência e próximos eventos.",
+      "sections": {
+        "aconteceu": "Agência Senado publicou: Áudio: Projeto incentiva autonomia financeira de mulheres. Um projeto de lei do Senado busca incentivar a autonomia financeira de mulheres, com iniciativas de capacitação, estímulo ao empreendedorismo feminino, acesso facilitado ao crédito e outras ações voltadas à redução de desigualdades de gênero. O PL 1.763/2026, de autoria do senador Ciro Monteiro (PP-PI), cria a Política Nacional Integrada de Autonomia Econômica, Empreendedorismo e Inserção Produtiva de Mulheres. A política tem, entre seus objetivos, o enfrentamento à dependência financeira relacionada à violência doméstica. O projeto está na Comissão de Direitos Humanos (CDH).",
+        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
+        "discussao": "A controvérsia precisa de conferência na fonte integral.",
+        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
+        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
+        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
+        "aberto": "Confirmar regulamentações, recursos e pendências.",
+        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
+      },
+      "timeline": [
+        [
+          "2026-11-12",
+          "Publicação detectada",
+          "Efeitos jurídicos a conferir"
+        ]
+      ]
+    },
+    {
+      "id": "auto-a7b7bc1cf8c3548a",
+      "automated": true,
+      "title": "Áudio: Projeto dá prioridade no SUS para pais de pessoas que necessitam de cuidados permanentes",
+      "date": "2026-11-12",
+      "published": "2026-11-12",
+      "checked": "2026-11-13",
+      "addedAt": "2026-11-12T20:23:35+00:00",
+      "org": "Agência Senado",
+      "trib": "A identificar",
+      "category": "Atualização tributária",
+      "kind": "Notícia oficial (coleta automática)",
+      "impact": "A avaliar",
+      "status": "Efeitos jurídicos a verificar",
+      "stage": "Publicação identificada",
+      "summary": "O projeto de lei que prevê prioridade no Sistema Único de Saúde (SUS) para mães e pais de pessoas que necessitam de cuidados permanentes (PL 3124/2023) avançou em sua tramitação no Senado: o texto recebeu na quarta-feira (11) parecer favorável na Comissão de Direitos Humanos e agora segue para análise da Comissão de Assuntos Sociais. Ouça o áudio.",
+      "source": "https://www12.senado.leg.br/noticias/audios/2026/11/projeto-da-prioridade-no-sus-para-pais-de-pessoas-que-necessitam-de-cuidados-permanentes",
+      "sourceName": "Agência Senado · publicação oficial",
+      "topics": [
+        "Agência Senado"
+      ],
+      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
+      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
+      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
+      "now": "Publicação oficial identificada em 2026-11-12.",
+      "watch": "Conferir íntegra, vigência e próximos eventos.",
+      "sections": {
+        "aconteceu": "Agência Senado publicou: Áudio: Projeto dá prioridade no SUS para pais de pessoas que necessitam de cuidados permanentes. O projeto de lei que prevê prioridade no Sistema Único de Saúde (SUS) para mães e pais de pessoas que necessitam de cuidados permanentes (PL 3124/2023) avançou em sua tramitação no Senado: o texto recebeu na quarta-feira (11) parecer favorável na Comissão de Direitos Humanos e agora segue para análise da Comissão de Assuntos Sociais. Ouça o áudio.",
+        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
+        "discussao": "A controvérsia precisa de conferência na fonte integral.",
+        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
+        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
+        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
+        "aberto": "Confirmar regulamentações, recursos e pendências.",
+        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
+      },
+      "timeline": [
+        [
+          "2026-11-12",
+          "Publicação detectada",
+          "Efeitos jurídicos a conferir"
+        ]
+      ]
+    },
+    {
+      "id": "auto-155839f47ef7f63e",
+      "automated": true,
+      "title": "Áudio: Projeto reserva cotas em universidades para jovens de abrigos",
+      "date": "2026-11-12",
+      "published": "2026-11-12",
+      "checked": "2026-11-13",
+      "addedAt": "2026-11-12T19:34:23+00:00",
+      "org": "Agência Senado",
+      "trib": "A identificar",
+      "category": "Atualização tributária",
+      "kind": "Notícia oficial (coleta automática)",
+      "impact": "A avaliar",
+      "status": "Efeitos jurídicos a verificar",
+      "stage": "Publicação identificada",
+      "summary": "Avançou no Senado o PL 618/2021, projeto de lei que permite aos jovens que completam 18 anos em instituições de acolhimento sem terem sido adotados ter acesso a vagas reservadas em universidades federais e escolas técnicas federais. O projeto recebeu na quarta-feira (11) parecer favorável na Comissão de Direitos Humanos e agora segue para análise na Comissão de Educação. Ouça o áudio.",
+      "source": "https://www12.senado.leg.br/noticias/audios/2026/11/projeto-reserva-cotas-em-universidades-para-jovens-de-abrigos",
+      "sourceName": "Agência Senado · publicação oficial",
+      "topics": [
+        "Agência Senado"
+      ],
+      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
+      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
+      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
+      "now": "Publicação oficial identificada em 2026-11-12.",
+      "watch": "Conferir íntegra, vigência e próximos eventos.",
+      "sections": {
+        "aconteceu": "Agência Senado publicou: Áudio: Projeto reserva cotas em universidades para jovens de abrigos. Avançou no Senado o PL 618/2021, projeto de lei que permite aos jovens que completam 18 anos em instituições de acolhimento sem terem sido adotados ter acesso a vagas reservadas em universidades federais e escolas técnicas federais. O projeto recebeu na quarta-feira (11) parecer favorável na Comissão de Direitos Humanos e agora segue para análise na Comissão de Educação. Ouça o áudio.",
         "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
         "discussao": "A controvérsia precisa de conferência na fonte integral.",
         "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
@@ -471,7 +1131,7 @@
       "title": "STJ e PNUD lançam vídeo sobre diversidade e importância da ampliação do acesso à magistratura",
       "date": "2026-11-11",
       "published": "2026-11-11",
-      "checked": "2026-11-12",
+      "checked": "2026-11-13",
       "addedAt": "2026-11-11T20:25:00+00:00",
       "org": "STJ",
       "trib": "A identificar",
@@ -515,7 +1175,7 @@
       "title": "STJ lança, nesta quarta-feira (11), obra sobre transformação digital",
       "date": "2026-11-11",
       "published": "2026-11-11",
-      "checked": "2026-11-12",
+      "checked": "2026-11-13",
       "addedAt": "2026-11-11T08:05:00+00:00",
       "org": "STJ",
       "trib": "A identificar",
@@ -559,7 +1219,7 @@
       "title": "Podcast STJ No Seu Dia debate direitos difusos e indenização por venda irregular de agrotóxicos",
       "date": "2026-11-11",
       "published": "2026-11-11",
-      "checked": "2026-11-12",
+      "checked": "2026-11-13",
       "addedAt": "2026-11-11T07:50:00+00:00",
       "org": "STJ",
       "trib": "A identificar",
@@ -1131,7 +1791,7 @@
       "title": "Sexta Turma aumenta pena dos sócios pela tragédia da Boate Kiss",
       "date": "2026-11-10",
       "published": "2026-11-10",
-      "checked": "2026-11-12",
+      "checked": "2026-11-13",
       "addedAt": "2026-11-10T20:14:00+00:00",
       "org": "STJ",
       "trib": "A identificar",
@@ -1175,7 +1835,7 @@
       "title": "Ministros representam Enfam e STJ em conferência sobre formação de juízes na França",
       "date": "2026-11-10",
       "published": "2026-11-10",
-      "checked": "2026-11-12",
+      "checked": "2026-11-13",
       "addedAt": "2026-11-10T13:40:00+00:00",
       "org": "STJ",
       "trib": "A identificar",
@@ -1219,7 +1879,7 @@
       "title": "STJ Notícias destaca decisão sobre moradia dos filhos após a separação dos pais",
       "date": "2026-11-10",
       "published": "2026-11-10",
-      "checked": "2026-11-12",
+      "checked": "2026-11-13",
       "addedAt": "2026-11-10T08:00:00+00:00",
       "org": "STJ",
       "trib": "A identificar",
@@ -1263,7 +1923,7 @@
       "title": "STJ sedia lançamento do livro do ministro Og Fernandes sobre a história do STF nesta terça (10)",
       "date": "2026-11-10",
       "published": "2026-11-10",
-      "checked": "2026-11-12",
+      "checked": "2026-11-13",
       "addedAt": "2026-11-10T08:00:00+00:00",
       "org": "STJ",
       "trib": "A identificar",
@@ -1307,7 +1967,7 @@
       "title": "Relevância: STJ discute se empresa com atividade secundária de transporte de carga pode creditar ICMS sobre combustível",
       "date": "2026-11-10",
       "published": "2026-11-10",
-      "checked": "2026-11-12",
+      "checked": "2026-11-13",
       "addedAt": "2026-11-10T07:10:00+00:00",
       "org": "STJ",
       "trib": "A identificar",
@@ -1615,7 +2275,7 @@
       "title": "STJ e CJF assinam contratos com Banco do Brasil e Caixa para cessão da folha de pagamento",
       "date": "2026-11-09",
       "published": "2026-11-09",
-      "checked": "2026-11-12",
+      "checked": "2026-11-13",
       "addedAt": "2026-11-09T20:13:00+00:00",
       "org": "STJ",
       "trib": "A identificar",
@@ -1659,7 +2319,7 @@
       "title": "STJ e PNUD lançam espaço multimídia Cabine Pontes durante Enajun no RJ",
       "date": "2026-11-09",
       "published": "2026-11-09",
-      "checked": "2026-11-12",
+      "checked": "2026-11-13",
       "addedAt": "2026-11-09T16:26:00+00:00",
       "org": "STJ",
       "trib": "A identificar",
@@ -1703,7 +2363,7 @@
       "title": "Conheça o novo portal de precedentes qualificados do STJ",
       "date": "2026-11-09",
       "published": "2026-11-09",
-      "checked": "2026-11-12",
+      "checked": "2026-11-13",
       "addedAt": "2026-11-09T07:15:00+00:00",
       "org": "STJ",
       "trib": "A identificar",
@@ -1747,7 +2407,7 @@
       "title": "Primeira Seção reconhece relevância e suspende processos sobre revogação antecipada do benefício fiscal do Perse",
       "date": "2026-11-09",
       "published": "2026-11-09",
-      "checked": "2026-11-12",
+      "checked": "2026-11-13",
       "addedAt": "2026-11-09T07:00:00+00:00",
       "org": "STJ",
       "trib": "A identificar",
@@ -2231,7 +2891,7 @@
       "title": "Og Fernandes: o juiz-jornalista encerra trajetória de quase cinco décadas dedicadas à Justiça",
       "date": "2026-11-08",
       "published": "2026-11-08",
-      "checked": "2026-11-12",
+      "checked": "2026-11-13",
       "addedAt": "2026-11-08T06:55:00+00:00",
       "org": "STJ",
       "trib": "A identificar",
@@ -2275,7 +2935,7 @@
       "title": "STJ lança livro sobre transformação digital e proteção das criações intelectuais",
       "date": "2026-11-06",
       "published": "2026-11-06",
-      "checked": "2026-11-12",
+      "checked": "2026-11-13",
       "addedAt": "2026-11-06T15:51:00+00:00",
       "org": "STJ",
       "trib": "A identificar",
@@ -2319,7 +2979,7 @@
       "title": "STJ recebe participantes do Caminhos para a Liderança de Mulheres na Justiça",
       "date": "2026-11-06",
       "published": "2026-11-06",
-      "checked": "2026-11-12",
+      "checked": "2026-11-13",
       "addedAt": "2026-11-06T12:22:00+00:00",
       "org": "STJ",
       "trib": "A identificar",
@@ -2891,7 +3551,7 @@
       "title": "Tribunais debatem desafios e expectativas sobre o novo regime de relevância do STJ",
       "date": "2026-11-05",
       "published": "2026-11-05",
-      "checked": "2026-11-12",
+      "checked": "2026-11-13",
       "addedAt": "2026-11-05T20:54:00+00:00",
       "org": "STJ",
       "trib": "A identificar",
@@ -2935,7 +3595,7 @@
       "title": "STJ e CNJ assinam acordo de cooperação para compartilhamento de dados",
       "date": "2026-11-05",
       "published": "2026-11-05",
-      "checked": "2026-11-12",
+      "checked": "2026-11-13",
       "addedAt": "2026-11-05T12:49:00+00:00",
       "org": "STJ",
       "trib": "A identificar",
@@ -2979,7 +3639,7 @@
       "title": "STJ reúne tribunais para debater aplicação da relevância nos recursos especiais",
       "date": "2026-11-05",
       "published": "2026-11-05",
-      "checked": "2026-11-12",
+      "checked": "2026-11-13",
       "addedAt": "2026-11-05T12:24:00+00:00",
       "org": "STJ",
       "trib": "A identificar",
@@ -3023,7 +3683,7 @@
       "title": "STJ apresenta novas ferramentas e programas para fortalecer atuação como corte de precedentes",
       "date": "2026-11-05",
       "published": "2026-11-05",
-      "checked": "2026-11-12",
+      "checked": "2026-11-13",
       "addedAt": "2026-11-05T12:06:00+00:00",
       "org": "STJ",
       "trib": "A identificar",
@@ -3067,7 +3727,7 @@
       "title": "Rádio Decidendi aborda relação entre os repetitivos e o novo modelo da relevância",
       "date": "2026-11-05",
       "published": "2026-11-05",
-      "checked": "2026-11-12",
+      "checked": "2026-11-13",
       "addedAt": "2026-11-05T07:50:00+00:00",
       "org": "STJ",
       "trib": "A identificar",
@@ -3111,7 +3771,7 @@
       "title": "STJ lança tutorial sobre nova página do calendário de sessões de julgamento",
       "date": "2026-11-05",
       "published": "2026-11-05",
-      "checked": "2026-11-12",
+      "checked": "2026-11-13",
       "addedAt": "2026-11-05T07:10:00+00:00",
       "org": "STJ",
       "trib": "A identificar",
@@ -3155,7 +3815,7 @@
       "title": "STJ realiza Encontro Nacional sobre a Relevância da Questão de Direito Federal, com transmissão ao vivo",
       "date": "2026-11-05",
       "published": "2026-11-05",
-      "checked": "2026-11-12",
+      "checked": "2026-11-13",
       "addedAt": "2026-11-05T06:00:00+00:00",
       "org": "STJ",
       "trib": "A identificar",
@@ -3595,7 +4255,7 @@
       "title": "Operação Faroeste: STJ condena mais uma desembargadora do TJBA e cassa aposentadoria",
       "date": "2026-11-04",
       "published": "2026-11-04",
-      "checked": "2026-11-12",
+      "checked": "2026-11-13",
       "addedAt": "2026-11-04T17:11:00+00:00",
       "org": "STJ",
       "trib": "A identificar",
@@ -3639,7 +4299,7 @@
       "title": "Ministro Og Fernandes lança livro sobre a história do STF em 10 de novembro",
       "date": "2026-11-04",
       "published": "2026-11-04",
-      "checked": "2026-11-12",
+      "checked": "2026-11-13",
       "addedAt": "2026-11-04T13:26:00+00:00",
       "org": "STJ",
       "trib": "A identificar",
@@ -3683,7 +4343,7 @@
       "title": "STJ fixa critérios para honorários por habilitação e impugnação de crédito em recuperação ou falência",
       "date": "2026-11-04",
       "published": "2026-11-04",
-      "checked": "2026-11-12",
+      "checked": "2026-11-13",
       "addedAt": "2026-11-04T07:10:00+00:00",
       "org": "STJ",
       "trib": "A identificar",
@@ -4871,7 +5531,7 @@
       "title": "STJ Notícias aborda decisão sobre alteração de paternidade em registro civil",
       "date": "2026-11-03",
       "published": "2026-11-03",
-      "checked": "2026-11-12",
+      "checked": "2026-11-13",
       "addedAt": "2026-11-03T14:48:00+00:00",
       "org": "STJ",
       "trib": "A identificar",
@@ -4915,7 +5575,7 @@
       "title": "Projeto do STJ e do PNUD para diversidade e fortalecimento da Justiça lança informativo mensal",
       "date": "2026-11-03",
       "published": "2026-11-03",
-      "checked": "2026-11-12",
+      "checked": "2026-11-13",
       "addedAt": "2026-11-03T11:55:00+00:00",
       "org": "STJ",
       "trib": "A identificar",
@@ -4959,7 +5619,7 @@
       "title": "STJ lança nova página de consulta processual com foco em acessibilidade e eficiência",
       "date": "2026-11-03",
       "published": "2026-11-03",
-      "checked": "2026-11-12",
+      "checked": "2026-11-13",
       "addedAt": "2026-11-03T08:00:00+00:00",
       "org": "STJ",
       "trib": "A identificar",
@@ -5003,7 +5663,7 @@
       "title": "Consulta à página de jurisprudência do STJ ajuda a evitar citações falsas geradas por IA",
       "date": "2026-11-03",
       "published": "2026-11-03",
-      "checked": "2026-11-12",
+      "checked": "2026-11-13",
       "addedAt": "2026-11-03T07:05:00+00:00",
       "org": "STJ",
       "trib": "A identificar",
@@ -5047,7 +5707,7 @@
       "title": "Terceira Seção define cinco teses repetitivas sobre a natureza e a quantidade de drogas no cálculo da pena por tráfico",
       "date": "2026-11-03",
       "published": "2026-11-03",
-      "checked": "2026-11-12",
+      "checked": "2026-11-13",
       "addedAt": "2026-11-03T06:50:00+00:00",
       "org": "STJ",
       "trib": "A identificar",
