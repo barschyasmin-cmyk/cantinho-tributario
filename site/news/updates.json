@@ -1,7 +1,7 @@
 {
   "kind": "official-publication-feed",
-  "checkedAt": "2026-11-17T12:16:38+00:00",
-  "lastSuccessfulRun": "2026-11-17T12:16:38+00:00",
+  "checkedAt": "2026-11-18T12:18:43+00:00",
+  "lastSuccessfulRun": "2026-11-18T12:18:43+00:00",
   "sources": [
     {
       "org": "Receita Federal",
@@ -11,7 +11,7 @@
     {
       "org": "STJ",
       "ok": true,
-      "items": 42
+      "items": 49
     },
     {
       "org": "STJ · Informativo",
@@ -21,17 +21,501 @@
     {
       "org": "Agência Senado",
       "ok": true,
-      "items": 11
+      "items": 15
     }
   ],
   "entries": [
+    {
+      "id": "auto-4b09ca11ec93f5ea",
+      "automated": true,
+      "title": "Entender Direito aborda evolução da jurisprudência do STJ sobre agravo de instrumento",
+      "date": "2026-11-18",
+      "published": "2026-11-18",
+      "checked": "2026-11-18",
+      "addedAt": "2026-11-18T08:50:00+00:00",
+      "org": "STJ",
+      "trib": "A identificar",
+      "category": "Jurisprudência",
+      "kind": "Notícia oficial (coleta automática)",
+      "impact": "A avaliar",
+      "status": "Efeitos jurídicos a verificar",
+      "stage": "Publicação identificada",
+      "summary": "Entender Direito aborda evolução da jurisprudência do STJ sobre agravo de instrumento",
+      "source": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/18112026-Entender-Direito-aborda-evolucao-da-jurisprudencia-do-STJ-sobre-agravo-de-instrumento.aspx",
+      "sourceName": "STJ · publicação oficial",
+      "topics": [
+        "STJ"
+      ],
+      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
+      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
+      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
+      "now": "Publicação oficial identificada em 2026-11-18.",
+      "watch": "Conferir íntegra, vigência e próximos eventos.",
+      "sections": {
+        "aconteceu": "STJ publicou: Entender Direito aborda evolução da jurisprudência do STJ sobre agravo de instrumento. Entender Direito aborda evolução da jurisprudência do STJ sobre agravo de instrumento",
+        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
+        "discussao": "A controvérsia precisa de conferência na fonte integral.",
+        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
+        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
+        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
+        "aberto": "Confirmar regulamentações, recursos e pendências.",
+        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
+      },
+      "timeline": [
+        [
+          "2026-11-18",
+          "Publicação detectada",
+          "Efeitos jurídicos a conferir"
+        ]
+      ]
+    },
+    {
+      "id": "auto-cc31be9c59c7a8ef",
+      "automated": true,
+      "title": "STJ avança na aplicação do Protocolo para Julgamento com Perspectiva de Gênero",
+      "date": "2026-11-18",
+      "published": "2026-11-18",
+      "checked": "2026-11-18",
+      "addedAt": "2026-11-18T08:15:00+00:00",
+      "org": "STJ",
+      "trib": "A identificar",
+      "category": "Jurisprudência",
+      "kind": "Notícia oficial (coleta automática)",
+      "impact": "A avaliar",
+      "status": "Efeitos jurídicos a verificar",
+      "stage": "Publicação identificada",
+      "summary": "STJ avança na aplicação do Protocolo para Julgamento com Perspectiva de Gênero",
+      "source": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/18112026-STJ-avanca-na-aplicacao-do-Protocolo-para-Julgamento-com-Perspectiva-de-Genero.aspx",
+      "sourceName": "STJ · publicação oficial",
+      "topics": [
+        "STJ"
+      ],
+      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
+      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
+      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
+      "now": "Publicação oficial identificada em 2026-11-18.",
+      "watch": "Conferir íntegra, vigência e próximos eventos.",
+      "sections": {
+        "aconteceu": "STJ publicou: STJ avança na aplicação do Protocolo para Julgamento com Perspectiva de Gênero. STJ avança na aplicação do Protocolo para Julgamento com Perspectiva de Gênero",
+        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
+        "discussao": "A controvérsia precisa de conferência na fonte integral.",
+        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
+        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
+        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
+        "aberto": "Confirmar regulamentações, recursos e pendências.",
+        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
+      },
+      "timeline": [
+        [
+          "2026-11-18",
+          "Publicação detectada",
+          "Efeitos jurídicos a conferir"
+        ]
+      ]
+    },
+    {
+      "id": "auto-d089f7f0478e34ab",
+      "automated": true,
+      "title": "Nesta quarta-feira (18), STJ sedia lançamento de livro em homenagem ao ministro Benedito Gonçalves",
+      "date": "2026-11-18",
+      "published": "2026-11-18",
+      "checked": "2026-11-18",
+      "addedAt": "2026-11-18T08:00:00+00:00",
+      "org": "STJ",
+      "trib": "A identificar",
+      "category": "Jurisprudência",
+      "kind": "Notícia oficial (coleta automática)",
+      "impact": "A avaliar",
+      "status": "Efeitos jurídicos a verificar",
+      "stage": "Publicação identificada",
+      "summary": "Nesta quarta-feira (18), STJ sedia lançamento de livro em homenagem ao ministro Benedito Gonçalves",
+      "source": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/18112026-Nesta-quarta-feira--18---STJ-sedia-lancamento-de-livro-em-homenagem-ao-ministro-Benedito-Goncalves-.aspx",
+      "sourceName": "STJ · publicação oficial",
+      "topics": [
+        "STJ"
+      ],
+      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
+      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
+      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
+      "now": "Publicação oficial identificada em 2026-11-18.",
+      "watch": "Conferir íntegra, vigência e próximos eventos.",
+      "sections": {
+        "aconteceu": "STJ publicou: Nesta quarta-feira (18), STJ sedia lançamento de livro em homenagem ao ministro Benedito Gonçalves. Nesta quarta-feira (18), STJ sedia lançamento de livro em homenagem ao ministro Benedito Gonçalves",
+        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
+        "discussao": "A controvérsia precisa de conferência na fonte integral.",
+        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
+        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
+        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
+        "aberto": "Confirmar regulamentações, recursos e pendências.",
+        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
+      },
+      "timeline": [
+        [
+          "2026-11-18",
+          "Publicação detectada",
+          "Efeitos jurídicos a conferir"
+        ]
+      ]
+    },
+    {
+      "id": "auto-5b960bc454fe4550",
+      "automated": true,
+      "title": "Presidente do STJ e do CJF lamenta morte e destaca legado de Paulo Gallotti",
+      "date": "2026-11-18",
+      "published": "2026-11-18",
+      "checked": "2026-11-18",
+      "addedAt": "2026-11-18T07:49:00+00:00",
+      "org": "STJ",
+      "trib": "A identificar",
+      "category": "Jurisprudência",
+      "kind": "Notícia oficial (coleta automática)",
+      "impact": "A avaliar",
+      "status": "Efeitos jurídicos a verificar",
+      "stage": "Publicação identificada",
+      "summary": "Presidente do STJ e do CJF lamenta morte e destaca legado de Paulo Gallotti",
+      "source": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/18112026-Presidente-do-STJ-e-do-CJF-lamenta-morte-e-destaca-legado-de-Paulo-Gallotti.aspx",
+      "sourceName": "STJ · publicação oficial",
+      "topics": [
+        "STJ"
+      ],
+      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
+      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
+      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
+      "now": "Publicação oficial identificada em 2026-11-18.",
+      "watch": "Conferir íntegra, vigência e próximos eventos.",
+      "sections": {
+        "aconteceu": "STJ publicou: Presidente do STJ e do CJF lamenta morte e destaca legado de Paulo Gallotti. Presidente do STJ e do CJF lamenta morte e destaca legado de Paulo Gallotti",
+        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
+        "discussao": "A controvérsia precisa de conferência na fonte integral.",
+        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
+        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
+        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
+        "aberto": "Confirmar regulamentações, recursos e pendências.",
+        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
+      },
+      "timeline": [
+        [
+          "2026-11-18",
+          "Publicação detectada",
+          "Efeitos jurídicos a conferir"
+        ]
+      ]
+    },
+    {
+      "id": "auto-46e72de99fec3787",
+      "automated": true,
+      "title": "STJ promove, nesta quinta-feira (19), audiência pública sobre prescrição em ações envolvendo pessoas com deficiência",
+      "date": "2026-11-18",
+      "published": "2026-11-18",
+      "checked": "2026-11-18",
+      "addedAt": "2026-11-18T07:40:00+00:00",
+      "org": "STJ",
+      "trib": "A identificar",
+      "category": "Jurisprudência",
+      "kind": "Notícia oficial (coleta automática)",
+      "impact": "A avaliar",
+      "status": "Efeitos jurídicos a verificar",
+      "stage": "Publicação identificada",
+      "summary": "STJ promove, nesta quinta-feira (19), audiência pública sobre prescrição em ações envolvendo pessoas com deficiência",
+      "source": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/18112026-STJ-promove--nesta-quinta-feira--19---audiencia-publica-sobre-prescricao-em-acoes-envolvendo-pessoas-com.aspx",
+      "sourceName": "STJ · publicação oficial",
+      "topics": [
+        "STJ"
+      ],
+      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
+      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
+      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
+      "now": "Publicação oficial identificada em 2026-11-18.",
+      "watch": "Conferir íntegra, vigência e próximos eventos.",
+      "sections": {
+        "aconteceu": "STJ publicou: STJ promove, nesta quinta-feira (19), audiência pública sobre prescrição em ações envolvendo pessoas com deficiência. STJ promove, nesta quinta-feira (19), audiência pública sobre prescrição em ações envolvendo pessoas com deficiência",
+        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
+        "discussao": "A controvérsia precisa de conferência na fonte integral.",
+        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
+        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
+        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
+        "aberto": "Confirmar regulamentações, recursos e pendências.",
+        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
+      },
+      "timeline": [
+        [
+          "2026-11-18",
+          "Publicação detectada",
+          "Efeitos jurídicos a conferir"
+        ]
+      ]
+    },
+    {
+      "id": "auto-21db5754d837d192",
+      "automated": true,
+      "title": "Relevância: STJ não é competente para julgar controvérsia sobre comprovação de escolaridade em concurso da PMRN",
+      "date": "2026-11-18",
+      "published": "2026-11-18",
+      "checked": "2026-11-18",
+      "addedAt": "2026-11-18T07:00:00+00:00",
+      "org": "STJ",
+      "trib": "A identificar",
+      "category": "Jurisprudência",
+      "kind": "Notícia oficial (coleta automática)",
+      "impact": "A avaliar",
+      "status": "Efeitos jurídicos a verificar",
+      "stage": "Publicação identificada",
+      "summary": "Relevância: STJ não é competente para julgar controvérsia sobre comprovação de escolaridade em concurso da PMRN",
+      "source": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/18112026-Relevancia-STJ-nao-e-competente-para-julgar-controversia-sobre-comprovacao-de-escolaridade-em-concurso-da-PMRN.aspx",
+      "sourceName": "STJ · publicação oficial",
+      "topics": [
+        "STJ"
+      ],
+      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
+      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
+      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
+      "now": "Publicação oficial identificada em 2026-11-18.",
+      "watch": "Conferir íntegra, vigência e próximos eventos.",
+      "sections": {
+        "aconteceu": "STJ publicou: Relevância: STJ não é competente para julgar controvérsia sobre comprovação de escolaridade em concurso da PMRN. Relevância: STJ não é competente para julgar controvérsia sobre comprovação de escolaridade em concurso da PMRN",
+        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
+        "discussao": "A controvérsia precisa de conferência na fonte integral.",
+        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
+        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
+        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
+        "aberto": "Confirmar regulamentações, recursos e pendências.",
+        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
+      },
+      "timeline": [
+        [
+          "2026-11-18",
+          "Publicação detectada",
+          "Efeitos jurídicos a conferir"
+        ]
+      ]
+    },
+    {
+      "id": "auto-6ef08fa7d49dfb4e",
+      "automated": true,
+      "title": "Áudio: Senado aprova Plano Brasil Soberano 3",
+      "date": "2026-11-18",
+      "published": "2026-11-18",
+      "checked": "2026-11-18",
+      "addedAt": "2026-11-18T12:12:14+00:00",
+      "org": "Agência Senado",
+      "trib": "A identificar",
+      "category": "Atualização tributária",
+      "kind": "Notícia oficial (coleta automática)",
+      "impact": "A avaliar",
+      "status": "Efeitos jurídicos a verificar",
+      "stage": "Publicação identificada",
+      "summary": "O Plenário do Senado aprovou medida provisória que abre crédito de até R$ 13,5 bilhões para empresas exportadoras prejudicadas pelas tarifas impostas pelo governo estadunidense e por conflitos no Oriente Médio. No âmbito do Plano Brasil Soberano 3, A MPV 1379/2026, aprovada na forma de projeto de lei de conversão, beneficia setores como agricultura, pecuária, mineração e indústria automotiva, entre outros. O texto segue para sanção presidencial.",
+      "source": "https://www12.senado.leg.br/noticias/audios/2026/11/senado-aprova-plano-brasil-soberano-3",
+      "sourceName": "Agência Senado · publicação oficial",
+      "topics": [
+        "Agência Senado"
+      ],
+      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
+      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
+      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
+      "now": "Publicação oficial identificada em 2026-11-18.",
+      "watch": "Conferir íntegra, vigência e próximos eventos.",
+      "sections": {
+        "aconteceu": "Agência Senado publicou: Áudio: Senado aprova Plano Brasil Soberano 3. O Plenário do Senado aprovou medida provisória que abre crédito de até R$ 13,5 bilhões para empresas exportadoras prejudicadas pelas tarifas impostas pelo governo estadunidense e por conflitos no Oriente Médio. No âmbito do Plano Brasil Soberano 3, A MPV 1379/2026, aprovada na forma de projeto de lei de conversão, beneficia setores como agricultura, pecuária, mineração e indústria automotiva, entre outros. O texto segue para sanção presidencial.",
+        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
+        "discussao": "A controvérsia precisa de conferência na fonte integral.",
+        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
+        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
+        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
+        "aberto": "Confirmar regulamentações, recursos e pendências.",
+        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
+      },
+      "timeline": [
+        [
+          "2026-11-18",
+          "Publicação detectada",
+          "Efeitos jurídicos a conferir"
+        ]
+      ]
+    },
+    {
+      "id": "auto-7774c6c20b85dbdd",
+      "automated": true,
+      "title": "Áudio: Destaques ao ajuste fiscal serão votados nesta quarta",
+      "date": "2026-11-18",
+      "published": "2026-11-18",
+      "checked": "2026-11-18",
+      "addedAt": "2026-11-18T11:58:21+00:00",
+      "org": "Agência Senado",
+      "trib": "A identificar",
+      "category": "Atualização tributária",
+      "kind": "Notícia oficial (coleta automática)",
+      "impact": "A avaliar",
+      "status": "Efeitos jurídicos a verificar",
+      "stage": "Publicação identificada",
+      "summary": "O Senado adiou para esta quarta-feira (18) a votação dos destaques ao texto-base do projeto de lei complementar do ajuste fiscal do governo (PLP 299/2026). A expectativa era que essas sugestões de mudanças, apresentadas pela oposição, fossem votadas nesta terça-feira (17), mas não houve acordo entre os senadores. O presidente do Senado, Davi Alcolumbre, atendeu ao pedido do relator da matéria, senador Eduardo Braga (MDB-AM), que pediu mais tempo para tentar um acordo com a oposição sobre os quatros pontos pendentes da votação da semana passada.",
+      "source": "https://www12.senado.leg.br/noticias/audios/2026/11/destaques-ao-ajuste-fiscal-serao-votados-nesta-quarta",
+      "sourceName": "Agência Senado · publicação oficial",
+      "topics": [
+        "Agência Senado"
+      ],
+      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
+      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
+      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
+      "now": "Publicação oficial identificada em 2026-11-18.",
+      "watch": "Conferir íntegra, vigência e próximos eventos.",
+      "sections": {
+        "aconteceu": "Agência Senado publicou: Áudio: Destaques ao ajuste fiscal serão votados nesta quarta. O Senado adiou para esta quarta-feira (18) a votação dos destaques ao texto-base do projeto de lei complementar do ajuste fiscal do governo (PLP 299/2026). A expectativa era que essas sugestões de mudanças, apresentadas pela oposição, fossem votadas nesta terça-feira (17), mas não houve acordo entre os senadores. O presidente do Senado, Davi Alcolumbre, atendeu ao pedido do relator da matéria, senador Eduardo Braga (MDB-AM), que pediu mais tempo para tentar um acordo com a oposição sobre os quatros pontos pendentes da votação da semana passada.",
+        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
+        "discussao": "A controvérsia precisa de conferência na fonte integral.",
+        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
+        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
+        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
+        "aberto": "Confirmar regulamentações, recursos e pendências.",
+        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
+      },
+      "timeline": [
+        [
+          "2026-11-18",
+          "Publicação detectada",
+          "Efeitos jurídicos a conferir"
+        ]
+      ]
+    },
+    {
+      "id": "auto-6fd15a84a4df5c93",
+      "automated": true,
+      "title": "Áudio: Governo e senadores defendem início da CBS em janeiro, sem adiamento",
+      "date": "2026-11-18",
+      "published": "2026-11-18",
+      "checked": "2026-11-18",
+      "addedAt": "2026-11-18T11:53:28+00:00",
+      "org": "Agência Senado",
+      "trib": "A identificar",
+      "category": "Reforma Tributária",
+      "kind": "Notícia oficial (coleta automática)",
+      "impact": "A avaliar",
+      "status": "Efeitos jurídicos a verificar",
+      "stage": "Publicação identificada",
+      "summary": "A Comissão de Assuntos Econômicos (CAE) debateu na terça-feira (17) a alíquota de referência da Contribuição sobre Bens e Serviços (CBS), que substituirá o Programa de Integração Social (PIS) e a Contribuição para o Financiamento da Seguridade Social (Cofins) em 2027. O ministro da Fazenda, Dario Durigan, e o Tribunal de Contas da União (TCU) defenderam o percentual de 11,3%, calculado para preservar a arrecadação. O relator, senador Eduardo Braga (MDB-AM), cobrou transparência e indagou se há espaço para reduzir a alíquota. O senador Izalci Lucas (PL-DF) alertou para as dificuldades de adaptação das empresas. O Senado deve fixar a alíquota até 15 de dezembro.",
+      "source": "https://www12.senado.leg.br/noticias/audios/2026/11/governo-e-senadores-defendem-inicio-da-cbs-em-janeiro-sem-adiamento",
+      "sourceName": "Agência Senado · publicação oficial",
+      "topics": [
+        "Agência Senado"
+      ],
+      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
+      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
+      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
+      "now": "Publicação oficial identificada em 2026-11-18.",
+      "watch": "Conferir íntegra, vigência e próximos eventos.",
+      "sections": {
+        "aconteceu": "Agência Senado publicou: Áudio: Governo e senadores defendem início da CBS em janeiro, sem adiamento. A Comissão de Assuntos Econômicos (CAE) debateu na terça-feira (17) a alíquota de referência da Contribuição sobre Bens e Serviços (CBS), que substituirá o Programa de Integração Social (PIS) e a Contribuição para o Financiamento da Seguridade Social (Cofins) em 2027. O ministro da Fazenda, Dario Durigan, e o Tribunal de Contas da União (TCU) defenderam o percentual de 11,3%, calculado para preservar a arrecadação. O relator, senador Eduardo Braga (MDB-AM), cobrou transparência e indagou se há espaço para reduzir a alíquota. O senador Izalci Lucas (PL-DF) alertou para as dificuldades de adaptação das empresas. O Senado deve fixar a alíquota até 15 de dezembro.",
+        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
+        "discussao": "A controvérsia precisa de conferência na fonte integral.",
+        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
+        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
+        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
+        "aberto": "Confirmar regulamentações, recursos e pendências.",
+        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
+      },
+      "timeline": [
+        [
+          "2026-11-18",
+          "Publicação detectada",
+          "Efeitos jurídicos a conferir"
+        ]
+      ]
+    },
+    {
+      "id": "auto-74ef6b306d31317f",
+      "automated": true,
+      "title": "Áudio: Furto de equipamentos de vigilância poderá ter punição maior",
+      "date": "2026-11-18",
+      "published": "2026-11-18",
+      "checked": "2026-11-18",
+      "addedAt": "2026-11-18T11:09:47+00:00",
+      "org": "Agência Senado",
+      "trib": "A identificar",
+      "category": "Atualização tributária",
+      "kind": "Notícia oficial (coleta automática)",
+      "impact": "A avaliar",
+      "status": "Efeitos jurídicos a verificar",
+      "stage": "Publicação identificada",
+      "summary": "O Senado analisa um projeto de lei que aumenta as penas para crimes de furto, roubo de câmeras de vigilância e sistemas de monitoramento eletrônico (PL 3.033/2025). A proposta, já aprovada na Comissão de Segurança Pública (CSP), aguarda votação na Comissão de Constituição e Justiça (CCJ). O texto também pune a receptação e a interrupção de serviços de videomonitoramento remoto.",
+      "source": "https://www12.senado.leg.br/noticias/audios/2026/11/furto-de-equipamentos-de-vigilancia-podera-ter-punicao-maior",
+      "sourceName": "Agência Senado · publicação oficial",
+      "topics": [
+        "Agência Senado"
+      ],
+      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
+      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
+      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
+      "now": "Publicação oficial identificada em 2026-11-18.",
+      "watch": "Conferir íntegra, vigência e próximos eventos.",
+      "sections": {
+        "aconteceu": "Agência Senado publicou: Áudio: Furto de equipamentos de vigilância poderá ter punição maior. O Senado analisa um projeto de lei que aumenta as penas para crimes de furto, roubo de câmeras de vigilância e sistemas de monitoramento eletrônico (PL 3.033/2025). A proposta, já aprovada na Comissão de Segurança Pública (CSP), aguarda votação na Comissão de Constituição e Justiça (CCJ). O texto também pune a receptação e a interrupção de serviços de videomonitoramento remoto.",
+        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
+        "discussao": "A controvérsia precisa de conferência na fonte integral.",
+        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
+        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
+        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
+        "aberto": "Confirmar regulamentações, recursos e pendências.",
+        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
+      },
+      "timeline": [
+        [
+          "2026-11-18",
+          "Publicação detectada",
+          "Efeitos jurídicos a conferir"
+        ]
+      ]
+    },
+    {
+      "id": "auto-05f1893ec69385e9",
+      "automated": true,
+      "title": "Primeiro dia do Missões da Justiça e Cidadania leva serviços à população do interior gaúcho",
+      "date": "2026-11-17",
+      "published": "2026-11-17",
+      "checked": "2026-11-18",
+      "addedAt": "2026-11-17T19:08:00+00:00",
+      "org": "STJ",
+      "trib": "A identificar",
+      "category": "Jurisprudência",
+      "kind": "Notícia oficial (coleta automática)",
+      "impact": "A avaliar",
+      "status": "Efeitos jurídicos a verificar",
+      "stage": "Publicação identificada",
+      "summary": "Primeiro dia do Missões da Justiça e Cidadania leva serviços à população do interior gaúcho",
+      "source": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/17112026-Primeiro-dia-do-Missoes-da-Justica-e-Cidadania-leva-servicos-a-populacao-do-interior-gaucho.aspx",
+      "sourceName": "STJ · publicação oficial",
+      "topics": [
+        "STJ"
+      ],
+      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
+      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
+      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
+      "now": "Publicação oficial identificada em 2026-11-17.",
+      "watch": "Conferir íntegra, vigência e próximos eventos.",
+      "sections": {
+        "aconteceu": "STJ publicou: Primeiro dia do Missões da Justiça e Cidadania leva serviços à população do interior gaúcho. Primeiro dia do Missões da Justiça e Cidadania leva serviços à população do interior gaúcho",
+        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
+        "discussao": "A controvérsia precisa de conferência na fonte integral.",
+        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
+        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
+        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
+        "aberto": "Confirmar regulamentações, recursos e pendências.",
+        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
+      },
+      "timeline": [
+        [
+          "2026-11-17",
+          "Publicação detectada",
+          "Efeitos jurídicos a conferir"
+        ]
+      ]
+    },
     {
       "id": "auto-090ab77cc511aba4",
       "automated": true,
       "title": "STJ Notícias aborda responsabilização de preso por tráfico de drogas dentro de presídio",
       "date": "2026-11-17",
       "published": "2026-11-17",
-      "checked": "2026-11-17",
+      "checked": "2026-11-18",
       "addedAt": "2026-11-17T08:00:00+00:00",
       "org": "STJ",
       "trib": "A identificar",
@@ -75,7 +559,7 @@
       "title": "Poupança usada como conta-corrente não afasta impenhorabilidade, define Corte Especial em repetitivo",
       "date": "2026-11-17",
       "published": "2026-11-17",
-      "checked": "2026-11-17",
+      "checked": "2026-11-18",
       "addedAt": "2026-11-17T07:00:00+00:00",
       "org": "STJ",
       "trib": "A identificar",
@@ -97,6 +581,490 @@
       "watch": "Conferir íntegra, vigência e próximos eventos.",
       "sections": {
         "aconteceu": "STJ publicou: Poupança usada como conta-corrente não afasta impenhorabilidade, define Corte Especial em repetitivo. Colegiado também confirmou impenhorabilidade de outros investimentos de até 40 salários mínimos usados para subsistência individual e da família, mas reiterou possibilidade de penhora de aplicações de alto risco.",
+        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
+        "discussao": "A controvérsia precisa de conferência na fonte integral.",
+        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
+        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
+        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
+        "aberto": "Confirmar regulamentações, recursos e pendências.",
+        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
+      },
+      "timeline": [
+        [
+          "2026-11-17",
+          "Publicação detectada",
+          "Efeitos jurídicos a conferir"
+        ]
+      ]
+    },
+    {
+      "id": "auto-6a4af01055aaf330",
+      "automated": true,
+      "title": "Teresa Leitão defende conclusão da votação de projeto do ajuste fiscal",
+      "date": "2026-11-17",
+      "published": "2026-11-17",
+      "checked": "2026-11-18",
+      "addedAt": "2026-11-17T22:40:32+00:00",
+      "org": "Agência Senado",
+      "trib": "A identificar",
+      "category": "Atualização tributária",
+      "kind": "Notícia oficial (coleta automática)",
+      "impact": "A avaliar",
+      "status": "Efeitos jurídicos a verificar",
+      "stage": "Publicação identificada",
+      "summary": "A senadora Teresa Leitão (PT-PE), em pronunciamento no Plenário nesta terça-feira (17), defendeu a conclusão da votação do projeto de lei complementar que estabelece medidas para o equilíbrio das contas públicas (PLP 299/2026). O texto-base da proposta já foi aprovado pelos senadores, e destaques seriam votados nesta terça, mas a votação foi adiada para esta quarta (18). A parlamentar argumentou que as medidas previstas na matéria não transferem os custos do ajuste nem para trabalhadores, nem para beneficiários de políticas sociais. — Esse esforço pode aumentar a confiança na economia, reduzir incertezas, contribuir para a queda de juros e criar melhores condições para o crescimento e a geração de empregos — afirmou. Teresa ressaltou que a proposta mantém a política de valorização real do salário mínimo, os pisos constitucionais da saúde ",
+      "source": "https://www12.senado.leg.br/noticias/materias/2026/11/17/teresa-leitao-defende-conclusao-da-votacao-de-projeto-do-ajuste-fiscal",
+      "sourceName": "Agência Senado · publicação oficial",
+      "topics": [
+        "Agência Senado"
+      ],
+      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
+      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
+      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
+      "now": "Publicação oficial identificada em 2026-11-17.",
+      "watch": "Conferir íntegra, vigência e próximos eventos.",
+      "sections": {
+        "aconteceu": "Agência Senado publicou: Teresa Leitão defende conclusão da votação de projeto do ajuste fiscal. A senadora Teresa Leitão (PT-PE), em pronunciamento no Plenário nesta terça-feira (17), defendeu a conclusão da votação do projeto de lei complementar que estabelece medidas para o equilíbrio das contas públicas (PLP 299/2026). O texto-base da proposta já foi aprovado pelos senadores, e destaques seriam votados nesta terça, mas a votação foi adiada para esta quarta (18). A parlamentar argumentou que as medidas previstas na matéria não transferem os custos do ajuste nem para trabalhadores, nem para beneficiários de políticas sociais. — Esse esforço pode aumentar a confiança na economia, reduzir incertezas, contribuir para a queda de juros e criar melhores condições para o crescimento e a geração de empregos — afirmou. Teresa ressaltou que a proposta mantém a política de valorização real do salário mínimo, os pisos constitucionais da saúde ",
+        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
+        "discussao": "A controvérsia precisa de conferência na fonte integral.",
+        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
+        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
+        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
+        "aberto": "Confirmar regulamentações, recursos e pendências.",
+        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
+      },
+      "timeline": [
+        [
+          "2026-11-17",
+          "Publicação detectada",
+          "Efeitos jurídicos a conferir"
+        ]
+      ]
+    },
+    {
+      "id": "auto-7b6c50f80fa4875a",
+      "automated": true,
+      "title": "Áudio: Senado aprova agosto como mês de combate à desigualdade social",
+      "date": "2026-11-17",
+      "published": "2026-11-17",
+      "checked": "2026-11-18",
+      "addedAt": "2026-11-17T22:39:05+00:00",
+      "org": "Agência Senado",
+      "trib": "A identificar",
+      "category": "Atualização tributária",
+      "kind": "Notícia oficial (coleta automática)",
+      "impact": "A avaliar",
+      "status": "Efeitos jurídicos a verificar",
+      "stage": "Publicação identificada",
+      "summary": "O Plenário do Senado aprovou nesta terça-feira (17) projeto de lei que define agosto como o Mês Nacional de Combate à Desigualdade Social e de Enfrentamento à Pobreza no calendário oficial da União (PL 4.035/2023). Pelo texto, que segue para sanção presidencial, o Congresso Nacional deverá dedicar esse período à análise de políticas públicas da área social do Executivo federal, com o objetivo de fiscalizar sua implementação, consolidação e expansão.",
+      "source": "https://www12.senado.leg.br/noticias/audios/2026/11/senado-aprova-agosto-como-mes-de-combate-a-desigualdade",
+      "sourceName": "Agência Senado · publicação oficial",
+      "topics": [
+        "Agência Senado"
+      ],
+      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
+      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
+      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
+      "now": "Publicação oficial identificada em 2026-11-17.",
+      "watch": "Conferir íntegra, vigência e próximos eventos.",
+      "sections": {
+        "aconteceu": "Agência Senado publicou: Áudio: Senado aprova agosto como mês de combate à desigualdade social. O Plenário do Senado aprovou nesta terça-feira (17) projeto de lei que define agosto como o Mês Nacional de Combate à Desigualdade Social e de Enfrentamento à Pobreza no calendário oficial da União (PL 4.035/2023). Pelo texto, que segue para sanção presidencial, o Congresso Nacional deverá dedicar esse período à análise de políticas públicas da área social do Executivo federal, com o objetivo de fiscalizar sua implementação, consolidação e expansão.",
+        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
+        "discussao": "A controvérsia precisa de conferência na fonte integral.",
+        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
+        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
+        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
+        "aberto": "Confirmar regulamentações, recursos e pendências.",
+        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
+      },
+      "timeline": [
+        [
+          "2026-11-17",
+          "Publicação detectada",
+          "Efeitos jurídicos a conferir"
+        ]
+      ]
+    },
+    {
+      "id": "auto-8f750437d961cafe",
+      "automated": true,
+      "title": "Marcelo Castro defende fim da reeleição para cargos executivos",
+      "date": "2026-11-17",
+      "published": "2026-11-17",
+      "checked": "2026-11-18",
+      "addedAt": "2026-11-17T22:33:58+00:00",
+      "org": "Agência Senado",
+      "trib": "A identificar",
+      "category": "Atualização tributária",
+      "kind": "Notícia oficial (coleta automática)",
+      "impact": "A avaliar",
+      "status": "Efeitos jurídicos a verificar",
+      "stage": "Publicação identificada",
+      "summary": "O senador Marcelo Castro (MDB-PI), em pronunciamento no Plenário nesta terça-feira (17), defendeu a aprovação da proposta de emenda à Constituição que acaba com a reeleição para presidente da República, governadores e prefeitos (PEC 12/2022). Relator da matéria, o parlamentar lembrou que o texto foi aprovado por unanimidade na Comissão de Constituição e Justiça (CCJ). A proposta também estabelece mandatos de cinco anos para os cargos eletivos e prevê a unificação das eleições a partir de 2034. — O instituto da reeleição foi um grande malefício ao país, do ponto de vista da administração pública, do ponto de vista da nossa democracia e do ponto de vista do fortalecimento das nossas instituições democráticas. Acho que já é passada a hora de a gente corrigir esse equívoco — declarou. Marcelo Castro lembrou que ainda há divergências entre os ",
+      "source": "https://www12.senado.leg.br/noticias/materias/2026/11/17/marcelo-castro-defende-fim-da-reeleicao-para-cargos-executivos",
+      "sourceName": "Agência Senado · publicação oficial",
+      "topics": [
+        "Agência Senado"
+      ],
+      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
+      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
+      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
+      "now": "Publicação oficial identificada em 2026-11-17.",
+      "watch": "Conferir íntegra, vigência e próximos eventos.",
+      "sections": {
+        "aconteceu": "Agência Senado publicou: Marcelo Castro defende fim da reeleição para cargos executivos. O senador Marcelo Castro (MDB-PI), em pronunciamento no Plenário nesta terça-feira (17), defendeu a aprovação da proposta de emenda à Constituição que acaba com a reeleição para presidente da República, governadores e prefeitos (PEC 12/2022). Relator da matéria, o parlamentar lembrou que o texto foi aprovado por unanimidade na Comissão de Constituição e Justiça (CCJ). A proposta também estabelece mandatos de cinco anos para os cargos eletivos e prevê a unificação das eleições a partir de 2034. — O instituto da reeleição foi um grande malefício ao país, do ponto de vista da administração pública, do ponto de vista da nossa democracia e do ponto de vista do fortalecimento das nossas instituições democráticas. Acho que já é passada a hora de a gente corrigir esse equívoco — declarou. Marcelo Castro lembrou que ainda há divergências entre os ",
+        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
+        "discussao": "A controvérsia precisa de conferência na fonte integral.",
+        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
+        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
+        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
+        "aberto": "Confirmar regulamentações, recursos e pendências.",
+        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
+      },
+      "timeline": [
+        [
+          "2026-11-17",
+          "Publicação detectada",
+          "Efeitos jurídicos a conferir"
+        ]
+      ]
+    },
+    {
+      "id": "auto-9348fba2fc80c649",
+      "automated": true,
+      "title": "Áudio: Criação do Dia Nacional de Valorização do Sesc e do Senac ganha apoio em debate",
+      "date": "2026-11-17",
+      "published": "2026-11-17",
+      "checked": "2026-11-18",
+      "addedAt": "2026-11-17T22:25:44+00:00",
+      "org": "Agência Senado",
+      "trib": "A identificar",
+      "category": "Atualização tributária",
+      "kind": "Notícia oficial (coleta automática)",
+      "impact": "A avaliar",
+      "status": "Efeitos jurídicos a verificar",
+      "stage": "Publicação identificada",
+      "summary": "Em audiência pública da Comissão de Educação e Cultura (CE) nesta terça-feira (17), senadores e convidados falaram sobre a contribuição do Serviço Social do Comércio (Sesc) e do Serviço Nacional de Aprendizagem Comercial (Senac) para a educação, a cultura e a qualificação profissional. O objetivo do debate foi avaliar um projeto de lei que cria o Dia Nacional de Valorização e Reconhecimento do Sesc e do Senac, a ser celebrado em 16 de maio (PL 1.799/2025).",
+      "source": "https://www12.senado.leg.br/noticias/audios/2026/11/criacao-do-dia-nacional-de-valorizacao-do-sesc-e-do-senac-ganha-apoio-em-debate",
+      "sourceName": "Agência Senado · publicação oficial",
+      "topics": [
+        "Agência Senado"
+      ],
+      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
+      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
+      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
+      "now": "Publicação oficial identificada em 2026-11-17.",
+      "watch": "Conferir íntegra, vigência e próximos eventos.",
+      "sections": {
+        "aconteceu": "Agência Senado publicou: Áudio: Criação do Dia Nacional de Valorização do Sesc e do Senac ganha apoio em debate. Em audiência pública da Comissão de Educação e Cultura (CE) nesta terça-feira (17), senadores e convidados falaram sobre a contribuição do Serviço Social do Comércio (Sesc) e do Serviço Nacional de Aprendizagem Comercial (Senac) para a educação, a cultura e a qualificação profissional. O objetivo do debate foi avaliar um projeto de lei que cria o Dia Nacional de Valorização e Reconhecimento do Sesc e do Senac, a ser celebrado em 16 de maio (PL 1.799/2025).",
+        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
+        "discussao": "A controvérsia precisa de conferência na fonte integral.",
+        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
+        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
+        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
+        "aberto": "Confirmar regulamentações, recursos e pendências.",
+        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
+      },
+      "timeline": [
+        [
+          "2026-11-17",
+          "Publicação detectada",
+          "Efeitos jurídicos a conferir"
+        ]
+      ]
+    },
+    {
+      "id": "auto-38996424b1fbe127",
+      "automated": true,
+      "title": "Esperidião Amin homenageia sobrevivente de Hiroshima e Nagasaki",
+      "date": "2026-11-17",
+      "published": "2026-11-17",
+      "checked": "2026-11-18",
+      "addedAt": "2026-11-17T22:04:19+00:00",
+      "org": "Agência Senado",
+      "trib": "A identificar",
+      "category": "Atualização tributária",
+      "kind": "Notícia oficial (coleta automática)",
+      "impact": "A avaliar",
+      "status": "Efeitos jurídicos a verificar",
+      "stage": "Publicação identificada",
+      "summary": "O senador Esperidião Amin (PP-SC), em pronunciamento no Plenário nesta terça-feira (17), homenageou Wataru Ogawa, sobrevivente dos bombardeios de Hiroshima e Nagasaki que morreu nesta terça, aos 97 anos, em Frei Rogério (SC). O parlamentar ressaltou a trajetória do imigrante japonês, que se estabeleceu em Santa Catarina após a 2ª Guerra Mundial, constituiu família e viveu no estado até sua morte. A história de Ogawa foi marcada pela resistência e defesa da paz, disse o senador: — Um exemplo de resistência e de sobrevivência, e quero fazer este registro porque essa pessoa foi acolhida no meu estado junto com aquela comunidade muito querida de Frei Rogério, que cultua a paz — afirmou, referindo-se à cidade considerada polo da cultura de paz no Brasil e que abriga um monumento em homenagem às vítimas e sobreviventes das explosões. Esperidião",
+      "source": "https://www12.senado.leg.br/noticias/materias/2026/11/17/esperidiao-amin-homenageia-sobrevivente-de-hiroshima-e-nagasaki",
+      "sourceName": "Agência Senado · publicação oficial",
+      "topics": [
+        "Agência Senado"
+      ],
+      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
+      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
+      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
+      "now": "Publicação oficial identificada em 2026-11-17.",
+      "watch": "Conferir íntegra, vigência e próximos eventos.",
+      "sections": {
+        "aconteceu": "Agência Senado publicou: Esperidião Amin homenageia sobrevivente de Hiroshima e Nagasaki. O senador Esperidião Amin (PP-SC), em pronunciamento no Plenário nesta terça-feira (17), homenageou Wataru Ogawa, sobrevivente dos bombardeios de Hiroshima e Nagasaki que morreu nesta terça, aos 97 anos, em Frei Rogério (SC). O parlamentar ressaltou a trajetória do imigrante japonês, que se estabeleceu em Santa Catarina após a 2ª Guerra Mundial, constituiu família e viveu no estado até sua morte. A história de Ogawa foi marcada pela resistência e defesa da paz, disse o senador: — Um exemplo de resistência e de sobrevivência, e quero fazer este registro porque essa pessoa foi acolhida no meu estado junto com aquela comunidade muito querida de Frei Rogério, que cultua a paz — afirmou, referindo-se à cidade considerada polo da cultura de paz no Brasil e que abriga um monumento em homenagem às vítimas e sobreviventes das explosões. Esperidião",
+        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
+        "discussao": "A controvérsia precisa de conferência na fonte integral.",
+        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
+        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
+        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
+        "aberto": "Confirmar regulamentações, recursos e pendências.",
+        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
+      },
+      "timeline": [
+        [
+          "2026-11-17",
+          "Publicação detectada",
+          "Efeitos jurídicos a conferir"
+        ]
+      ]
+    },
+    {
+      "id": "auto-0b27c1e16dd064e8",
+      "automated": true,
+      "title": "Medida que amplia crédito a exportações segue para sanção",
+      "date": "2026-11-17",
+      "published": "2026-11-17",
+      "checked": "2026-11-18",
+      "addedAt": "2026-11-17T21:43:20+00:00",
+      "org": "Agência Senado",
+      "trib": "A identificar",
+      "category": "Atualização tributária",
+      "kind": "Notícia oficial (coleta automática)",
+      "impact": "A avaliar",
+      "status": "Efeitos jurídicos a verificar",
+      "stage": "Publicação identificada",
+      "summary": "O Plenário do Senado aprovou nesta terça-feira (17) projeto derivado da medida provisória (MP) que ampliou em até R$ 13,5 bilhões os recursos do Plano Brasil Soberano destinados a empresas exportadoras prejudicadas pelo “tarifaço” dos Estados Unidos e pelos conflitos no Oriente Médio. A MP 1.379/2026 foi aprovada na forma de projeto de lei de conversão (PLV 15/2026) apresentado pela relatora, senadora Leany Lemos (PSB-DF), que alterou pontos do texto original do Executivo. A medida, que segue para sanção presidencial, aumentou os recursos disponíveis para financiamentos, ao somar R$ 13,5 bilhões aos R$ 15 bilhões originalmente autorizados. A proposta também permite combinar essa verba com recursos próprios do BNDES, ampliando a capacidade de financiamento, além de estabelecer uma governança interministerial para sua aplicação. A MP precis",
+      "source": "https://www12.senado.leg.br/noticias/materias/2026/11/17/medida-que-amplia-credito-a-exportacoes-segue-para-sancao",
+      "sourceName": "Agência Senado · publicação oficial",
+      "topics": [
+        "Agência Senado"
+      ],
+      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
+      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
+      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
+      "now": "Publicação oficial identificada em 2026-11-17.",
+      "watch": "Conferir íntegra, vigência e próximos eventos.",
+      "sections": {
+        "aconteceu": "Agência Senado publicou: Medida que amplia crédito a exportações segue para sanção. O Plenário do Senado aprovou nesta terça-feira (17) projeto derivado da medida provisória (MP) que ampliou em até R$ 13,5 bilhões os recursos do Plano Brasil Soberano destinados a empresas exportadoras prejudicadas pelo “tarifaço” dos Estados Unidos e pelos conflitos no Oriente Médio. A MP 1.379/2026 foi aprovada na forma de projeto de lei de conversão (PLV 15/2026) apresentado pela relatora, senadora Leany Lemos (PSB-DF), que alterou pontos do texto original do Executivo. A medida, que segue para sanção presidencial, aumentou os recursos disponíveis para financiamentos, ao somar R$ 13,5 bilhões aos R$ 15 bilhões originalmente autorizados. A proposta também permite combinar essa verba com recursos próprios do BNDES, ampliando a capacidade de financiamento, além de estabelecer uma governança interministerial para sua aplicação. A MP precis",
+        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
+        "discussao": "A controvérsia precisa de conferência na fonte integral.",
+        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
+        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
+        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
+        "aberto": "Confirmar regulamentações, recursos e pendências.",
+        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
+      },
+      "timeline": [
+        [
+          "2026-11-17",
+          "Publicação detectada",
+          "Efeitos jurídicos a conferir"
+        ]
+      ]
+    },
+    {
+      "id": "auto-b7428683cabbd5b1",
+      "automated": true,
+      "title": "Áudio: CDH debate políticas de atenção a bebês prematuros no SUS",
+      "date": "2026-11-17",
+      "published": "2026-11-17",
+      "checked": "2026-11-18",
+      "addedAt": "2026-11-17T21:29:50+00:00",
+      "org": "Agência Senado",
+      "trib": "A identificar",
+      "category": "Atualização tributária",
+      "kind": "Notícia oficial (coleta automática)",
+      "impact": "A avaliar",
+      "status": "Efeitos jurídicos a verificar",
+      "stage": "Publicação identificada",
+      "summary": "A Comissão de Direitos Humanos e Legislação Participativa (CDH) promoveu audiência pública em apoio à campanha Novembro Roxo, de conscientização sobre a prematuridade. O debate abordou os avanços e desafios das políticas de atenção a mães e bebês no Sistema Único de Saúde (SUS). A senadora Damares Alves (Republicanos-DF) destacou a importância do cuidado neonatal e do suporte às famílias. Segundo dados do Ministério da Saúde, cerca de 185 mil bebês nasceram prematuros no Brasil em 2025.",
+      "source": "https://www12.senado.leg.br/noticias/audios/2026/11/cdh-debate-politicas-de-atencao-a-bebes-prematuros-no-sus",
+      "sourceName": "Agência Senado · publicação oficial",
+      "topics": [
+        "Agência Senado"
+      ],
+      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
+      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
+      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
+      "now": "Publicação oficial identificada em 2026-11-17.",
+      "watch": "Conferir íntegra, vigência e próximos eventos.",
+      "sections": {
+        "aconteceu": "Agência Senado publicou: Áudio: CDH debate políticas de atenção a bebês prematuros no SUS. A Comissão de Direitos Humanos e Legislação Participativa (CDH) promoveu audiência pública em apoio à campanha Novembro Roxo, de conscientização sobre a prematuridade. O debate abordou os avanços e desafios das políticas de atenção a mães e bebês no Sistema Único de Saúde (SUS). A senadora Damares Alves (Republicanos-DF) destacou a importância do cuidado neonatal e do suporte às famílias. Segundo dados do Ministério da Saúde, cerca de 185 mil bebês nasceram prematuros no Brasil em 2025.",
+        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
+        "discussao": "A controvérsia precisa de conferência na fonte integral.",
+        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
+        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
+        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
+        "aberto": "Confirmar regulamentações, recursos e pendências.",
+        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
+      },
+      "timeline": [
+        [
+          "2026-11-17",
+          "Publicação detectada",
+          "Efeitos jurídicos a conferir"
+        ]
+      ]
+    },
+    {
+      "id": "auto-ece4de142c7b5345",
+      "automated": true,
+      "title": "Cid Gomes promete relatório do novo Desenrola para início de dezembro",
+      "date": "2026-11-17",
+      "published": "2026-11-17",
+      "checked": "2026-11-18",
+      "addedAt": "2026-11-17T21:21:48+00:00",
+      "org": "Agência Senado",
+      "trib": "A identificar",
+      "category": "Atualização tributária",
+      "kind": "Notícia oficial (coleta automática)",
+      "impact": "A avaliar",
+      "status": "Efeitos jurídicos a verificar",
+      "stage": "Publicação identificada",
+      "summary": "A comissão mista responsável por analisar a Medida Provisória (MP) 1.393/2026, que cria o Desenrola Brasil 3.0, foi instalada nesta terça-feira (17). O deputado Jonas Donizette (PSB-SP) foi eleito presidente do colegiado. Ele designou o senador Cid Gomes (PSB-CE) como relator. Durante a reunião, foi definida uma agenda para que a MP seja votada pelos plenários da Câmara dos Deputados e do Senado ainda neste ano. A antecipação busca concluir a tramitação antes do encerramento dos mandatos de alguns integrantes da comissão. Para isso, o relator se comprometeu a apresentar o parecer já no início de dezembro. A MP institui um programa emergencial para pessoas físicas inadimplentes. A iniciativa autoriza a União a comprar débitos de bancos, prestadores de serviços e estabelecimentos comerciais, com limite de R$ 15 bilhões, condicionado à dispo",
+      "source": "https://www12.senado.leg.br/noticias/materias/2026/11/17/cid-gomes-promete-relatorio-do-novo-desenrola-para-inicio-de-dezembro",
+      "sourceName": "Agência Senado · publicação oficial",
+      "topics": [
+        "Agência Senado"
+      ],
+      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
+      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
+      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
+      "now": "Publicação oficial identificada em 2026-11-17.",
+      "watch": "Conferir íntegra, vigência e próximos eventos.",
+      "sections": {
+        "aconteceu": "Agência Senado publicou: Cid Gomes promete relatório do novo Desenrola para início de dezembro. A comissão mista responsável por analisar a Medida Provisória (MP) 1.393/2026, que cria o Desenrola Brasil 3.0, foi instalada nesta terça-feira (17). O deputado Jonas Donizette (PSB-SP) foi eleito presidente do colegiado. Ele designou o senador Cid Gomes (PSB-CE) como relator. Durante a reunião, foi definida uma agenda para que a MP seja votada pelos plenários da Câmara dos Deputados e do Senado ainda neste ano. A antecipação busca concluir a tramitação antes do encerramento dos mandatos de alguns integrantes da comissão. Para isso, o relator se comprometeu a apresentar o parecer já no início de dezembro. A MP institui um programa emergencial para pessoas físicas inadimplentes. A iniciativa autoriza a União a comprar débitos de bancos, prestadores de serviços e estabelecimentos comerciais, com limite de R$ 15 bilhões, condicionado à dispo",
+        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
+        "discussao": "A controvérsia precisa de conferência na fonte integral.",
+        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
+        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
+        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
+        "aberto": "Confirmar regulamentações, recursos e pendências.",
+        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
+      },
+      "timeline": [
+        [
+          "2026-11-17",
+          "Publicação detectada",
+          "Efeitos jurídicos a conferir"
+        ]
+      ]
+    },
+    {
+      "id": "auto-3dd319b3a46cd241",
+      "automated": true,
+      "title": "Áudio: Instalada Comissão Mista da medida provisória que criou o Desenrola 3.0",
+      "date": "2026-11-17",
+      "published": "2026-11-17",
+      "checked": "2026-11-18",
+      "addedAt": "2026-11-17T21:06:11+00:00",
+      "org": "Agência Senado",
+      "trib": "A identificar",
+      "category": "Atualização tributária",
+      "kind": "Notícia oficial (coleta automática)",
+      "impact": "A avaliar",
+      "status": "Efeitos jurídicos a verificar",
+      "stage": "Publicação identificada",
+      "summary": "Foi instalada nesta terça-feira (17) a Comissão Mista da Medida Provisória que criou o Programa Desenrola 3.0 (MPV 1.393/2026), para facilitar a quitação de dívidas de pessoas físicas com bancos, órgãos públicos, comércios e prestadores de serviços em geral. Serão destinados R$ 15 bilhões para que a União compre dívidas com pelo menos 90% de desconto e as renegocie, repassando o desconto recebido. O deputado Jonas Donizette (PSB-SP) foi eleito presidente da comissão, e o senador Cid Gomes (PSB-CE) foi designado relator.",
+      "source": "https://www12.senado.leg.br/noticias/audios/2026/11/instalada-comissao-mista-da-medida-provisoria-que-criou-o-desenrola-3.0",
+      "sourceName": "Agência Senado · publicação oficial",
+      "topics": [
+        "Agência Senado"
+      ],
+      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
+      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
+      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
+      "now": "Publicação oficial identificada em 2026-11-17.",
+      "watch": "Conferir íntegra, vigência e próximos eventos.",
+      "sections": {
+        "aconteceu": "Agência Senado publicou: Áudio: Instalada Comissão Mista da medida provisória que criou o Desenrola 3.0. Foi instalada nesta terça-feira (17) a Comissão Mista da Medida Provisória que criou o Programa Desenrola 3.0 (MPV 1.393/2026), para facilitar a quitação de dívidas de pessoas físicas com bancos, órgãos públicos, comércios e prestadores de serviços em geral. Serão destinados R$ 15 bilhões para que a União compre dívidas com pelo menos 90% de desconto e as renegocie, repassando o desconto recebido. O deputado Jonas Donizette (PSB-SP) foi eleito presidente da comissão, e o senador Cid Gomes (PSB-CE) foi designado relator.",
+        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
+        "discussao": "A controvérsia precisa de conferência na fonte integral.",
+        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
+        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
+        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
+        "aberto": "Confirmar regulamentações, recursos e pendências.",
+        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
+      },
+      "timeline": [
+        [
+          "2026-11-17",
+          "Publicação detectada",
+          "Efeitos jurídicos a conferir"
+        ]
+      ]
+    },
+    {
+      "id": "auto-793863807ed87718",
+      "automated": true,
+      "title": "Agosto será mês de combate à desigualdade e à pobreza, aprova Plenário",
+      "date": "2026-11-17",
+      "published": "2026-11-17",
+      "checked": "2026-11-18",
+      "addedAt": "2026-11-17T20:58:14+00:00",
+      "org": "Agência Senado",
+      "trib": "A identificar",
+      "category": "Atualização tributária",
+      "kind": "Notícia oficial (coleta automática)",
+      "impact": "A avaliar",
+      "status": "Efeitos jurídicos a verificar",
+      "stage": "Publicação identificada",
+      "summary": "Agosto poderá se tornar o Mês Nacional de Combate à Desigualdade Social e de Enfrentamento à Pobreza. A medida está prevista em projeto de lei aprovado pelo Senado nesta terça-feira (17). O PL 4.035/2023 segue para sanção presidencial. O texto estabelece que, durante o mês de agosto, o Congresso Nacional deverá examinar políticas públicas do governo federal destinadas à redução das desigualdades e ao enfrentamento da pobreza. A análise vai permitir ao Legislativo fiscalizar a implementação, a consolidação e a expansão dessas políticas em caráter nacional. O projeto foi apresentado pelo deputado licenciado Guilherme Boulos (PSOL-SP), que atualmente ocupa o cargo de ministro da Secretaria-Geral da Presidência da República. O relator na Comissão de Assuntos Sociais (CAS) do Senado foi o senador Paulo Paim (PT-RS), que recomendou a aprovação ",
+      "source": "https://www12.senado.leg.br/noticias/materias/2026/11/17/agosto-sera-mes-de-combate-a-desigualdade-e-a-pobreza-aprova-plenario",
+      "sourceName": "Agência Senado · publicação oficial",
+      "topics": [
+        "Agência Senado"
+      ],
+      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
+      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
+      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
+      "now": "Publicação oficial identificada em 2026-11-17.",
+      "watch": "Conferir íntegra, vigência e próximos eventos.",
+      "sections": {
+        "aconteceu": "Agência Senado publicou: Agosto será mês de combate à desigualdade e à pobreza, aprova Plenário. Agosto poderá se tornar o Mês Nacional de Combate à Desigualdade Social e de Enfrentamento à Pobreza. A medida está prevista em projeto de lei aprovado pelo Senado nesta terça-feira (17). O PL 4.035/2023 segue para sanção presidencial. O texto estabelece que, durante o mês de agosto, o Congresso Nacional deverá examinar políticas públicas do governo federal destinadas à redução das desigualdades e ao enfrentamento da pobreza. A análise vai permitir ao Legislativo fiscalizar a implementação, a consolidação e a expansão dessas políticas em caráter nacional. O projeto foi apresentado pelo deputado licenciado Guilherme Boulos (PSOL-SP), que atualmente ocupa o cargo de ministro da Secretaria-Geral da Presidência da República. O relator na Comissão de Assuntos Sociais (CAS) do Senado foi o senador Paulo Paim (PT-RS), que recomendou a aprovação ",
+        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
+        "discussao": "A controvérsia precisa de conferência na fonte integral.",
+        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
+        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
+        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
+        "aberto": "Confirmar regulamentações, recursos e pendências.",
+        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
+      },
+      "timeline": [
+        [
+          "2026-11-17",
+          "Publicação detectada",
+          "Efeitos jurídicos a conferir"
+        ]
+      ]
+    },
+    {
+      "id": "auto-f0af77f3057795fe",
+      "automated": true,
+      "title": "Debate na CE sugere valorização contínua do Sesc e do Senac",
+      "date": "2026-11-17",
+      "published": "2026-11-17",
+      "checked": "2026-11-18",
+      "addedAt": "2026-11-17T20:58:42+00:00",
+      "org": "Agência Senado",
+      "trib": "A identificar",
+      "category": "Atualização tributária",
+      "kind": "Notícia oficial (coleta automática)",
+      "impact": "A avaliar",
+      "status": "Efeitos jurídicos a verificar",
+      "stage": "Publicação identificada",
+      "summary": "A Comissão de Educação e Cultura (CE) promoveu nesta terça-feira (17) uma audiência pública para subsidiar a análise do projeto de lei que cria o Dia Nacional de Valorização e Reconhecimento do Serviço Social do Comércio (Sesc) e do Serviço Nacional de Aprendizagem Comercial (Senac). De autoria do senador Alan Rick (Republicanos-AC), o PL 1.799/2025 fixa o dia 16 de maio para celebração anual da homenagem às instituições, que completaram 80 anos em 2026. Ainda não há data para votação do projeto na comissão. A audiência, requerida pela relatora da proposta, senadora Professora Dorinha Seabra (União-TO), foi presidida pelo senador Wellington Fagundes (PL-MT), para quem valorizar o Senac e o Senac é reconhecer o valor da educação, do trabalho e das pessoas. O parlamentar disse ainda que o reconhecimento não pode ficar só no calendário, mas ",
+      "source": "https://www12.senado.leg.br/noticias/materias/2026/11/17/debate-na-ce-sugere-valorizacao-continua-do-sesc-e-do-senac",
+      "sourceName": "Agência Senado · publicação oficial",
+      "topics": [
+        "Agência Senado"
+      ],
+      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
+      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
+      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
+      "now": "Publicação oficial identificada em 2026-11-17.",
+      "watch": "Conferir íntegra, vigência e próximos eventos.",
+      "sections": {
+        "aconteceu": "Agência Senado publicou: Debate na CE sugere valorização contínua do Sesc e do Senac. A Comissão de Educação e Cultura (CE) promoveu nesta terça-feira (17) uma audiência pública para subsidiar a análise do projeto de lei que cria o Dia Nacional de Valorização e Reconhecimento do Serviço Social do Comércio (Sesc) e do Serviço Nacional de Aprendizagem Comercial (Senac). De autoria do senador Alan Rick (Republicanos-AC), o PL 1.799/2025 fixa o dia 16 de maio para celebração anual da homenagem às instituições, que completaram 80 anos em 2026. Ainda não há data para votação do projeto na comissão. A audiência, requerida pela relatora da proposta, senadora Professora Dorinha Seabra (União-TO), foi presidida pelo senador Wellington Fagundes (PL-MT), para quem valorizar o Senac e o Senac é reconhecer o valor da educação, do trabalho e das pessoas. O parlamentar disse ainda que o reconhecimento não pode ficar só no calendário, mas ",
         "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
         "discussao": "A controvérsia precisa de conferência na fonte integral.",
         "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
@@ -295,7 +1263,7 @@
       "title": "Missões da Justiça e Cidadania chega ao interior do RS nesta terça-feira (17)",
       "date": "2026-11-16",
       "published": "2026-11-16",
-      "checked": "2026-11-17",
+      "checked": "2026-11-18",
       "addedAt": "2026-11-16T19:22:00+00:00",
       "org": "STJ",
       "trib": "A identificar",
@@ -339,7 +1307,7 @@
       "title": "Calendário 2027 do STJ e CJF destaca decisões marcantes que mudaram a vida de brasileiros",
       "date": "2026-11-16",
       "published": "2026-11-16",
-      "checked": "2026-11-17",
+      "checked": "2026-11-18",
       "addedAt": "2026-11-16T08:20:00+00:00",
       "org": "STJ",
       "trib": "A identificar",
@@ -348,7 +1316,7 @@
       "impact": "A avaliar",
       "status": "Efeitos jurídicos a verificar",
       "stage": "Publicação identificada",
-      "summary": "Calendário 2027 do STJ e CJF destaca decisões marcantes que mudaram a vida de brasileiros",
+      "summary": "Calendário traz decisões históricas e datas das sessões colegiadas",
       "source": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/13112026-Calendario-2027-do-STJ-e-CJF-destaca-decisoes-marcantes-que-mudaram-a-vida-de-brasileiros.aspx",
       "sourceName": "STJ · publicação oficial",
       "topics": [
@@ -360,7 +1328,7 @@
       "now": "Publicação oficial identificada em 2026-11-16.",
       "watch": "Conferir íntegra, vigência e próximos eventos.",
       "sections": {
-        "aconteceu": "STJ publicou: Calendário 2027 do STJ e CJF destaca decisões marcantes que mudaram a vida de brasileiros. Calendário 2027 do STJ e CJF destaca decisões marcantes que mudaram a vida de brasileiros",
+        "aconteceu": "STJ publicou: Calendário 2027 do STJ e CJF destaca decisões marcantes que mudaram a vida de brasileiros. Calendário traz decisões históricas e datas das sessões colegiadas",
         "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
         "discussao": "A controvérsia precisa de conferência na fonte integral.",
         "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
@@ -383,7 +1351,7 @@
       "title": "Em repetitivo, STJ afasta restituição de PIS e Cofins a varejistas de cigarros e cigarrilhas",
       "date": "2026-11-16",
       "published": "2026-11-16",
-      "checked": "2026-11-17",
+      "checked": "2026-11-18",
       "addedAt": "2026-11-16T07:10:00+00:00",
       "org": "STJ",
       "trib": "A identificar",
@@ -955,7 +1923,7 @@
       "title": "Da redação ao STJ: reportagem especial relembra trajetória do ministro Og Fernandes",
       "date": "2026-11-13",
       "published": "2026-11-13",
-      "checked": "2026-11-17",
+      "checked": "2026-11-18",
       "addedAt": "2026-11-13T19:15:00+00:00",
       "org": "STJ",
       "trib": "A identificar",
@@ -999,7 +1967,7 @@
       "title": "STJ participa de fórum da Ajufe sobre Reforma Tributária e a Justiça Federal",
       "date": "2026-11-13",
       "published": "2026-11-13",
-      "checked": "2026-11-17",
+      "checked": "2026-11-18",
       "addedAt": "2026-11-13T10:34:00+00:00",
       "org": "STJ",
       "trib": "A identificar",
@@ -1043,7 +2011,7 @@
       "title": "Podcast STJ No Seu Dia aborda pensão alimentícia em casos de desemprego ou trabalho informal",
       "date": "2026-11-13",
       "published": "2026-11-13",
-      "checked": "2026-11-17",
+      "checked": "2026-11-18",
       "addedAt": "2026-11-13T08:40:00+00:00",
       "org": "STJ",
       "trib": "A identificar",
@@ -1087,7 +2055,7 @@
       "title": "Corte Especial zera pauta acumulada e acelera julgamento de repetitivos",
       "date": "2026-11-13",
       "published": "2026-11-13",
-      "checked": "2026-11-17",
+      "checked": "2026-11-18",
       "addedAt": "2026-11-13T08:00:00+00:00",
       "org": "STJ",
       "trib": "A identificar",
@@ -1131,7 +2099,7 @@
       "title": "CPRB compõe a base de cálculo do PIS/Pasep e da Cofins, define STJ em tese vinculante",
       "date": "2026-11-13",
       "published": "2026-11-13",
-      "checked": "2026-11-17",
+      "checked": "2026-11-18",
       "addedAt": "2026-11-13T07:20:00+00:00",
       "org": "STJ",
       "trib": "A identificar",
@@ -1835,7 +2803,7 @@
       "title": "STJ lança Programa Confiança Digital para unir segurança da informação e governança de tecnologia",
       "date": "2026-11-12",
       "published": "2026-11-12",
-      "checked": "2026-11-17",
+      "checked": "2026-11-18",
       "addedAt": "2026-11-12T15:29:00+00:00",
       "org": "STJ",
       "trib": "A identificar",
@@ -1879,7 +2847,7 @@
       "title": "Livro Liber Amicorum homenageia 18 anos do ministro Benedito Gonçalves no STJ",
       "date": "2026-11-12",
       "published": "2026-11-12",
-      "checked": "2026-11-17",
+      "checked": "2026-11-18",
       "addedAt": "2026-11-12T08:00:00+00:00",
       "org": "STJ",
       "trib": "A identificar",
@@ -2627,7 +3595,7 @@
       "title": "STJ e PNUD lançam vídeo sobre diversidade e importância da ampliação do acesso à magistratura",
       "date": "2026-11-11",
       "published": "2026-11-11",
-      "checked": "2026-11-17",
+      "checked": "2026-11-18",
       "addedAt": "2026-11-11T20:25:00+00:00",
       "org": "STJ",
       "trib": "A identificar",
@@ -2671,7 +3639,7 @@
       "title": "STJ lança, nesta quarta-feira (11), obra sobre transformação digital",
       "date": "2026-11-11",
       "published": "2026-11-11",
-      "checked": "2026-11-17",
+      "checked": "2026-11-18",
       "addedAt": "2026-11-11T08:05:00+00:00",
       "org": "STJ",
       "trib": "A identificar",
@@ -2715,7 +3683,7 @@
       "title": "Podcast STJ No Seu Dia debate direitos difusos e indenização por venda irregular de agrotóxicos",
       "date": "2026-11-11",
       "published": "2026-11-11",
-      "checked": "2026-11-17",
+      "checked": "2026-11-18",
       "addedAt": "2026-11-11T07:50:00+00:00",
       "org": "STJ",
       "trib": "A identificar",
@@ -3287,7 +4255,7 @@
       "title": "Sexta Turma aumenta pena dos sócios pela tragédia da Boate Kiss",
       "date": "2026-11-10",
       "published": "2026-11-10",
-      "checked": "2026-11-17",
+      "checked": "2026-11-18",
       "addedAt": "2026-11-10T20:14:00+00:00",
       "org": "STJ",
       "trib": "A identificar",
@@ -3331,7 +4299,7 @@
       "title": "Ministros representam Enfam e STJ em conferência sobre formação de juízes na França",
       "date": "2026-11-10",
       "published": "2026-11-10",
-      "checked": "2026-11-17",
+      "checked": "2026-11-18",
       "addedAt": "2026-11-10T13:40:00+00:00",
       "org": "STJ",
       "trib": "A identificar",
@@ -3375,7 +4343,7 @@
       "title": "STJ Notícias destaca decisão sobre moradia dos filhos após a separação dos pais",
       "date": "2026-11-10",
       "published": "2026-11-10",
-      "checked": "2026-11-17",
+      "checked": "2026-11-18",
       "addedAt": "2026-11-10T08:00:00+00:00",
       "org": "STJ",
       "trib": "A identificar",
@@ -3419,7 +4387,7 @@
       "title": "STJ sedia lançamento do livro do ministro Og Fernandes sobre a história do STF nesta terça (10)",
       "date": "2026-11-10",
       "published": "2026-11-10",
-      "checked": "2026-11-17",
+      "checked": "2026-11-18",
       "addedAt": "2026-11-10T08:00:00+00:00",
       "org": "STJ",
       "trib": "A identificar",
@@ -3463,7 +4431,7 @@
       "title": "Relevância: STJ discute se empresa com atividade secundária de transporte de carga pode creditar ICMS sobre combustível",
       "date": "2026-11-10",
       "published": "2026-11-10",
-      "checked": "2026-11-17",
+      "checked": "2026-11-18",
       "addedAt": "2026-11-10T07:10:00+00:00",
       "org": "STJ",
       "trib": "A identificar",
@@ -3771,7 +4739,7 @@
       "title": "STJ e CJF assinam contratos com Banco do Brasil e Caixa para cessão da folha de pagamento",
       "date": "2026-11-09",
       "published": "2026-11-09",
-      "checked": "2026-11-17",
+      "checked": "2026-11-18",
       "addedAt": "2026-11-09T20:13:00+00:00",
       "org": "STJ",
       "trib": "A identificar",
@@ -3815,7 +4783,7 @@
       "title": "STJ e PNUD lançam espaço multimídia Cabine Pontes durante Enajun no RJ",
       "date": "2026-11-09",
       "published": "2026-11-09",
-      "checked": "2026-11-17",
+      "checked": "2026-11-18",
       "addedAt": "2026-11-09T16:26:00+00:00",
       "org": "STJ",
       "trib": "A identificar",
@@ -3859,7 +4827,7 @@
       "title": "Conheça o novo portal de precedentes qualificados do STJ",
       "date": "2026-11-09",
       "published": "2026-11-09",
-      "checked": "2026-11-17",
+      "checked": "2026-11-18",
       "addedAt": "2026-11-09T07:15:00+00:00",
       "org": "STJ",
       "trib": "A identificar",
@@ -3903,7 +4871,7 @@
       "title": "Primeira Seção reconhece relevância e suspende processos sobre revogação antecipada do benefício fiscal do Perse",
       "date": "2026-11-09",
       "published": "2026-11-09",
-      "checked": "2026-11-17",
+      "checked": "2026-11-18",
       "addedAt": "2026-11-09T07:00:00+00:00",
       "org": "STJ",
       "trib": "A identificar",
@@ -4387,7 +5355,7 @@
       "title": "Og Fernandes: o juiz-jornalista encerra trajetória de quase cinco décadas dedicadas à Justiça",
       "date": "2026-11-08",
       "published": "2026-11-08",
-      "checked": "2026-11-17",
+      "checked": "2026-11-18",
       "addedAt": "2026-11-08T06:55:00+00:00",
       "org": "STJ",
       "trib": "A identificar",
@@ -4431,7 +5399,7 @@
       "title": "STJ lança livro sobre transformação digital e proteção das criações intelectuais",
       "date": "2026-11-06",
       "published": "2026-11-06",
-      "checked": "2026-11-17",
+      "checked": "2026-11-18",
       "addedAt": "2026-11-06T15:51:00+00:00",
       "org": "STJ",
       "trib": "A identificar",
@@ -4475,7 +5443,7 @@
       "title": "STJ recebe participantes do Caminhos para a Liderança de Mulheres na Justiça",
       "date": "2026-11-06",
       "published": "2026-11-06",
-      "checked": "2026-11-17",
+      "checked": "2026-11-18",
       "addedAt": "2026-11-06T12:22:00+00:00",
       "org": "STJ",
       "trib": "A identificar",
@@ -5047,7 +6015,7 @@
       "title": "Tribunais debatem desafios e expectativas sobre o novo regime de relevância do STJ",
       "date": "2026-11-05",
       "published": "2026-11-05",
-      "checked": "2026-11-17",
+      "checked": "2026-11-18",
       "addedAt": "2026-11-05T20:54:00+00:00",
       "org": "STJ",
       "trib": "A identificar",
@@ -5091,7 +6059,7 @@
       "title": "STJ e CNJ assinam acordo de cooperação para compartilhamento de dados",
       "date": "2026-11-05",
       "published": "2026-11-05",
-      "checked": "2026-11-17",
+      "checked": "2026-11-18",
       "addedAt": "2026-11-05T12:49:00+00:00",
       "org": "STJ",
       "trib": "A identificar",
@@ -5135,7 +6103,7 @@
       "title": "STJ reúne tribunais para debater aplicação da relevância nos recursos especiais",
       "date": "2026-11-05",
       "published": "2026-11-05",
-      "checked": "2026-11-17",
+      "checked": "2026-11-18",
       "addedAt": "2026-11-05T12:24:00+00:00",
       "org": "STJ",
       "trib": "A identificar",
@@ -5179,7 +6147,7 @@
       "title": "STJ apresenta novas ferramentas e programas para fortalecer atuação como corte de precedentes",
       "date": "2026-11-05",
       "published": "2026-11-05",
-      "checked": "2026-11-17",
+      "checked": "2026-11-18",
       "addedAt": "2026-11-05T12:06:00+00:00",
       "org": "STJ",
       "trib": "A identificar",
@@ -5223,7 +6191,7 @@
       "title": "Rádio Decidendi aborda relação entre os repetitivos e o novo modelo da relevância",
       "date": "2026-11-05",
       "published": "2026-11-05",
-      "checked": "2026-11-17",
+      "checked": "2026-11-18",
       "addedAt": "2026-11-05T07:50:00+00:00",
       "org": "STJ",
       "trib": "A identificar",
@@ -5267,7 +6235,7 @@
       "title": "STJ lança tutorial sobre nova página do calendário de sessões de julgamento",
       "date": "2026-11-05",
       "published": "2026-11-05",
-      "checked": "2026-11-17",
+      "checked": "2026-11-18",
       "addedAt": "2026-11-05T07:10:00+00:00",
       "org": "STJ",
       "trib": "A identificar",
@@ -5311,7 +6279,7 @@
       "title": "STJ realiza Encontro Nacional sobre a Relevância da Questão de Direito Federal, com transmissão ao vivo",
       "date": "2026-11-05",
       "published": "2026-11-05",
-      "checked": "2026-11-17",
+      "checked": "2026-11-18",
       "addedAt": "2026-11-05T06:00:00+00:00",
       "org": "STJ",
       "trib": "A identificar",
@@ -5751,7 +6719,7 @@
       "title": "Operação Faroeste: STJ condena mais uma desembargadora do TJBA e cassa aposentadoria",
       "date": "2026-11-04",
       "published": "2026-11-04",
-      "checked": "2026-11-17",
+      "checked": "2026-11-18",
       "addedAt": "2026-11-04T17:11:00+00:00",
       "org": "STJ",
       "trib": "A identificar",
@@ -5795,7 +6763,7 @@
       "title": "Ministro Og Fernandes lança livro sobre a história do STF em 10 de novembro",
       "date": "2026-11-04",
       "published": "2026-11-04",
-      "checked": "2026-11-17",
+      "checked": "2026-11-18",
       "addedAt": "2026-11-04T13:26:00+00:00",
       "org": "STJ",
       "trib": "A identificar",
@@ -5839,7 +6807,7 @@
       "title": "STJ fixa critérios para honorários por habilitação e impugnação de crédito em recuperação ou falência",
       "date": "2026-11-04",
       "published": "2026-11-04",
-      "checked": "2026-11-17",
+      "checked": "2026-11-18",
       "addedAt": "2026-11-04T07:10:00+00:00",
       "org": "STJ",
       "trib": "A identificar",
@@ -7027,7 +7995,7 @@
       "title": "STJ Notícias aborda decisão sobre alteração de paternidade em registro civil",
       "date": "2026-11-03",
       "published": "2026-11-03",
-      "checked": "2026-11-17",
+      "checked": "2026-11-18",
       "addedAt": "2026-11-03T14:48:00+00:00",
       "org": "STJ",
       "trib": "A identificar",
@@ -7071,7 +8039,7 @@
       "title": "Projeto do STJ e do PNUD para diversidade e fortalecimento da Justiça lança informativo mensal",
       "date": "2026-11-03",
       "published": "2026-11-03",
-      "checked": "2026-11-17",
+      "checked": "2026-11-18",
       "addedAt": "2026-11-03T11:55:00+00:00",
       "org": "STJ",
       "trib": "A identificar",
@@ -7115,7 +8083,7 @@
       "title": "STJ lança nova página de consulta processual com foco em acessibilidade e eficiência",
       "date": "2026-11-03",
       "published": "2026-11-03",
-      "checked": "2026-11-17",
+      "checked": "2026-11-18",
       "addedAt": "2026-11-03T08:00:00+00:00",
       "org": "STJ",
       "trib": "A identificar",
@@ -7159,7 +8127,7 @@
       "title": "Consulta à página de jurisprudência do STJ ajuda a evitar citações falsas geradas por IA",
       "date": "2026-11-03",
       "published": "2026-11-03",
-      "checked": "2026-11-17",
+      "checked": "2026-11-18",
       "addedAt": "2026-11-03T07:05:00+00:00",
       "org": "STJ",
       "trib": "A identificar",
@@ -7203,7 +8171,7 @@
       "title": "Terceira Seção define cinco teses repetitivas sobre a natureza e a quantidade de drogas no cálculo da pena por tráfico",
       "date": "2026-11-03",
       "published": "2026-11-03",
-      "checked": "2026-11-17",
+      "checked": "2026-11-18",
       "addedAt": "2026-11-03T06:50:00+00:00",
       "org": "STJ",
       "trib": "A identificar",
