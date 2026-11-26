@@ -1,7 +1,7 @@
 {
   "kind": "official-publication-feed",
-  "checkedAt": "2026-11-25T12:29:15+00:00",
-  "lastSuccessfulRun": "2026-11-25T12:29:15+00:00",
+  "checkedAt": "2026-11-26T12:27:56+00:00",
+  "lastSuccessfulRun": "2026-11-26T12:27:56+00:00",
   "sources": [
     {
       "org": "Receita Federal",
@@ -10,8 +10,8 @@
     },
     {
       "org": "STJ",
-      "ok": true,
-      "items": 68
+      "ok": false,
+      "error": "<urlopen error timed out>"
     },
     {
       "org": "STJ · Informativo",
@@ -21,10 +21,582 @@
     {
       "org": "Agência Senado",
       "ok": true,
-      "items": 12
+      "items": 13
     }
   ],
   "entries": [
+    {
+      "id": "auto-a277fe35f95d0e4b",
+      "automated": true,
+      "title": "Áudio: CAS aprova programa de prevenção de erros de medicação e fará nova votação",
+      "date": "2026-11-26",
+      "published": "2026-11-26",
+      "checked": "2026-11-26",
+      "addedAt": "2026-11-26T12:10:02+00:00",
+      "org": "Agência Senado",
+      "trib": "A identificar",
+      "category": "Atualização tributária",
+      "kind": "Notícia oficial (coleta automática)",
+      "impact": "A avaliar",
+      "status": "Efeitos jurídicos a verificar",
+      "stage": "Publicação identificada",
+      "summary": "A Comissão de Assuntos Sociais (CAS) aprovou substitutivo (texto alternativo) à proposta que torna obrigatória a manutenção de um Programa de Prevenção de Erros de Medicação (PPEM) pelos hospitais do país. A medida busca reduzir danos evitáveis e mortes causadas por falhas na prescrição, no preparo, na entrega ou na aplicação de medicamentos nos hospitais. Pelo projeto (PL 238/2026), cada hospital terá um programa específico para desenvolver e acompanhar as medidas de segurança, além de uma comissão responsável pela prevenção de erros de medicação. O relator, senador Fernando Dueire (PSD-PE), destacou que, que segundo a Organização Mundial da Saúde (OMS), 20% dos erros de medicação estão relacionados à sobrecarga de trabalho. Como o texto aprovado foi o substitutivo, precisará passar por turno suplementar na comissão.",
+      "source": "https://www12.senado.leg.br/noticias/audios/2026/11/cas-aprova-programa-de-prevencao-de-erros-de-medicacao-e-fara-nova-votacao",
+      "sourceName": "Agência Senado · publicação oficial",
+      "topics": [
+        "Agência Senado"
+      ],
+      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
+      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
+      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
+      "now": "Publicação oficial identificada em 2026-11-26.",
+      "watch": "Conferir íntegra, vigência e próximos eventos.",
+      "sections": {
+        "aconteceu": "Agência Senado publicou: Áudio: CAS aprova programa de prevenção de erros de medicação e fará nova votação. A Comissão de Assuntos Sociais (CAS) aprovou substitutivo (texto alternativo) à proposta que torna obrigatória a manutenção de um Programa de Prevenção de Erros de Medicação (PPEM) pelos hospitais do país. A medida busca reduzir danos evitáveis e mortes causadas por falhas na prescrição, no preparo, na entrega ou na aplicação de medicamentos nos hospitais. Pelo projeto (PL 238/2026), cada hospital terá um programa específico para desenvolver e acompanhar as medidas de segurança, além de uma comissão responsável pela prevenção de erros de medicação. O relator, senador Fernando Dueire (PSD-PE), destacou que, que segundo a Organização Mundial da Saúde (OMS), 20% dos erros de medicação estão relacionados à sobrecarga de trabalho. Como o texto aprovado foi o substitutivo, precisará passar por turno suplementar na comissão.",
+        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
+        "discussao": "A controvérsia precisa de conferência na fonte integral.",
+        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
+        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
+        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
+        "aberto": "Confirmar regulamentações, recursos e pendências.",
+        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
+      },
+      "timeline": [
+        [
+          "2026-11-26",
+          "Publicação detectada",
+          "Efeitos jurídicos a conferir"
+        ]
+      ]
+    },
+    {
+      "id": "auto-86b1d6d81db90903",
+      "automated": true,
+      "title": "Vídeo: Ao vivo: CTFC debate funcionamento do Conselho de Gestão Fiscal - 26/11/26",
+      "date": "2026-11-26",
+      "published": "2026-11-26",
+      "checked": "2026-11-26",
+      "addedAt": "2026-11-26T12:03:04+00:00",
+      "org": "Agência Senado",
+      "trib": "A identificar",
+      "category": "Atualização tributária",
+      "kind": "Notícia oficial (coleta automática)",
+      "impact": "A avaliar",
+      "status": "Efeitos jurídicos a verificar",
+      "stage": "Publicação identificada",
+      "summary": "Consulte a publicação oficial para os detalhes.",
+      "source": "https://www12.senado.leg.br/noticias/videos/2026/11/ao-vivo-ctfc-debate-funcionamento-do-conselho-de-gestao-fiscal-26-11-26",
+      "sourceName": "Agência Senado · publicação oficial",
+      "topics": [
+        "Agência Senado"
+      ],
+      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
+      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
+      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
+      "now": "Publicação oficial identificada em 2026-11-26.",
+      "watch": "Conferir íntegra, vigência e próximos eventos.",
+      "sections": {
+        "aconteceu": "Agência Senado publicou: Vídeo: Ao vivo: CTFC debate funcionamento do Conselho de Gestão Fiscal - 26/11/26. Consulte a publicação oficial para os detalhes.",
+        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
+        "discussao": "A controvérsia precisa de conferência na fonte integral.",
+        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
+        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
+        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
+        "aberto": "Confirmar regulamentações, recursos e pendências.",
+        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
+      },
+      "timeline": [
+        [
+          "2026-11-26",
+          "Publicação detectada",
+          "Efeitos jurídicos a conferir"
+        ]
+      ]
+    },
+    {
+      "id": "auto-a09e3b43ba2d5b0f",
+      "automated": true,
+      "title": "Áudio: Comissão de Meio Ambiente vai analisar medidas para a governança climática",
+      "date": "2026-11-26",
+      "published": "2026-11-26",
+      "checked": "2026-11-26",
+      "addedAt": "2026-11-26T11:11:35+00:00",
+      "org": "Agência Senado",
+      "trib": "A identificar",
+      "category": "Atualização tributária",
+      "kind": "Notícia oficial (coleta automática)",
+      "impact": "A avaliar",
+      "status": "Efeitos jurídicos a verificar",
+      "stage": "Publicação identificada",
+      "summary": "A Comissão de Meio Ambiente (CMA) analisa o projeto que institui a Política Nacional de Governança Climática, com diretrizes e mecanismos de implementação (PL 2.761/2025). O texto prevê a criação de um Sistema Nacional de Governança Climática, com um comitê nacional e conselhos estaduais e municipais, além de um fundo nacional para financiar iniciativas como transição energética e adaptação climática. O senador Jaime Bagattoli (PL-RO) pediu um debate antes da votação.",
+      "source": "https://www12.senado.leg.br/noticias/audios/2026/11/comissao-de-meio-ambiente-vai-analisar-medidas-para-a-governanca-climatica",
+      "sourceName": "Agência Senado · publicação oficial",
+      "topics": [
+        "Agência Senado"
+      ],
+      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
+      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
+      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
+      "now": "Publicação oficial identificada em 2026-11-26.",
+      "watch": "Conferir íntegra, vigência e próximos eventos.",
+      "sections": {
+        "aconteceu": "Agência Senado publicou: Áudio: Comissão de Meio Ambiente vai analisar medidas para a governança climática. A Comissão de Meio Ambiente (CMA) analisa o projeto que institui a Política Nacional de Governança Climática, com diretrizes e mecanismos de implementação (PL 2.761/2025). O texto prevê a criação de um Sistema Nacional de Governança Climática, com um comitê nacional e conselhos estaduais e municipais, além de um fundo nacional para financiar iniciativas como transição energética e adaptação climática. O senador Jaime Bagattoli (PL-RO) pediu um debate antes da votação.",
+        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
+        "discussao": "A controvérsia precisa de conferência na fonte integral.",
+        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
+        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
+        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
+        "aberto": "Confirmar regulamentações, recursos e pendências.",
+        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
+      },
+      "timeline": [
+        [
+          "2026-11-26",
+          "Publicação detectada",
+          "Efeitos jurídicos a conferir"
+        ]
+      ]
+    },
+    {
+      "id": "auto-b737714d42c6de19",
+      "automated": true,
+      "title": "Relatório destaca importância da educação superior católica para a Amazônia",
+      "date": "2026-11-25",
+      "published": "2026-11-25",
+      "checked": "2026-11-26",
+      "addedAt": "2026-11-25T22:49:29+00:00",
+      "org": "Agência Senado",
+      "trib": "A identificar",
+      "category": "Atualização tributária",
+      "kind": "Notícia oficial (coleta automática)",
+      "impact": "A avaliar",
+      "status": "Efeitos jurídicos a verificar",
+      "stage": "Publicação identificada",
+      "summary": "A Comissão de Educação e Cultura do Senado (CE) promoveu nesta quarta-feira (25) uma audiência pública na qual se destacou a importância das instituições de educação superior católicas para a Amazônia Legal. Durante o encontro, foi apresentado um relatório sobre a atuação dessas entidades na região. O debate aconteceu a pedido da senadora Teresa Leitão (PT-PE), que presidiu a audiência. — O trabalho [o relatório] merece reconhecimento por dar visibilidade à contribuição dessas instituições e fortalecer a articulação entre elas, valorizando seu papel na construção de uma Amazônia sustentável, na proteção dos povos e territórios, no enfrentamento da crise climática e na defesa da nossa casa comum — declarou Teresa. A Amazônia Legal é composta por nove estados: Acre, Amapá, Amazonas, Mato Grosso, Pará, Rondônia, Roraima, Tocantins e parte do",
+      "source": "https://www12.senado.leg.br/noticias/materias/2026/11/25/relatorio-destaca-importancia-da-educacao-superior-catolica-para-a-amazonia",
+      "sourceName": "Agência Senado · publicação oficial",
+      "topics": [
+        "Agência Senado"
+      ],
+      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
+      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
+      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
+      "now": "Publicação oficial identificada em 2026-11-25.",
+      "watch": "Conferir íntegra, vigência e próximos eventos.",
+      "sections": {
+        "aconteceu": "Agência Senado publicou: Relatório destaca importância da educação superior católica para a Amazônia. A Comissão de Educação e Cultura do Senado (CE) promoveu nesta quarta-feira (25) uma audiência pública na qual se destacou a importância das instituições de educação superior católicas para a Amazônia Legal. Durante o encontro, foi apresentado um relatório sobre a atuação dessas entidades na região. O debate aconteceu a pedido da senadora Teresa Leitão (PT-PE), que presidiu a audiência. — O trabalho [o relatório] merece reconhecimento por dar visibilidade à contribuição dessas instituições e fortalecer a articulação entre elas, valorizando seu papel na construção de uma Amazônia sustentável, na proteção dos povos e territórios, no enfrentamento da crise climática e na defesa da nossa casa comum — declarou Teresa. A Amazônia Legal é composta por nove estados: Acre, Amapá, Amazonas, Mato Grosso, Pará, Rondônia, Roraima, Tocantins e parte do",
+        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
+        "discussao": "A controvérsia precisa de conferência na fonte integral.",
+        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
+        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
+        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
+        "aberto": "Confirmar regulamentações, recursos e pendências.",
+        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
+      },
+      "timeline": [
+        [
+          "2026-11-25",
+          "Publicação detectada",
+          "Efeitos jurídicos a conferir"
+        ]
+      ]
+    },
+    {
+      "id": "auto-c650d3b7bae1d1f9",
+      "automated": true,
+      "title": "CCT aprova 39 concessões e renovações para emissoras de rádio",
+      "date": "2026-11-25",
+      "published": "2026-11-25",
+      "checked": "2026-11-26",
+      "addedAt": "2026-11-25T22:24:38+00:00",
+      "org": "Agência Senado",
+      "trib": "A identificar",
+      "category": "Atualização tributária",
+      "kind": "Notícia oficial (coleta automática)",
+      "impact": "A avaliar",
+      "status": "Efeitos jurídicos a verificar",
+      "stage": "Publicação identificada",
+      "summary": "Nesta quarta-feira (25), a Comissão de Ciência e Tecnologia (CCT) aprovou 39 projetos de decreto legislativo (PDLs) que tratam da concessão e da renovação de outorgas para emissoras de rádio em 13 estados. As matérias seguem para promulgação pela Presidência do Senado. A maioria dos projetos trata de rádios comunitárias, emissoras sem fins lucrativos voltadas à informação, à cultura e à integração social de determinada comunidade. As outras propostas abrangem outorgas ou renovações de rádios FM e serviços de rádio AM adaptados para a faixa FM. As outorgas são concedidas por permissão ou concessão, modalidades que exigem licitação e têm prazo determinado. A concessão, diferentemente da permissão, só pode ser extinta nas hipóteses previstas em lei. Veja abaixo a lista dos projetos de decreto legislativo aprovados: Solicitante Local Relator ",
+      "source": "https://www12.senado.leg.br/noticias/materias/2026/11/25/cct-aprova-39-concessoes-e-renovacoes-para-emissoras-de-radio",
+      "sourceName": "Agência Senado · publicação oficial",
+      "topics": [
+        "Agência Senado"
+      ],
+      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
+      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
+      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
+      "now": "Publicação oficial identificada em 2026-11-25.",
+      "watch": "Conferir íntegra, vigência e próximos eventos.",
+      "sections": {
+        "aconteceu": "Agência Senado publicou: CCT aprova 39 concessões e renovações para emissoras de rádio. Nesta quarta-feira (25), a Comissão de Ciência e Tecnologia (CCT) aprovou 39 projetos de decreto legislativo (PDLs) que tratam da concessão e da renovação de outorgas para emissoras de rádio em 13 estados. As matérias seguem para promulgação pela Presidência do Senado. A maioria dos projetos trata de rádios comunitárias, emissoras sem fins lucrativos voltadas à informação, à cultura e à integração social de determinada comunidade. As outras propostas abrangem outorgas ou renovações de rádios FM e serviços de rádio AM adaptados para a faixa FM. As outorgas são concedidas por permissão ou concessão, modalidades que exigem licitação e têm prazo determinado. A concessão, diferentemente da permissão, só pode ser extinta nas hipóteses previstas em lei. Veja abaixo a lista dos projetos de decreto legislativo aprovados: Solicitante Local Relator ",
+        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
+        "discussao": "A controvérsia precisa de conferência na fonte integral.",
+        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
+        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
+        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
+        "aberto": "Confirmar regulamentações, recursos e pendências.",
+        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
+      },
+      "timeline": [
+        [
+          "2026-11-25",
+          "Publicação detectada",
+          "Efeitos jurídicos a conferir"
+        ]
+      ]
+    },
+    {
+      "id": "auto-9e2a541488a47a2b",
+      "automated": true,
+      "title": "Randolfe faz balanço de gestão no Conselho Editorial do Senado",
+      "date": "2026-11-25",
+      "published": "2026-11-25",
+      "checked": "2026-11-26",
+      "addedAt": "2026-11-25T22:20:28+00:00",
+      "org": "Agência Senado",
+      "trib": "A identificar",
+      "category": "Atualização tributária",
+      "kind": "Notícia oficial (coleta automática)",
+      "impact": "A avaliar",
+      "status": "Efeitos jurídicos a verificar",
+      "stage": "Publicação identificada",
+      "summary": "O senador Randolfe Rodrigues (PT-AP), em pronunciamento no Plenário nesta quarta-feira (25), fez um balanço de sua gestão à frente do Conselho Editorial do Senado. O parlamentar informou que foram publicadas mais de 150 obras e que a instituição participou de mais de 30 feiras e bienais literárias em todas as regiões do país. Segundo Randolfe, o período registrou o maior número de publicações desde a criação do conselho. Entre as publicações, citou o livro Vozes do Brasil: a linguagem política na Independência, que reúne panfletos históricos da Independência recuperados por meio de uma parceria com a Universidade Católica de Washington. — Esses panfletos estão microfilmados, e essa certidão de nascimento de nosso país se encontra nos arquivos do Senado. A Casa tem hoje, na sua editora, no Conselho Editorial, uma das instituições mais resp",
+      "source": "https://www12.senado.leg.br/noticias/materias/2026/11/25/randolfe-faz-balanco-de-gestao-no-conselho-editorial-do-senado",
+      "sourceName": "Agência Senado · publicação oficial",
+      "topics": [
+        "Agência Senado"
+      ],
+      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
+      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
+      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
+      "now": "Publicação oficial identificada em 2026-11-25.",
+      "watch": "Conferir íntegra, vigência e próximos eventos.",
+      "sections": {
+        "aconteceu": "Agência Senado publicou: Randolfe faz balanço de gestão no Conselho Editorial do Senado. O senador Randolfe Rodrigues (PT-AP), em pronunciamento no Plenário nesta quarta-feira (25), fez um balanço de sua gestão à frente do Conselho Editorial do Senado. O parlamentar informou que foram publicadas mais de 150 obras e que a instituição participou de mais de 30 feiras e bienais literárias em todas as regiões do país. Segundo Randolfe, o período registrou o maior número de publicações desde a criação do conselho. Entre as publicações, citou o livro Vozes do Brasil: a linguagem política na Independência, que reúne panfletos históricos da Independência recuperados por meio de uma parceria com a Universidade Católica de Washington. — Esses panfletos estão microfilmados, e essa certidão de nascimento de nosso país se encontra nos arquivos do Senado. A Casa tem hoje, na sua editora, no Conselho Editorial, uma das instituições mais resp",
+        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
+        "discussao": "A controvérsia precisa de conferência na fonte integral.",
+        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
+        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
+        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
+        "aberto": "Confirmar regulamentações, recursos e pendências.",
+        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
+      },
+      "timeline": [
+        [
+          "2026-11-25",
+          "Publicação detectada",
+          "Efeitos jurídicos a conferir"
+        ]
+      ]
+    },
+    {
+      "id": "auto-cc61c13c86448905",
+      "automated": true,
+      "title": "Áudio: Aprovado relatório sobre diligência de subcomissão no território ianomâmi",
+      "date": "2026-11-25",
+      "published": "2026-11-25",
+      "checked": "2026-11-26",
+      "addedAt": "2026-11-25T22:20:59+00:00",
+      "org": "Agência Senado",
+      "trib": "A identificar",
+      "category": "Atualização tributária",
+      "kind": "Notícia oficial (coleta automática)",
+      "impact": "A avaliar",
+      "status": "Efeitos jurídicos a verificar",
+      "stage": "Publicação identificada",
+      "summary": "A Subcomissão Permanente dos povos indígenas Yanomami (CDHYANOM) aprovou nesta quarta-feira (25) o relatório de uma diligência realizada em Manaus e São Gabriel da Cachoeira, no Amazonas. O documento reúne informações de visitas a unidades de saúde indígena e outras instituições que atuam na região, além de uma audiência pública com lideranças indígenas e representantes de diferentes setores. O objetivo foi avaliar e aprimorar as políticas públicas voltadas aos povos que vivem no território ianomâmi.",
+      "source": "https://www12.senado.leg.br/noticias/audios/2026/11/aprovado-relatorio-sobre-diligencia-de-subcomissao-no-territorio-ianomami",
+      "sourceName": "Agência Senado · publicação oficial",
+      "topics": [
+        "Agência Senado"
+      ],
+      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
+      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
+      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
+      "now": "Publicação oficial identificada em 2026-11-25.",
+      "watch": "Conferir íntegra, vigência e próximos eventos.",
+      "sections": {
+        "aconteceu": "Agência Senado publicou: Áudio: Aprovado relatório sobre diligência de subcomissão no território ianomâmi. A Subcomissão Permanente dos povos indígenas Yanomami (CDHYANOM) aprovou nesta quarta-feira (25) o relatório de uma diligência realizada em Manaus e São Gabriel da Cachoeira, no Amazonas. O documento reúne informações de visitas a unidades de saúde indígena e outras instituições que atuam na região, além de uma audiência pública com lideranças indígenas e representantes de diferentes setores. O objetivo foi avaliar e aprimorar as políticas públicas voltadas aos povos que vivem no território ianomâmi.",
+        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
+        "discussao": "A controvérsia precisa de conferência na fonte integral.",
+        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
+        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
+        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
+        "aberto": "Confirmar regulamentações, recursos e pendências.",
+        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
+      },
+      "timeline": [
+        [
+          "2026-11-25",
+          "Publicação detectada",
+          "Efeitos jurídicos a conferir"
+        ]
+      ]
+    },
+    {
+      "id": "auto-4fa5afd96eb88fdd",
+      "automated": true,
+      "title": "Áudio: 'Lei Benício', contra erros no atendimento pediátrico, avança na CAS",
+      "date": "2026-11-25",
+      "published": "2026-11-25",
+      "checked": "2026-11-26",
+      "addedAt": "2026-11-25T21:54:10+00:00",
+      "org": "Agência Senado",
+      "trib": "A identificar",
+      "category": "Atualização tributária",
+      "kind": "Notícia oficial (coleta automática)",
+      "impact": "A avaliar",
+      "status": "Efeitos jurídicos a verificar",
+      "stage": "Publicação identificada",
+      "summary": "A Comissão de Assuntos Sociais (CAS) aprovou nesta quarta-feira (25) projeto que exige dos serviços de saúde protocolos específicos para prescrição e administração de medicamentos a crianças (PL 2.107/2026). Apresentada pelo senador Eduardo Braga (MDB-AM), a chamada Lei Benício foi motivada pela morte de Benício Xavier de Freitas, de 6 anos, em novembro de 2025, em um hospital particular de Manaus. O menino recebeu na veia uma dose de adrenalina que deveria ter sido inalada. Para a relatora, senadora Damares Alves (Republicanos-DF), o atendimento pediátrico tem especificidades, diante das características fisiológicas das crianças e da necessidade de individualizar as condutas.",
+      "source": "https://www12.senado.leg.br/noticias/audios/2026/11/lei-benicio-contra-erros-no-atendimento-pediatrico-avanca-na-cas",
+      "sourceName": "Agência Senado · publicação oficial",
+      "topics": [
+        "Agência Senado"
+      ],
+      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
+      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
+      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
+      "now": "Publicação oficial identificada em 2026-11-25.",
+      "watch": "Conferir íntegra, vigência e próximos eventos.",
+      "sections": {
+        "aconteceu": "Agência Senado publicou: Áudio: 'Lei Benício', contra erros no atendimento pediátrico, avança na CAS. A Comissão de Assuntos Sociais (CAS) aprovou nesta quarta-feira (25) projeto que exige dos serviços de saúde protocolos específicos para prescrição e administração de medicamentos a crianças (PL 2.107/2026). Apresentada pelo senador Eduardo Braga (MDB-AM), a chamada Lei Benício foi motivada pela morte de Benício Xavier de Freitas, de 6 anos, em novembro de 2025, em um hospital particular de Manaus. O menino recebeu na veia uma dose de adrenalina que deveria ter sido inalada. Para a relatora, senadora Damares Alves (Republicanos-DF), o atendimento pediátrico tem especificidades, diante das características fisiológicas das crianças e da necessidade de individualizar as condutas.",
+        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
+        "discussao": "A controvérsia precisa de conferência na fonte integral.",
+        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
+        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
+        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
+        "aberto": "Confirmar regulamentações, recursos e pendências.",
+        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
+      },
+      "timeline": [
+        [
+          "2026-11-25",
+          "Publicação detectada",
+          "Efeitos jurídicos a conferir"
+        ]
+      ]
+    },
+    {
+      "id": "auto-39f6b80e6b03e6a8",
+      "automated": true,
+      "title": "CRA aprova projeto que diferencia aquicultura da pesca extrativa",
+      "date": "2026-11-25",
+      "published": "2026-11-25",
+      "checked": "2026-11-26",
+      "addedAt": "2026-11-25T21:51:01+00:00",
+      "org": "Agência Senado",
+      "trib": "A identificar",
+      "category": "Atualização tributária",
+      "kind": "Notícia oficial (coleta automática)",
+      "impact": "A avaliar",
+      "status": "Efeitos jurídicos a verificar",
+      "stage": "Publicação identificada",
+      "summary": "A Comissão de Agricultura e Reforma Agrária (CRA) aprovou nesta quarta-feira (25) projeto de lei que diferencia a aquicultura da pesca extrativa e estabelece regras próprias para atividade aquícola, que é a criação controlada de organismos aquáticos, como peixes e crustáceos. O relatório do senador Jorge Seif (PL-SC), apresentado na reunião pelo senador Hamilton Mourão (Republicanos-RS), foi aprovado com duas emendas de redação. A proposta (PL 4.162/2024) segue para análise do Plenário. Oriundo da Câmara dos Deputados, o projeto altera a Política Nacional de Desenvolvimento Sustentável da Aquicultura e da Pesca (Lei 11.959, de 2009), para reconhecer a aquicultura como atividade econômica independente da pesca de captura. Uma das principais mudanças estabelece que os organismos mantidos em cultivo são propriedade do aquicultor, e não recur",
+      "source": "https://www12.senado.leg.br/noticias/materias/2026/11/25/cra-aprova-projeto-que-diferencia-aquicultura-da-pesca-extrativa",
+      "sourceName": "Agência Senado · publicação oficial",
+      "topics": [
+        "Agência Senado"
+      ],
+      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
+      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
+      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
+      "now": "Publicação oficial identificada em 2026-11-25.",
+      "watch": "Conferir íntegra, vigência e próximos eventos.",
+      "sections": {
+        "aconteceu": "Agência Senado publicou: CRA aprova projeto que diferencia aquicultura da pesca extrativa. A Comissão de Agricultura e Reforma Agrária (CRA) aprovou nesta quarta-feira (25) projeto de lei que diferencia a aquicultura da pesca extrativa e estabelece regras próprias para atividade aquícola, que é a criação controlada de organismos aquáticos, como peixes e crustáceos. O relatório do senador Jorge Seif (PL-SC), apresentado na reunião pelo senador Hamilton Mourão (Republicanos-RS), foi aprovado com duas emendas de redação. A proposta (PL 4.162/2024) segue para análise do Plenário. Oriundo da Câmara dos Deputados, o projeto altera a Política Nacional de Desenvolvimento Sustentável da Aquicultura e da Pesca (Lei 11.959, de 2009), para reconhecer a aquicultura como atividade econômica independente da pesca de captura. Uma das principais mudanças estabelece que os organismos mantidos em cultivo são propriedade do aquicultor, e não recur",
+        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
+        "discussao": "A controvérsia precisa de conferência na fonte integral.",
+        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
+        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
+        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
+        "aberto": "Confirmar regulamentações, recursos e pendências.",
+        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
+      },
+      "timeline": [
+        [
+          "2026-11-25",
+          "Publicação detectada",
+          "Efeitos jurídicos a conferir"
+        ]
+      ]
+    },
+    {
+      "id": "auto-d2abcb745bb13a59",
+      "automated": true,
+      "title": "CRA aprova ampliação do prazo de proteção de novas variedades de plantas",
+      "date": "2026-11-25",
+      "published": "2026-11-25",
+      "checked": "2026-11-26",
+      "addedAt": "2026-11-25T21:50:54+00:00",
+      "org": "Agência Senado",
+      "trib": "A identificar",
+      "category": "Atualização tributária",
+      "kind": "Notícia oficial (coleta automática)",
+      "impact": "A avaliar",
+      "status": "Efeitos jurídicos a verificar",
+      "stage": "Publicação identificada",
+      "summary": "A Comissão de Agricultura e Reforma Agrária do Senado (CRA) aprovou nesta quarta-feira (25) o PL 2.143/2025, que, entre outras medidas, amplia de 18 para 25 anos o prazo de proteção de videiras, árvores frutíferas, árvores florestais e árvores e plantas ornamentais. A matéria segue para votação no Plenário do Senado. A proposta teve origem em um projeto apresentado no Senado em 2018, que foi posteriormente alterado na Câmara dos Deputados. Foi esse texto alterado (um substitutivo) que a CRA aprovou nesta quarta-feira, conforme recomendado pelo parecer do senador Luis Carlos Heinze (PP-RS). Heinze acolheu parte das modificações feitas na Câmara, mas não todas. O texto altera a Lei de Proteção de Cultivares. O parecer do senador mantém a decisão de ampliar de 18 para 25 anos o prazo de proteção de videiras, árvores frutíferas, árvores flore",
+      "source": "https://www12.senado.leg.br/noticias/materias/2026/11/25/cra-aprova-ampliacao-do-prazo-de-protecao-de-novas-variedades-de-plantas",
+      "sourceName": "Agência Senado · publicação oficial",
+      "topics": [
+        "Agência Senado"
+      ],
+      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
+      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
+      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
+      "now": "Publicação oficial identificada em 2026-11-25.",
+      "watch": "Conferir íntegra, vigência e próximos eventos.",
+      "sections": {
+        "aconteceu": "Agência Senado publicou: CRA aprova ampliação do prazo de proteção de novas variedades de plantas. A Comissão de Agricultura e Reforma Agrária do Senado (CRA) aprovou nesta quarta-feira (25) o PL 2.143/2025, que, entre outras medidas, amplia de 18 para 25 anos o prazo de proteção de videiras, árvores frutíferas, árvores florestais e árvores e plantas ornamentais. A matéria segue para votação no Plenário do Senado. A proposta teve origem em um projeto apresentado no Senado em 2018, que foi posteriormente alterado na Câmara dos Deputados. Foi esse texto alterado (um substitutivo) que a CRA aprovou nesta quarta-feira, conforme recomendado pelo parecer do senador Luis Carlos Heinze (PP-RS). Heinze acolheu parte das modificações feitas na Câmara, mas não todas. O texto altera a Lei de Proteção de Cultivares. O parecer do senador mantém a decisão de ampliar de 18 para 25 anos o prazo de proteção de videiras, árvores frutíferas, árvores flore",
+        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
+        "discussao": "A controvérsia precisa de conferência na fonte integral.",
+        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
+        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
+        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
+        "aberto": "Confirmar regulamentações, recursos e pendências.",
+        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
+      },
+      "timeline": [
+        [
+          "2026-11-25",
+          "Publicação detectada",
+          "Efeitos jurídicos a conferir"
+        ]
+      ]
+    },
+    {
+      "id": "auto-2d21faf8fc1c3c4c",
+      "automated": true,
+      "title": "Áudio: Senado celebra 40 anos da Associação Brasileira das Empresas de Software",
+      "date": "2026-11-25",
+      "published": "2026-11-25",
+      "checked": "2026-11-26",
+      "addedAt": "2026-11-25T21:43:28+00:00",
+      "org": "Agência Senado",
+      "trib": "A identificar",
+      "category": "Atualização tributária",
+      "kind": "Notícia oficial (coleta automática)",
+      "impact": "A avaliar",
+      "status": "Efeitos jurídicos a verificar",
+      "stage": "Publicação identificada",
+      "summary": "O Senado celebrou os 40 anos da Associação Brasileira das Empresas de Software (Abes) em sessão especial nesta quarta-feira (25). Senadores e convidados destacaram a contribuição da Abes para o desenvolvimento e a proteção do setor. A associação foi criada em 1986, com o objetivo de fortalecer o mercado de software brasileiro. Hoje, reúne cerca de 2 mil empresas associadas, que representam 80% do faturamento do setor.",
+      "source": "https://www12.senado.leg.br/noticias/audios/2026/11/senado-celebra-40-anos-da-associacao-brasileira-das-empresas-de-software",
+      "sourceName": "Agência Senado · publicação oficial",
+      "topics": [
+        "Agência Senado"
+      ],
+      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
+      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
+      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
+      "now": "Publicação oficial identificada em 2026-11-25.",
+      "watch": "Conferir íntegra, vigência e próximos eventos.",
+      "sections": {
+        "aconteceu": "Agência Senado publicou: Áudio: Senado celebra 40 anos da Associação Brasileira das Empresas de Software. O Senado celebrou os 40 anos da Associação Brasileira das Empresas de Software (Abes) em sessão especial nesta quarta-feira (25). Senadores e convidados destacaram a contribuição da Abes para o desenvolvimento e a proteção do setor. A associação foi criada em 1986, com o objetivo de fortalecer o mercado de software brasileiro. Hoje, reúne cerca de 2 mil empresas associadas, que representam 80% do faturamento do setor.",
+        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
+        "discussao": "A controvérsia precisa de conferência na fonte integral.",
+        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
+        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
+        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
+        "aberto": "Confirmar regulamentações, recursos e pendências.",
+        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
+      },
+      "timeline": [
+        [
+          "2026-11-25",
+          "Publicação detectada",
+          "Efeitos jurídicos a conferir"
+        ]
+      ]
+    },
+    {
+      "id": "auto-fd7deb1431edca04",
+      "automated": true,
+      "title": "Áudio: Previsão de receita para 2027 sobe R$ 37,1 bilhões no Orçamento",
+      "date": "2026-11-25",
+      "published": "2026-11-25",
+      "checked": "2026-11-26",
+      "addedAt": "2026-11-25T21:36:36+00:00",
+      "org": "Agência Senado",
+      "trib": "A identificar",
+      "category": "Atualização tributária",
+      "kind": "Notícia oficial (coleta automática)",
+      "impact": "A avaliar",
+      "status": "Efeitos jurídicos a verificar",
+      "stage": "Publicação identificada",
+      "summary": "A Comissão Mista de Orçamento (CMO) aprovou nesta quarta-feira (25) o relatório do deputado Neto Carletto (Avante-BA) que eleva em R$ 37,1 bilhões a previsão de arrecadação para 2027. Descontados os repasses a estados e municípios, a União deve ficar com R$ 17,6 bilhões a mais. A maior alta na estimativa veio das receitas do petróleo. O relatório também prevê aumento na arrecadação com o corte de benefícios fiscais. A proposta completa do Orçamento de 2027 (PLN 24/2026) deve ser votada no Plenário do Congresso até o fim de dezembro.",
+      "source": "https://www12.senado.leg.br/noticias/audios/2026/11/previsao-de-receita-para-2027-sobe-r-37-1-bilhoes-no-orcamento",
+      "sourceName": "Agência Senado · publicação oficial",
+      "topics": [
+        "Agência Senado"
+      ],
+      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
+      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
+      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
+      "now": "Publicação oficial identificada em 2026-11-25.",
+      "watch": "Conferir íntegra, vigência e próximos eventos.",
+      "sections": {
+        "aconteceu": "Agência Senado publicou: Áudio: Previsão de receita para 2027 sobe R$ 37,1 bilhões no Orçamento. A Comissão Mista de Orçamento (CMO) aprovou nesta quarta-feira (25) o relatório do deputado Neto Carletto (Avante-BA) que eleva em R$ 37,1 bilhões a previsão de arrecadação para 2027. Descontados os repasses a estados e municípios, a União deve ficar com R$ 17,6 bilhões a mais. A maior alta na estimativa veio das receitas do petróleo. O relatório também prevê aumento na arrecadação com o corte de benefícios fiscais. A proposta completa do Orçamento de 2027 (PLN 24/2026) deve ser votada no Plenário do Congresso até o fim de dezembro.",
+        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
+        "discussao": "A controvérsia precisa de conferência na fonte integral.",
+        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
+        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
+        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
+        "aberto": "Confirmar regulamentações, recursos e pendências.",
+        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
+      },
+      "timeline": [
+        [
+          "2026-11-25",
+          "Publicação detectada",
+          "Efeitos jurídicos a conferir"
+        ]
+      ]
+    },
+    {
+      "id": "auto-2288796bcb688250",
+      "automated": true,
+      "title": "Municípios que comprarem da agricultura familiar podem ter bônus para merenda",
+      "date": "2026-11-25",
+      "published": "2026-11-25",
+      "checked": "2026-11-26",
+      "addedAt": "2026-11-25T21:27:13+00:00",
+      "org": "Agência Senado",
+      "trib": "A identificar",
+      "category": "Atualização tributária",
+      "kind": "Notícia oficial (coleta automática)",
+      "impact": "A avaliar",
+      "status": "Efeitos jurídicos a verificar",
+      "stage": "Publicação identificada",
+      "summary": "A Comissão de Agricultura (CRA) aprovou nesta quarta-feira (25) substitutivo da senadora Professora Dorinha Seabra (União-TO) ao PL 1/2024, do senador Laércio Oliveira (PP-SE), que cria incentivos para a compra de alimentos da agricultura familiar destinados à merenda escolar. A proposta segue para decisão final na Comissão de Educação (CE). O texto exige que os entes que recebem recursos do Programa Nacional de Alimentação Escolar (Pnae) comprovem ao Fundo Nacional de Desenvolvimento da Educação (FNDE) que destinaram pelo menos 45% dos repasses à compra direta de produtos da agricultura familiar. Esse percentual mínimo foi fixado pela Lei 15.226, de 2025, que o elevou de 30% para 45%. Quem comprovar o cumprimento da exigência poderá receber, no ano seguinte, bônus de até 5% sobre os repasses do programa. O pagamento dependerá da disponib",
+      "source": "https://www12.senado.leg.br/noticias/materias/2026/11/25/municipios-que-comprarem-da-agricultura-familiar-podem-ter-bonus-para-merenda",
+      "sourceName": "Agência Senado · publicação oficial",
+      "topics": [
+        "Agência Senado"
+      ],
+      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
+      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
+      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
+      "now": "Publicação oficial identificada em 2026-11-25.",
+      "watch": "Conferir íntegra, vigência e próximos eventos.",
+      "sections": {
+        "aconteceu": "Agência Senado publicou: Municípios que comprarem da agricultura familiar podem ter bônus para merenda. A Comissão de Agricultura (CRA) aprovou nesta quarta-feira (25) substitutivo da senadora Professora Dorinha Seabra (União-TO) ao PL 1/2024, do senador Laércio Oliveira (PP-SE), que cria incentivos para a compra de alimentos da agricultura familiar destinados à merenda escolar. A proposta segue para decisão final na Comissão de Educação (CE). O texto exige que os entes que recebem recursos do Programa Nacional de Alimentação Escolar (Pnae) comprovem ao Fundo Nacional de Desenvolvimento da Educação (FNDE) que destinaram pelo menos 45% dos repasses à compra direta de produtos da agricultura familiar. Esse percentual mínimo foi fixado pela Lei 15.226, de 2025, que o elevou de 30% para 45%. Quem comprovar o cumprimento da exigência poderá receber, no ano seguinte, bônus de até 5% sobre os repasses do programa. O pagamento dependerá da disponib",
+        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
+        "discussao": "A controvérsia precisa de conferência na fonte integral.",
+        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
+        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
+        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
+        "aberto": "Confirmar regulamentações, recursos e pendências.",
+        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
+      },
+      "timeline": [
+        [
+          "2026-11-25",
+          "Publicação detectada",
+          "Efeitos jurídicos a conferir"
+        ]
+      ]
+    },
     {
       "id": "auto-842c2c670db8c532",
       "automated": true,
@@ -10437,578 +11009,6 @@
       "watch": "Conferir íntegra, vigência e próximos eventos.",
       "sections": {
         "aconteceu": "Agência Senado publicou: Aprovação de protocolo pelo Senado permitirá ao Brasil sediar 'Expos' mundiais. O Plenário do Senado aprovou nesta quarta-feira (4) o texto de um protocolo que permitirá a cidades brasileiras voltarem a se candidatar a sediar exposições mundiais, as chamadas “Expos”. O PDL 359/2024, que vai à promulgação, trata de um acordo sobre direitos e deveres dos países organizadores e participantes de exposições internacionais e mundiais. Com a aprovação, o Brasil poderá cumprir suas obrigações financeiras com o Bureau Internacional de Exposições, organismo responsável por esse tipo de evento, e recuperar o direito de voto, suspenso desde 2015 devido ao acúmulo de contribuições em atraso. O Brasil é membro fundador da entidade. Para a relatora, senadora Dra. Eudócia (PSDB-AL), a abertura da possibilidade de organizar grandes eventos do gênero “é, a vários títulos, benfazeja tanto para a imagem do país no exterior quanto para a",
-        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
-        "discussao": "A controvérsia precisa de conferência na fonte integral.",
-        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
-        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
-        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
-        "aberto": "Confirmar regulamentações, recursos e pendências.",
-        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
-      },
-      "timeline": [
-        [
-          "2026-11-04",
-          "Publicação detectada",
-          "Efeitos jurídicos a conferir"
-        ]
-      ]
-    },
-    {
-      "id": "auto-99349942ca73d256",
-      "automated": true,
-      "title": "Confúcio defende integração das forças de segurança",
-      "date": "2026-11-04",
-      "published": "2026-11-04",
-      "checked": "2026-11-04",
-      "addedAt": "2026-11-04T19:52:55+00:00",
-      "org": "Agência Senado",
-      "trib": "A identificar",
-      "category": "Atualização tributária",
-      "kind": "Notícia oficial (coleta automática)",
-      "impact": "A avaliar",
-      "status": "Efeitos jurídicos a verificar",
-      "stage": "Publicação identificada",
-      "summary": "Após a aprovação da PEC da Segurança Pública na terça-feira (3), o senador Confúcio Moura (MDB-RO) defendeu nesta quarta-feira (4) a integração entre as forças de segurança do país — com uma atuação coordenada entre União, estados e municípios — para o combate ao crime organizado. Ele acrescentou que o compartilhamento de estruturas pode contribuir para a elucidação de crimes e a localização de foragidos. — Se o Estado também não se organizar, vamos sair perdendo e estaremos sempre correndo atrás do prejuízo — disse o senador durante pronunciamento em Plenário. Confúcio Moura afirmou que os municípios, por exemplo, podem aumentar sua participação na segurança pública com guardas municipais estruturadas e servidores treinados. E citou o caso da cidade de Ariquemes, em Rondônia, estado que o senador representa. Segundo ele, esse município s",
-      "source": "https://www12.senado.leg.br/noticias/materias/2026/11/04/confucio-defende-integracao-das-forcas-de-seguranca",
-      "sourceName": "Agência Senado · publicação oficial",
-      "topics": [
-        "Agência Senado"
-      ],
-      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
-      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
-      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
-      "now": "Publicação oficial identificada em 2026-11-04.",
-      "watch": "Conferir íntegra, vigência e próximos eventos.",
-      "sections": {
-        "aconteceu": "Agência Senado publicou: Confúcio defende integração das forças de segurança. Após a aprovação da PEC da Segurança Pública na terça-feira (3), o senador Confúcio Moura (MDB-RO) defendeu nesta quarta-feira (4) a integração entre as forças de segurança do país — com uma atuação coordenada entre União, estados e municípios — para o combate ao crime organizado. Ele acrescentou que o compartilhamento de estruturas pode contribuir para a elucidação de crimes e a localização de foragidos. — Se o Estado também não se organizar, vamos sair perdendo e estaremos sempre correndo atrás do prejuízo — disse o senador durante pronunciamento em Plenário. Confúcio Moura afirmou que os municípios, por exemplo, podem aumentar sua participação na segurança pública com guardas municipais estruturadas e servidores treinados. E citou o caso da cidade de Ariquemes, em Rondônia, estado que o senador representa. Segundo ele, esse município s",
-        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
-        "discussao": "A controvérsia precisa de conferência na fonte integral.",
-        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
-        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
-        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
-        "aberto": "Confirmar regulamentações, recursos e pendências.",
-        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
-      },
-      "timeline": [
-        [
-          "2026-11-04",
-          "Publicação detectada",
-          "Efeitos jurídicos a conferir"
-        ]
-      ]
-    },
-    {
-      "id": "auto-917ee0ac259a1187",
-      "automated": true,
-      "title": "Paim defende tarifa zero no transporte público aos fins de semana",
-      "date": "2026-11-04",
-      "published": "2026-11-04",
-      "checked": "2026-11-04",
-      "addedAt": "2026-11-04T19:28:25+00:00",
-      "org": "Agência Senado",
-      "trib": "A identificar",
-      "category": "Atualização tributária",
-      "kind": "Notícia oficial (coleta automática)",
-      "impact": "A avaliar",
-      "status": "Efeitos jurídicos a verificar",
-      "stage": "Publicação identificada",
-      "summary": "Ao discursar em Plenário nesta quarta-feira (4), o senador Paulo Paim (PT-RS) defendeu a aprovação da PEC 18/2026 — proposta de emenda à Constituição que trata do financiamento da \"tarifa zero\" no transporte público coletivo urbano (para os sábados, domingos e feriados, em todo o território nacional). Paim lembrou que a proposta prevê o uso de emendas parlamentares para custear essa gratuidade. Também disse que, considerando os valores previstos para o Orçamento de 2027, poderão ser destinados cerca de R$ 12 bilhões à iniciativa. Apresentada pelo governo no mês passado, a PEC 18/2026 ainda está em tramitação na Câmara dos Deputados. Segundo ele, a gratuidade pode ampliar o acesso ao trabalho, aos serviços públicos, à cultura e ao lazer. Além disso, argumentou o senador, a redução dos gastos com passagens pode beneficiar o orçamento das fa",
-      "source": "https://www12.senado.leg.br/noticias/materias/2026/11/04/paim-defende-tarifa-zero-no-transporte-publico-aos-fins-de-semana",
-      "sourceName": "Agência Senado · publicação oficial",
-      "topics": [
-        "Agência Senado"
-      ],
-      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
-      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
-      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
-      "now": "Publicação oficial identificada em 2026-11-04.",
-      "watch": "Conferir íntegra, vigência e próximos eventos.",
-      "sections": {
-        "aconteceu": "Agência Senado publicou: Paim defende tarifa zero no transporte público aos fins de semana. Ao discursar em Plenário nesta quarta-feira (4), o senador Paulo Paim (PT-RS) defendeu a aprovação da PEC 18/2026 — proposta de emenda à Constituição que trata do financiamento da \"tarifa zero\" no transporte público coletivo urbano (para os sábados, domingos e feriados, em todo o território nacional). Paim lembrou que a proposta prevê o uso de emendas parlamentares para custear essa gratuidade. Também disse que, considerando os valores previstos para o Orçamento de 2027, poderão ser destinados cerca de R$ 12 bilhões à iniciativa. Apresentada pelo governo no mês passado, a PEC 18/2026 ainda está em tramitação na Câmara dos Deputados. Segundo ele, a gratuidade pode ampliar o acesso ao trabalho, aos serviços públicos, à cultura e ao lazer. Além disso, argumentou o senador, a redução dos gastos com passagens pode beneficiar o orçamento das fa",
-        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
-        "discussao": "A controvérsia precisa de conferência na fonte integral.",
-        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
-        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
-        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
-        "aberto": "Confirmar regulamentações, recursos e pendências.",
-        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
-      },
-      "timeline": [
-        [
-          "2026-11-04",
-          "Publicação detectada",
-          "Efeitos jurídicos a conferir"
-        ]
-      ]
-    },
-    {
-      "id": "auto-24abb031786d74ba",
-      "automated": true,
-      "title": "Áudio: CAE: governadores poderão renegociar dívidas no fim do mandato",
-      "date": "2026-11-04",
-      "published": "2026-11-04",
-      "checked": "2026-11-04",
-      "addedAt": "2026-11-04T19:13:36+00:00",
-      "org": "Agência Senado",
-      "trib": "A identificar",
-      "category": "Atualização tributária",
-      "kind": "Notícia oficial (coleta automática)",
-      "impact": "A avaliar",
-      "status": "Efeitos jurídicos a verificar",
-      "stage": "Publicação identificada",
-      "summary": "A Comissão de Assuntos Econômicos (CAE) aprovou nesta quarta-feira (4) o Projeto de Resolução (PRS) 50/2026, que permite a estados e municípios reestruturar dívidas nos últimos 120 dias de mandato do governante. A proposta do senador Renan Filho (MDB-AL) foi relatada pelo senador Eduardo Braga (MDB-AM), que ressaltou que o projeto permitirá juros menores, novos prazos para pagamento e novas datas de carência mas não aumento da dívida. O projeto segue para votação do Plenário do Senado.",
-      "source": "https://www12.senado.leg.br/noticias/audios/2026/11/cae-governadores-poderao-renegociar-dividas-no-fim-do-mandato",
-      "sourceName": "Agência Senado · publicação oficial",
-      "topics": [
-        "Agência Senado"
-      ],
-      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
-      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
-      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
-      "now": "Publicação oficial identificada em 2026-11-04.",
-      "watch": "Conferir íntegra, vigência e próximos eventos.",
-      "sections": {
-        "aconteceu": "Agência Senado publicou: Áudio: CAE: governadores poderão renegociar dívidas no fim do mandato. A Comissão de Assuntos Econômicos (CAE) aprovou nesta quarta-feira (4) o Projeto de Resolução (PRS) 50/2026, que permite a estados e municípios reestruturar dívidas nos últimos 120 dias de mandato do governante. A proposta do senador Renan Filho (MDB-AL) foi relatada pelo senador Eduardo Braga (MDB-AM), que ressaltou que o projeto permitirá juros menores, novos prazos para pagamento e novas datas de carência mas não aumento da dívida. O projeto segue para votação do Plenário do Senado.",
-        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
-        "discussao": "A controvérsia precisa de conferência na fonte integral.",
-        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
-        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
-        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
-        "aberto": "Confirmar regulamentações, recursos e pendências.",
-        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
-      },
-      "timeline": [
-        [
-          "2026-11-04",
-          "Publicação detectada",
-          "Efeitos jurídicos a conferir"
-        ]
-      ]
-    },
-    {
-      "id": "auto-85d8ac1a1d0466fd",
-      "automated": true,
-      "title": "Vídeo: Políticas para saúde mental de idosos e defesa da mulher avançam na CDH",
-      "date": "2026-11-04",
-      "published": "2026-11-04",
-      "checked": "2026-11-04",
-      "addedAt": "2026-11-04T18:17:39+00:00",
-      "org": "Agência Senado",
-      "trib": "A identificar",
-      "category": "Atualização tributária",
-      "kind": "Notícia oficial (coleta automática)",
-      "impact": "A avaliar",
-      "status": "Efeitos jurídicos a verificar",
-      "stage": "Publicação identificada",
-      "summary": "A Comissão de Direitos Humanos e Legislação Participativa (CDH) aprovou o PL 1.025/2026, do senador Paulo Paim (PT-RS), que institui a Política Nacional de Enfrentamento à Violência contra a Mulher. O texto prevê a integração de serviços especializados e equipes móveis e segue para a Comissão de Segurança Pública (CSP). A CDH também aprovou o PL 127/2024, que cria um programa de saúde mental para pessoas idosas no SUS. A proposta será analisada pela Comissão de Assuntos Sociais (CAS).",
-      "source": "https://www12.senado.leg.br/noticias/videos/2026/11/politicas-para-saude-mental-de-idosos-e-defesa-da-mulher-avancam-na-cdh",
-      "sourceName": "Agência Senado · publicação oficial",
-      "topics": [
-        "Agência Senado"
-      ],
-      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
-      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
-      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
-      "now": "Publicação oficial identificada em 2026-11-04.",
-      "watch": "Conferir íntegra, vigência e próximos eventos.",
-      "sections": {
-        "aconteceu": "Agência Senado publicou: Vídeo: Políticas para saúde mental de idosos e defesa da mulher avançam na CDH. A Comissão de Direitos Humanos e Legislação Participativa (CDH) aprovou o PL 1.025/2026, do senador Paulo Paim (PT-RS), que institui a Política Nacional de Enfrentamento à Violência contra a Mulher. O texto prevê a integração de serviços especializados e equipes móveis e segue para a Comissão de Segurança Pública (CSP). A CDH também aprovou o PL 127/2024, que cria um programa de saúde mental para pessoas idosas no SUS. A proposta será analisada pela Comissão de Assuntos Sociais (CAS).",
-        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
-        "discussao": "A controvérsia precisa de conferência na fonte integral.",
-        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
-        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
-        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
-        "aberto": "Confirmar regulamentações, recursos e pendências.",
-        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
-      },
-      "timeline": [
-        [
-          "2026-11-04",
-          "Publicação detectada",
-          "Efeitos jurídicos a conferir"
-        ]
-      ]
-    },
-    {
-      "id": "auto-8e800e474d2132ab",
-      "automated": true,
-      "title": "CCT aprova 41 concessões e renovações para emissoras de rádio",
-      "date": "2026-11-04",
-      "published": "2026-11-04",
-      "checked": "2026-11-04",
-      "addedAt": "2026-11-04T17:23:53+00:00",
-      "org": "Agência Senado",
-      "trib": "A identificar",
-      "category": "Atualização tributária",
-      "kind": "Notícia oficial (coleta automática)",
-      "impact": "A avaliar",
-      "status": "Efeitos jurídicos a verificar",
-      "stage": "Publicação identificada",
-      "summary": "A Comissão de Ciência, Tecnologia, Inovação e Informática (CCT) aprovou 41 projetos de decreto legislativo (PDLs) relativos à concessão e à renovação de outorgas para emissoras de rádio em 14 estados. As matérias aprovadas nesta quarta-feira (4) seguem para promulgação pela Presidência do Senado. A maioria dos pedidos aprovados é de rádios comunitárias — emissoras sem fins lucrativos, de alcance restrito a determinada comunidade e destinadas a proporcionar informação, cultura e integração social. Nesses casos, a outorga é feita na modalidade de permissão, que exige licitação e tem prazo determinado. Já os projetos que tratam de outorga ou renovação de serviços de radiodifusão sonora em frequência modulada (FM) ocorrem na modalidade de permissão, que exige licitação e pode ser revogada a qualquer tempo, sem direito a indenização. Outros pr",
-      "source": "https://www12.senado.leg.br/noticias/materias/2026/11/04/cct-aprova-41-concessoes-e-renovacoes-para-emissoras-de-radio",
-      "sourceName": "Agência Senado · publicação oficial",
-      "topics": [
-        "Agência Senado"
-      ],
-      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
-      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
-      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
-      "now": "Publicação oficial identificada em 2026-11-04.",
-      "watch": "Conferir íntegra, vigência e próximos eventos.",
-      "sections": {
-        "aconteceu": "Agência Senado publicou: CCT aprova 41 concessões e renovações para emissoras de rádio. A Comissão de Ciência, Tecnologia, Inovação e Informática (CCT) aprovou 41 projetos de decreto legislativo (PDLs) relativos à concessão e à renovação de outorgas para emissoras de rádio em 14 estados. As matérias aprovadas nesta quarta-feira (4) seguem para promulgação pela Presidência do Senado. A maioria dos pedidos aprovados é de rádios comunitárias — emissoras sem fins lucrativos, de alcance restrito a determinada comunidade e destinadas a proporcionar informação, cultura e integração social. Nesses casos, a outorga é feita na modalidade de permissão, que exige licitação e tem prazo determinado. Já os projetos que tratam de outorga ou renovação de serviços de radiodifusão sonora em frequência modulada (FM) ocorrem na modalidade de permissão, que exige licitação e pode ser revogada a qualquer tempo, sem direito a indenização. Outros pr",
-        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
-        "discussao": "A controvérsia precisa de conferência na fonte integral.",
-        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
-        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
-        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
-        "aberto": "Confirmar regulamentações, recursos e pendências.",
-        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
-      },
-      "timeline": [
-        [
-          "2026-11-04",
-          "Publicação detectada",
-          "Efeitos jurídicos a conferir"
-        ]
-      ]
-    },
-    {
-      "id": "auto-9fd1a72c67e61182",
-      "automated": true,
-      "title": "Áudio: Projeto de incentivo à inovação e à pesquisa em saúde vai à CAS",
-      "date": "2026-11-04",
-      "published": "2026-11-04",
-      "checked": "2026-11-04",
-      "addedAt": "2026-11-04T17:23:44+00:00",
-      "org": "Agência Senado",
-      "trib": "A identificar",
-      "category": "Atualização tributária",
-      "kind": "Notícia oficial (coleta automática)",
-      "impact": "A avaliar",
-      "status": "Efeitos jurídicos a verificar",
-      "stage": "Publicação identificada",
-      "summary": "O PL 4.465/2021, projeto de lei que cria incentivos para a inovação e a pesquisa científica na saúde, com foco no combate a epidemias, recebeu nesta quarta (4) parecer favorável da Comissão de Ciência e Tecnologia do Senado (CCT). Agora o projeto segue para análise em outro colegiado do Senado: a Comissão de Assuntos Sociais (CAS).",
-      "source": "https://www12.senado.leg.br/noticias/audios/2026/11/projeto-de-incentivo-a-inovacao-e-a-pesquisa-em-saude-vai-a-cas",
-      "sourceName": "Agência Senado · publicação oficial",
-      "topics": [
-        "Agência Senado"
-      ],
-      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
-      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
-      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
-      "now": "Publicação oficial identificada em 2026-11-04.",
-      "watch": "Conferir íntegra, vigência e próximos eventos.",
-      "sections": {
-        "aconteceu": "Agência Senado publicou: Áudio: Projeto de incentivo à inovação e à pesquisa em saúde vai à CAS. O PL 4.465/2021, projeto de lei que cria incentivos para a inovação e a pesquisa científica na saúde, com foco no combate a epidemias, recebeu nesta quarta (4) parecer favorável da Comissão de Ciência e Tecnologia do Senado (CCT). Agora o projeto segue para análise em outro colegiado do Senado: a Comissão de Assuntos Sociais (CAS).",
-        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
-        "discussao": "A controvérsia precisa de conferência na fonte integral.",
-        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
-        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
-        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
-        "aberto": "Confirmar regulamentações, recursos e pendências.",
-        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
-      },
-      "timeline": [
-        [
-          "2026-11-04",
-          "Publicação detectada",
-          "Efeitos jurídicos a conferir"
-        ]
-      ]
-    },
-    {
-      "id": "auto-2772d8eadeb9428d",
-      "automated": true,
-      "title": "Áudio: CE aprova criação de prêmio para educação básica; projeto vai à Câmara",
-      "date": "2026-11-04",
-      "published": "2026-11-04",
-      "checked": "2026-11-04",
-      "addedAt": "2026-11-04T17:08:13+00:00",
-      "org": "Agência Senado",
-      "trib": "A identificar",
-      "category": "Atualização tributária",
-      "kind": "Notícia oficial (coleta automática)",
-      "impact": "A avaliar",
-      "status": "Efeitos jurídicos a verificar",
-      "stage": "Publicação identificada",
-      "summary": "O projeto de lei que cria o Prêmio Nacional da Educação Brasileira (PL 3.768/2026) foi aprovado nesta terça (3) pela Comissão de Educação e Cultura do Senado (CE). O objetivo é reconhecer estratégias e iniciativas para a melhoria da qualidade da aprendizagem na educação básica. Agora a matéria vai à Câmara dos Deputados. Ouça o áudio.",
-      "source": "https://www12.senado.leg.br/noticias/audios/2026/11/ce-aprova-criacao-de-premio-para-educacao-basica-projeto-vai-a-camara",
-      "sourceName": "Agência Senado · publicação oficial",
-      "topics": [
-        "Agência Senado"
-      ],
-      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
-      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
-      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
-      "now": "Publicação oficial identificada em 2026-11-04.",
-      "watch": "Conferir íntegra, vigência e próximos eventos.",
-      "sections": {
-        "aconteceu": "Agência Senado publicou: Áudio: CE aprova criação de prêmio para educação básica; projeto vai à Câmara. O projeto de lei que cria o Prêmio Nacional da Educação Brasileira (PL 3.768/2026) foi aprovado nesta terça (3) pela Comissão de Educação e Cultura do Senado (CE). O objetivo é reconhecer estratégias e iniciativas para a melhoria da qualidade da aprendizagem na educação básica. Agora a matéria vai à Câmara dos Deputados. Ouça o áudio.",
-        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
-        "discussao": "A controvérsia precisa de conferência na fonte integral.",
-        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
-        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
-        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
-        "aberto": "Confirmar regulamentações, recursos e pendências.",
-        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
-      },
-      "timeline": [
-        [
-          "2026-11-04",
-          "Publicação detectada",
-          "Efeitos jurídicos a conferir"
-        ]
-      ]
-    },
-    {
-      "id": "auto-f213e3c444cc04f5",
-      "automated": true,
-      "title": "CCT aprova incentivos para investimentos em pesquisa na saúde",
-      "date": "2026-11-04",
-      "published": "2026-11-04",
-      "checked": "2026-11-04",
-      "addedAt": "2026-11-04T16:48:15+00:00",
-      "org": "Agência Senado",
-      "trib": "A identificar",
-      "category": "Atualização tributária",
-      "kind": "Notícia oficial (coleta automática)",
-      "impact": "A avaliar",
-      "status": "Efeitos jurídicos a verificar",
-      "stage": "Publicação identificada",
-      "summary": "A Comissão de Ciência e Tecnologia (CCT) aprovou nesta quarta-feira (4) a criação de incentivos para a inovação e a pesquisa científica no setor de saúde, com foco no combate a epidemias. O PL 4.465/2021 altera a legislação para direcionar recursos públicos à pesquisa científica e estimular investimentos privados na área de saúde. Apresentado pelo senador Alessandro Vieira (MDB-SE), o projeto recebeu voto favorável do relator, o senador Izalci Lucas (PSDB-DF), e agora segue para análise da Comissão de Assuntos Sociais (CAS), onde terá votação terminativa — seguindo então para análise da Câmara caso aprovado. Para Alessandro Vieira, a pandemia de covid-19 mostrou a necessidade de fortalecer o SUS. “Diante do que presenciamos durante a pandemia, pode-se concluir que apenas o investimento direcionado à ciência, tecnologia e inovação em saúde",
-      "source": "https://www12.senado.leg.br/noticias/materias/2026/11/04/cct-aprova-incentivos-para-investimentos-em-pesquisa-na-saude",
-      "sourceName": "Agência Senado · publicação oficial",
-      "topics": [
-        "Agência Senado"
-      ],
-      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
-      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
-      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
-      "now": "Publicação oficial identificada em 2026-11-04.",
-      "watch": "Conferir íntegra, vigência e próximos eventos.",
-      "sections": {
-        "aconteceu": "Agência Senado publicou: CCT aprova incentivos para investimentos em pesquisa na saúde. A Comissão de Ciência e Tecnologia (CCT) aprovou nesta quarta-feira (4) a criação de incentivos para a inovação e a pesquisa científica no setor de saúde, com foco no combate a epidemias. O PL 4.465/2021 altera a legislação para direcionar recursos públicos à pesquisa científica e estimular investimentos privados na área de saúde. Apresentado pelo senador Alessandro Vieira (MDB-SE), o projeto recebeu voto favorável do relator, o senador Izalci Lucas (PSDB-DF), e agora segue para análise da Comissão de Assuntos Sociais (CAS), onde terá votação terminativa — seguindo então para análise da Câmara caso aprovado. Para Alessandro Vieira, a pandemia de covid-19 mostrou a necessidade de fortalecer o SUS. “Diante do que presenciamos durante a pandemia, pode-se concluir que apenas o investimento direcionado à ciência, tecnologia e inovação em saúde",
-        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
-        "discussao": "A controvérsia precisa de conferência na fonte integral.",
-        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
-        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
-        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
-        "aberto": "Confirmar regulamentações, recursos e pendências.",
-        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
-      },
-      "timeline": [
-        [
-          "2026-11-04",
-          "Publicação detectada",
-          "Efeitos jurídicos a conferir"
-        ]
-      ]
-    },
-    {
-      "id": "auto-04e577f933aed85e",
-      "automated": true,
-      "title": "CDH aprova regras para internação de adolescentes com dependência química",
-      "date": "2026-11-04",
-      "published": "2026-11-04",
-      "checked": "2026-11-04",
-      "addedAt": "2026-11-04T16:47:25+00:00",
-      "org": "Agência Senado",
-      "trib": "A identificar",
-      "category": "Atualização tributária",
-      "kind": "Notícia oficial (coleta automática)",
-      "impact": "A avaliar",
-      "status": "Efeitos jurídicos a verificar",
-      "stage": "Publicação identificada",
-      "summary": "A Comissão de Direitos Humanos (CDH) aprovou nesta quarta-feira (4) projeto que estabelece regras específicas para a internação de adolescentes usuários ou dependentes de drogas em situação de risco. A proposta também permite o acolhimento voluntário de crianças e adolescentes em tratamento por dependência química junto com os pais ou responsáveis em comunidades terapêuticas. O texto segue para análise da Comissão de Assuntos Sociais (CAS). O PL 1.822/2024, do deputado Pastor Sargento Isidório (Avante-BA), recebeu parecer favorável da senadora Damares Alves (Republicanos-DF), presidente da CDH. A relatora afirmou que o projeto preenche uma lacuna na legislação ao estabelecer regras específicas para a internação de adolescentes e prever salvaguardas para proteger seus direitos. Damares explicou que decidiu não realizar a audiência pública ",
-      "source": "https://www12.senado.leg.br/noticias/materias/2026/11/04/cdh-aprova-regras-para-internacao-de-adolescentes-com-dependencia-quimica",
-      "sourceName": "Agência Senado · publicação oficial",
-      "topics": [
-        "Agência Senado"
-      ],
-      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
-      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
-      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
-      "now": "Publicação oficial identificada em 2026-11-04.",
-      "watch": "Conferir íntegra, vigência e próximos eventos.",
-      "sections": {
-        "aconteceu": "Agência Senado publicou: CDH aprova regras para internação de adolescentes com dependência química. A Comissão de Direitos Humanos (CDH) aprovou nesta quarta-feira (4) projeto que estabelece regras específicas para a internação de adolescentes usuários ou dependentes de drogas em situação de risco. A proposta também permite o acolhimento voluntário de crianças e adolescentes em tratamento por dependência química junto com os pais ou responsáveis em comunidades terapêuticas. O texto segue para análise da Comissão de Assuntos Sociais (CAS). O PL 1.822/2024, do deputado Pastor Sargento Isidório (Avante-BA), recebeu parecer favorável da senadora Damares Alves (Republicanos-DF), presidente da CDH. A relatora afirmou que o projeto preenche uma lacuna na legislação ao estabelecer regras específicas para a internação de adolescentes e prever salvaguardas para proteger seus direitos. Damares explicou que decidiu não realizar a audiência pública ",
-        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
-        "discussao": "A controvérsia precisa de conferência na fonte integral.",
-        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
-        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
-        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
-        "aberto": "Confirmar regulamentações, recursos e pendências.",
-        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
-      },
-      "timeline": [
-        [
-          "2026-11-04",
-          "Publicação detectada",
-          "Efeitos jurídicos a conferir"
-        ]
-      ]
-    },
-    {
-      "id": "auto-51d82ca1985be788",
-      "automated": true,
-      "title": "Maior controle judicial sobre instituições de acolhimento de crianças vai à CCJ",
-      "date": "2026-11-04",
-      "published": "2026-11-04",
-      "checked": "2026-11-04",
-      "addedAt": "2026-11-04T16:44:43+00:00",
-      "org": "Agência Senado",
-      "trib": "A identificar",
-      "category": "Atualização tributária",
-      "kind": "Notícia oficial (coleta automática)",
-      "impact": "A avaliar",
-      "status": "Efeitos jurídicos a verificar",
-      "stage": "Publicação identificada",
-      "summary": "A Comissão de Direitos Humanos (CDH) aprovou nesta quarta-feira (4) projeto que estabelece novas regras para o acolhimento emergencial de crianças e adolescentes em instituições. O PL 1.341/2026 tem objetivo de aumentar o controle judicial dessas medidas, evitar afastamentos desnecessários do convívio familiar e garantir a participação das famílias nas decisões. A proposta segue para a Comissão de Constituição e Justiça (CCJ), onde será analisada em decisão terminativa. Do senador Alessandro Vieira (MDB-SE), o projeto altera o Estatuto da Criança e do Adolescente (ECA). Pelo texto, ao receber a comunicação do acolhimento, o juiz deverá ouvir o Ministério Público e determinar a reintegração familiar imediata quando não houver motivos legais que justifiquem a permanência da criança ou do adolescente na instituição. Participação das famílias",
-      "source": "https://www12.senado.leg.br/noticias/materias/2026/11/04/maior-controle-judicial-sobre-instituicoes-de-acolhimento-de-criancas-vai-a-ccj",
-      "sourceName": "Agência Senado · publicação oficial",
-      "topics": [
-        "Agência Senado"
-      ],
-      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
-      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
-      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
-      "now": "Publicação oficial identificada em 2026-11-04.",
-      "watch": "Conferir íntegra, vigência e próximos eventos.",
-      "sections": {
-        "aconteceu": "Agência Senado publicou: Maior controle judicial sobre instituições de acolhimento de crianças vai à CCJ. A Comissão de Direitos Humanos (CDH) aprovou nesta quarta-feira (4) projeto que estabelece novas regras para o acolhimento emergencial de crianças e adolescentes em instituições. O PL 1.341/2026 tem objetivo de aumentar o controle judicial dessas medidas, evitar afastamentos desnecessários do convívio familiar e garantir a participação das famílias nas decisões. A proposta segue para a Comissão de Constituição e Justiça (CCJ), onde será analisada em decisão terminativa. Do senador Alessandro Vieira (MDB-SE), o projeto altera o Estatuto da Criança e do Adolescente (ECA). Pelo texto, ao receber a comunicação do acolhimento, o juiz deverá ouvir o Ministério Público e determinar a reintegração familiar imediata quando não houver motivos legais que justifiquem a permanência da criança ou do adolescente na instituição. Participação das famílias",
-        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
-        "discussao": "A controvérsia precisa de conferência na fonte integral.",
-        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
-        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
-        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
-        "aberto": "Confirmar regulamentações, recursos e pendências.",
-        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
-      },
-      "timeline": [
-        [
-          "2026-11-04",
-          "Publicação detectada",
-          "Efeitos jurídicos a conferir"
-        ]
-      ]
-    },
-    {
-      "id": "auto-f023c8c97dec6417",
-      "automated": true,
-      "title": "CDH rejeita mudanças da Câmara e texto sobre síndrome de Tourette vai à sanção",
-      "date": "2026-11-04",
-      "published": "2026-11-04",
-      "checked": "2026-11-04",
-      "addedAt": "2026-11-04T16:38:00+00:00",
-      "org": "Agência Senado",
-      "trib": "A identificar",
-      "category": "Atualização tributária",
-      "kind": "Notícia oficial (coleta automática)",
-      "impact": "A avaliar",
-      "status": "Efeitos jurídicos a verificar",
-      "stage": "Publicação identificada",
-      "summary": "Pessoas com síndrome de Tourette poderão ser consideradas pessoas com deficiência (PCD) para todos os efeitos legais enquanto não forem regulamentados os instrumentos de avaliação da deficiência. A Comissão de Direitos Humanos (CDH) aprovou nesta quarta-feira (4) relatório da senadora Damares Alves (Republicanos-DF) que rejeita as mudanças feitas pela Câmara dos Deputados ao projeto de lei PL 4.767/2020 e mantém o texto aprovado pelo Senado. A proposta segue agora para sanção presidencial. Do senador Nelsinho Trad (PSD-MS), o projeto altera a Lei Brasileira de Inclusão da Pessoa com Deficiência (LBI) e garante às pessoas com a síndrome acesso a direitos como reserva de vagas em concursos públicos e benefícios assistenciais previstos em lei. A síndrome de Tourette é um transtorno neurológico caracterizado por movimentos e sons involuntário",
-      "source": "https://www12.senado.leg.br/noticias/materias/2026/11/04/cdh-rejeita-mudancas-da-camara-e-texto-sobre-sindrome-de-tourette-vai-a-sancao",
-      "sourceName": "Agência Senado · publicação oficial",
-      "topics": [
-        "Agência Senado"
-      ],
-      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
-      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
-      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
-      "now": "Publicação oficial identificada em 2026-11-04.",
-      "watch": "Conferir íntegra, vigência e próximos eventos.",
-      "sections": {
-        "aconteceu": "Agência Senado publicou: CDH rejeita mudanças da Câmara e texto sobre síndrome de Tourette vai à sanção. Pessoas com síndrome de Tourette poderão ser consideradas pessoas com deficiência (PCD) para todos os efeitos legais enquanto não forem regulamentados os instrumentos de avaliação da deficiência. A Comissão de Direitos Humanos (CDH) aprovou nesta quarta-feira (4) relatório da senadora Damares Alves (Republicanos-DF) que rejeita as mudanças feitas pela Câmara dos Deputados ao projeto de lei PL 4.767/2020 e mantém o texto aprovado pelo Senado. A proposta segue agora para sanção presidencial. Do senador Nelsinho Trad (PSD-MS), o projeto altera a Lei Brasileira de Inclusão da Pessoa com Deficiência (LBI) e garante às pessoas com a síndrome acesso a direitos como reserva de vagas em concursos públicos e benefícios assistenciais previstos em lei. A síndrome de Tourette é um transtorno neurológico caracterizado por movimentos e sons involuntário",
-        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
-        "discussao": "A controvérsia precisa de conferência na fonte integral.",
-        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
-        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
-        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
-        "aberto": "Confirmar regulamentações, recursos e pendências.",
-        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
-      },
-      "timeline": [
-        [
-          "2026-11-04",
-          "Publicação detectada",
-          "Efeitos jurídicos a conferir"
-        ]
-      ]
-    },
-    {
-      "id": "auto-91b5acbf26e62ed2",
-      "automated": true,
-      "title": "Avança regulamentação da profissão de cuidador com jornada de 40 horas",
-      "date": "2026-11-04",
-      "published": "2026-11-04",
-      "checked": "2026-11-04",
-      "addedAt": "2026-11-04T16:12:26+00:00",
-      "org": "Agência Senado",
-      "trib": "A identificar",
-      "category": "Atualização tributária",
-      "kind": "Notícia oficial (coleta automática)",
-      "impact": "A avaliar",
-      "status": "Efeitos jurídicos a verificar",
-      "stage": "Publicação identificada",
-      "summary": "A Comissão de Direitos Humanos (CDH) aprovou nesta quarta-feira (4) projeto que regulamenta a profissão de cuidador de pessoas de qualquer idade. O texto estabelece requisitos de formação, define as atribuições desses profissionais e fixa jornada máxima de 40 horas semanais. A proposta segue para votação final da Comissão de Assuntos Sociais (CAS). De autoria do senador Sérgio Petecão (PSD-AC), o PL 6.073/2025 tratava inicialmente apenas dos cuidadores de pessoas idosas. O relator, senador Flávio Arns (PSB-PR), apresentou um substitutivo que amplia o alcance da regulamentação para profissionais que prestam cuidados em qualquer etapa da vida, incluindo crianças, pessoas com deficiência e pessoas que necessitam de acompanhamento temporário ou permanente. — A necessidade de cuidado não é atributo exclusivo da idade avançada — argumentou Arns",
-      "source": "https://www12.senado.leg.br/noticias/materias/2026/11/04/avanca-regulamentacao-da-profissao-de-cuidador-com-jornada-de-40-horas",
-      "sourceName": "Agência Senado · publicação oficial",
-      "topics": [
-        "Agência Senado"
-      ],
-      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
-      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
-      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
-      "now": "Publicação oficial identificada em 2026-11-04.",
-      "watch": "Conferir íntegra, vigência e próximos eventos.",
-      "sections": {
-        "aconteceu": "Agência Senado publicou: Avança regulamentação da profissão de cuidador com jornada de 40 horas. A Comissão de Direitos Humanos (CDH) aprovou nesta quarta-feira (4) projeto que regulamenta a profissão de cuidador de pessoas de qualquer idade. O texto estabelece requisitos de formação, define as atribuições desses profissionais e fixa jornada máxima de 40 horas semanais. A proposta segue para votação final da Comissão de Assuntos Sociais (CAS). De autoria do senador Sérgio Petecão (PSD-AC), o PL 6.073/2025 tratava inicialmente apenas dos cuidadores de pessoas idosas. O relator, senador Flávio Arns (PSB-PR), apresentou um substitutivo que amplia o alcance da regulamentação para profissionais que prestam cuidados em qualquer etapa da vida, incluindo crianças, pessoas com deficiência e pessoas que necessitam de acompanhamento temporário ou permanente. — A necessidade de cuidado não é atributo exclusivo da idade avançada — argumentou Arns",
-        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
-        "discussao": "A controvérsia precisa de conferência na fonte integral.",
-        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
-        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
-        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
-        "aberto": "Confirmar regulamentações, recursos e pendências.",
-        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
-      },
-      "timeline": [
-        [
-          "2026-11-04",
-          "Publicação detectada",
-          "Efeitos jurídicos a conferir"
-        ]
-      ]
-    },
-    {
-      "id": "auto-ac938e1ee45f0786",
-      "automated": true,
-      "title": "CDH aprova projeto que muda avaliação de serviços de atendimento a crianças",
-      "date": "2026-11-04",
-      "published": "2026-11-04",
-      "checked": "2026-11-04",
-      "addedAt": "2026-11-04T16:05:21+00:00",
-      "org": "Agência Senado",
-      "trib": "A identificar",
-      "category": "Atualização tributária",
-      "kind": "Notícia oficial (coleta automática)",
-      "impact": "A avaliar",
-      "status": "Efeitos jurídicos a verificar",
-      "stage": "Publicação identificada",
-      "summary": "A Comissão de Direitos Humanos (CDH) aprovou nesta quarta-feira (4) projeto que retira da Justiça da Infância e da Juventude a atribuição de atestar a qualidade e a eficiência do trabalho realizado por entidades que atendem crianças e adolescentes. A avaliação continuará a cargo do Conselho Tutelar e do Ministério Público e será exigida para a inscrição dos programas de atendimento. O Judiciário, porém, manterá a competência para fiscalizar as entidades. A proposta segue para análise da Comissão de Constituição e Justiça (CCJ). De autoria da deputada Laura Carneiro (PSD-RJ), o PL 4.150/2025 altera o Estatuto da Criança e do Adolescente (ECA). Atualmente, o estatuto exige que a qualidade e a eficiência do trabalho desenvolvido pelas entidades sejam atestadas pelo Conselho Tutelar, pelo Ministério Público e pela Justiça da Infância e da Juv",
-      "source": "https://www12.senado.leg.br/noticias/materias/2026/11/04/avanca-projeto-que-muda-avaliacao-de-servicos-de-atendimento-a-criancas",
-      "sourceName": "Agência Senado · publicação oficial",
-      "topics": [
-        "Agência Senado"
-      ],
-      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
-      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
-      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
-      "now": "Publicação oficial identificada em 2026-11-04.",
-      "watch": "Conferir íntegra, vigência e próximos eventos.",
-      "sections": {
-        "aconteceu": "Agência Senado publicou: CDH aprova projeto que muda avaliação de serviços de atendimento a crianças. A Comissão de Direitos Humanos (CDH) aprovou nesta quarta-feira (4) projeto que retira da Justiça da Infância e da Juventude a atribuição de atestar a qualidade e a eficiência do trabalho realizado por entidades que atendem crianças e adolescentes. A avaliação continuará a cargo do Conselho Tutelar e do Ministério Público e será exigida para a inscrição dos programas de atendimento. O Judiciário, porém, manterá a competência para fiscalizar as entidades. A proposta segue para análise da Comissão de Constituição e Justiça (CCJ). De autoria da deputada Laura Carneiro (PSD-RJ), o PL 4.150/2025 altera o Estatuto da Criança e do Adolescente (ECA). Atualmente, o estatuto exige que a qualidade e a eficiência do trabalho desenvolvido pelas entidades sejam atestadas pelo Conselho Tutelar, pelo Ministério Público e pela Justiça da Infância e da Juv",
         "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
         "discussao": "A controvérsia precisa de conferência na fonte integral.",
         "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
