@@ -1,7 +1,7 @@
 {
   "kind": "official-publication-feed",
-  "checkedAt": "2026-11-26T12:27:56+00:00",
-  "lastSuccessfulRun": "2026-11-26T12:27:56+00:00",
+  "checkedAt": "2026-11-27T12:22:43+00:00",
+  "lastSuccessfulRun": "2026-11-27T12:22:43+00:00",
   "sources": [
     {
       "org": "Receita Federal",
@@ -21,10 +21,670 @@
     {
       "org": "Agência Senado",
       "ok": true,
-      "items": 13
+      "items": 15
     }
   ],
   "entries": [
+    {
+      "id": "auto-96ddb391041635e2",
+      "automated": true,
+      "title": "Vídeo: IFI apresenta projeções para cálculo da alíquota da CBS na reforma tributária",
+      "date": "2026-11-27",
+      "published": "2026-11-27",
+      "checked": "2026-11-27",
+      "addedAt": "2026-11-27T12:10:20+00:00",
+      "org": "Agência Senado",
+      "trib": "A identificar",
+      "category": "Reforma Tributária",
+      "kind": "Notícia oficial (coleta automática)",
+      "impact": "A avaliar",
+      "status": "Efeitos jurídicos a verificar",
+      "stage": "Publicação identificada",
+      "summary": "A Instituição Fiscal Independente (IFI) entregou à equipe do senador Eduardo Braga (MDB-AM), relator da regulamentação da reforma tributária, projeções para subsidiar a definição da base de cálculo da Contribuição sobre Bens e Serviços (CBS), novo tributo que vai substituir PIS/Pasep e Cofins a partir de 2027. O estudo não apresenta uma alíquota alternativa à proposta do TCU (de 11,3%), mas simula que, sem isenções fiscais e mantida a arrecadação, a taxa poderia cair para 7%. Os dados ajudam os senadores a avaliar os efeitos dos incentivos fiscais e o período de referência para o cálculo.",
+      "source": "https://www12.senado.leg.br/noticias/videos/2026/11/ifi-apresenta-projecoes-para-calculo-da-aliquota-da-cbs-na-reforma-tributaria",
+      "sourceName": "Agência Senado · publicação oficial",
+      "topics": [
+        "Agência Senado"
+      ],
+      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
+      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
+      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
+      "now": "Publicação oficial identificada em 2026-11-27.",
+      "watch": "Conferir íntegra, vigência e próximos eventos.",
+      "sections": {
+        "aconteceu": "Agência Senado publicou: Vídeo: IFI apresenta projeções para cálculo da alíquota da CBS na reforma tributária. A Instituição Fiscal Independente (IFI) entregou à equipe do senador Eduardo Braga (MDB-AM), relator da regulamentação da reforma tributária, projeções para subsidiar a definição da base de cálculo da Contribuição sobre Bens e Serviços (CBS), novo tributo que vai substituir PIS/Pasep e Cofins a partir de 2027. O estudo não apresenta uma alíquota alternativa à proposta do TCU (de 11,3%), mas simula que, sem isenções fiscais e mantida a arrecadação, a taxa poderia cair para 7%. Os dados ajudam os senadores a avaliar os efeitos dos incentivos fiscais e o período de referência para o cálculo.",
+        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
+        "discussao": "A controvérsia precisa de conferência na fonte integral.",
+        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
+        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
+        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
+        "aberto": "Confirmar regulamentações, recursos e pendências.",
+        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
+      },
+      "timeline": [
+        [
+          "2026-11-27",
+          "Publicação detectada",
+          "Efeitos jurídicos a conferir"
+        ]
+      ]
+    },
+    {
+      "id": "auto-108f3cc4012882aa",
+      "automated": true,
+      "title": "Áudio: Apoio emocional a jovens com deficiência vai a Plenário",
+      "date": "2026-11-27",
+      "published": "2026-11-27",
+      "checked": "2026-11-27",
+      "addedAt": "2026-11-27T12:05:50+00:00",
+      "org": "Agência Senado",
+      "trib": "A identificar",
+      "category": "Atualização tributária",
+      "kind": "Notícia oficial (coleta automática)",
+      "impact": "A avaliar",
+      "status": "Efeitos jurídicos a verificar",
+      "stage": "Publicação identificada",
+      "summary": "A Comissão de Direitos Humanos e Legislação Participativa (CDH) aprovou um projeto de lei que estabelece medidas para o apoio emocional de crianças, adolescentes e jovens com deficiência ou doença que afete a aparência e o convívio social, causando constrangimento. O PL 3.761/2020, que altera o Estatuto da Pessoa com Deficiência, incentiva a produção de materiais didáticos que ajudem a entender essas realidades. A medida também reforça que o bem-estar é um dever do Estado, da sociedade e da família. Após ser aprovado pela comissão, o texto segue para votação no Plenário do Senado.",
+      "source": "https://www12.senado.leg.br/noticias/audios/2026/11/apoio-emocional-a-jovens-com-deficiencia-vai-a-plenario",
+      "sourceName": "Agência Senado · publicação oficial",
+      "topics": [
+        "Agência Senado"
+      ],
+      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
+      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
+      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
+      "now": "Publicação oficial identificada em 2026-11-27.",
+      "watch": "Conferir íntegra, vigência e próximos eventos.",
+      "sections": {
+        "aconteceu": "Agência Senado publicou: Áudio: Apoio emocional a jovens com deficiência vai a Plenário. A Comissão de Direitos Humanos e Legislação Participativa (CDH) aprovou um projeto de lei que estabelece medidas para o apoio emocional de crianças, adolescentes e jovens com deficiência ou doença que afete a aparência e o convívio social, causando constrangimento. O PL 3.761/2020, que altera o Estatuto da Pessoa com Deficiência, incentiva a produção de materiais didáticos que ajudem a entender essas realidades. A medida também reforça que o bem-estar é um dever do Estado, da sociedade e da família. Após ser aprovado pela comissão, o texto segue para votação no Plenário do Senado.",
+        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
+        "discussao": "A controvérsia precisa de conferência na fonte integral.",
+        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
+        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
+        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
+        "aberto": "Confirmar regulamentações, recursos e pendências.",
+        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
+      },
+      "timeline": [
+        [
+          "2026-11-27",
+          "Publicação detectada",
+          "Efeitos jurídicos a conferir"
+        ]
+      ]
+    },
+    {
+      "id": "auto-80abccb73cd2e2ba",
+      "automated": true,
+      "title": "Vídeo: Orçamento 2027: relator defende novo ajuste fiscal para queda de juros",
+      "date": "2026-11-27",
+      "published": "2026-11-27",
+      "checked": "2026-11-27",
+      "addedAt": "2026-11-27T12:01:18+00:00",
+      "org": "Agência Senado",
+      "trib": "A identificar",
+      "category": "Atualização tributária",
+      "kind": "Notícia oficial (coleta automática)",
+      "impact": "A avaliar",
+      "status": "Efeitos jurídicos a verificar",
+      "stage": "Publicação identificada",
+      "summary": "Após apresentar o relatório preliminar da proposta orçamentária para 2027 (PLN 24/2026) à Comissão Mista de Orçamento (CMO) nesta quinta (26), o senador Eduardo Braga (MDB-AM) defendeu novo ajuste fiscal, considerado por ele essencial para permitir a queda dos juros e o aumento dos investimentos do governo. A expectativa é de que o Plenário do Congresso Nacional vote o texto definitivo até 17 de dezembro.",
+      "source": "https://www12.senado.leg.br/noticias/videos/2026/11/orcamento-2027-relator-defende-novo-ajuste-fiscal-para-queda-de-juros",
+      "sourceName": "Agência Senado · publicação oficial",
+      "topics": [
+        "Agência Senado"
+      ],
+      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
+      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
+      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
+      "now": "Publicação oficial identificada em 2026-11-27.",
+      "watch": "Conferir íntegra, vigência e próximos eventos.",
+      "sections": {
+        "aconteceu": "Agência Senado publicou: Vídeo: Orçamento 2027: relator defende novo ajuste fiscal para queda de juros. Após apresentar o relatório preliminar da proposta orçamentária para 2027 (PLN 24/2026) à Comissão Mista de Orçamento (CMO) nesta quinta (26), o senador Eduardo Braga (MDB-AM) defendeu novo ajuste fiscal, considerado por ele essencial para permitir a queda dos juros e o aumento dos investimentos do governo. A expectativa é de que o Plenário do Congresso Nacional vote o texto definitivo até 17 de dezembro.",
+        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
+        "discussao": "A controvérsia precisa de conferência na fonte integral.",
+        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
+        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
+        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
+        "aberto": "Confirmar regulamentações, recursos e pendências.",
+        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
+      },
+      "timeline": [
+        [
+          "2026-11-27",
+          "Publicação detectada",
+          "Efeitos jurídicos a conferir"
+        ]
+      ]
+    },
+    {
+      "id": "auto-7da34fba948748fa",
+      "automated": true,
+      "title": "Áudio: Bancada Feminina reivindica mais espaço nas decisões do Senado",
+      "date": "2026-11-27",
+      "published": "2026-11-27",
+      "checked": "2026-11-27",
+      "addedAt": "2026-11-27T11:51:48+00:00",
+      "org": "Agência Senado",
+      "trib": "A identificar",
+      "category": "Atualização tributária",
+      "kind": "Notícia oficial (coleta automática)",
+      "impact": "A avaliar",
+      "status": "Efeitos jurídicos a verificar",
+      "stage": "Publicação identificada",
+      "summary": "Em reunião da residência oficial na quarta-feira (25), a Bancada Feminina pediu ao presidente do Senado, Davi Alcolumbre, mais espaço na condução de projetos em diferentes áreas, inclusive na área econômica. As senadoras também querem participar das discussões sobre a reforma eleitoral e garantir recursos no Orçamento da União para políticas voltadas às mulheres. Davi reafirmou o compromisso de apoiar as reivindicações da bancada, que terá 18 integrantes a partir de 2027, a maior composição da história.",
+      "source": "https://www12.senado.leg.br/noticias/audios/2026/11/bancada-feminina-reivindica-mais-espaco-nas-decisoes-do-senado",
+      "sourceName": "Agência Senado · publicação oficial",
+      "topics": [
+        "Agência Senado"
+      ],
+      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
+      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
+      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
+      "now": "Publicação oficial identificada em 2026-11-27.",
+      "watch": "Conferir íntegra, vigência e próximos eventos.",
+      "sections": {
+        "aconteceu": "Agência Senado publicou: Áudio: Bancada Feminina reivindica mais espaço nas decisões do Senado. Em reunião da residência oficial na quarta-feira (25), a Bancada Feminina pediu ao presidente do Senado, Davi Alcolumbre, mais espaço na condução de projetos em diferentes áreas, inclusive na área econômica. As senadoras também querem participar das discussões sobre a reforma eleitoral e garantir recursos no Orçamento da União para políticas voltadas às mulheres. Davi reafirmou o compromisso de apoiar as reivindicações da bancada, que terá 18 integrantes a partir de 2027, a maior composição da história.",
+        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
+        "discussao": "A controvérsia precisa de conferência na fonte integral.",
+        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
+        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
+        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
+        "aberto": "Confirmar regulamentações, recursos e pendências.",
+        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
+      },
+      "timeline": [
+        [
+          "2026-11-27",
+          "Publicação detectada",
+          "Efeitos jurídicos a conferir"
+        ]
+      ]
+    },
+    {
+      "id": "auto-b2a3cd79a62c8388",
+      "automated": true,
+      "title": "Áudio: CMO aprova relatório preliminar do Orçamento de 2027",
+      "date": "2026-11-27",
+      "published": "2026-11-27",
+      "checked": "2026-11-27",
+      "addedAt": "2026-11-27T11:43:19+00:00",
+      "org": "Agência Senado",
+      "trib": "A identificar",
+      "category": "Atualização tributária",
+      "kind": "Notícia oficial (coleta automática)",
+      "impact": "A avaliar",
+      "status": "Efeitos jurídicos a verificar",
+      "stage": "Publicação identificada",
+      "summary": "A Comissão Mista de Orçamento (CMO) aprovou nesta quinta-feira (26) o relatório preliminar da proposta de Orçamento para 2027 (PLN 24/2026), que prevê crescimento de 2,46% da economia, inflação de 3,6% e salário mínimo de R$ 1.741. O texto também estima superávit primário de R$ 14,2 bilhões. O relator, senador Eduardo Braga (MDB-AM), se comprometeu a incluir, no relatório geral, recursos para o seguro rural. A votação da proposta orçamentária está prevista para 17 de dezembro.",
+      "source": "https://www12.senado.leg.br/noticias/audios/2026/11/cmo-aprova-relatorio-preliminar-do-orcamento-de-2027",
+      "sourceName": "Agência Senado · publicação oficial",
+      "topics": [
+        "Agência Senado"
+      ],
+      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
+      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
+      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
+      "now": "Publicação oficial identificada em 2026-11-27.",
+      "watch": "Conferir íntegra, vigência e próximos eventos.",
+      "sections": {
+        "aconteceu": "Agência Senado publicou: Áudio: CMO aprova relatório preliminar do Orçamento de 2027. A Comissão Mista de Orçamento (CMO) aprovou nesta quinta-feira (26) o relatório preliminar da proposta de Orçamento para 2027 (PLN 24/2026), que prevê crescimento de 2,46% da economia, inflação de 3,6% e salário mínimo de R$ 1.741. O texto também estima superávit primário de R$ 14,2 bilhões. O relator, senador Eduardo Braga (MDB-AM), se comprometeu a incluir, no relatório geral, recursos para o seguro rural. A votação da proposta orçamentária está prevista para 17 de dezembro.",
+        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
+        "discussao": "A controvérsia precisa de conferência na fonte integral.",
+        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
+        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
+        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
+        "aberto": "Confirmar regulamentações, recursos e pendências.",
+        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
+      },
+      "timeline": [
+        [
+          "2026-11-27",
+          "Publicação detectada",
+          "Efeitos jurídicos a conferir"
+        ]
+      ]
+    },
+    {
+      "id": "auto-f6662b350c5d75de",
+      "automated": true,
+      "title": "Vídeo: Davi destaca trajetória de Trabuco e elogia indicação para a Fazenda",
+      "date": "2026-11-27",
+      "published": "2026-11-27",
+      "checked": "2026-11-27",
+      "addedAt": "2026-11-27T11:36:05+00:00",
+      "org": "Agência Senado",
+      "trib": "A identificar",
+      "category": "Atualização tributária",
+      "kind": "Notícia oficial (coleta automática)",
+      "impact": "A avaliar",
+      "status": "Efeitos jurídicos a verificar",
+      "stage": "Publicação identificada",
+      "summary": "O presidente do Senado, Davi Alcolumbre, elogiou a indicação de Luiz Carlos Trabuco para o Ministério da Fazenda, ressaltando a \"admiração pelo trabalho e trajetória\" do executivo no setor financeiro. Ao afirmar que o Congresso Nacional está à disposição para cooperar com a pasta, Davi reforçou que o diálogo entre os Poderes é essencial para o avanço de medidas que combinem \"responsabilidade fiscal, crescimento econômico e geração de empregos\".",
+      "source": "https://www12.senado.leg.br/noticias/videos/2026/11/davi-destaca-trajetoria-de-trabuco-e-elogia-indicacao-para-a-fazenda",
+      "sourceName": "Agência Senado · publicação oficial",
+      "topics": [
+        "Agência Senado"
+      ],
+      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
+      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
+      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
+      "now": "Publicação oficial identificada em 2026-11-27.",
+      "watch": "Conferir íntegra, vigência e próximos eventos.",
+      "sections": {
+        "aconteceu": "Agência Senado publicou: Vídeo: Davi destaca trajetória de Trabuco e elogia indicação para a Fazenda. O presidente do Senado, Davi Alcolumbre, elogiou a indicação de Luiz Carlos Trabuco para o Ministério da Fazenda, ressaltando a \"admiração pelo trabalho e trajetória\" do executivo no setor financeiro. Ao afirmar que o Congresso Nacional está à disposição para cooperar com a pasta, Davi reforçou que o diálogo entre os Poderes é essencial para o avanço de medidas que combinem \"responsabilidade fiscal, crescimento econômico e geração de empregos\".",
+        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
+        "discussao": "A controvérsia precisa de conferência na fonte integral.",
+        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
+        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
+        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
+        "aberto": "Confirmar regulamentações, recursos e pendências.",
+        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
+      },
+      "timeline": [
+        [
+          "2026-11-27",
+          "Publicação detectada",
+          "Efeitos jurídicos a conferir"
+        ]
+      ]
+    },
+    {
+      "id": "auto-0ba5067ff84b24e9",
+      "automated": true,
+      "title": "Áudio: Senado avalia diretrizes para uso da inteligência artificial na saúde",
+      "date": "2026-11-27",
+      "published": "2026-11-27",
+      "checked": "2026-11-27",
+      "addedAt": "2026-11-27T11:00:26+00:00",
+      "org": "Agência Senado",
+      "trib": "A identificar",
+      "category": "Atualização tributária",
+      "kind": "Notícia oficial (coleta automática)",
+      "impact": "A avaliar",
+      "status": "Efeitos jurídicos a verificar",
+      "stage": "Publicação identificada",
+      "summary": "A Comissão de Assuntos Sociais (CAS) pode votar um projeto de lei que estabelece diretrizes e princípios éticos para o uso da inteligência artificial na saúde. A proposta (PL 931/2026) busca regulamentar uma tecnologia que, em 2025, já estava presente em 18% dos estabelecimentos de saúde do país. De autoria da senadora Dra. Eudócia (PSDB-AL), o texto prevê a capacitação continuada de profissionais e a redução de disparidades regionais. No entanto, especialistas apontam desafios para a implementação da proposta.",
+      "source": "https://www12.senado.leg.br/noticias/audios/2026/11/senado-avalia-diretrizes-para-uso-da-inteligencia-artificial-na-saude",
+      "sourceName": "Agência Senado · publicação oficial",
+      "topics": [
+        "Agência Senado"
+      ],
+      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
+      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
+      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
+      "now": "Publicação oficial identificada em 2026-11-27.",
+      "watch": "Conferir íntegra, vigência e próximos eventos.",
+      "sections": {
+        "aconteceu": "Agência Senado publicou: Áudio: Senado avalia diretrizes para uso da inteligência artificial na saúde. A Comissão de Assuntos Sociais (CAS) pode votar um projeto de lei que estabelece diretrizes e princípios éticos para o uso da inteligência artificial na saúde. A proposta (PL 931/2026) busca regulamentar uma tecnologia que, em 2025, já estava presente em 18% dos estabelecimentos de saúde do país. De autoria da senadora Dra. Eudócia (PSDB-AL), o texto prevê a capacitação continuada de profissionais e a redução de disparidades regionais. No entanto, especialistas apontam desafios para a implementação da proposta.",
+        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
+        "discussao": "A controvérsia precisa de conferência na fonte integral.",
+        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
+        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
+        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
+        "aberto": "Confirmar regulamentações, recursos e pendências.",
+        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
+      },
+      "timeline": [
+        [
+          "2026-11-27",
+          "Publicação detectada",
+          "Efeitos jurídicos a conferir"
+        ]
+      ]
+    },
+    {
+      "id": "auto-d98290c20b3c354a",
+      "automated": true,
+      "title": "Davi deseja “pleno êxito” a Luiz Carlos Trabuco no Ministério da Fazenda",
+      "date": "2026-11-26",
+      "published": "2026-11-26",
+      "checked": "2026-11-27",
+      "addedAt": "2026-11-26T23:55:24+00:00",
+      "org": "Agência Senado",
+      "trib": "A identificar",
+      "category": "Atualização tributária",
+      "kind": "Notícia oficial (coleta automática)",
+      "impact": "A avaliar",
+      "status": "Efeitos jurídicos a verificar",
+      "stage": "Publicação identificada",
+      "summary": "O presidente do Senado e do Congresso Nacional, Davi Alcolumbre, desejou “pleno êxito” a Luiz Carlos Trabuco, escolhido pelo presidente Luiz Inácio Lula da Silva para ocupar o Ministério da Fazenda a partir de janeiro. A indicação de Trabuco foi confirmada pelo Palácio do Planalto nesta quinta-feira (26). Em nota à imprensa, Davi disse receber com otimismo a escolha de Lula. O presidente do Senado destacou que a capacidade técnica, a experiência de gestão e a habilidade de diálogo do futuro ministro podem contribuir para a condução da agenda econômica. Leia a íntegra da nota: NOTA À IMPRENSA Recebo com muito otimismo a escolha de Luiz Carlos Trabuco para o Ministério da Fazenda. Conheço Trabuco há muitos anos e tenho profunda admiração por seu trabalho e pela trajetória que construiu no setor financeiro. Sua capacidade técnica, sua experi",
+      "source": "https://www12.senado.leg.br/noticias/materias/2026/11/26/davi-deseja-201cpleno-exito201d-a-luiz-carlos-trabuco-no-ministerio-da-fazenda",
+      "sourceName": "Agência Senado · publicação oficial",
+      "topics": [
+        "Agência Senado"
+      ],
+      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
+      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
+      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
+      "now": "Publicação oficial identificada em 2026-11-26.",
+      "watch": "Conferir íntegra, vigência e próximos eventos.",
+      "sections": {
+        "aconteceu": "Agência Senado publicou: Davi deseja “pleno êxito” a Luiz Carlos Trabuco no Ministério da Fazenda. O presidente do Senado e do Congresso Nacional, Davi Alcolumbre, desejou “pleno êxito” a Luiz Carlos Trabuco, escolhido pelo presidente Luiz Inácio Lula da Silva para ocupar o Ministério da Fazenda a partir de janeiro. A indicação de Trabuco foi confirmada pelo Palácio do Planalto nesta quinta-feira (26). Em nota à imprensa, Davi disse receber com otimismo a escolha de Lula. O presidente do Senado destacou que a capacidade técnica, a experiência de gestão e a habilidade de diálogo do futuro ministro podem contribuir para a condução da agenda econômica. Leia a íntegra da nota: NOTA À IMPRENSA Recebo com muito otimismo a escolha de Luiz Carlos Trabuco para o Ministério da Fazenda. Conheço Trabuco há muitos anos e tenho profunda admiração por seu trabalho e pela trajetória que construiu no setor financeiro. Sua capacidade técnica, sua experi",
+        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
+        "discussao": "A controvérsia precisa de conferência na fonte integral.",
+        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
+        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
+        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
+        "aberto": "Confirmar regulamentações, recursos e pendências.",
+        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
+      },
+      "timeline": [
+        [
+          "2026-11-26",
+          "Publicação detectada",
+          "Efeitos jurídicos a conferir"
+        ]
+      ]
+    },
+    {
+      "id": "auto-9b82fac74c5662f4",
+      "automated": true,
+      "title": "Homenagem à Academia William Shakespeare destaca importância da cultura",
+      "date": "2026-11-26",
+      "published": "2026-11-26",
+      "checked": "2026-11-27",
+      "addedAt": "2026-11-26T21:22:08+00:00",
+      "org": "Agência Senado",
+      "trib": "A identificar",
+      "category": "Atualização tributária",
+      "kind": "Notícia oficial (coleta automática)",
+      "impact": "A avaliar",
+      "status": "Efeitos jurídicos a verificar",
+      "stage": "Publicação identificada",
+      "summary": "O Senado homenageou em sessão especial, nesta quinta-feira (26), a Academia William Shakespeare e o legado do dramaturgo inglês, cuja obra continua a influenciar a literatura, o teatro e a cultura mundial. Durante a cerimônia no Plenário, senadores e representantes da instituição cultural destacaram a importância da educação, da liberdade de expressão, da transparência e da cultura para o fortalecimento da democracia. Sediada em São Paulo, a Academia William Shakespeare é uma instituição cultural e literária dedicada à promoção da arte, da cultura, da educação e da paz. A entidade reúne educadores, cientistas, artistas, comunicadores, empresários, religiosos e profissionais de outras atividades, e reconhece pessoas que tenham feito contribuições destacadas à sociedade. Presidida pelo senador Izalci Lucas (PL-DF), a sessão especial atende ",
+      "source": "https://www12.senado.leg.br/noticias/materias/2026/11/26/homenagem-a-academia-william-shakespeare-destaca-importancia-da-cultura",
+      "sourceName": "Agência Senado · publicação oficial",
+      "topics": [
+        "Agência Senado"
+      ],
+      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
+      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
+      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
+      "now": "Publicação oficial identificada em 2026-11-26.",
+      "watch": "Conferir íntegra, vigência e próximos eventos.",
+      "sections": {
+        "aconteceu": "Agência Senado publicou: Homenagem à Academia William Shakespeare destaca importância da cultura. O Senado homenageou em sessão especial, nesta quinta-feira (26), a Academia William Shakespeare e o legado do dramaturgo inglês, cuja obra continua a influenciar a literatura, o teatro e a cultura mundial. Durante a cerimônia no Plenário, senadores e representantes da instituição cultural destacaram a importância da educação, da liberdade de expressão, da transparência e da cultura para o fortalecimento da democracia. Sediada em São Paulo, a Academia William Shakespeare é uma instituição cultural e literária dedicada à promoção da arte, da cultura, da educação e da paz. A entidade reúne educadores, cientistas, artistas, comunicadores, empresários, religiosos e profissionais de outras atividades, e reconhece pessoas que tenham feito contribuições destacadas à sociedade. Presidida pelo senador Izalci Lucas (PL-DF), a sessão especial atende ",
+        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
+        "discussao": "A controvérsia precisa de conferência na fonte integral.",
+        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
+        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
+        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
+        "aberto": "Confirmar regulamentações, recursos e pendências.",
+        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
+      },
+      "timeline": [
+        [
+          "2026-11-26",
+          "Publicação detectada",
+          "Efeitos jurídicos a conferir"
+        ]
+      ]
+    },
+    {
+      "id": "auto-f2827abf4c1c8e2b",
+      "automated": true,
+      "title": "Áudio: Projeto afasta hipóteses que relativizam crime de estupro de vulnerável",
+      "date": "2026-11-26",
+      "published": "2026-11-26",
+      "checked": "2026-11-27",
+      "addedAt": "2026-11-26T20:39:04+00:00",
+      "org": "Agência Senado",
+      "trib": "A identificar",
+      "category": "Atualização tributária",
+      "kind": "Notícia oficial (coleta automática)",
+      "impact": "A avaliar",
+      "status": "Efeitos jurídicos a verificar",
+      "stage": "Publicação identificada",
+      "summary": "O projeto de lei que afasta hipóteses que relativizam o crime de estupro de vulnerável avançou em sua tramitação no Senado: o texto (PL 654/2026) foi aprovado pela Comissão de Direitos Humanos na quarta-feira (25) e agora segue para análise na Comissão de Constituição e Justiça. Ouça o áudio.",
+      "source": "https://www12.senado.leg.br/noticias/audios/2026/11/projeto-afasta-hipoteses-que-relativizam-crime-de-estupro-de-vulneravel",
+      "sourceName": "Agência Senado · publicação oficial",
+      "topics": [
+        "Agência Senado"
+      ],
+      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
+      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
+      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
+      "now": "Publicação oficial identificada em 2026-11-26.",
+      "watch": "Conferir íntegra, vigência e próximos eventos.",
+      "sections": {
+        "aconteceu": "Agência Senado publicou: Áudio: Projeto afasta hipóteses que relativizam crime de estupro de vulnerável. O projeto de lei que afasta hipóteses que relativizam o crime de estupro de vulnerável avançou em sua tramitação no Senado: o texto (PL 654/2026) foi aprovado pela Comissão de Direitos Humanos na quarta-feira (25) e agora segue para análise na Comissão de Constituição e Justiça. Ouça o áudio.",
+        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
+        "discussao": "A controvérsia precisa de conferência na fonte integral.",
+        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
+        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
+        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
+        "aberto": "Confirmar regulamentações, recursos e pendências.",
+        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
+      },
+      "timeline": [
+        [
+          "2026-11-26",
+          "Publicação detectada",
+          "Efeitos jurídicos a conferir"
+        ]
+      ]
+    },
+    {
+      "id": "auto-61d20a032cc132a3",
+      "automated": true,
+      "title": "Áudio: Sistema desenvolvido no Senado auxilia legislativos a adotar práticas sustentáveis",
+      "date": "2026-11-26",
+      "published": "2026-11-26",
+      "checked": "2026-11-27",
+      "addedAt": "2026-11-26T20:23:59+00:00",
+      "org": "Agência Senado",
+      "trib": "A identificar",
+      "category": "Atualização tributária",
+      "kind": "Notícia oficial (coleta automática)",
+      "impact": "A avaliar",
+      "status": "Efeitos jurídicos a verificar",
+      "stage": "Publicação identificada",
+      "summary": "A Comissão de Direitos Humanos e Legislação Participativa (CDH) debateu em audiência pública nesta quinta-feira (26) os desafios e avanços das assembleias legislativas e câmaras de vereadores nas áreas de acessibilidade, sustentabilidade e igualdade de gênero e raça, conforme as metas globais da ONU para 2030. Na audiência, o Senado apresentou o SIMPLS, plataforma gratuita que ajuda casas legislativas do país a planejar, acompanhar e divulgar com transparência suas ações socioambientais à sociedade. A presidente da comissão, senadora Damares Alves (Republicanos-DF), destacou a importância desses temas para a qualidade dos ambientes de trabalho.",
+      "source": "https://www12.senado.leg.br/noticias/audios/2026/11/sistema-desenvolvido-no-senado-auxilia-legislativos-a-adotar-praticas-sustentaveis",
+      "sourceName": "Agência Senado · publicação oficial",
+      "topics": [
+        "Agência Senado"
+      ],
+      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
+      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
+      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
+      "now": "Publicação oficial identificada em 2026-11-26.",
+      "watch": "Conferir íntegra, vigência e próximos eventos.",
+      "sections": {
+        "aconteceu": "Agência Senado publicou: Áudio: Sistema desenvolvido no Senado auxilia legislativos a adotar práticas sustentáveis. A Comissão de Direitos Humanos e Legislação Participativa (CDH) debateu em audiência pública nesta quinta-feira (26) os desafios e avanços das assembleias legislativas e câmaras de vereadores nas áreas de acessibilidade, sustentabilidade e igualdade de gênero e raça, conforme as metas globais da ONU para 2030. Na audiência, o Senado apresentou o SIMPLS, plataforma gratuita que ajuda casas legislativas do país a planejar, acompanhar e divulgar com transparência suas ações socioambientais à sociedade. A presidente da comissão, senadora Damares Alves (Republicanos-DF), destacou a importância desses temas para a qualidade dos ambientes de trabalho.",
+        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
+        "discussao": "A controvérsia precisa de conferência na fonte integral.",
+        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
+        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
+        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
+        "aberto": "Confirmar regulamentações, recursos e pendências.",
+        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
+      },
+      "timeline": [
+        [
+          "2026-11-26",
+          "Publicação detectada",
+          "Efeitos jurídicos a conferir"
+        ]
+      ]
+    },
+    {
+      "id": "auto-2b1b0dbae5c9c2f7",
+      "automated": true,
+      "title": "Relatório do Orçamento de 2027 mantém aumento de recursos a saúde e educação",
+      "date": "2026-11-26",
+      "published": "2026-11-26",
+      "checked": "2026-11-27",
+      "addedAt": "2026-11-26T19:38:51+00:00",
+      "org": "Agência Senado",
+      "trib": "A identificar",
+      "category": "Atualização tributária",
+      "kind": "Notícia oficial (coleta automática)",
+      "impact": "A avaliar",
+      "status": "Efeitos jurídicos a verificar",
+      "stage": "Publicação identificada",
+      "summary": "O relatório preliminar do Orçamento de 2027 prevê R$ 272,18 bilhões para a saúde pública e R$ 246,3 bilhões para a educação, além de recursos para manter o programa Bolsa Família. O texto, aprovado pela Comissão Mista de Orçamento (CMO), define as regras para a análise do projeto da Lei Orçamentária Anual (LOA) e os parâmetros de receita que vão orientar a distribuição das verbas federais. O texto é do senador Eduardo Braga (MDB-AM), relator-geral do Orçamento de 2027 (PLN 24/2026). Mantém para a saúde e a educação aumentos de recursos em relação a 2026. Nesta quarta-feira (25), a CMO também aprovou o relatório da receita, do deputado Neto Carletto (Avante-BA). O projeto prevê receitas e despesas de quase R$ 7,5 trilhões. A aprovação do parecer preliminar encerra a primeira etapa de análise da lei orçamentária de 2027 na comissão. Braga e",
+      "source": "https://www12.senado.leg.br/noticias/materias/2026/11/26/relatorio-do-orcamento-de-2027-mantem-aumento-de-recursos-a-saude-e-educacao",
+      "sourceName": "Agência Senado · publicação oficial",
+      "topics": [
+        "Agência Senado"
+      ],
+      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
+      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
+      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
+      "now": "Publicação oficial identificada em 2026-11-26.",
+      "watch": "Conferir íntegra, vigência e próximos eventos.",
+      "sections": {
+        "aconteceu": "Agência Senado publicou: Relatório do Orçamento de 2027 mantém aumento de recursos a saúde e educação. O relatório preliminar do Orçamento de 2027 prevê R$ 272,18 bilhões para a saúde pública e R$ 246,3 bilhões para a educação, além de recursos para manter o programa Bolsa Família. O texto, aprovado pela Comissão Mista de Orçamento (CMO), define as regras para a análise do projeto da Lei Orçamentária Anual (LOA) e os parâmetros de receita que vão orientar a distribuição das verbas federais. O texto é do senador Eduardo Braga (MDB-AM), relator-geral do Orçamento de 2027 (PLN 24/2026). Mantém para a saúde e a educação aumentos de recursos em relação a 2026. Nesta quarta-feira (25), a CMO também aprovou o relatório da receita, do deputado Neto Carletto (Avante-BA). O projeto prevê receitas e despesas de quase R$ 7,5 trilhões. A aprovação do parecer preliminar encerra a primeira etapa de análise da lei orçamentária de 2027 na comissão. Braga e",
+        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
+        "discussao": "A controvérsia precisa de conferência na fonte integral.",
+        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
+        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
+        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
+        "aberto": "Confirmar regulamentações, recursos e pendências.",
+        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
+      },
+      "timeline": [
+        [
+          "2026-11-26",
+          "Publicação detectada",
+          "Efeitos jurídicos a conferir"
+        ]
+      ]
+    },
+    {
+      "id": "auto-9b6e201ae318e620",
+      "automated": true,
+      "title": "Áudio: Avançam mudanças na Taxa de Controle e Fiscalização Ambiental",
+      "date": "2026-11-26",
+      "published": "2026-11-26",
+      "checked": "2026-11-27",
+      "addedAt": "2026-11-26T19:31:23+00:00",
+      "org": "Agência Senado",
+      "trib": "A identificar",
+      "category": "Atualização tributária",
+      "kind": "Notícia oficial (coleta automática)",
+      "impact": "A avaliar",
+      "status": "Efeitos jurídicos a verificar",
+      "stage": "Publicação identificada",
+      "summary": "Seguiu para análise da Comissão de Assuntos Econômicos (CAE) projeto que muda a cobrança da Taxa de Controle e Fiscalização Ambiental, permitindo que a empresa escolha entre duas formas de cálculo: com base na receita de cada estabelecimento, separadamente; ou no faturamento total da empresa, com pagamento de uma única taxa. Para o senador Confúcio Moura (MDB-RO), o projeto (PL 3.513/2024) atualiza a cobrança da taxa, adaptando-a aos conceitos de microempresa e empresa de pequeno porte.",
+      "source": "https://www12.senado.leg.br/noticias/audios/2026/11/mudancas-na-taxa-de-controle-e-fiscalizacao-ambiental-avancam-no-senado",
+      "sourceName": "Agência Senado · publicação oficial",
+      "topics": [
+        "Agência Senado"
+      ],
+      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
+      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
+      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
+      "now": "Publicação oficial identificada em 2026-11-26.",
+      "watch": "Conferir íntegra, vigência e próximos eventos.",
+      "sections": {
+        "aconteceu": "Agência Senado publicou: Áudio: Avançam mudanças na Taxa de Controle e Fiscalização Ambiental. Seguiu para análise da Comissão de Assuntos Econômicos (CAE) projeto que muda a cobrança da Taxa de Controle e Fiscalização Ambiental, permitindo que a empresa escolha entre duas formas de cálculo: com base na receita de cada estabelecimento, separadamente; ou no faturamento total da empresa, com pagamento de uma única taxa. Para o senador Confúcio Moura (MDB-RO), o projeto (PL 3.513/2024) atualiza a cobrança da taxa, adaptando-a aos conceitos de microempresa e empresa de pequeno porte.",
+        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
+        "discussao": "A controvérsia precisa de conferência na fonte integral.",
+        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
+        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
+        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
+        "aberto": "Confirmar regulamentações, recursos e pendências.",
+        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
+      },
+      "timeline": [
+        [
+          "2026-11-26",
+          "Publicação detectada",
+          "Efeitos jurídicos a conferir"
+        ]
+      ]
+    },
+    {
+      "id": "auto-97d335cfc3360d8a",
+      "automated": true,
+      "title": "Áudio: Especialistas sugerem ajustes nas regras de gestão das contas públicas",
+      "date": "2026-11-26",
+      "published": "2026-11-26",
+      "checked": "2026-11-27",
+      "addedAt": "2026-11-26T19:27:56+00:00",
+      "org": "Agência Senado",
+      "trib": "A identificar",
+      "category": "Atualização tributária",
+      "kind": "Notícia oficial (coleta automática)",
+      "impact": "A avaliar",
+      "status": "Efeitos jurídicos a verificar",
+      "stage": "Publicação identificada",
+      "summary": "A Comissão de Transparência, Governança, Fiscalização e Controle (CTFC) do Senado fez nesta quinta-feira (26) uma audiência pública para discutir o projeto de lei que regulamenta o Conselho de Gestão Fiscal, previsto na Lei de Responsabilidade Fiscal desde 2000, mas ainda não instalado. Durante a reunião, o representante da Secretaria do Tesouro Nacional, Alex Fabiano Teixeira, reconheceu a importância do órgão, mas apontou a necessidade de ajustes no projeto (PL 3.520/2019) para garantir o funcionamento adequado do conselho.",
+      "source": "https://www12.senado.leg.br/noticias/audios/2026/11/especialistas-sugerem-ajustes-nas-regras-de-gestao-das-contas-publicas",
+      "sourceName": "Agência Senado · publicação oficial",
+      "topics": [
+        "Agência Senado"
+      ],
+      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
+      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
+      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
+      "now": "Publicação oficial identificada em 2026-11-26.",
+      "watch": "Conferir íntegra, vigência e próximos eventos.",
+      "sections": {
+        "aconteceu": "Agência Senado publicou: Áudio: Especialistas sugerem ajustes nas regras de gestão das contas públicas. A Comissão de Transparência, Governança, Fiscalização e Controle (CTFC) do Senado fez nesta quinta-feira (26) uma audiência pública para discutir o projeto de lei que regulamenta o Conselho de Gestão Fiscal, previsto na Lei de Responsabilidade Fiscal desde 2000, mas ainda não instalado. Durante a reunião, o representante da Secretaria do Tesouro Nacional, Alex Fabiano Teixeira, reconheceu a importância do órgão, mas apontou a necessidade de ajustes no projeto (PL 3.520/2019) para garantir o funcionamento adequado do conselho.",
+        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
+        "discussao": "A controvérsia precisa de conferência na fonte integral.",
+        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
+        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
+        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
+        "aberto": "Confirmar regulamentações, recursos e pendências.",
+        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
+      },
+      "timeline": [
+        [
+          "2026-11-26",
+          "Publicação detectada",
+          "Efeitos jurídicos a conferir"
+        ]
+      ]
+    },
+    {
+      "id": "auto-e8d062ac19bbe7db",
+      "automated": true,
+      "title": "Áudio: CDH aponta falhas no combate à violência contra crianças e adolescentes",
+      "date": "2026-11-26",
+      "published": "2026-11-26",
+      "checked": "2026-11-27",
+      "addedAt": "2026-11-26T18:31:16+00:00",
+      "org": "Agência Senado",
+      "trib": "A identificar",
+      "category": "Atualização tributária",
+      "kind": "Notícia oficial (coleta automática)",
+      "impact": "A avaliar",
+      "status": "Efeitos jurídicos a verificar",
+      "stage": "Publicação identificada",
+      "summary": "A Comissão de Direitos Humanos do Senado (CDH) aprovou na quarta-feira (25) o relatório sobre o acompanhamento, feito pela comissão, do Plano Nacional de Enfrentamento da Violência contra Crianças e Adolescentes. O documento apontou falhas na implementação das ações previstas, como a falta de integração entre os serviços de saúde, assistência social e educação. Ouça o áudio.",
+      "source": "https://www12.senado.leg.br/noticias/audios/2026/11/cdh-aponta-falhas-no-combate-a-violencia-contra-criancas-e-adolescentes",
+      "sourceName": "Agência Senado · publicação oficial",
+      "topics": [
+        "Agência Senado"
+      ],
+      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
+      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
+      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
+      "now": "Publicação oficial identificada em 2026-11-26.",
+      "watch": "Conferir íntegra, vigência e próximos eventos.",
+      "sections": {
+        "aconteceu": "Agência Senado publicou: Áudio: CDH aponta falhas no combate à violência contra crianças e adolescentes. A Comissão de Direitos Humanos do Senado (CDH) aprovou na quarta-feira (25) o relatório sobre o acompanhamento, feito pela comissão, do Plano Nacional de Enfrentamento da Violência contra Crianças e Adolescentes. O documento apontou falhas na implementação das ações previstas, como a falta de integração entre os serviços de saúde, assistência social e educação. Ouça o áudio.",
+        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
+        "discussao": "A controvérsia precisa de conferência na fonte integral.",
+        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
+        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
+        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
+        "aberto": "Confirmar regulamentações, recursos e pendências.",
+        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
+      },
+      "timeline": [
+        [
+          "2026-11-26",
+          "Publicação detectada",
+          "Efeitos jurídicos a conferir"
+        ]
+      ]
+    },
     {
       "id": "auto-a277fe35f95d0e4b",
       "automated": true,
@@ -10360,666 +11020,6 @@
       "timeline": [
         [
           "2026-11-05",
-          "Publicação detectada",
-          "Efeitos jurídicos a conferir"
-        ]
-      ]
-    },
-    {
-      "id": "auto-dc03ed702dcc9eb0",
-      "automated": true,
-      "title": "Operação Faroeste: STJ condena mais uma desembargadora do TJBA e cassa aposentadoria",
-      "date": "2026-11-04",
-      "published": "2026-11-04",
-      "checked": "2026-11-25",
-      "addedAt": "2026-11-04T17:11:00+00:00",
-      "org": "STJ",
-      "trib": "A identificar",
-      "category": "Jurisprudência",
-      "kind": "Notícia oficial (coleta automática)",
-      "impact": "A avaliar",
-      "status": "Efeitos jurídicos a verificar",
-      "stage": "Publicação identificada",
-      "summary": "Desembargadora aposentada Sandra Inês Azevedo foi condenada pela Corte Especial à pena de 14 anos e 20 dias de prisão. Ela é a segunda integrante do TJBA a receber condenação pelo colegiado.",
-      "source": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/04112026-Operacao-Faroeste-STJ-condena-mais-uma-desembargadora-do-TJBA-e-cassa-aposentadoria.aspx",
-      "sourceName": "STJ · publicação oficial",
-      "topics": [
-        "STJ"
-      ],
-      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
-      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
-      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
-      "now": "Publicação oficial identificada em 2026-11-04.",
-      "watch": "Conferir íntegra, vigência e próximos eventos.",
-      "sections": {
-        "aconteceu": "STJ publicou: Operação Faroeste: STJ condena mais uma desembargadora do TJBA e cassa aposentadoria. Desembargadora aposentada Sandra Inês Azevedo foi condenada pela Corte Especial à pena de 14 anos e 20 dias de prisão. Ela é a segunda integrante do TJBA a receber condenação pelo colegiado.",
-        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
-        "discussao": "A controvérsia precisa de conferência na fonte integral.",
-        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
-        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
-        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
-        "aberto": "Confirmar regulamentações, recursos e pendências.",
-        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
-      },
-      "timeline": [
-        [
-          "2026-11-04",
-          "Publicação detectada",
-          "Efeitos jurídicos a conferir"
-        ]
-      ]
-    },
-    {
-      "id": "auto-c384992395ccbcca",
-      "automated": true,
-      "title": "Ministro Og Fernandes lança livro sobre a história do STF em 10 de novembro",
-      "date": "2026-11-04",
-      "published": "2026-11-04",
-      "checked": "2026-11-25",
-      "addedAt": "2026-11-04T13:26:00+00:00",
-      "org": "STJ",
-      "trib": "A identificar",
-      "category": "Jurisprudência",
-      "kind": "Notícia oficial (coleta automática)",
-      "impact": "A avaliar",
-      "status": "Efeitos jurídicos a verificar",
-      "stage": "Publicação identificada",
-      "summary": "Ministro Og Fernandes lança livro sobre a história do STF em 10 de novembro",
-      "source": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/04112026-Ministro-Og-Fernandes-lanca-livro-sobre-a-historia-do-STF-em-10-de-novembro.aspx",
-      "sourceName": "STJ · publicação oficial",
-      "topics": [
-        "STJ"
-      ],
-      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
-      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
-      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
-      "now": "Publicação oficial identificada em 2026-11-04.",
-      "watch": "Conferir íntegra, vigência e próximos eventos.",
-      "sections": {
-        "aconteceu": "STJ publicou: Ministro Og Fernandes lança livro sobre a história do STF em 10 de novembro. Ministro Og Fernandes lança livro sobre a história do STF em 10 de novembro",
-        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
-        "discussao": "A controvérsia precisa de conferência na fonte integral.",
-        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
-        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
-        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
-        "aberto": "Confirmar regulamentações, recursos e pendências.",
-        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
-      },
-      "timeline": [
-        [
-          "2026-11-04",
-          "Publicação detectada",
-          "Efeitos jurídicos a conferir"
-        ]
-      ]
-    },
-    {
-      "id": "auto-b6d75522f40afa59",
-      "automated": true,
-      "title": "STJ fixa critérios para honorários por habilitação e impugnação de crédito em recuperação ou falência",
-      "date": "2026-11-04",
-      "published": "2026-11-04",
-      "checked": "2026-11-25",
-      "addedAt": "2026-11-04T07:10:00+00:00",
-      "org": "STJ",
-      "trib": "A identificar",
-      "category": "Jurisprudência",
-      "kind": "Notícia oficial (coleta automática)",
-      "impact": "A avaliar",
-      "status": "Efeitos jurídicos a verificar",
-      "stage": "Publicação identificada",
-      "summary": "STJ fixa critérios para honorários por habilitação e impugnação de crédito em recuperação ou falência",
-      "source": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/04112026-STJ-fixa-criterios-para-honorarios-por-habilitacao-e-impugnacao-de-credito-em-recuperacao-ou-falencia.aspx",
-      "sourceName": "STJ · publicação oficial",
-      "topics": [
-        "STJ"
-      ],
-      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
-      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
-      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
-      "now": "Publicação oficial identificada em 2026-11-04.",
-      "watch": "Conferir íntegra, vigência e próximos eventos.",
-      "sections": {
-        "aconteceu": "STJ publicou: STJ fixa critérios para honorários por habilitação e impugnação de crédito em recuperação ou falência. STJ fixa critérios para honorários por habilitação e impugnação de crédito em recuperação ou falência",
-        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
-        "discussao": "A controvérsia precisa de conferência na fonte integral.",
-        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
-        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
-        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
-        "aberto": "Confirmar regulamentações, recursos e pendências.",
-        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
-      },
-      "timeline": [
-        [
-          "2026-11-04",
-          "Publicação detectada",
-          "Efeitos jurídicos a conferir"
-        ]
-      ]
-    },
-    {
-      "id": "auto-e37ad21815020edb",
-      "automated": true,
-      "title": "Áudio: Projeto que proíbe obsolescência programada de produtos vai à Câmara",
-      "date": "2026-11-04",
-      "published": "2026-11-04",
-      "checked": "2026-11-05",
-      "addedAt": "2026-11-04T23:55:50+00:00",
-      "org": "Agência Senado",
-      "trib": "A identificar",
-      "category": "Atualização tributária",
-      "kind": "Notícia oficial (coleta automática)",
-      "impact": "A avaliar",
-      "status": "Efeitos jurídicos a verificar",
-      "stage": "Publicação identificada",
-      "summary": "O projeto de lei que proíbe a chamada “obsolescência programada” — a redução proposital da vida útil dos produtos — e regulamenta o direito do consumidor ao reparo foi aprovado nesta quarta-feira (4) pela Comissão de Fiscalização e Controle do Senado. O projeto (PL 805/2024) agora segue para análise na Câmara dos Deputados. Ouça o áudio.",
-      "source": "https://www12.senado.leg.br/noticias/audios/2026/11/projeto-que-proibe-obsolescencia-programada-de-produtos-vai-a-camara",
-      "sourceName": "Agência Senado · publicação oficial",
-      "topics": [
-        "Agência Senado"
-      ],
-      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
-      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
-      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
-      "now": "Publicação oficial identificada em 2026-11-04.",
-      "watch": "Conferir íntegra, vigência e próximos eventos.",
-      "sections": {
-        "aconteceu": "Agência Senado publicou: Áudio: Projeto que proíbe obsolescência programada de produtos vai à Câmara. O projeto de lei que proíbe a chamada “obsolescência programada” — a redução proposital da vida útil dos produtos — e regulamenta o direito do consumidor ao reparo foi aprovado nesta quarta-feira (4) pela Comissão de Fiscalização e Controle do Senado. O projeto (PL 805/2024) agora segue para análise na Câmara dos Deputados. Ouça o áudio.",
-        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
-        "discussao": "A controvérsia precisa de conferência na fonte integral.",
-        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
-        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
-        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
-        "aberto": "Confirmar regulamentações, recursos e pendências.",
-        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
-      },
-      "timeline": [
-        [
-          "2026-11-04",
-          "Publicação detectada",
-          "Efeitos jurídicos a conferir"
-        ]
-      ]
-    },
-    {
-      "id": "auto-4904fd78cca8cb85",
-      "automated": true,
-      "title": "Áudio: Política de enfrentamento à violência contra a mulher avança no Senado",
-      "date": "2026-11-04",
-      "published": "2026-11-04",
-      "checked": "2026-11-05",
-      "addedAt": "2026-11-04T23:47:09+00:00",
-      "org": "Agência Senado",
-      "trib": "A identificar",
-      "category": "Atualização tributária",
-      "kind": "Notícia oficial (coleta automática)",
-      "impact": "A avaliar",
-      "status": "Efeitos jurídicos a verificar",
-      "stage": "Publicação identificada",
-      "summary": "O projeto de lei que institui a Política Nacional de Enfrentamento à Violência contra a Mulher (PL 1.025/2026) avançou em sua tramitação no Senado: o texto recebeu nesta quarta-feira (4) parecer favorável na Comissão de Direitos Humanos. Agora, a proposta segue para análise em outro colegiado da Casa: a Comissão de Segurança Pública. Ouça o áudio.",
-      "source": "https://www12.senado.leg.br/noticias/audios/2026/11/politica-de-enfrentamento-a-violencia-contra-a-mulher-avanca-no-senado",
-      "sourceName": "Agência Senado · publicação oficial",
-      "topics": [
-        "Agência Senado"
-      ],
-      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
-      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
-      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
-      "now": "Publicação oficial identificada em 2026-11-04.",
-      "watch": "Conferir íntegra, vigência e próximos eventos.",
-      "sections": {
-        "aconteceu": "Agência Senado publicou: Áudio: Política de enfrentamento à violência contra a mulher avança no Senado. O projeto de lei que institui a Política Nacional de Enfrentamento à Violência contra a Mulher (PL 1.025/2026) avançou em sua tramitação no Senado: o texto recebeu nesta quarta-feira (4) parecer favorável na Comissão de Direitos Humanos. Agora, a proposta segue para análise em outro colegiado da Casa: a Comissão de Segurança Pública. Ouça o áudio.",
-        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
-        "discussao": "A controvérsia precisa de conferência na fonte integral.",
-        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
-        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
-        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
-        "aberto": "Confirmar regulamentações, recursos e pendências.",
-        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
-      },
-      "timeline": [
-        [
-          "2026-11-04",
-          "Publicação detectada",
-          "Efeitos jurídicos a conferir"
-        ]
-      ]
-    },
-    {
-      "id": "auto-9407fd9e8bcabc73",
-      "automated": true,
-      "title": "Áudio: Projeto de lei prevê semana anual de conscientização sobre diabetes",
-      "date": "2026-11-04",
-      "published": "2026-11-04",
-      "checked": "2026-11-05",
-      "addedAt": "2026-11-04T23:35:11+00:00",
-      "org": "Agência Senado",
-      "trib": "A identificar",
-      "category": "Atualização tributária",
-      "kind": "Notícia oficial (coleta automática)",
-      "impact": "A avaliar",
-      "status": "Efeitos jurídicos a verificar",
-      "stage": "Publicação identificada",
-      "summary": "Está pronto para ir a votação na Comissão de Assuntos Sociais do Senado (CAS) um projeto que institui em lei federal a Semana de Prevenção ao Diabetes (PL 4.196/2021). Ouça o áudio.",
-      "source": "https://www12.senado.leg.br/noticias/audios/2026/11/projeto-de-lei-preve-semana-anual-de-conscientizacao-sobre-diabetes",
-      "sourceName": "Agência Senado · publicação oficial",
-      "topics": [
-        "Agência Senado"
-      ],
-      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
-      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
-      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
-      "now": "Publicação oficial identificada em 2026-11-04.",
-      "watch": "Conferir íntegra, vigência e próximos eventos.",
-      "sections": {
-        "aconteceu": "Agência Senado publicou: Áudio: Projeto de lei prevê semana anual de conscientização sobre diabetes. Está pronto para ir a votação na Comissão de Assuntos Sociais do Senado (CAS) um projeto que institui em lei federal a Semana de Prevenção ao Diabetes (PL 4.196/2021). Ouça o áudio.",
-        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
-        "discussao": "A controvérsia precisa de conferência na fonte integral.",
-        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
-        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
-        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
-        "aberto": "Confirmar regulamentações, recursos e pendências.",
-        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
-      },
-      "timeline": [
-        [
-          "2026-11-04",
-          "Publicação detectada",
-          "Efeitos jurídicos a conferir"
-        ]
-      ]
-    },
-    {
-      "id": "auto-318062a3a9d16777",
-      "automated": true,
-      "title": "Uso de organizações sociais em contratos na saúde é questionado em audiência no Senado",
-      "date": "2026-11-04",
-      "published": "2026-11-04",
-      "checked": "2026-11-05",
-      "addedAt": "2026-11-04T22:57:29+00:00",
-      "org": "Agência Senado",
-      "trib": "A identificar",
-      "category": "Atualização tributária",
-      "kind": "Notícia oficial (coleta automática)",
-      "impact": "A avaliar",
-      "status": "Efeitos jurídicos a verificar",
-      "stage": "Publicação identificada",
-      "summary": "A falta de transparência, as falhas na fiscalização e o uso de organizações sociais como intermediárias para contratações irregulares estão entre os principais problemas identificados em contratos de gestão de serviços públicos de saúde. O diagnóstico foi apresentado nesta quarta-feira (4) durante audiência pública da Comissão de Fiscalização e Controle do Senado (CTFC). O debate, solicitado pelo presidente da comissão, senador Dr. Hiran (PP-RR) e pela senadora Damares Alves (Republicanos-DF), também tratou da precarização das relações de trabalho dos profissionais de saúde e o chamado desvirtuamento do modelo cooperativista. O coordenador-geral de Auditoria da Área de Saúde da Controladoria-Geral da União (CGU), Daniel Gontijo Motta, afirmou que as irregularidades não decorrem apenas da atuação de agentes mal-intencionados, mas também de",
-      "source": "https://www12.senado.leg.br/noticias/materias/2026/11/04/uso-de-organizacoes-sociais-em-contratos-na-saude-e-questionado-em-audiencia-no-senado",
-      "sourceName": "Agência Senado · publicação oficial",
-      "topics": [
-        "Agência Senado"
-      ],
-      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
-      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
-      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
-      "now": "Publicação oficial identificada em 2026-11-04.",
-      "watch": "Conferir íntegra, vigência e próximos eventos.",
-      "sections": {
-        "aconteceu": "Agência Senado publicou: Uso de organizações sociais em contratos na saúde é questionado em audiência no Senado. A falta de transparência, as falhas na fiscalização e o uso de organizações sociais como intermediárias para contratações irregulares estão entre os principais problemas identificados em contratos de gestão de serviços públicos de saúde. O diagnóstico foi apresentado nesta quarta-feira (4) durante audiência pública da Comissão de Fiscalização e Controle do Senado (CTFC). O debate, solicitado pelo presidente da comissão, senador Dr. Hiran (PP-RR) e pela senadora Damares Alves (Republicanos-DF), também tratou da precarização das relações de trabalho dos profissionais de saúde e o chamado desvirtuamento do modelo cooperativista. O coordenador-geral de Auditoria da Área de Saúde da Controladoria-Geral da União (CGU), Daniel Gontijo Motta, afirmou que as irregularidades não decorrem apenas da atuação de agentes mal-intencionados, mas também de",
-        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
-        "discussao": "A controvérsia precisa de conferência na fonte integral.",
-        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
-        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
-        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
-        "aberto": "Confirmar regulamentações, recursos e pendências.",
-        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
-      },
-      "timeline": [
-        [
-          "2026-11-04",
-          "Publicação detectada",
-          "Efeitos jurídicos a conferir"
-        ]
-      ]
-    },
-    {
-      "id": "auto-778c2b532e19fc56",
-      "automated": true,
-      "title": "Áudio: Eduardo Braga propõe cronograma para votar Orçamento até 17 de dezembro",
-      "date": "2026-11-04",
-      "published": "2026-11-04",
-      "checked": "2026-11-05",
-      "addedAt": "2026-11-04T22:46:55+00:00",
-      "org": "Agência Senado",
-      "trib": "A identificar",
-      "category": "Atualização tributária",
-      "kind": "Notícia oficial (coleta automática)",
-      "impact": "A avaliar",
-      "status": "Efeitos jurídicos a verificar",
-      "stage": "Publicação identificada",
-      "summary": "O relator do Orçamento de 2027, senador Eduardo Braga (MDB-AM), anunciou um calendário para votar a proposta (PLN 24/2026) no Congresso até 17 de dezembro. O cronograma prevê a apresentação de emendas entre 6 e 20 de novembro e etapas de análise dos relatórios entre 30 de novembro e 2 de dezembro. Antes da votação em Plenário, o texto precisa passar pela Comissão Mista de Orçamento (CMO).",
-      "source": "https://www12.senado.leg.br/noticias/audios/2026/11/eduardo-braga-propoe-cronograma-para-votar-orcamento-ate-17-de-dezembro",
-      "sourceName": "Agência Senado · publicação oficial",
-      "topics": [
-        "Agência Senado"
-      ],
-      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
-      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
-      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
-      "now": "Publicação oficial identificada em 2026-11-04.",
-      "watch": "Conferir íntegra, vigência e próximos eventos.",
-      "sections": {
-        "aconteceu": "Agência Senado publicou: Áudio: Eduardo Braga propõe cronograma para votar Orçamento até 17 de dezembro. O relator do Orçamento de 2027, senador Eduardo Braga (MDB-AM), anunciou um calendário para votar a proposta (PLN 24/2026) no Congresso até 17 de dezembro. O cronograma prevê a apresentação de emendas entre 6 e 20 de novembro e etapas de análise dos relatórios entre 30 de novembro e 2 de dezembro. Antes da votação em Plenário, o texto precisa passar pela Comissão Mista de Orçamento (CMO).",
-        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
-        "discussao": "A controvérsia precisa de conferência na fonte integral.",
-        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
-        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
-        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
-        "aberto": "Confirmar regulamentações, recursos e pendências.",
-        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
-      },
-      "timeline": [
-        [
-          "2026-11-04",
-          "Publicação detectada",
-          "Efeitos jurídicos a conferir"
-        ]
-      ]
-    },
-    {
-      "id": "auto-ce65fbb71515666f",
-      "automated": true,
-      "title": "Davi vai analisar questões de Randolfe sobre situação de Flávio Bolsonaro",
-      "date": "2026-11-04",
-      "published": "2026-11-04",
-      "checked": "2026-11-05",
-      "addedAt": "2026-11-04T22:46:06+00:00",
-      "org": "Agência Senado",
-      "trib": "A identificar",
-      "category": "Atualização tributária",
-      "kind": "Notícia oficial (coleta automática)",
-      "impact": "A avaliar",
-      "status": "Efeitos jurídicos a verificar",
-      "stage": "Publicação identificada",
-      "summary": "O presidente do Senado, Davi Alcolumbre, afirmou nesta quarta-feira (4) que vai analisar duas questões de ordem levantadas pelo senador Randolfe Rodrigues (PT-AP) sobre a situação do senador Flávio Bolsonaro (PL-RJ), que está nos EUA desde 28 de outubro e votou remotamente na sessão de terça-feira (3). Durante a sessão no Plenário, Randolfe pediu que a Presidência esclareça se Flávio comunicou oficialmente sua viagem ao exterior, conforme prevê o Regimento Interno do Senado. O senador também solicitou a anulação do voto registrado pelo parlamentar na sessão de aprovação da PEC da Segurança Pública, sob o argumento de que ele participou da deliberação sem ter comunicado seu afastamento do território nacional. — Eu não quero censurar nem vetar o voto de ninguém, mas veja que caso curioso: ele pede exílio alegando viver em uma ditadura, mas ",
-      "source": "https://www12.senado.leg.br/noticias/materias/2026/11/04/davi-vai-analisar-questoes-de-randolfe-sobre-situacao-de-flavio-bolsonaro",
-      "sourceName": "Agência Senado · publicação oficial",
-      "topics": [
-        "Agência Senado"
-      ],
-      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
-      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
-      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
-      "now": "Publicação oficial identificada em 2026-11-04.",
-      "watch": "Conferir íntegra, vigência e próximos eventos.",
-      "sections": {
-        "aconteceu": "Agência Senado publicou: Davi vai analisar questões de Randolfe sobre situação de Flávio Bolsonaro. O presidente do Senado, Davi Alcolumbre, afirmou nesta quarta-feira (4) que vai analisar duas questões de ordem levantadas pelo senador Randolfe Rodrigues (PT-AP) sobre a situação do senador Flávio Bolsonaro (PL-RJ), que está nos EUA desde 28 de outubro e votou remotamente na sessão de terça-feira (3). Durante a sessão no Plenário, Randolfe pediu que a Presidência esclareça se Flávio comunicou oficialmente sua viagem ao exterior, conforme prevê o Regimento Interno do Senado. O senador também solicitou a anulação do voto registrado pelo parlamentar na sessão de aprovação da PEC da Segurança Pública, sob o argumento de que ele participou da deliberação sem ter comunicado seu afastamento do território nacional. — Eu não quero censurar nem vetar o voto de ninguém, mas veja que caso curioso: ele pede exílio alegando viver em uma ditadura, mas ",
-        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
-        "discussao": "A controvérsia precisa de conferência na fonte integral.",
-        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
-        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
-        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
-        "aberto": "Confirmar regulamentações, recursos e pendências.",
-        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
-      },
-      "timeline": [
-        [
-          "2026-11-04",
-          "Publicação detectada",
-          "Efeitos jurídicos a conferir"
-        ]
-      ]
-    },
-    {
-      "id": "auto-8f60621ab92955d2",
-      "automated": true,
-      "title": "Senado permite que estados e municípios renegociem dívidas durante final de mandato",
-      "date": "2026-11-04",
-      "published": "2026-11-04",
-      "checked": "2026-11-05",
-      "addedAt": "2026-11-04T22:34:16+00:00",
-      "org": "Agência Senado",
-      "trib": "A identificar",
-      "category": "Atualização tributária",
-      "kind": "Notícia oficial (coleta automática)",
-      "impact": "A avaliar",
-      "status": "Efeitos jurídicos a verificar",
-      "stage": "Publicação identificada",
-      "summary": "O Senado aprovou nesta quarta-feira (4) o projeto de resolução que permite a estados, Distrito Federal e municípios contratarem operações de crédito nos últimos 120 dias do mandato de governadores e prefeitos para substituir dívidas existentes por outras com condições mais favoráveis. O projeto (PRS 50/2026) segue para promulgação. A proposta foi apresentada pelo senador Renan Filho (MDB-AL) para alterar a Resolução do Senado 43, de 2001, que proíbe a contratação de operações de crédito nesse período, com poucas exceções. O texto aprovado nesta quarta-feira acrescenta a possibilidade de se realizar operações destinadas exclusivamente à reestruturação e à recomposição do principal de dívidas, sem obtenção de novos recursos livres. O projeto prevê a exigência de que, antes da contratação, os governos divulguem em seus sites oficiais a metod",
-      "source": "https://www12.senado.leg.br/noticias/materias/2026/11/04/senado-permite-que-estados-e-municipios-renegociem-dividas-durante-final-de-mandato",
-      "sourceName": "Agência Senado · publicação oficial",
-      "topics": [
-        "Agência Senado"
-      ],
-      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
-      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
-      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
-      "now": "Publicação oficial identificada em 2026-11-04.",
-      "watch": "Conferir íntegra, vigência e próximos eventos.",
-      "sections": {
-        "aconteceu": "Agência Senado publicou: Senado permite que estados e municípios renegociem dívidas durante final de mandato. O Senado aprovou nesta quarta-feira (4) o projeto de resolução que permite a estados, Distrito Federal e municípios contratarem operações de crédito nos últimos 120 dias do mandato de governadores e prefeitos para substituir dívidas existentes por outras com condições mais favoráveis. O projeto (PRS 50/2026) segue para promulgação. A proposta foi apresentada pelo senador Renan Filho (MDB-AL) para alterar a Resolução do Senado 43, de 2001, que proíbe a contratação de operações de crédito nesse período, com poucas exceções. O texto aprovado nesta quarta-feira acrescenta a possibilidade de se realizar operações destinadas exclusivamente à reestruturação e à recomposição do principal de dívidas, sem obtenção de novos recursos livres. O projeto prevê a exigência de que, antes da contratação, os governos divulguem em seus sites oficiais a metod",
-        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
-        "discussao": "A controvérsia precisa de conferência na fonte integral.",
-        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
-        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
-        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
-        "aberto": "Confirmar regulamentações, recursos e pendências.",
-        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
-      },
-      "timeline": [
-        [
-          "2026-11-04",
-          "Publicação detectada",
-          "Efeitos jurídicos a conferir"
-        ]
-      ]
-    },
-    {
-      "id": "auto-47057749bb24b0bd",
-      "automated": true,
-      "title": "CTFC aprova proibição da redução artificial da vida útil de produtos",
-      "date": "2026-11-04",
-      "published": "2026-11-04",
-      "checked": "2026-11-05",
-      "addedAt": "2026-11-04T22:25:35+00:00",
-      "org": "Agência Senado",
-      "trib": "A identificar",
-      "category": "Atualização tributária",
-      "kind": "Notícia oficial (coleta automática)",
-      "impact": "A avaliar",
-      "status": "Efeitos jurídicos a verificar",
-      "stage": "Publicação identificada",
-      "summary": "A Comissão de Fiscalização e Controle (CTFC) aprovou nesta quarta-feira (4), em decisão terminativa, projeto que proíbe a chamada “obsolescência programada” — a redução proposital da vida útil dos produtos — e regulamenta o direito do consumidor ao reparo. O PL 805/2024 recebeu parecer favorável do senador Dr. Hiran (PP-RR) e seguirá para a Câmara dos Deputados, caso não haja recurso para votação em Plenário. O projeto, do senador Ciro Nogueira (PP-PI), altera o Código de Defesa do Consumidor para incluir entre os direitos básicos a proteção contra a obsolescência programada. Há exceção para os casos em que isso decorra de exigência estabelecida em lei ou regulamento do poder público por razões técnicas ou de segurança. A proposta proíbe a redução artificial da durabilidade dos produtos e a restrição ao acesso a ferramentas, peças, inform",
-      "source": "https://www12.senado.leg.br/noticias/materias/2026/11/04/ctfc-aprova-proibicao-da-reducao-artificial-da-vida-util-de-produtos",
-      "sourceName": "Agência Senado · publicação oficial",
-      "topics": [
-        "Agência Senado"
-      ],
-      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
-      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
-      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
-      "now": "Publicação oficial identificada em 2026-11-04.",
-      "watch": "Conferir íntegra, vigência e próximos eventos.",
-      "sections": {
-        "aconteceu": "Agência Senado publicou: CTFC aprova proibição da redução artificial da vida útil de produtos. A Comissão de Fiscalização e Controle (CTFC) aprovou nesta quarta-feira (4), em decisão terminativa, projeto que proíbe a chamada “obsolescência programada” — a redução proposital da vida útil dos produtos — e regulamenta o direito do consumidor ao reparo. O PL 805/2024 recebeu parecer favorável do senador Dr. Hiran (PP-RR) e seguirá para a Câmara dos Deputados, caso não haja recurso para votação em Plenário. O projeto, do senador Ciro Nogueira (PP-PI), altera o Código de Defesa do Consumidor para incluir entre os direitos básicos a proteção contra a obsolescência programada. Há exceção para os casos em que isso decorra de exigência estabelecida em lei ou regulamento do poder público por razões técnicas ou de segurança. A proposta proíbe a redução artificial da durabilidade dos produtos e a restrição ao acesso a ferramentas, peças, inform",
-        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
-        "discussao": "A controvérsia precisa de conferência na fonte integral.",
-        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
-        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
-        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
-        "aberto": "Confirmar regulamentações, recursos e pendências.",
-        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
-      },
-      "timeline": [
-        [
-          "2026-11-04",
-          "Publicação detectada",
-          "Efeitos jurídicos a conferir"
-        ]
-      ]
-    },
-    {
-      "id": "auto-dfa21d15369663d7",
-      "automated": true,
-      "title": "Áudio: Projeto que regulamenta profissão de cuidador avança no Senado",
-      "date": "2026-11-04",
-      "published": "2026-11-04",
-      "checked": "2026-11-05",
-      "addedAt": "2026-11-04T22:23:49+00:00",
-      "org": "Agência Senado",
-      "trib": "A identificar",
-      "category": "Atualização tributária",
-      "kind": "Notícia oficial (coleta automática)",
-      "impact": "A avaliar",
-      "status": "Efeitos jurídicos a verificar",
-      "stage": "Publicação identificada",
-      "summary": "O projeto de lei que regulamenta a profissão de cuidador de pessoas de qualquer idade (PL 6.073/2025) avançou em sua tramitação no Senado: o texto recebeu nesta quarta (4) parecer favorável na Comissão de Direitos Humanos. Agora a proposta será analisada em outro colegiado da Casa: a Comissão de Assuntos Sociais. Ouça o áudio.",
-      "source": "https://www12.senado.leg.br/noticias/audios/2026/11/projeto-que-regulamenta-profissao-de-cuidador-avanca-no-senado",
-      "sourceName": "Agência Senado · publicação oficial",
-      "topics": [
-        "Agência Senado"
-      ],
-      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
-      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
-      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
-      "now": "Publicação oficial identificada em 2026-11-04.",
-      "watch": "Conferir íntegra, vigência e próximos eventos.",
-      "sections": {
-        "aconteceu": "Agência Senado publicou: Áudio: Projeto que regulamenta profissão de cuidador avança no Senado. O projeto de lei que regulamenta a profissão de cuidador de pessoas de qualquer idade (PL 6.073/2025) avançou em sua tramitação no Senado: o texto recebeu nesta quarta (4) parecer favorável na Comissão de Direitos Humanos. Agora a proposta será analisada em outro colegiado da Casa: a Comissão de Assuntos Sociais. Ouça o áudio.",
-        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
-        "discussao": "A controvérsia precisa de conferência na fonte integral.",
-        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
-        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
-        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
-        "aberto": "Confirmar regulamentações, recursos e pendências.",
-        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
-      },
-      "timeline": [
-        [
-          "2026-11-04",
-          "Publicação detectada",
-          "Efeitos jurídicos a conferir"
-        ]
-      ]
-    },
-    {
-      "id": "auto-bb468bcca2353a51",
-      "automated": true,
-      "title": "Davi Alcolumbre lamenta radicalismo e pede foco no país",
-      "date": "2026-11-04",
-      "published": "2026-11-04",
-      "checked": "2026-11-05",
-      "addedAt": "2026-11-04T22:07:59+00:00",
-      "org": "Agência Senado",
-      "trib": "A identificar",
-      "category": "Atualização tributária",
-      "kind": "Notícia oficial (coleta automática)",
-      "impact": "A avaliar",
-      "status": "Efeitos jurídicos a verificar",
-      "stage": "Publicação identificada",
-      "summary": "Após uma discussão em Plenário sobre a redução da maioridade penal, o presidente do Senado e do Congresso, Davi Alcolumbre, fez críticas ao que chamou de \"radicalismo\" — que, segundo ele, se tornou um traço comum na política do país. Ele também pediu que os políticos tenham foco nos temas que são mais importantes para o país. — Às vezes alguns colegas passam do debate a agressões em relação a esta Presidência, seja na tribuna ou em vídeos nas redes sociais, para conquistar apoiamento a esse radicalismo horrível que estamos vivendo no Brasil — protestou ele nesta quarta-feira (4). Para Davi, é “um drama” presidir o Congresso Nacional no momento em que o país está \"absolutamente dividido\". O presidente da Casa criticou também pessoas que fizeram campanha eleitoral em frente ao Congresso proferindo ofensas contra ele. E citou uma liderança p",
-      "source": "https://www12.senado.leg.br/noticias/materias/2026/11/04/davi-alcolumbre-lamenta-radicalismo-e-pede-foco-no-pais",
-      "sourceName": "Agência Senado · publicação oficial",
-      "topics": [
-        "Agência Senado"
-      ],
-      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
-      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
-      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
-      "now": "Publicação oficial identificada em 2026-11-04.",
-      "watch": "Conferir íntegra, vigência e próximos eventos.",
-      "sections": {
-        "aconteceu": "Agência Senado publicou: Davi Alcolumbre lamenta radicalismo e pede foco no país. Após uma discussão em Plenário sobre a redução da maioridade penal, o presidente do Senado e do Congresso, Davi Alcolumbre, fez críticas ao que chamou de \"radicalismo\" — que, segundo ele, se tornou um traço comum na política do país. Ele também pediu que os políticos tenham foco nos temas que são mais importantes para o país. — Às vezes alguns colegas passam do debate a agressões em relação a esta Presidência, seja na tribuna ou em vídeos nas redes sociais, para conquistar apoiamento a esse radicalismo horrível que estamos vivendo no Brasil — protestou ele nesta quarta-feira (4). Para Davi, é “um drama” presidir o Congresso Nacional no momento em que o país está \"absolutamente dividido\". O presidente da Casa criticou também pessoas que fizeram campanha eleitoral em frente ao Congresso proferindo ofensas contra ele. E citou uma liderança p",
-        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
-        "discussao": "A controvérsia precisa de conferência na fonte integral.",
-        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
-        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
-        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
-        "aberto": "Confirmar regulamentações, recursos e pendências.",
-        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
-      },
-      "timeline": [
-        [
-          "2026-11-04",
-          "Publicação detectada",
-          "Efeitos jurídicos a conferir"
-        ]
-      ]
-    },
-    {
-      "id": "auto-a1fab46a7c516c99",
-      "automated": true,
-      "title": "Redução da maioridade penal: Senado aguardará votação de PEC da Câmara",
-      "date": "2026-11-04",
-      "published": "2026-11-04",
-      "checked": "2026-11-05",
-      "addedAt": "2026-11-04T22:03:20+00:00",
-      "org": "Agência Senado",
-      "trib": "A identificar",
-      "category": "Atualização tributária",
-      "kind": "Notícia oficial (coleta automática)",
-      "impact": "A avaliar",
-      "status": "Efeitos jurídicos a verificar",
-      "stage": "Publicação identificada",
-      "summary": "A redução da maioridade penal será discutida no Parlamento por meio da PEC 32/2015, atualmente em análise em comissão especial na Câmara dos Deputados. A comunicação foi feita aos senadores pelo presidente do Senado, Davi Alcolumbre, na sessão desta quarta-feira (4). O anúncio de Davi veio após o desmembramento de duas emendas sobre o tema à PEC 18/2025 — a PEC da Segurança Pública, aprovada na terça-feira (3). As emendas, dos senadores Rogerio Marinho (PL-RN) e Camilo Santana (PT-CE), foram transformadas em duas propostas autônomas. Parte dos senadores esperava a aprovação de um calendário especial para a análise das propostas, com dispensa de prazos e votação direta no Plenário. Segundo Davi, porém, o presidente da Câmara, Hugo Motta, ponderou que o tema já está em discussão pelos deputados em comissão especial desde agosto. — Na condiç",
-      "source": "https://www12.senado.leg.br/noticias/materias/2026/11/04/reducao-da-maioridade-penal-senado-aguardara-votacao-de-pec-da-camara",
-      "sourceName": "Agência Senado · publicação oficial",
-      "topics": [
-        "Agência Senado"
-      ],
-      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
-      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
-      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
-      "now": "Publicação oficial identificada em 2026-11-04.",
-      "watch": "Conferir íntegra, vigência e próximos eventos.",
-      "sections": {
-        "aconteceu": "Agência Senado publicou: Redução da maioridade penal: Senado aguardará votação de PEC da Câmara. A redução da maioridade penal será discutida no Parlamento por meio da PEC 32/2015, atualmente em análise em comissão especial na Câmara dos Deputados. A comunicação foi feita aos senadores pelo presidente do Senado, Davi Alcolumbre, na sessão desta quarta-feira (4). O anúncio de Davi veio após o desmembramento de duas emendas sobre o tema à PEC 18/2025 — a PEC da Segurança Pública, aprovada na terça-feira (3). As emendas, dos senadores Rogerio Marinho (PL-RN) e Camilo Santana (PT-CE), foram transformadas em duas propostas autônomas. Parte dos senadores esperava a aprovação de um calendário especial para a análise das propostas, com dispensa de prazos e votação direta no Plenário. Segundo Davi, porém, o presidente da Câmara, Hugo Motta, ponderou que o tema já está em discussão pelos deputados em comissão especial desde agosto. — Na condiç",
-        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
-        "discussao": "A controvérsia precisa de conferência na fonte integral.",
-        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
-        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
-        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
-        "aberto": "Confirmar regulamentações, recursos e pendências.",
-        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
-      },
-      "timeline": [
-        [
-          "2026-11-04",
-          "Publicação detectada",
-          "Efeitos jurídicos a conferir"
-        ]
-      ]
-    },
-    {
-      "id": "auto-158442b5485b5099",
-      "automated": true,
-      "title": "Aprovação de protocolo pelo Senado permitirá ao Brasil sediar 'Expos' mundiais",
-      "date": "2026-11-04",
-      "published": "2026-11-04",
-      "checked": "2026-11-05",
-      "addedAt": "2026-11-04T21:39:57+00:00",
-      "org": "Agência Senado",
-      "trib": "A identificar",
-      "category": "Atualização tributária",
-      "kind": "Notícia oficial (coleta automática)",
-      "impact": "A avaliar",
-      "status": "Efeitos jurídicos a verificar",
-      "stage": "Publicação identificada",
-      "summary": "O Plenário do Senado aprovou nesta quarta-feira (4) o texto de um protocolo que permitirá a cidades brasileiras voltarem a se candidatar a sediar exposições mundiais, as chamadas “Expos”. O PDL 359/2024, que vai à promulgação, trata de um acordo sobre direitos e deveres dos países organizadores e participantes de exposições internacionais e mundiais. Com a aprovação, o Brasil poderá cumprir suas obrigações financeiras com o Bureau Internacional de Exposições, organismo responsável por esse tipo de evento, e recuperar o direito de voto, suspenso desde 2015 devido ao acúmulo de contribuições em atraso. O Brasil é membro fundador da entidade. Para a relatora, senadora Dra. Eudócia (PSDB-AL), a abertura da possibilidade de organizar grandes eventos do gênero “é, a vários títulos, benfazeja tanto para a imagem do país no exterior quanto para a",
-      "source": "https://www12.senado.leg.br/noticias/materias/2026/11/04/aprovacao-de-protocolo-pelo-senado-permitira-ao-brasil-sediar-expos-mundiais",
-      "sourceName": "Agência Senado · publicação oficial",
-      "topics": [
-        "Agência Senado"
-      ],
-      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
-      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
-      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
-      "now": "Publicação oficial identificada em 2026-11-04.",
-      "watch": "Conferir íntegra, vigência e próximos eventos.",
-      "sections": {
-        "aconteceu": "Agência Senado publicou: Aprovação de protocolo pelo Senado permitirá ao Brasil sediar 'Expos' mundiais. O Plenário do Senado aprovou nesta quarta-feira (4) o texto de um protocolo que permitirá a cidades brasileiras voltarem a se candidatar a sediar exposições mundiais, as chamadas “Expos”. O PDL 359/2024, que vai à promulgação, trata de um acordo sobre direitos e deveres dos países organizadores e participantes de exposições internacionais e mundiais. Com a aprovação, o Brasil poderá cumprir suas obrigações financeiras com o Bureau Internacional de Exposições, organismo responsável por esse tipo de evento, e recuperar o direito de voto, suspenso desde 2015 devido ao acúmulo de contribuições em atraso. O Brasil é membro fundador da entidade. Para a relatora, senadora Dra. Eudócia (PSDB-AL), a abertura da possibilidade de organizar grandes eventos do gênero “é, a vários títulos, benfazeja tanto para a imagem do país no exterior quanto para a",
-        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
-        "discussao": "A controvérsia precisa de conferência na fonte integral.",
-        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
-        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
-        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
-        "aberto": "Confirmar regulamentações, recursos e pendências.",
-        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
-      },
-      "timeline": [
-        [
-          "2026-11-04",
           "Publicação detectada",
           "Efeitos jurídicos a conferir"
         ]
