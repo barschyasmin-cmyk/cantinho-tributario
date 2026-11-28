@@ -1,7 +1,7 @@
 {
   "kind": "official-publication-feed",
-  "checkedAt": "2026-11-27T12:22:43+00:00",
-  "lastSuccessfulRun": "2026-11-27T12:22:43+00:00",
+  "checkedAt": "2026-11-28T12:11:55+00:00",
+  "lastSuccessfulRun": "2026-11-28T12:11:55+00:00",
   "sources": [
     {
       "org": "Receita Federal",
@@ -21,10 +21,494 @@
     {
       "org": "Agência Senado",
       "ok": true,
-      "items": 15
+      "items": 11
     }
   ],
   "entries": [
+    {
+      "id": "auto-90b638399ddf5b9a",
+      "automated": true,
+      "title": "Vídeo: Sessão especial do Senado homenageia mulheres cientistas brasileiras",
+      "date": "2026-11-27",
+      "published": "2026-11-27",
+      "checked": "2026-11-28",
+      "addedAt": "2026-11-27T20:52:44+00:00",
+      "org": "Agência Senado",
+      "trib": "A identificar",
+      "category": "Atualização tributária",
+      "kind": "Notícia oficial (coleta automática)",
+      "impact": "A avaliar",
+      "status": "Efeitos jurídicos a verificar",
+      "stage": "Publicação identificada",
+      "summary": "O Senado realizou, nesta sexta-feira (27), uma sessão especial para homenagear as cientistas brasileiras por suas contribuições na produção de conhecimento, inovação e desenvolvimento do país. A sessão foi pedida pela senadora Leany Lemos (PSB-DF). As convidadas destacaram a importância de valorizar a representação feminina na ciência.",
+      "source": "https://www12.senado.leg.br/noticias/videos/2026/11/sessao-especial-do-senado-homenageia-mulheres-cientistas-brasileiras",
+      "sourceName": "Agência Senado · publicação oficial",
+      "topics": [
+        "Agência Senado"
+      ],
+      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
+      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
+      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
+      "now": "Publicação oficial identificada em 2026-11-27.",
+      "watch": "Conferir íntegra, vigência e próximos eventos.",
+      "sections": {
+        "aconteceu": "Agência Senado publicou: Vídeo: Sessão especial do Senado homenageia mulheres cientistas brasileiras. O Senado realizou, nesta sexta-feira (27), uma sessão especial para homenagear as cientistas brasileiras por suas contribuições na produção de conhecimento, inovação e desenvolvimento do país. A sessão foi pedida pela senadora Leany Lemos (PSB-DF). As convidadas destacaram a importância de valorizar a representação feminina na ciência.",
+        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
+        "discussao": "A controvérsia precisa de conferência na fonte integral.",
+        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
+        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
+        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
+        "aberto": "Confirmar regulamentações, recursos e pendências.",
+        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
+      },
+      "timeline": [
+        [
+          "2026-11-27",
+          "Publicação detectada",
+          "Efeitos jurídicos a conferir"
+        ]
+      ]
+    },
+    {
+      "id": "auto-3ae8953b6d13ffc6",
+      "automated": true,
+      "title": "Mulheres cientistas recebem homenagem no Senado e pedem apoio à pesquisa",
+      "date": "2026-11-27",
+      "published": "2026-11-27",
+      "checked": "2026-11-28",
+      "addedAt": "2026-11-27T20:13:18+00:00",
+      "org": "Agência Senado",
+      "trib": "A identificar",
+      "category": "Atualização tributária",
+      "kind": "Notícia oficial (coleta automática)",
+      "impact": "A avaliar",
+      "status": "Efeitos jurídicos a verificar",
+      "stage": "Publicação identificada",
+      "summary": "O Senado homenageou as mulheres cientistas brasileiras, na tarde desta sexta-feira (27), em uma sessão especial que reconheceu a contribuição delas para a produção de conhecimento, a inovação e o desenvolvimento do país. A sessão foi pedida e presidida pela senadora Leany Lemos (PSB-DF). Ela lembrou que as mulheres só conquistaram o direito de entrar no ensino superior no Brasil em 1879. Segundo a senadora, desde então elas continuam a enfrentar dificuldades no exercício da cidadania e na produção de conhecimento. — Apesar da enorme contribuição da comunidade de mulheres para o avanço da ciência em nosso país, nós ainda conhecemos pouco e celebramos pouco suas conquistas e suas contribuições — afirmou a senadora. Para Leany Lemos, divulgar conquistas e histórias de mulheres cientistas pode inspirar meninas e jovens mulheres a seguir o cam",
+      "source": "https://www12.senado.leg.br/noticias/materias/2026/11/27/mulheres-cientistas-recebem-homenagem-no-senado-e-pedem-apoio-a-pesquisa",
+      "sourceName": "Agência Senado · publicação oficial",
+      "topics": [
+        "Agência Senado"
+      ],
+      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
+      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
+      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
+      "now": "Publicação oficial identificada em 2026-11-27.",
+      "watch": "Conferir íntegra, vigência e próximos eventos.",
+      "sections": {
+        "aconteceu": "Agência Senado publicou: Mulheres cientistas recebem homenagem no Senado e pedem apoio à pesquisa. O Senado homenageou as mulheres cientistas brasileiras, na tarde desta sexta-feira (27), em uma sessão especial que reconheceu a contribuição delas para a produção de conhecimento, a inovação e o desenvolvimento do país. A sessão foi pedida e presidida pela senadora Leany Lemos (PSB-DF). Ela lembrou que as mulheres só conquistaram o direito de entrar no ensino superior no Brasil em 1879. Segundo a senadora, desde então elas continuam a enfrentar dificuldades no exercício da cidadania e na produção de conhecimento. — Apesar da enorme contribuição da comunidade de mulheres para o avanço da ciência em nosso país, nós ainda conhecemos pouco e celebramos pouco suas conquistas e suas contribuições — afirmou a senadora. Para Leany Lemos, divulgar conquistas e histórias de mulheres cientistas pode inspirar meninas e jovens mulheres a seguir o cam",
+        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
+        "discussao": "A controvérsia precisa de conferência na fonte integral.",
+        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
+        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
+        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
+        "aberto": "Confirmar regulamentações, recursos e pendências.",
+        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
+      },
+      "timeline": [
+        [
+          "2026-11-27",
+          "Publicação detectada",
+          "Efeitos jurídicos a conferir"
+        ]
+      ]
+    },
+    {
+      "id": "auto-072417aeccae8040",
+      "automated": true,
+      "title": "Emendas à LDO de 2027 tentam proteger programas e mudar a meta fiscal",
+      "date": "2026-11-27",
+      "published": "2026-11-27",
+      "checked": "2026-11-28",
+      "addedAt": "2026-11-27T18:06:03+00:00",
+      "org": "Agência Senado",
+      "trib": "A identificar",
+      "category": "Atualização tributária",
+      "kind": "Notícia oficial (coleta automática)",
+      "impact": "A avaliar",
+      "status": "Efeitos jurídicos a verificar",
+      "stage": "Publicação identificada",
+      "summary": "O projeto da Lei de Diretrizes Orçamentárias (LDO) de 2027 recebeu 1.504 emendas de deputados e senadores. Muitas delas tentam proteger programas específicos de cortes orçamentários. Do total, 246 se referem ao Anexo de Prioridades e Metas. Com as emendas, vários parlamentares tentam reduzir a meta fiscal a zero para evitar cortes. Outro grupo defende regras mais rígidas para que a dívida pública se estabilize mais rapidamente. O senador Rogerio Marinho (PL-RN) apresentou emenda que impõe novos limites de gastos caso o endividamento cresça mais que as despesas correntes. A LDO define as regras para a elaboração do Orçamento. O anexo lista as ações prioritárias para o ano seguinte, com metas de execução, a partir do Plano Plurianual 2024-2027. O governo bloqueia despesas quando o limite de gastos do arcabouço fiscal está em risco. Também p",
+      "source": "https://www12.senado.leg.br/noticias/materias/2026/11/27/emendas-a-ldo-de-2027-tentam-proteger-programas-e-mudar-a-meta-fiscal",
+      "sourceName": "Agência Senado · publicação oficial",
+      "topics": [
+        "Agência Senado"
+      ],
+      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
+      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
+      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
+      "now": "Publicação oficial identificada em 2026-11-27.",
+      "watch": "Conferir íntegra, vigência e próximos eventos.",
+      "sections": {
+        "aconteceu": "Agência Senado publicou: Emendas à LDO de 2027 tentam proteger programas e mudar a meta fiscal. O projeto da Lei de Diretrizes Orçamentárias (LDO) de 2027 recebeu 1.504 emendas de deputados e senadores. Muitas delas tentam proteger programas específicos de cortes orçamentários. Do total, 246 se referem ao Anexo de Prioridades e Metas. Com as emendas, vários parlamentares tentam reduzir a meta fiscal a zero para evitar cortes. Outro grupo defende regras mais rígidas para que a dívida pública se estabilize mais rapidamente. O senador Rogerio Marinho (PL-RN) apresentou emenda que impõe novos limites de gastos caso o endividamento cresça mais que as despesas correntes. A LDO define as regras para a elaboração do Orçamento. O anexo lista as ações prioritárias para o ano seguinte, com metas de execução, a partir do Plano Plurianual 2024-2027. O governo bloqueia despesas quando o limite de gastos do arcabouço fiscal está em risco. Também p",
+        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
+        "discussao": "A controvérsia precisa de conferência na fonte integral.",
+        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
+        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
+        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
+        "aberto": "Confirmar regulamentações, recursos e pendências.",
+        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
+      },
+      "timeline": [
+        [
+          "2026-11-27",
+          "Publicação detectada",
+          "Efeitos jurídicos a conferir"
+        ]
+      ]
+    },
+    {
+      "id": "auto-824bf2211c1317ed",
+      "automated": true,
+      "title": "Áudio: Proposta determina que haja pontos de apoio para trabalhadores da limpeza urbana",
+      "date": "2026-11-27",
+      "published": "2026-11-27",
+      "checked": "2026-11-28",
+      "addedAt": "2026-11-27T17:55:48+00:00",
+      "org": "Agência Senado",
+      "trib": "A identificar",
+      "category": "Atualização tributária",
+      "kind": "Notícia oficial (coleta automática)",
+      "impact": "A avaliar",
+      "status": "Efeitos jurídicos a verificar",
+      "stage": "Publicação identificada",
+      "summary": "O projeto de lei (PL 5.559/2026), do senador Wellington Fagundes (PL-MT), prevê a criação de pontos de apoio para trabalhadores da limpeza urbana e do manejo de resíduos sólidos. Os locais deverão oferecer banheiros, água potável, espaços protegidos para descanso e refeições. Também deverão contar com vestiários, chuveiros e armários. A estrutura ficará a cargo do poder público ou das empresas responsáveis pelo serviço. A proposta está na Comissão de Constituição e Justiça (CCJ), onde pode ser votado em caráter terminativo.",
+      "source": "https://www12.senado.leg.br/noticias/audios/2026/11/proposta-determina-que-haja-pontos-de-apoio-para-trabalhadores-da-limpeza-urbana",
+      "sourceName": "Agência Senado · publicação oficial",
+      "topics": [
+        "Agência Senado"
+      ],
+      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
+      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
+      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
+      "now": "Publicação oficial identificada em 2026-11-27.",
+      "watch": "Conferir íntegra, vigência e próximos eventos.",
+      "sections": {
+        "aconteceu": "Agência Senado publicou: Áudio: Proposta determina que haja pontos de apoio para trabalhadores da limpeza urbana. O projeto de lei (PL 5.559/2026), do senador Wellington Fagundes (PL-MT), prevê a criação de pontos de apoio para trabalhadores da limpeza urbana e do manejo de resíduos sólidos. Os locais deverão oferecer banheiros, água potável, espaços protegidos para descanso e refeições. Também deverão contar com vestiários, chuveiros e armários. A estrutura ficará a cargo do poder público ou das empresas responsáveis pelo serviço. A proposta está na Comissão de Constituição e Justiça (CCJ), onde pode ser votado em caráter terminativo.",
+        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
+        "discussao": "A controvérsia precisa de conferência na fonte integral.",
+        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
+        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
+        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
+        "aberto": "Confirmar regulamentações, recursos e pendências.",
+        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
+      },
+      "timeline": [
+        [
+          "2026-11-27",
+          "Publicação detectada",
+          "Efeitos jurídicos a conferir"
+        ]
+      ]
+    },
+    {
+      "id": "auto-50de8844a1982891",
+      "automated": true,
+      "title": "Áudio: CAE analisa projeto que torna obrigatória remoção de veículos abandonados",
+      "date": "2026-11-27",
+      "published": "2026-11-27",
+      "checked": "2026-11-28",
+      "addedAt": "2026-11-27T16:16:31+00:00",
+      "org": "Agência Senado",
+      "trib": "A identificar",
+      "category": "Atualização tributária",
+      "kind": "Notícia oficial (coleta automática)",
+      "impact": "A avaliar",
+      "status": "Efeitos jurídicos a verificar",
+      "stage": "Publicação identificada",
+      "summary": "Está na Comissão de Assuntos Econômicos (CAE) projeto que altera a Política Nacional de Resíduos Sólidos (Lei 12.305/2010) para tornar obrigatória a remoção de veículos abandonados em vias públicas, por oferecerem riscos ao meio ambiente e à saúde da população (PL 4.121/2020). A senadora Tereza Cristina (PP-MS) disse que \"a proposta aprimora a legislação e fortalece a lógica da economia circular\"; destacando que, atualmente, menos de 2% dos veículos em desuso no Brasil são reciclados.",
+      "source": "https://www12.senado.leg.br/noticias/audios/2026/11/cae-analisa-projeto-que-torna-obrigatoria-remocao-de-veiculos-abandonados",
+      "sourceName": "Agência Senado · publicação oficial",
+      "topics": [
+        "Agência Senado"
+      ],
+      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
+      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
+      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
+      "now": "Publicação oficial identificada em 2026-11-27.",
+      "watch": "Conferir íntegra, vigência e próximos eventos.",
+      "sections": {
+        "aconteceu": "Agência Senado publicou: Áudio: CAE analisa projeto que torna obrigatória remoção de veículos abandonados. Está na Comissão de Assuntos Econômicos (CAE) projeto que altera a Política Nacional de Resíduos Sólidos (Lei 12.305/2010) para tornar obrigatória a remoção de veículos abandonados em vias públicas, por oferecerem riscos ao meio ambiente e à saúde da população (PL 4.121/2020). A senadora Tereza Cristina (PP-MS) disse que \"a proposta aprimora a legislação e fortalece a lógica da economia circular\"; destacando que, atualmente, menos de 2% dos veículos em desuso no Brasil são reciclados.",
+        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
+        "discussao": "A controvérsia precisa de conferência na fonte integral.",
+        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
+        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
+        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
+        "aberto": "Confirmar regulamentações, recursos e pendências.",
+        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
+      },
+      "timeline": [
+        [
+          "2026-11-27",
+          "Publicação detectada",
+          "Efeitos jurídicos a conferir"
+        ]
+      ]
+    },
+    {
+      "id": "auto-4f16354d71706938",
+      "automated": true,
+      "title": "Áudio: Projeto incentiva compra de alimentos da agricultura familiar para merenda",
+      "date": "2026-11-27",
+      "published": "2026-11-27",
+      "checked": "2026-11-28",
+      "addedAt": "2026-11-27T15:53:31+00:00",
+      "org": "Agência Senado",
+      "trib": "A identificar",
+      "category": "Atualização tributária",
+      "kind": "Notícia oficial (coleta automática)",
+      "impact": "A avaliar",
+      "status": "Efeitos jurídicos a verificar",
+      "stage": "Publicação identificada",
+      "summary": "A Comissão de Agricultura e Reforma Agrária do Senado (CRA) aprovou na quarta-feira (25) uma proposta que incentiva os municípios a comprarem alimentos provenientes da agricultura familiar, para que sejam destinados à merenda escolar. O projeto (PL 1/2024) segue para análise na Comissão de Educação e Cultura do Senado (CE). Ouça o áudio.",
+      "source": "https://www12.senado.leg.br/noticias/audios/2026/11/projeto-incentiva-compra-de-alimentos-da-agricultura-familiar-para-merenda",
+      "sourceName": "Agência Senado · publicação oficial",
+      "topics": [
+        "Agência Senado"
+      ],
+      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
+      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
+      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
+      "now": "Publicação oficial identificada em 2026-11-27.",
+      "watch": "Conferir íntegra, vigência e próximos eventos.",
+      "sections": {
+        "aconteceu": "Agência Senado publicou: Áudio: Projeto incentiva compra de alimentos da agricultura familiar para merenda. A Comissão de Agricultura e Reforma Agrária do Senado (CRA) aprovou na quarta-feira (25) uma proposta que incentiva os municípios a comprarem alimentos provenientes da agricultura familiar, para que sejam destinados à merenda escolar. O projeto (PL 1/2024) segue para análise na Comissão de Educação e Cultura do Senado (CE). Ouça o áudio.",
+        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
+        "discussao": "A controvérsia precisa de conferência na fonte integral.",
+        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
+        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
+        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
+        "aberto": "Confirmar regulamentações, recursos e pendências.",
+        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
+      },
+      "timeline": [
+        [
+          "2026-11-27",
+          "Publicação detectada",
+          "Efeitos jurídicos a conferir"
+        ]
+      ]
+    },
+    {
+      "id": "auto-0d11a07c1d6259f1",
+      "automated": true,
+      "title": "Áudio: Projeto permite que estados e municípios exijam programas de integridade em licitações",
+      "date": "2026-11-27",
+      "published": "2026-11-27",
+      "checked": "2026-11-28",
+      "addedAt": "2026-11-27T15:46:01+00:00",
+      "org": "Agência Senado",
+      "trib": "A identificar",
+      "category": "Atualização tributária",
+      "kind": "Notícia oficial (coleta automática)",
+      "impact": "A avaliar",
+      "status": "Efeitos jurídicos a verificar",
+      "stage": "Publicação identificada",
+      "summary": "O projeto de lei que permite que estados e municípios exijam programas de integridade em licitações de valor inferior ao dos contratos “de grande vulto” (PL 4.687/2023) avançou no Senado: o texto recebeu na quarta-feira (25) parecer favorável na Comissão de Constituição, Justiça e Cidadania e deve seguir para análise na Câmara dos Deputados. Ouça o áudio.",
+      "source": "https://www12.senado.leg.br/noticias/audios/2026/11/projeto-permite-que-estados-e-municipios-exijam-programas-de-integridade-em-licitacoes",
+      "sourceName": "Agência Senado · publicação oficial",
+      "topics": [
+        "Agência Senado"
+      ],
+      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
+      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
+      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
+      "now": "Publicação oficial identificada em 2026-11-27.",
+      "watch": "Conferir íntegra, vigência e próximos eventos.",
+      "sections": {
+        "aconteceu": "Agência Senado publicou: Áudio: Projeto permite que estados e municípios exijam programas de integridade em licitações. O projeto de lei que permite que estados e municípios exijam programas de integridade em licitações de valor inferior ao dos contratos “de grande vulto” (PL 4.687/2023) avançou no Senado: o texto recebeu na quarta-feira (25) parecer favorável na Comissão de Constituição, Justiça e Cidadania e deve seguir para análise na Câmara dos Deputados. Ouça o áudio.",
+        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
+        "discussao": "A controvérsia precisa de conferência na fonte integral.",
+        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
+        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
+        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
+        "aberto": "Confirmar regulamentações, recursos e pendências.",
+        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
+      },
+      "timeline": [
+        [
+          "2026-11-27",
+          "Publicação detectada",
+          "Efeitos jurídicos a conferir"
+        ]
+      ]
+    },
+    {
+      "id": "auto-84a5ab27da299881",
+      "automated": true,
+      "title": "Áudio: Nova agência poderá coordenar prevenção a ataques digitais",
+      "date": "2026-11-27",
+      "published": "2026-11-27",
+      "checked": "2026-11-28",
+      "addedAt": "2026-11-27T15:05:42+00:00",
+      "org": "Agência Senado",
+      "trib": "A identificar",
+      "category": "Atualização tributária",
+      "kind": "Notícia oficial (coleta automática)",
+      "impact": "A avaliar",
+      "status": "Efeitos jurídicos a verificar",
+      "stage": "Publicação identificada",
+      "summary": "A Comissão de Relações Exteriores e Defesa Nacional (CRE) aprovou, na quarta-feira (25), relatório de atividades do senador Nelsinho Trad (PSD-MS) sobre a Política Nacional de Cibersegurança. Para coordenar ações de prevenção e resposta a ataques digitais, o documento recomenda a criação da Agência Nacional de Cibersegurança, com autonomia administrativa e financeira e autoridade para atuar em todo o território nacional. O relatório também defende uma lei federal com regras de proteção para órgãos públicos e empresas, a ampliação do ensino e capacitação em cibersegurança, e o estímulo à pesquisa e ao desenvolvimento de tecnologias nacionais.",
+      "source": "https://www12.senado.leg.br/noticias/audios/2026/11/nova-agencia-podera-coordenar-prevencao-a-ataques-digitais",
+      "sourceName": "Agência Senado · publicação oficial",
+      "topics": [
+        "Agência Senado"
+      ],
+      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
+      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
+      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
+      "now": "Publicação oficial identificada em 2026-11-27.",
+      "watch": "Conferir íntegra, vigência e próximos eventos.",
+      "sections": {
+        "aconteceu": "Agência Senado publicou: Áudio: Nova agência poderá coordenar prevenção a ataques digitais. A Comissão de Relações Exteriores e Defesa Nacional (CRE) aprovou, na quarta-feira (25), relatório de atividades do senador Nelsinho Trad (PSD-MS) sobre a Política Nacional de Cibersegurança. Para coordenar ações de prevenção e resposta a ataques digitais, o documento recomenda a criação da Agência Nacional de Cibersegurança, com autonomia administrativa e financeira e autoridade para atuar em todo o território nacional. O relatório também defende uma lei federal com regras de proteção para órgãos públicos e empresas, a ampliação do ensino e capacitação em cibersegurança, e o estímulo à pesquisa e ao desenvolvimento de tecnologias nacionais.",
+        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
+        "discussao": "A controvérsia precisa de conferência na fonte integral.",
+        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
+        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
+        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
+        "aberto": "Confirmar regulamentações, recursos e pendências.",
+        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
+      },
+      "timeline": [
+        [
+          "2026-11-27",
+          "Publicação detectada",
+          "Efeitos jurídicos a conferir"
+        ]
+      ]
+    },
+    {
+      "id": "auto-378f8ae323924ccf",
+      "automated": true,
+      "title": "Sancionada lei que atualiza ECA para garantir educação básica obrigatória",
+      "date": "2026-11-27",
+      "published": "2026-11-27",
+      "checked": "2026-11-28",
+      "addedAt": "2026-11-27T14:43:00+00:00",
+      "org": "Agência Senado",
+      "trib": "A identificar",
+      "category": "Atualização tributária",
+      "kind": "Notícia oficial (coleta automática)",
+      "impact": "A avaliar",
+      "status": "Efeitos jurídicos a verificar",
+      "stage": "Publicação identificada",
+      "summary": "O Estatuto da Criança e do Adolescente (ECA) passa a prever expressamente a oferta obrigatória e gratuita da educação básica dos 4 aos 17 anos de idade, além de assegurar o acesso gratuito a jovens e adultos que não tiveram a oportunidade de estudar na idade adequada. A medida consta da Lei 15.555, sancionada pelo presidente Luiz Inácio Lula da Silva e publicada no Diário Oficial da União desta sexta-feira (27). A norma, que já está em vigor, adequa o estatuto à Constituição Federal. Até então, o ECA previa a obrigatoriedade e a gratuidade apenas para o ensino fundamental (que vai do 1º ao 9º ano). A atualização contempla também a pré-escola e o ensino médio, que integram a educação básica. A lei também inclui formalmente no ECA a ampliação, para todas as etapas da educação básica, da oferta de programas suplementares de material didático",
+      "source": "https://www12.senado.leg.br/noticias/materias/2026/11/27/sancionada-lei-que-atualiza-eca-para-garantir-educacao-basica-obrigatoria",
+      "sourceName": "Agência Senado · publicação oficial",
+      "topics": [
+        "Agência Senado"
+      ],
+      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
+      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
+      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
+      "now": "Publicação oficial identificada em 2026-11-27.",
+      "watch": "Conferir íntegra, vigência e próximos eventos.",
+      "sections": {
+        "aconteceu": "Agência Senado publicou: Sancionada lei que atualiza ECA para garantir educação básica obrigatória. O Estatuto da Criança e do Adolescente (ECA) passa a prever expressamente a oferta obrigatória e gratuita da educação básica dos 4 aos 17 anos de idade, além de assegurar o acesso gratuito a jovens e adultos que não tiveram a oportunidade de estudar na idade adequada. A medida consta da Lei 15.555, sancionada pelo presidente Luiz Inácio Lula da Silva e publicada no Diário Oficial da União desta sexta-feira (27). A norma, que já está em vigor, adequa o estatuto à Constituição Federal. Até então, o ECA previa a obrigatoriedade e a gratuidade apenas para o ensino fundamental (que vai do 1º ao 9º ano). A atualização contempla também a pré-escola e o ensino médio, que integram a educação básica. A lei também inclui formalmente no ECA a ampliação, para todas as etapas da educação básica, da oferta de programas suplementares de material didático",
+        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
+        "discussao": "A controvérsia precisa de conferência na fonte integral.",
+        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
+        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
+        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
+        "aberto": "Confirmar regulamentações, recursos e pendências.",
+        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
+      },
+      "timeline": [
+        [
+          "2026-11-27",
+          "Publicação detectada",
+          "Efeitos jurídicos a conferir"
+        ]
+      ]
+    },
+    {
+      "id": "auto-083864a507018181",
+      "automated": true,
+      "title": "Lei autoriza crédito de R$ 21,5 milhões para as Justiças Federal e do Trabalho",
+      "date": "2026-11-27",
+      "published": "2026-11-27",
+      "checked": "2026-11-28",
+      "addedAt": "2026-11-27T14:12:54+00:00",
+      "org": "Agência Senado",
+      "trib": "A identificar",
+      "category": "Atualização tributária",
+      "kind": "Notícia oficial (coleta automática)",
+      "impact": "A avaliar",
+      "status": "Efeitos jurídicos a verificar",
+      "stage": "Publicação identificada",
+      "summary": "A Justiça Federal e a Justiça do Trabalho receberão R$ 21,5 milhões em crédito especial para cobrir despesas com aposentadorias compulsórias de magistrados — quando o juiz era punido disciplinarmente com a aposentadoria e passava a receber proventos proporcionais ao tempo de serviço. A autorização consta da Lei 15.554, sancionada pelo presidente Luiz Inácio Lula da Silva e publicada nesta sexta-feira (27) no Diário Oficial da União. Os recursos serão utilizados para criar uma nova categoria de programação no orçamento dos órgãos, de forma a registrar e identificar de maneira específica as despesas com o pagamento de magistrados aposentados compulsoriamente. Neste ano, o Supremo Tribunal Federal (STF) e o Conselho Nacional de Justiça (CNJ) extinguiram a aposentadoria compulsória como punição máxima ao juiz, substituindo-a pela perda do car",
+      "source": "https://www12.senado.leg.br/noticias/materias/2026/11/27/lei-autoriza-credito-de-r-21-5-milhoes-para-as-justicas-federal-e-do-trabalho",
+      "sourceName": "Agência Senado · publicação oficial",
+      "topics": [
+        "Agência Senado"
+      ],
+      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
+      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
+      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
+      "now": "Publicação oficial identificada em 2026-11-27.",
+      "watch": "Conferir íntegra, vigência e próximos eventos.",
+      "sections": {
+        "aconteceu": "Agência Senado publicou: Lei autoriza crédito de R$ 21,5 milhões para as Justiças Federal e do Trabalho. A Justiça Federal e a Justiça do Trabalho receberão R$ 21,5 milhões em crédito especial para cobrir despesas com aposentadorias compulsórias de magistrados — quando o juiz era punido disciplinarmente com a aposentadoria e passava a receber proventos proporcionais ao tempo de serviço. A autorização consta da Lei 15.554, sancionada pelo presidente Luiz Inácio Lula da Silva e publicada nesta sexta-feira (27) no Diário Oficial da União. Os recursos serão utilizados para criar uma nova categoria de programação no orçamento dos órgãos, de forma a registrar e identificar de maneira específica as despesas com o pagamento de magistrados aposentados compulsoriamente. Neste ano, o Supremo Tribunal Federal (STF) e o Conselho Nacional de Justiça (CNJ) extinguiram a aposentadoria compulsória como punição máxima ao juiz, substituindo-a pela perda do car",
+        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
+        "discussao": "A controvérsia precisa de conferência na fonte integral.",
+        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
+        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
+        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
+        "aberto": "Confirmar regulamentações, recursos e pendências.",
+        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
+      },
+      "timeline": [
+        [
+          "2026-11-27",
+          "Publicação detectada",
+          "Efeitos jurídicos a conferir"
+        ]
+      ]
+    },
+    {
+      "id": "auto-ede2902825544ff0",
+      "automated": true,
+      "title": "Áudio: IFI analisa cenários para alíquota da CBS e impacto de isenções fiscais no tributo",
+      "date": "2026-11-27",
+      "published": "2026-11-27",
+      "checked": "2026-11-28",
+      "addedAt": "2026-11-27T12:52:39+00:00",
+      "org": "Agência Senado",
+      "trib": "A identificar",
+      "category": "Reforma Tributária",
+      "kind": "Notícia oficial (coleta automática)",
+      "impact": "A avaliar",
+      "status": "Efeitos jurídicos a verificar",
+      "stage": "Publicação identificada",
+      "summary": "A Instituição Fiscal Independente (IFI) publicou uma nota técnica com simulações sobre a alíquota de referência da Contribuição sobre Bens e Serviços (CBS), tributo federal criado pela reforma tributária e que entra em vigor em 2027. O estudo tem o objetivo de subsidiar os senadores, que têm até o dia 15 de dezembro para fixar um percentual. A IFI, vinculada ao Senado, projeta cenários sem isenções fiscais (o que permitiria uma alíquota menor do que a estimada pelo TCU, de 11,3%) e avalia variações no hiato de conformidade, que é a diferença entre o que o governo deveria arrecadar em tese e o que realmente arrecada.",
+      "source": "https://www12.senado.leg.br/noticias/audios/2026/11/ifi-analisa-cenarios-para-aliquota-da-cbs-e-impacto-de-isencoes-fiscais-no-tributo",
+      "sourceName": "Agência Senado · publicação oficial",
+      "topics": [
+        "Agência Senado"
+      ],
+      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
+      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
+      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
+      "now": "Publicação oficial identificada em 2026-11-27.",
+      "watch": "Conferir íntegra, vigência e próximos eventos.",
+      "sections": {
+        "aconteceu": "Agência Senado publicou: Áudio: IFI analisa cenários para alíquota da CBS e impacto de isenções fiscais no tributo. A Instituição Fiscal Independente (IFI) publicou uma nota técnica com simulações sobre a alíquota de referência da Contribuição sobre Bens e Serviços (CBS), tributo federal criado pela reforma tributária e que entra em vigor em 2027. O estudo tem o objetivo de subsidiar os senadores, que têm até o dia 15 de dezembro para fixar um percentual. A IFI, vinculada ao Senado, projeta cenários sem isenções fiscais (o que permitiria uma alíquota menor do que a estimada pelo TCU, de 11,3%) e avalia variações no hiato de conformidade, que é a diferença entre o que o governo deveria arrecadar em tese e o que realmente arrecada.",
+        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
+        "discussao": "A controvérsia precisa de conferência na fonte integral.",
+        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
+        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
+        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
+        "aberto": "Confirmar regulamentações, recursos e pendências.",
+        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
+      },
+      "timeline": [
+        [
+          "2026-11-27",
+          "Publicação detectada",
+          "Efeitos jurídicos a conferir"
+        ]
+      ]
+    },
     {
       "id": "auto-96ddb391041635e2",
       "automated": true,
@@ -10525,490 +11009,6 @@
       "watch": "Conferir íntegra, vigência e próximos eventos.",
       "sections": {
         "aconteceu": "STJ publicou: Rádio Decidendi aborda relação entre os repetitivos e o novo modelo da relevância. Rádio Decidendi aborda relação entre os repetitivos e o novo modelo da relevância",
-        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
-        "discussao": "A controvérsia precisa de conferência na fonte integral.",
-        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
-        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
-        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
-        "aberto": "Confirmar regulamentações, recursos e pendências.",
-        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
-      },
-      "timeline": [
-        [
-          "2026-11-05",
-          "Publicação detectada",
-          "Efeitos jurídicos a conferir"
-        ]
-      ]
-    },
-    {
-      "id": "auto-0c07c2a59516ee02",
-      "automated": true,
-      "title": "STJ lança tutorial sobre nova página do calendário de sessões de julgamento",
-      "date": "2026-11-05",
-      "published": "2026-11-05",
-      "checked": "2026-11-25",
-      "addedAt": "2026-11-05T07:10:00+00:00",
-      "org": "STJ",
-      "trib": "A identificar",
-      "category": "Jurisprudência",
-      "kind": "Notícia oficial (coleta automática)",
-      "impact": "A avaliar",
-      "status": "Efeitos jurídicos a verificar",
-      "stage": "Publicação identificada",
-      "summary": "STJ lança tutorial sobre nova página do calendário de sessões de julgamento",
-      "source": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/05112026-STJ-lanca-tutorial-sobre-nova-pagina-do-calendario-de-sessoes-de-julgamento.aspx",
-      "sourceName": "STJ · publicação oficial",
-      "topics": [
-        "STJ"
-      ],
-      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
-      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
-      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
-      "now": "Publicação oficial identificada em 2026-11-05.",
-      "watch": "Conferir íntegra, vigência e próximos eventos.",
-      "sections": {
-        "aconteceu": "STJ publicou: STJ lança tutorial sobre nova página do calendário de sessões de julgamento. STJ lança tutorial sobre nova página do calendário de sessões de julgamento",
-        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
-        "discussao": "A controvérsia precisa de conferência na fonte integral.",
-        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
-        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
-        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
-        "aberto": "Confirmar regulamentações, recursos e pendências.",
-        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
-      },
-      "timeline": [
-        [
-          "2026-11-05",
-          "Publicação detectada",
-          "Efeitos jurídicos a conferir"
-        ]
-      ]
-    },
-    {
-      "id": "auto-c626a692c7b2cd01",
-      "automated": true,
-      "title": "STJ realiza Encontro Nacional sobre a Relevância da Questão de Direito Federal, com transmissão ao vivo",
-      "date": "2026-11-05",
-      "published": "2026-11-05",
-      "checked": "2026-11-25",
-      "addedAt": "2026-11-05T06:00:00+00:00",
-      "org": "STJ",
-      "trib": "A identificar",
-      "category": "Jurisprudência",
-      "kind": "Notícia oficial (coleta automática)",
-      "impact": "A avaliar",
-      "status": "Efeitos jurídicos a verificar",
-      "stage": "Publicação identificada",
-      "summary": "STJ realiza Encontro Nacional sobre a Relevância da Questão de Direito Federal, com transmissão ao vivo",
-      "source": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/04112026-STJ-realiza-Encontro-Nacional-sobre-a-Relevancia-da-Questao-de-Direito-Federal--com-transmissao-ao-vivo.aspx",
-      "sourceName": "STJ · publicação oficial",
-      "topics": [
-        "STJ"
-      ],
-      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
-      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
-      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
-      "now": "Publicação oficial identificada em 2026-11-05.",
-      "watch": "Conferir íntegra, vigência e próximos eventos.",
-      "sections": {
-        "aconteceu": "STJ publicou: STJ realiza Encontro Nacional sobre a Relevância da Questão de Direito Federal, com transmissão ao vivo. STJ realiza Encontro Nacional sobre a Relevância da Questão de Direito Federal, com transmissão ao vivo",
-        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
-        "discussao": "A controvérsia precisa de conferência na fonte integral.",
-        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
-        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
-        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
-        "aberto": "Confirmar regulamentações, recursos e pendências.",
-        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
-      },
-      "timeline": [
-        [
-          "2026-11-05",
-          "Publicação detectada",
-          "Efeitos jurídicos a conferir"
-        ]
-      ]
-    },
-    {
-      "id": "auto-fae27e3a789f1396",
-      "automated": true,
-      "title": "Em sessão em Plenário, Paim relaciona paz à vitória democrata nos EUA",
-      "date": "2026-11-05",
-      "published": "2026-11-05",
-      "checked": "2026-11-06",
-      "addedAt": "2026-11-05T21:36:43+00:00",
-      "org": "Agência Senado",
-      "trib": "A identificar",
-      "category": "Atualização tributária",
-      "kind": "Notícia oficial (coleta automática)",
-      "impact": "A avaliar",
-      "status": "Efeitos jurídicos a verificar",
-      "stage": "Publicação identificada",
-      "summary": "A paz mundial ganhou um novo fôlego com a vitória do Partido Democrata nas eleições dos EUA de meio de mandato, que ocorreram nesta semana. Foi o que afirmou o senador Paulo Paim (PT-RS) durante o lançamento da Frente Parlamentar pela Paz Mundial, nesta quinta-feira (5). Ele declarou que a conquista, por esse partido, da maioria das vagas no Senado e na Câmara daquele país, além da eleição de um grande número de governadores, representa um sinal de esperança para aqueles que acreditam na democracia, no diálogo e no respeito à vida. O objetivo da nova frente parlamentar é fortalecer a atuação do Senado brasileiro em defesa da paz, bem como estimular o engajamento em ações e políticas que favoreçam a justiça social. O grupo é presidido pelo senador gaúcho e tem como vice-presidente o senador Flávio Arns (PSB-PR). Na abertura do evento, Paim",
-      "source": "https://www12.senado.leg.br/noticias/materias/2026/11/05/em-sessao-em-plenario-paim-relaciona-paz-a-vitoria-democrata-nos-eua",
-      "sourceName": "Agência Senado · publicação oficial",
-      "topics": [
-        "Agência Senado"
-      ],
-      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
-      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
-      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
-      "now": "Publicação oficial identificada em 2026-11-05.",
-      "watch": "Conferir íntegra, vigência e próximos eventos.",
-      "sections": {
-        "aconteceu": "Agência Senado publicou: Em sessão em Plenário, Paim relaciona paz à vitória democrata nos EUA. A paz mundial ganhou um novo fôlego com a vitória do Partido Democrata nas eleições dos EUA de meio de mandato, que ocorreram nesta semana. Foi o que afirmou o senador Paulo Paim (PT-RS) durante o lançamento da Frente Parlamentar pela Paz Mundial, nesta quinta-feira (5). Ele declarou que a conquista, por esse partido, da maioria das vagas no Senado e na Câmara daquele país, além da eleição de um grande número de governadores, representa um sinal de esperança para aqueles que acreditam na democracia, no diálogo e no respeito à vida. O objetivo da nova frente parlamentar é fortalecer a atuação do Senado brasileiro em defesa da paz, bem como estimular o engajamento em ações e políticas que favoreçam a justiça social. O grupo é presidido pelo senador gaúcho e tem como vice-presidente o senador Flávio Arns (PSB-PR). Na abertura do evento, Paim",
-        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
-        "discussao": "A controvérsia precisa de conferência na fonte integral.",
-        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
-        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
-        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
-        "aberto": "Confirmar regulamentações, recursos e pendências.",
-        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
-      },
-      "timeline": [
-        [
-          "2026-11-05",
-          "Publicação detectada",
-          "Efeitos jurídicos a conferir"
-        ]
-      ]
-    },
-    {
-      "id": "auto-7ccfd1a74d57ebfc",
-      "automated": true,
-      "title": "Áudio: Aprovado em comissão mista relatório de MP que amplia crédito à exportação",
-      "date": "2026-11-05",
-      "published": "2026-11-05",
-      "checked": "2026-11-06",
-      "addedAt": "2026-11-05T20:34:08+00:00",
-      "org": "Agência Senado",
-      "trib": "A identificar",
-      "category": "Atualização tributária",
-      "kind": "Notícia oficial (coleta automática)",
-      "impact": "A avaliar",
-      "status": "Efeitos jurídicos a verificar",
-      "stage": "Publicação identificada",
-      "summary": "A comissão mista da medida provisória do Plano Brasil Soberano 3 (MPV 1.379/2026), que abre crédito de até R$ 18,5 bilhões para empresas exportadoras prejudicadas pelo “tarifaço” dos EUA e pelos conflitos no Oriente Médio, aprovou o relatório da senadora Leany Lemos (PSB-DF), favorável ao texto do governo. A medida precisa ser votada pela Câmara e pelo Senado até o dia 18 de novembro, para não perder a validade.",
-      "source": "https://www12.senado.leg.br/noticias/audios/2026/11/aprovado-em-comissao-mista-relatorio-de-mp-que-amplia-credito-a-exportacao",
-      "sourceName": "Agência Senado · publicação oficial",
-      "topics": [
-        "Agência Senado"
-      ],
-      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
-      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
-      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
-      "now": "Publicação oficial identificada em 2026-11-05.",
-      "watch": "Conferir íntegra, vigência e próximos eventos.",
-      "sections": {
-        "aconteceu": "Agência Senado publicou: Áudio: Aprovado em comissão mista relatório de MP que amplia crédito à exportação. A comissão mista da medida provisória do Plano Brasil Soberano 3 (MPV 1.379/2026), que abre crédito de até R$ 18,5 bilhões para empresas exportadoras prejudicadas pelo “tarifaço” dos EUA e pelos conflitos no Oriente Médio, aprovou o relatório da senadora Leany Lemos (PSB-DF), favorável ao texto do governo. A medida precisa ser votada pela Câmara e pelo Senado até o dia 18 de novembro, para não perder a validade.",
-        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
-        "discussao": "A controvérsia precisa de conferência na fonte integral.",
-        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
-        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
-        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
-        "aberto": "Confirmar regulamentações, recursos e pendências.",
-        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
-      },
-      "timeline": [
-        [
-          "2026-11-05",
-          "Publicação detectada",
-          "Efeitos jurídicos a conferir"
-        ]
-      ]
-    },
-    {
-      "id": "auto-6588d7755529796c",
-      "automated": true,
-      "title": "Áudio: Avança projeto que pune quem registra intimidade sexual de outra pessoa",
-      "date": "2026-11-05",
-      "published": "2026-11-05",
-      "checked": "2026-11-06",
-      "addedAt": "2026-11-05T20:33:53+00:00",
-      "org": "Agência Senado",
-      "trib": "A identificar",
-      "category": "Atualização tributária",
-      "kind": "Notícia oficial (coleta automática)",
-      "impact": "A avaliar",
-      "status": "Efeitos jurídicos a verificar",
-      "stage": "Publicação identificada",
-      "summary": "O projeto de lei que estabelece punições para quem registra sem autorização, com câmeras ou outros dispositivos eletrônicos, a intimidade sexual de outra pessoa avançou em sua tramitação no Senado: o projeto (PL 4.924/2023) recebeu parecer favorável da Comissão de Ciência e Tecnologia na quarta-feira (4) e agora segue para análise na Comissão de Constituição e Justiça e Cidadania. Ouça o áudio.",
-      "source": "https://www12.senado.leg.br/noticias/audios/2026/11/avanca-projeto-que-pune-quem-registra-intimidade-sexual-de-outra-pessoa",
-      "sourceName": "Agência Senado · publicação oficial",
-      "topics": [
-        "Agência Senado"
-      ],
-      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
-      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
-      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
-      "now": "Publicação oficial identificada em 2026-11-05.",
-      "watch": "Conferir íntegra, vigência e próximos eventos.",
-      "sections": {
-        "aconteceu": "Agência Senado publicou: Áudio: Avança projeto que pune quem registra intimidade sexual de outra pessoa. O projeto de lei que estabelece punições para quem registra sem autorização, com câmeras ou outros dispositivos eletrônicos, a intimidade sexual de outra pessoa avançou em sua tramitação no Senado: o projeto (PL 4.924/2023) recebeu parecer favorável da Comissão de Ciência e Tecnologia na quarta-feira (4) e agora segue para análise na Comissão de Constituição e Justiça e Cidadania. Ouça o áudio.",
-        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
-        "discussao": "A controvérsia precisa de conferência na fonte integral.",
-        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
-        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
-        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
-        "aberto": "Confirmar regulamentações, recursos e pendências.",
-        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
-      },
-      "timeline": [
-        [
-          "2026-11-05",
-          "Publicação detectada",
-          "Efeitos jurídicos a conferir"
-        ]
-      ]
-    },
-    {
-      "id": "auto-0e69ba801a68f53d",
-      "automated": true,
-      "title": "Áudio: Projeto traz novas regras para o acolhimento emergencial de crianças e adolescentes",
-      "date": "2026-11-05",
-      "published": "2026-11-05",
-      "checked": "2026-11-06",
-      "addedAt": "2026-11-05T20:04:04+00:00",
-      "org": "Agência Senado",
-      "trib": "A identificar",
-      "category": "Atualização tributária",
-      "kind": "Notícia oficial (coleta automática)",
-      "impact": "A avaliar",
-      "status": "Efeitos jurídicos a verificar",
-      "stage": "Publicação identificada",
-      "summary": "O projeto de lei que estabelece novas regras para o acolhimento emergencial de crianças e adolescentes (PL 1.341/2026) avançou em sua tramitação no Senado: o texto recebeu parecer favorável na Comissão de Direitos Humanos na quarta-feira (4) e segue para análise na Comissão de Constituição e Justiça. Ouça o áudio.",
-      "source": "https://www12.senado.leg.br/noticias/audios/2026/11/projeto-traz-novas-regras-para-o-acolhimento-emergencial-de-criancas-e-adolescentes",
-      "sourceName": "Agência Senado · publicação oficial",
-      "topics": [
-        "Agência Senado"
-      ],
-      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
-      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
-      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
-      "now": "Publicação oficial identificada em 2026-11-05.",
-      "watch": "Conferir íntegra, vigência e próximos eventos.",
-      "sections": {
-        "aconteceu": "Agência Senado publicou: Áudio: Projeto traz novas regras para o acolhimento emergencial de crianças e adolescentes. O projeto de lei que estabelece novas regras para o acolhimento emergencial de crianças e adolescentes (PL 1.341/2026) avançou em sua tramitação no Senado: o texto recebeu parecer favorável na Comissão de Direitos Humanos na quarta-feira (4) e segue para análise na Comissão de Constituição e Justiça. Ouça o áudio.",
-        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
-        "discussao": "A controvérsia precisa de conferência na fonte integral.",
-        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
-        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
-        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
-        "aberto": "Confirmar regulamentações, recursos e pendências.",
-        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
-      },
-      "timeline": [
-        [
-          "2026-11-05",
-          "Publicação detectada",
-          "Efeitos jurídicos a conferir"
-        ]
-      ]
-    },
-    {
-      "id": "auto-c6497101cab0f5e4",
-      "automated": true,
-      "title": "Comissão aprova ampliação de R$ 13,5 bilhões no crédito a exportadores",
-      "date": "2026-11-05",
-      "published": "2026-11-05",
-      "checked": "2026-11-06",
-      "addedAt": "2026-11-05T20:01:32+00:00",
-      "org": "Agência Senado",
-      "trib": "A identificar",
-      "category": "Atualização tributária",
-      "kind": "Notícia oficial (coleta automática)",
-      "impact": "A avaliar",
-      "status": "Efeitos jurídicos a verificar",
-      "stage": "Publicação identificada",
-      "summary": "A Comissão Mista da Medida Provisória (MP) 1.379/2026 aprovou nesta quinta-feira (5) a ampliação em até R$ 13,5 bilhões dos recursos do Plano Brasil Soberano destinados a empresas exportadoras e seus fornecedores. A proposta recebeu parecer favorável da senadora Leany Lemos (PSB-DF), com uma emenda, e segue para análise dos Plenários da Câmara dos Deputados e do Senado. A medida altera a Lei 15.473, de 2026, que criou linhas de financiamento para empresas afetadas por tarifas comerciais e instabilidades internacionais. Atualmente, o programa prevê até R$ 15 bilhões em recursos da União. Com a ampliação, o limite poderá chegar a R$ 28,5 bilhões. A tramitação do texto foi acelerada, explicou o senador Randolfe Rodrigues (PT-AP), vice-presidente da comissão, devido ao prazo exíguo até a perda de eficácia da MP: o próximo dia 18. Segundo Rand",
-      "source": "https://www12.senado.leg.br/noticias/materias/2026/11/05/comissao-aprova-ampliacao-de-r-13-5-bilhoes-no-credito-a-exportadores",
-      "sourceName": "Agência Senado · publicação oficial",
-      "topics": [
-        "Agência Senado"
-      ],
-      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
-      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
-      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
-      "now": "Publicação oficial identificada em 2026-11-05.",
-      "watch": "Conferir íntegra, vigência e próximos eventos.",
-      "sections": {
-        "aconteceu": "Agência Senado publicou: Comissão aprova ampliação de R$ 13,5 bilhões no crédito a exportadores. A Comissão Mista da Medida Provisória (MP) 1.379/2026 aprovou nesta quinta-feira (5) a ampliação em até R$ 13,5 bilhões dos recursos do Plano Brasil Soberano destinados a empresas exportadoras e seus fornecedores. A proposta recebeu parecer favorável da senadora Leany Lemos (PSB-DF), com uma emenda, e segue para análise dos Plenários da Câmara dos Deputados e do Senado. A medida altera a Lei 15.473, de 2026, que criou linhas de financiamento para empresas afetadas por tarifas comerciais e instabilidades internacionais. Atualmente, o programa prevê até R$ 15 bilhões em recursos da União. Com a ampliação, o limite poderá chegar a R$ 28,5 bilhões. A tramitação do texto foi acelerada, explicou o senador Randolfe Rodrigues (PT-AP), vice-presidente da comissão, devido ao prazo exíguo até a perda de eficácia da MP: o próximo dia 18. Segundo Rand",
-        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
-        "discussao": "A controvérsia precisa de conferência na fonte integral.",
-        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
-        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
-        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
-        "aberto": "Confirmar regulamentações, recursos e pendências.",
-        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
-      },
-      "timeline": [
-        [
-          "2026-11-05",
-          "Publicação detectada",
-          "Efeitos jurídicos a conferir"
-        ]
-      ]
-    },
-    {
-      "id": "auto-d3131eb508e3c74d",
-      "automated": true,
-      "title": "Áudio: Estatuto do Ribeirinho deve ter debate na Comissão de Meio Ambiente",
-      "date": "2026-11-05",
-      "published": "2026-11-05",
-      "checked": "2026-11-06",
-      "addedAt": "2026-11-05T20:00:52+00:00",
-      "org": "Agência Senado",
-      "trib": "A identificar",
-      "category": "Atualização tributária",
-      "kind": "Notícia oficial (coleta automática)",
-      "impact": "A avaliar",
-      "status": "Efeitos jurídicos a verificar",
-      "stage": "Publicação identificada",
-      "summary": "A Comissão de Meio Ambiente (CMA) poderá fazer um debate antes de votar o projeto do senador Jader Barbalho (MDB-PA) que cria o Estatuto do Ribeirinho, com diretrizes para a proteção dos direitos dessas comunidades (PL 2.916/2021). O senador Jaime Bagattoli (PL-RO) é um dos que defende a realização do debate, que ainda precisa ser aprovado pelo colegiado (REQ 13/2026 - CMA). Segundo ele, é preciso definir quem são os ribeirinhos, preservando também os direitos de pessoas que já tenham documentação nas áreas que serão consideradas. O relator da proposta na CMA é o senador Beto Faro (PT-PA).",
-      "source": "https://www12.senado.leg.br/noticias/audios/2026/11/estatuto-do-ribeirinho-deve-ter-debate-na-comissao-de-meio-ambiente",
-      "sourceName": "Agência Senado · publicação oficial",
-      "topics": [
-        "Agência Senado"
-      ],
-      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
-      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
-      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
-      "now": "Publicação oficial identificada em 2026-11-05.",
-      "watch": "Conferir íntegra, vigência e próximos eventos.",
-      "sections": {
-        "aconteceu": "Agência Senado publicou: Áudio: Estatuto do Ribeirinho deve ter debate na Comissão de Meio Ambiente. A Comissão de Meio Ambiente (CMA) poderá fazer um debate antes de votar o projeto do senador Jader Barbalho (MDB-PA) que cria o Estatuto do Ribeirinho, com diretrizes para a proteção dos direitos dessas comunidades (PL 2.916/2021). O senador Jaime Bagattoli (PL-RO) é um dos que defende a realização do debate, que ainda precisa ser aprovado pelo colegiado (REQ 13/2026 - CMA). Segundo ele, é preciso definir quem são os ribeirinhos, preservando também os direitos de pessoas que já tenham documentação nas áreas que serão consideradas. O relator da proposta na CMA é o senador Beto Faro (PT-PA).",
-        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
-        "discussao": "A controvérsia precisa de conferência na fonte integral.",
-        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
-        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
-        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
-        "aberto": "Confirmar regulamentações, recursos e pendências.",
-        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
-      },
-      "timeline": [
-        [
-          "2026-11-05",
-          "Publicação detectada",
-          "Efeitos jurídicos a conferir"
-        ]
-      ]
-    },
-    {
-      "id": "auto-6dbe5e34e9a733e2",
-      "automated": true,
-      "title": "Áudio: CSP analisa confisco de bens usados em crimes sexuais e tráfico de crianças",
-      "date": "2026-11-05",
-      "published": "2026-11-05",
-      "checked": "2026-11-06",
-      "addedAt": "2026-11-05T18:57:51+00:00",
-      "org": "Agência Senado",
-      "trib": "A identificar",
-      "category": "Atualização tributária",
-      "kind": "Notícia oficial (coleta automática)",
-      "impact": "A avaliar",
-      "status": "Efeitos jurídicos a verificar",
-      "stage": "Publicação identificada",
-      "summary": "A Comissão de Segurança Pública (CSP) pode votar o projeto de lei que autoriza o confisco e a destinação de bens móveis e imóveis utilizados na prática de crimes de tráfico e contra a dignidade sexual de crianças e adolescentes. O PL 1.668/2023, de autoria do senador Magno Malta (PL-ES) também pune expressamente quem cede imóveis ou apoia esses abusos. O relator da proposta na CSP é o senador Jorge Seif (PL-SC).",
-      "source": "https://www12.senado.leg.br/noticias/audios/2026/11/csp-analisa-confisco-de-bens-usados-em-crimes-sexuais-e-trafico-de-criancas",
-      "sourceName": "Agência Senado · publicação oficial",
-      "topics": [
-        "Agência Senado"
-      ],
-      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
-      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
-      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
-      "now": "Publicação oficial identificada em 2026-11-05.",
-      "watch": "Conferir íntegra, vigência e próximos eventos.",
-      "sections": {
-        "aconteceu": "Agência Senado publicou: Áudio: CSP analisa confisco de bens usados em crimes sexuais e tráfico de crianças. A Comissão de Segurança Pública (CSP) pode votar o projeto de lei que autoriza o confisco e a destinação de bens móveis e imóveis utilizados na prática de crimes de tráfico e contra a dignidade sexual de crianças e adolescentes. O PL 1.668/2023, de autoria do senador Magno Malta (PL-ES) também pune expressamente quem cede imóveis ou apoia esses abusos. O relator da proposta na CSP é o senador Jorge Seif (PL-SC).",
-        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
-        "discussao": "A controvérsia precisa de conferência na fonte integral.",
-        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
-        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
-        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
-        "aberto": "Confirmar regulamentações, recursos e pendências.",
-        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
-      },
-      "timeline": [
-        [
-          "2026-11-05",
-          "Publicação detectada",
-          "Efeitos jurídicos a conferir"
-        ]
-      ]
-    },
-    {
-      "id": "auto-ed61b7ccf7a5f505",
-      "automated": true,
-      "title": "Comissão de Relações Exteriores segue 'com atenção' crise no Paraguai",
-      "date": "2026-11-05",
-      "published": "2026-11-05",
-      "checked": "2026-11-06",
-      "addedAt": "2026-11-05T18:17:46+00:00",
-      "org": "Agência Senado",
-      "trib": "A identificar",
-      "category": "Atualização tributária",
-      "kind": "Notícia oficial (coleta automática)",
-      "impact": "A avaliar",
-      "status": "Efeitos jurídicos a verificar",
-      "stage": "Publicação identificada",
-      "summary": "O presidente da Comissão de Relações Exteriores (CRE), senador Nelsinho Trad (PSD-MS), informou por meio de nota que está acompanhando com atenção a crise que envolve o Paraguai. Na manhã desta quinta-feira (5), o presidente do Paraguai, Santiago Peña, anunciou sua renúncia. A decisão ocorreu logo após a oposição abrir um processo de impeachment contra ele pelo colapso do Ueno Bank, um banco digital do país, que deixou milhões de correntistas sem acesso a suas economias. Nelsinho também informa na nota que vai buscar informações junto ao Itamaraty e à Embaixada do Paraguai no Brasil sobre a situação dos brasileiros que vivem naquele país e os possíveis impactos econômicos na região de fronteira. O senador ainda diz esperar que o Paraguai supere o momento de crise, “preservando a confiança, a segurança jurídica e a parceria histórica que c",
-      "source": "https://www12.senado.leg.br/noticias/materias/2026/11/05/comissao-de-relacoes-exteriores-segue-com-atencao-crise-no-paraguai",
-      "sourceName": "Agência Senado · publicação oficial",
-      "topics": [
-        "Agência Senado"
-      ],
-      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
-      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
-      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
-      "now": "Publicação oficial identificada em 2026-11-05.",
-      "watch": "Conferir íntegra, vigência e próximos eventos.",
-      "sections": {
-        "aconteceu": "Agência Senado publicou: Comissão de Relações Exteriores segue 'com atenção' crise no Paraguai. O presidente da Comissão de Relações Exteriores (CRE), senador Nelsinho Trad (PSD-MS), informou por meio de nota que está acompanhando com atenção a crise que envolve o Paraguai. Na manhã desta quinta-feira (5), o presidente do Paraguai, Santiago Peña, anunciou sua renúncia. A decisão ocorreu logo após a oposição abrir um processo de impeachment contra ele pelo colapso do Ueno Bank, um banco digital do país, que deixou milhões de correntistas sem acesso a suas economias. Nelsinho também informa na nota que vai buscar informações junto ao Itamaraty e à Embaixada do Paraguai no Brasil sobre a situação dos brasileiros que vivem naquele país e os possíveis impactos econômicos na região de fronteira. O senador ainda diz esperar que o Paraguai supere o momento de crise, “preservando a confiança, a segurança jurídica e a parceria histórica que c",
-        "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
-        "discussao": "A controvérsia precisa de conferência na fonte integral.",
-        "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
-        "mudanca": "É necessário comparar os documentos anteriores e atuais.",
-        "impactos": "Verifique sujeitos afetados, riscos, oportunidades e efeitos processuais.",
-        "aberto": "Confirmar regulamentações, recursos e pendências.",
-        "acompanhar": "Acesse o link oficial para acompanhar os próximos eventos."
-      },
-      "timeline": [
-        [
-          "2026-11-05",
-          "Publicação detectada",
-          "Efeitos jurídicos a conferir"
-        ]
-      ]
-    },
-    {
-      "id": "auto-ac56c76a8326a6a5",
-      "automated": true,
-      "title": "Áudio: Debate aponta precarização do emprego em contratos na saúde entre governo e organizações sociais",
-      "date": "2026-11-05",
-      "published": "2026-11-05",
-      "checked": "2026-11-05",
-      "addedAt": "2026-11-05T00:06:37+00:00",
-      "org": "Agência Senado",
-      "trib": "A identificar",
-      "category": "Atualização tributária",
-      "kind": "Notícia oficial (coleta automática)",
-      "impact": "A avaliar",
-      "status": "Efeitos jurídicos a verificar",
-      "stage": "Publicação identificada",
-      "summary": "A Comissão de Fiscalização e Controle do Senado (CTFC) promoveu nesta quarta-feira (4) uma audiência pública para discutir as denúncias de irregularidades em contratos administrativos celebrados na área da saúde entre o poder público e organizações sociais. Um dos problemas apontados pelos participantes é a \"precarização\" dos vínculos de emprego dos respectivos trabalhadores. Ouça o áudio.",
-      "source": "https://www12.senado.leg.br/noticias/audios/2026/11/debate-aponta-precarizacao-do-emprego-em-contratos-na-saude-entre-governo-e-organizacoes-sociais",
-      "sourceName": "Agência Senado · publicação oficial",
-      "topics": [
-        "Agência Senado"
-      ],
-      "question": "O que esta publicação informa e quais efeitos precisam de conferência?",
-      "why": "Consulte a fonte e os atos citados para verificar o alcance jurídico.",
-      "before": "Cenário anterior a verificar na legislação e jurisprudência.",
-      "now": "Publicação oficial identificada em 2026-11-05.",
-      "watch": "Conferir íntegra, vigência e próximos eventos.",
-      "sections": {
-        "aconteceu": "Agência Senado publicou: Áudio: Debate aponta precarização do emprego em contratos na saúde entre governo e organizações sociais. A Comissão de Fiscalização e Controle do Senado (CTFC) promoveu nesta quarta-feira (4) uma audiência pública para discutir as denúncias de irregularidades em contratos administrativos celebrados na área da saúde entre o poder público e organizações sociais. Um dos problemas apontados pelos participantes é a \"precarização\" dos vínculos de emprego dos respectivos trabalhadores. Ouça o áudio.",
         "contexto": "Os antecedentes exigem leitura dos atos relacionados.",
         "discussao": "A controvérsia precisa de conferência na fonte integral.",
         "decisao": "A identificação da notícia não confirma tese fixada nem julgamento concluído.",
